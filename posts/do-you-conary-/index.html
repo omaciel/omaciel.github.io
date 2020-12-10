@@ -279,9 +279,9 @@
         <article>
           <p>Hoje conversando com crimeboy no #ubuntu-br sobre Openbox, fiquei
 salivando para usa-lo no trabalho, em meu Foresight Linux. Apesar que o
-pacote do openbox ja&rsquo; existe para o Foresight, algumas ferramentas que
+pacote do openbox ja' existe para o Foresight, algumas ferramentas que
 eu gosto de usar ainda nao estavam empacotadas. Para quem nunca
-empacotou nada, isso deve gerar ate&rsquo; mesmo pesadelos&hellip; mas isso e&rsquo;
+empacotou nada, isso deve gerar ate' mesmo pesadelos&hellip; mas isso e'
 porque voces nao conhecem o sistema de gerenciamento de pacotes que
 usamos, chamado <strong>conary</strong>:</p>
 <p>O Conary Ã© um sistema distribuÃ­do de gerÃªncia de software, para
@@ -295,7 +295,7 @@ sistema Linux. Ao invÃ©s de usar uma distribuiÃ§Ã£o completa vinda de um
 criem versÃµes derivadas (branches) de uma dada distribuiÃ§Ã£o, mantendo
 as partes adequadas ao seu ambiente e ao mesmo tempo utilizando
 componentes de outros repositÃ³rios na Internet.</p>
-<p>Entao la&rsquo; fui eu empacotar o pypanel, que no Ubuntu infelizmente
+<p>Entao la' fui eu empacotar o pypanel, que no Ubuntu infelizmente
 continua quebrado. Tudo que foi necessario foi criar a minha &ldquo;receita&rdquo;:</p>
 <blockquote>
 <p>class PyPanel(PackageRecipe): name = &lsquo;pypanel&rsquo; version = &lsquo;2.4&rsquo;
@@ -303,16 +303,16 @@ buildRequires = [] def setup(r):
 r.addArchive(&lsquo;mirror://sourceforge/%(name)s/PyPanel-%(version)s.tar.gz&rsquo;)
 r.PythonSetup()</p>
 </blockquote>
-<p>Esta &ldquo;receita&rdquo; e&rsquo; bem simples e tem uma sintaxe bem &ldquo;pythonica&rdquo;.
-Basicamente voce cria uma classe com o nome do pacote que voce esta&rsquo;
+<p>Esta &ldquo;receita&rdquo; e' bem simples e tem uma sintaxe bem &ldquo;pythonica&rdquo;.
+Basicamente voce cria uma classe com o nome do pacote que voce esta'
 gerando, e adiciona, na linha r.addArchive, a informacao de onde
-encontrar a fonte do mesmo. Uma coisa bem legal e&rsquo; que, uma vez uma nova
+encontrar a fonte do mesmo. Uma coisa bem legal e' que, uma vez uma nova
 versao do pacote saia, voce pode atualizar a variavel &ldquo;version&rdquo; e o
-conary sabera&rsquo; onde pega-lo e atualizar tudo. Na verdade, a maioria das
+conary sabera' onde pega-lo e atualizar tudo. Na verdade, a maioria das
 &ldquo;receitas&rdquo; para programas que usam nomenclatura normal (pypanel usa
-camel case, o que nao e&rsquo; certo) nem precisa modificar nada, ja&rsquo; que o
-conary e&rsquo; esperto o suficiente para pegar a versao mais recente.</p>
-<p>Depois de &ldquo;cozinhar&rdquo; a receita, o conary me fala que e&rsquo; melhor (e
+camel case, o que nao e' certo) nem precisa modificar nada, ja' que o
+conary e' esperto o suficiente para pegar a versao mais recente.</p>
+<p>Depois de &ldquo;cozinhar&rdquo; a receita, o conary me fala que e' melhor (e
 recomendavel) adicionar as dependencias do pacote que ele sozinho
 encontrou!!! Eu modifico mais uma vez a receita, desta vez adicionando
 as dependencias:</p>
@@ -324,13 +324,13 @@ buildRequires = [&lsquo;python-setuptools:python&rsquo;, &lsquo;freetype:devel&r
 r.addArchive(&lsquo;mirror://sourceforge/%(name)s/PyPanel-%(version)s.tar.gz&rsquo;)
 r.PythonSetup()</p>
 </blockquote>
-<p>Agora e&rsquo; so&rsquo; fechar a tampa da panela e instalar o danado! Aproveitei e
+<p>Agora e' so' fechar a tampa da panela e instalar o danado! Aproveitei e
 empacotei mais outros pacotes que sao importantes para o pypanel
 (infelizmente, estas dependencias tambem continuam quebradas no Ubuntu),
 como o python-xlib e imlib2.</p>
 <p><a href="http://farm1.static.flickr.com/135/380964427_ece56744b7_b.jpg">|image0||Screenshot|</a>&quot;
 alt=&quot;openbox&quot; /&gt;</p>
-<p>Agora sim, isso e&rsquo; um sistema leve! :)</p>
+<p>Agora sim, isso e' um sistema leve! :)</p>
 
         </article>
 
@@ -379,11 +379,11 @@ alt=&quot;openbox&quot; /&gt;</p>
     <div class="container bg-transparent py-4">
         <div class="row row-eq-height align-items-center">
             <div class="col-md-4 nav-link text-center font-weight-bold">
-                <a class="text-uppercase" href="https://omaciel.github.io">Og Maciel</a>
+                <a class="text-uppercase" href="https://omaciel.github.io/">Og Maciel</a>
             </div>
             <div class="col-md-4 text-center order-2 order-lg-1 order-md-1">
                 <div class="d-none d-sm-none d-md-block">
-                    <a href="https://omaciel.github.io">
+                    <a href="https://omaciel.github.io/">
                         <img alt="Footer logo" src="/images/fav.png"
                             height="40px" width="40px">
                     </a>

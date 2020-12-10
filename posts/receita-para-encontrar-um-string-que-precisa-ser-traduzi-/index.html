@@ -281,20 +281,20 @@
 contem uma mensagem que precisa ser traduzida ou revisada. Crie um novo
 arquivo e cole o seguinte codigo:</p>
 <blockquote>
-<p>#!/bin/bash string=&rdquo;^_:&rdquo; if [ &ldquo;$1&rdquo; != &quot;&rdquo; ] ; then string=$1 fi
+<p>#!/bin/bash string=&quot;^_:&quot; if [ &ldquo;$1&rdquo; != &quot;&quot; ] ; then string=$1 fi
 for i in /usr/share/locale-langpack/pt_BR/LC_MESSAGES/*.mo do if
 msgunfmt $i 2&gt; /dev/null | msggrep -T -e &ldquo;$string&rdquo; 2&gt;/dev/null |
 grep &ldquo;.&rdquo; ; then echo $i echo fi done</p>
 </blockquote>
-<p>E&rsquo; importante checar se o caminho <strong>/usr/share/locale-langpack/</strong> existe
+<p>E' importante checar se o caminho <strong>/usr/share/locale-langpack/</strong> existe
 em sua distribuicao. Como no trabalho uso o <a href="http://www.foresightlinux.com/">Foresight
-Linux</a>, o caminho e&rsquo; na verdade
+Linux</a>, o caminho e' na verdade
 <strong>/usr/share/locale/</strong>. Depois voce pode executa-lo pelo console e,
 depois de descobrir o nome do pacote que contem a mensagem com
 problemas, procura-lo
-<a href="https://launchpad.net/distros/ubuntu/edgy/+lang/pt_BR">aqui</a>. Ai&rsquo; sim,
-voce podera&rsquo; adicionar uma sugestao para esta mensagem na propria pagina
-(assumindo que voce esta&rsquo; cadastrado(a) no
+<a href="https://launchpad.net/distros/ubuntu/edgy/+lang/pt_BR">aqui</a>. Ai' sim,
+voce podera' adicionar uma sugestao para esta mensagem na propria pagina
+(assumindo que voce esta' cadastrado(a) no
 <a href="https://launchpad.net/rosetta">Rosetta</a>) ou se preferir, enviar uma
 mensagem para os
 <a href="https://launchpad.net/people/ubuntu-l10n-pt-br">tradutores</a>, nos
@@ -356,11 +356,11 @@ results.txt</p>
     <div class="container bg-transparent py-4">
         <div class="row row-eq-height align-items-center">
             <div class="col-md-4 nav-link text-center font-weight-bold">
-                <a class="text-uppercase" href="https://omaciel.github.io">Og Maciel</a>
+                <a class="text-uppercase" href="https://omaciel.github.io/">Og Maciel</a>
             </div>
             <div class="col-md-4 text-center order-2 order-lg-1 order-md-1">
                 <div class="d-none d-sm-none d-md-block">
-                    <a href="https://omaciel.github.io">
+                    <a href="https://omaciel.github.io/">
                         <img alt="Footer logo" src="/images/fav.png"
                             height="40px" width="40px">
                     </a>

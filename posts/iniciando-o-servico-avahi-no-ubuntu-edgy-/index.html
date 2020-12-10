@@ -281,13 +281,13 @@
 conseguia compartilhar minhas musicas usando avahi no Banshee, dei uma
 vasculhada nos
 <a href="http://ubuntuforums.org/showthread.php?t=281002&amp;highlight=avahi+daemon">forums</a>
-e descobri que o servico avahi nao e&rsquo; habilitado por padrao no Ubuntu
-Edgy!!! E nao e&rsquo; uma questao de iniciar o servico, invocando sudo
+e descobri que o servico avahi nao e' habilitado por padrao no Ubuntu
+Edgy!!! E nao e' uma questao de iniciar o servico, invocando sudo
 /etc/init.d/avahi-daemon nao!!!</p>
 <p>O X da questao esta no arquivo /etc/default/avahi-daemon, onde a
 variavel <strong>AVAHI_DAEMON_START=0</strong> &ldquo;sabota&rdquo; o script de inicializacao do
 servico. Acontece que 0 (zero) nao deixa o servico iniciar, e 1 deixa!!!</p>
-<p>Entao, e&rsquo; so&rsquo; ajustar:</p>
+<p>Entao, e' so' ajustar:</p>
 <blockquote>
 <p>AVAHI_DAEMON_START=1</p>
 </blockquote>
@@ -343,11 +343,11 @@ servico. Acontece que 0 (zero) nao deixa o servico iniciar, e 1 deixa!!!</p>
     <div class="container bg-transparent py-4">
         <div class="row row-eq-height align-items-center">
             <div class="col-md-4 nav-link text-center font-weight-bold">
-                <a class="text-uppercase" href="https://omaciel.github.io">Og Maciel</a>
+                <a class="text-uppercase" href="https://omaciel.github.io/">Og Maciel</a>
             </div>
             <div class="col-md-4 text-center order-2 order-lg-1 order-md-1">
                 <div class="d-none d-sm-none d-md-block">
-                    <a href="https://omaciel.github.io">
+                    <a href="https://omaciel.github.io/">
                         <img alt="Footer logo" src="/images/fav.png"
                             height="40px" width="40px">
                     </a>

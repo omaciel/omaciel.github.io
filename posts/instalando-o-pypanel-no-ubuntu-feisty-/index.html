@@ -279,22 +279,22 @@
         <article>
           <p>Acabei de instalar o Ubuntu Feisty Herd 3 (versao ainda em
 desenvolvimento; apesar de estar rodando redondinho aqui, recomendo que
-nao atualizem ate&rsquo; a versao final ser lancada oficialmente) no meu
-computador, e ja&rsquo; de imediato instalei o
+nao atualizem ate' a versao final ser lancada oficialmente) no meu
+computador, e ja' de imediato instalei o
 <a href="http://icculus.org/openbox/">OpenBox</a>.Â  Para quem gosta de um
 gerenciador de janelas bem &ldquo;leve&rdquo; e sem frescuras, eu realmente
 recomendo.</p>
 <p>Mas como eu geralmente tenho 10 desktops virtuais, e uso programas que
 enviam notificacoes (por exemplo, quando alguem te manda uma mensagem de
-chat, mas voce esta&rsquo; em outro terminal checando emails), sinto a
+chat, mas voce esta' em outro terminal checando emails), sinto a
 necessidade de ter uma area de notificacao para estes programas.Â  De
 todos os paineis (leia barra) que eu conheco, o
-<a href="http://pypanel.sourceforge.net/">PyPanel</a> e&rsquo; o que mais me agrada.Â 
-Porem, faze-lo funcionar no Ubuntu nao e&rsquo; uma coisa muito direta, e
+<a href="http://pypanel.sourceforge.net/">PyPanel</a> e' o que mais me agrada.Â 
+Porem, faze-lo funcionar no Ubuntu nao e' uma coisa muito direta, e
 requere um pouco de &ldquo;hacking&rdquo;.Â  Existem varias fontes de informacao na
 net, algumas indicando que voce remova os programas instalados pelo
 gerenciador de pacotes (synaptic ou aptitude), e compile voce mesmo a
-fonte.Â  Mas desta vez decidi dar uma colher de cha&rsquo; para o aptitude, e
+fonte.Â  Mas desta vez decidi dar uma colher de cha' para o aptitude, e
 decidi averiguar mais a fundo.</p>
 <p>Logo depois de adicionar os repositorios universe e multiverse aos meus
 repositorios (<a href="http://wiki.ubuntu-br.org/GerenciamentoDePacotes">saiba
@@ -309,15 +309,15 @@ seguintes programas:</p>
 <li>openbox-themes</li>
 <li>pypanel</li>
 </ul>
-<p>O legal de instalar o openbox-themes e&rsquo; que &ldquo;ganhei&rdquo; o
+<p>O legal de instalar o openbox-themes e' que &ldquo;ganhei&rdquo; o
 <a href="http://tr.openmonkey.com/pages/obconf/">obconf</a> de bonus! ;)Â  O obconf
 te permite modificar temas, entre outras coisas, do OpenBox.</p>
 <p>Sai entao do Gnome e escolhi o OpenBox como minha sessao padrao.Â 
 Digitei minha senha na tela de log in e&hellip; pronto!Â  Na fracao de 1
-segundo (fracao <strong>MESMO</strong>!) eu ja&rsquo; estava rodando o OpenBox!</p>
+segundo (fracao <strong>MESMO</strong>!) eu ja' estava rodando o OpenBox!</p>
 <p>Depois vou adicionar mais detalhes sobre como modificar o OpenBox para
 obter um sistema mais personalizado, como adicionar um papel de fundo,
-atalhos de teclado, etc.Â  Mas o pypanel e&rsquo; a bola da vez.</p>
+atalhos de teclado, etc.Â  Mas o pypanel e' a bola da vez.</p>
 <p>Executando pelo console o pypanel me mostrou o seguinte erro:</p>
 <blockquote>
 <p><a href="mailto:omaciel@gorgonzola">omaciel@gorgonzola</a>:~$ pypanel Traceback (most recent call last):
@@ -338,7 +338,7 @@ linha 750 me mostrou o seguinte:</p>
 <blockquote>
 <p># Bug reported by Ilpo NyyssÃ¶nen</p>
 </blockquote>
-<p>O problema esta&rsquo; na letra <strong>Ã¶</strong>.Â  Como eu estava com pressa,
+<p>O problema esta' na letra <strong>Ã¶</strong>.Â  Como eu estava com pressa,
 simplesmente mudei a letra para um o &ldquo;normal&rdquo;, salvei o arquivo, e
 executei novamente o pypanel:</p>
 <blockquote>
@@ -355,7 +355,7 @@ len(self.info.roots) - 1) File
 &ldquo;/var/lib/python-support/python2.5/Xlib/protocol/rq.py&rdquo;, line 1371, in
 __getattr__ raise AttributeError(attr) AttributeError: roots</p>
 </blockquote>
-<p>Caramba!!!Â  Foi ai&rsquo; que me lembrei de ter visto ha&rsquo; algum tempo uma
+<p>Caramba!!!Â  Foi ai' que me lembrei de ter visto ha' algum tempo uma
 mensagem na net falando de um problema de tamanho de buffer neste mesmo
 arquivo, mas do python2.5.Â  Me lembrei que o tamanho reservado estava
 como 2048, mas precisava ser o dobro, 4096.Â  Mais uma vez abri o mesmo
@@ -416,11 +416,11 @@ Ubuntu Feisty + Openbox + Pypanel.Â  Logo, logo sai mais noticias&hellip; ;)</
     <div class="container bg-transparent py-4">
         <div class="row row-eq-height align-items-center">
             <div class="col-md-4 nav-link text-center font-weight-bold">
-                <a class="text-uppercase" href="https://omaciel.github.io">Og Maciel</a>
+                <a class="text-uppercase" href="https://omaciel.github.io/">Og Maciel</a>
             </div>
             <div class="col-md-4 text-center order-2 order-lg-1 order-md-1">
                 <div class="d-none d-sm-none d-md-block">
-                    <a href="https://omaciel.github.io">
+                    <a href="https://omaciel.github.io/">
                         <img alt="Footer logo" src="/images/fav.png"
                             height="40px" width="40px">
                     </a>

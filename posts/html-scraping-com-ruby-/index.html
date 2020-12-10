@@ -289,14 +289,14 @@ h.use_ssl = true response, data = h.get(&quot;/&quot;, nill)</p>
 <p>Quando executo este pequeno script (aqui usando o irb), recebo a
 seguinte mensagem de erro:</p>
 <blockquote>
-<p>Net::HTTPBadResponse: wrong status line: &quot;&rdquo; from
-d:/ruby/lib/ruby/1.8/net/http.rb:1990:in `read_status_line&rsquo; from
-d:/ruby/lib/ruby/1.8/net/http.rb:1977:in `read_new&rsquo; from
-d:/ruby/lib/ruby/1.8/net/http.rb:1046:in `request&rsquo; from
-d:/ruby/lib/ruby/1.8/net/http.rb:1033:in `request&rsquo; from
-d:/ruby/lib/ruby/1.8/net/http.rb:545:in `start&rsquo; from
-d:/ruby/lib/ruby/1.8/net/http.rb:1031:in `request&rsquo; from
-d:/ruby/lib/ruby/1.8/net/http.rb:771:in `get&rsquo; from (irb):7</p>
+<p>Net::HTTPBadResponse: wrong status line: &quot;&quot; from
+d:/ruby/lib/ruby/1.8/net/http.rb:1990:in `read_status_line' from
+d:/ruby/lib/ruby/1.8/net/http.rb:1977:in `read_new' from
+d:/ruby/lib/ruby/1.8/net/http.rb:1046:in `request' from
+d:/ruby/lib/ruby/1.8/net/http.rb:1033:in `request' from
+d:/ruby/lib/ruby/1.8/net/http.rb:545:in `start' from
+d:/ruby/lib/ruby/1.8/net/http.rb:1031:in `request' from
+d:/ruby/lib/ruby/1.8/net/http.rb:771:in `get' from (irb):7</p>
 </blockquote>
 <p>AlguÃƒÂ©m sabe como posso fazer isso?</p>
 <p><strong>AtualizaÃƒÂ§ÃƒÂ£o:</strong> Aparentemente eu tinha usado <strong>net/http</strong>
@@ -349,11 +349,11 @@ invÃƒÂ©s de <strong>net/https</strong>&hellip; Como diz Homer Simpson: &ldqu
     <div class="container bg-transparent py-4">
         <div class="row row-eq-height align-items-center">
             <div class="col-md-4 nav-link text-center font-weight-bold">
-                <a class="text-uppercase" href="https://omaciel.github.io">Og Maciel</a>
+                <a class="text-uppercase" href="https://omaciel.github.io/">Og Maciel</a>
             </div>
             <div class="col-md-4 text-center order-2 order-lg-1 order-md-1">
                 <div class="d-none d-sm-none d-md-block">
-                    <a href="https://omaciel.github.io">
+                    <a href="https://omaciel.github.io/">
                         <img alt="Footer logo" src="/images/fav.png"
                             height="40px" width="40px">
                     </a>
