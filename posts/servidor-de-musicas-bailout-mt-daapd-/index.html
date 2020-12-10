@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="icon" href="/images/fav.png" type="image/gif">
+
+<style>
+     
+    footer {
+        background-color: #1c2d41;
+        color: #8392a5;
+        border-top-width: 1px !important;
+        border-color: #8392a5;
+    }
+
+    footer a {
+        color: #8392a5;
+    }
+
+     
+    .navbar-color {
+        color: #101820ff;
+    }
+
+    .navbar-text {
+        font-size: 17px;
+    }
+
+    .navbar-brand {
+        font-size: 22px;
+    }
+
+    .nav-link {
+        color: #101820ff !important;
+        font-size: 18px;
+    }
+</style>
+<meta name="description" content="" />
+<title>Servidor de músicas Bailout MT-Daapd</title>
+<style>
+  article {
+    font-family: 'Peddana', serif;
+    line-height: 1.3;
+    font-size: 30px;
+  }
+
+  article blockquote {
+    margin: 0 !;
+    border-left: 4px solid #248aaa !important;
+    background-color: #248baa15 !important;
+    padding: 0.3rem !important;
+    padding-left: 1rem !important;
+  }
+
+  article blockquote>p {
+    color: #3c4858 !important;
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  article h1 {
+    font-size: 55px !important;
+  }
+
+  article h2 {
+    font-size: 42px !important;
+  }
+
+  article h3 {
+    font-size: 35px !important;
+  }
+
+  article h4,
+  h5,
+  h6 {
+    font-size: 30px !important;
+  }
+
+  article table {
+    border-radius: 0.1rem;
+    background: #e5e9f2;
+    border: 1px solid #c0ccda;
+    padding: 0.1rem;
+  }
+
+  article table tr {
+    height: 40px !important;
+  }
+
+  article table th,
+  td {
+    padding: 0.5rem;
+    border-left: 1px solid #8392a5;
+    border-bottom: 1px solid #8392a5;
+  }
+
+  article table thead tr {
+    background: #248aaa;
+    color: #e5e9f2;
+  }
+
+  article tbody tr:nth-child(odd) {
+    background-color: #e5e9f2;
+  }
+
+  article tbody tr:hover {
+    background: #c0ccda;
+  }
+
+  article img {
+    width: 100%;
+  }
+
+  article caption,
+  figcaption {
+    caption-side: bottom;
+    text-align: center;
+    color: #8392a5;
+  }
+
+  article pre {
+    margin: 5px;
+    padding: 5%;
+    font-size: 18px;
+    max-height: 400px;
+    border-radius: 2%;
+    background-color: #1f618d !important;
+    color: white;
+  }
+
+  article pre>code {
+    padding: 10px !important;
+  }
+
+  article a.header-anchor {
+    text-decoration: none;
+    color: #1c2d41;
+  }
+
+  article a.header-anchor i {
+    font-size: 10pt;
+    color: #3c4858;
+    display: none;
+    margin-left: 0.5rem;
+  }
+
+  article a.header-anchor:hover i {
+    display: inline-block;
+  }
+
+  article a.header-anchor code {
+    color: #e83e8c;
+  }
+
+  article kbd {
+    background-color: #248aaa !important;
+    color: #f9fafc;
+  }
+
+  article mark {
+    background-color: #ffc21280;
+  }
+</style>
+
+
+
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css" media="all">
+
+    
+    <link href="https://fonts.googleapis.com/css2?family=Peddana&display=swap" rel="stylesheet" media="all">
+    <style>
+        footer {
+            background-color: #1c2d41;
+            color: #8392a5;
+            border-top-width: 1px !important;
+            border-color: #8392a5;
+        }
+    </style>
+</head>
+
+<body><nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
+	<div class="container">
+		<a class="navbar-brand font-weight-bold" href="/">
+			
+			<img src="/images/fav.png" width="30" height="30" class="d-inline-block align-top"
+				alt="Og Maciel">
+			Og Maciel
+			
+		</a>
+		<button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+			aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarNavDropdown">
+			<ul class="navbar-nav ml-auto text-center">
+				<li class="nav-item navbar-text">
+					<a class="nav-link" href="/#" aria-label="about">About</a>
+				</li>
+
+				
+				<li class="nav-item  navbar-text">
+					<a class="nav-link" href="/posts" aria-label="Posts">Posts</a>
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<section class="bg-white">
+  <div class="container">
+    <div class="row justify-content-md-center">
+      <div class="col-md-8">
+        
+        <div class="p-2">
+          <h1>Servidor de músicas Bailout MT-Daapd</h1>
+          <div class="text-muted">
+            
+            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar" fill="currentColor"
+              xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd"
+                d="M1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1zm1-3a2 2 0 0 0-2 2v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2z" />
+              <path fill-rule="evenodd"
+                d="M3.5 0a.5.5 0 0 1 .5.5V1a.5.5 0 0 1-1 0V.5a.5.5 0 0 1 .5-.5zm9 0a.5.5 0 0 1 .5.5V1a.5.5 0 0 1-1 0V.5a.5.5 0 0 1 .5-.5z" />
+            </svg>
+            Jan 1, 0001
+
+            
+            
+
+            
+            
+          </div>
+
+          
+        </div>
+
+        <div>
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+              
+              
+              <li><a href="/">Home</a></li>
+              
+              
+              
+              
+              
+              
+              
+              
+              <span class="text-muted px-2">/</span>
+              <li><a href="/posts">Posts</a></li>
+              
+              
+              
+              
+              
+              
+              <span class="text-muted px-2">/</span>
+              <li><a href="/posts/servidor-de-musicas-bailout-mt-daapd-">Servidor de musicas bailout mt daapd </a></li>
+              
+              
+              
+              
+            </ol>
+          </nav>
+        </div>
+        
+        <div class="py-2">
+          
+        </div>
+
+        
+        <article>
+          <p>No finalzinho do ano passado eu passei alguns dias trabalhando para
+configurar um servidor de músicas bem simples para usar em casa. Como eu
+estou sempre fazendo algo maluco no meu desktop/laptop que eventualmente
+sempre me leva a re-instalar o meu sistema operacional, eu estou
+constantemente movendo meus arquivos de música entre computadores e
+discos externos. Quando você tem uma coleção de tamanho considerado,
+este exercício se torna um pé no saco. Foi por isso que tive a idéia de
+criar um servidor de músicas usando o  mt-daapd como minha ferramente
+principal. O mt-daapd é tão fácil de usar que eu imediatamente comecei o
+meu projeto.</p>
+<p>O primeiro passo foi criar um novo produto (leia projeto) no site
+<a href="http://www.rpath.org">rBuilder Online</a>. Depois de pensar por uns 2
+minutos decidi chamá-lo <a href="http://bailout.rpath.org">Bailout</a>, algo como
+que a fiança que se paga para sair da prisão, já que eu precisava de
+algo para me liberar dos meus problemas de armazenamento e
+compartilhamento de músicas.</p>
+<p>O próximo passo foi então escolher quais componentes adicionar ao meu
+produto. Como o rBuilder me permite começar com Just Enough Operating
+System (ou JEOS, o que quer dizer que somente os componentes essenciais
+para um sistema operacional serão usados), eu continuei configurando meu
+produto, escolhendo o sistema operacional <strong>rPath Linux 2</strong> (minhas
+outras opções eram <strong>Ubuntu Hardy</strong> e <strong>CentOS</strong>) e escolhendo a dedo
+outros componentes que eu gostaria de disponibilizar em uma instalação
+padrão. Acabei escolhendo os serviços smb, nfs e openssh para
+conectividade, assim como o vim (caramba, se vou conectar por ssh neste
+sistema para fazer qualquer configuração manual, então preciso do meu
+editor de texto preferido). Tudo isso foi feito usando uma interface web
+do rBuilder e até então tudo foi feito usando apenas o mouse e clicando
+nas opções.</p>
+<p>Agora sim chegou a hora da atração principal: o mt-daapd. Como este
+componente não estava disponível no repositório padrão onde escolhi
+todos os outros componentes, chegou a hora de tomar algumas decisões
+importantes. O rBuilder permite o empacotamento de software pela
+interface gráfica usando pacotes <strong>RPM</strong>, <strong>DEB</strong> ou tarballs binários,
+mas optei por experimentar uma nova ferramente de empacotamento chamada
+<strong>rbuild</strong> (não confundir com o rBuilder Online) para aqueles que como
+eu, curtem usar a linha de comando e já conhecem um pouco mais sobre o
+sistema de gerenciamento de pacotes <strong>conary</strong>, tecnologia desenvolvida
+aqui onde trabalho e coração do rBuilder. Não vou entrar em detalhes
+sobre como empacotei o mt-daapd usando o rbuild mas eu recomendo a
+leitura dos
+<a href="http://blogs.conary.com/index.php/mkj/2008/08/29/simplifying_assumptions">posts</a>
+(todos em inglês) escritos pelo Michael Johnson para aprender mais sobre
+esta ferramenta.</p>
+<p>Passados mais alguns minutos e o meu produto estava com todos os
+componentes prontos. Com mais alguns cliques na interface iniciei o
+processo de criação de uma imagen de instalação no formato ISO e VMWare,
+permitindo que qualquer pessoa possa experimentar o Bailout em um
+sistema virtual ou instalá-lo de verdade. Eu poderia ter escolhido
+outros formatos para distribuir o meu produto como imagens para o
+<strong>Amazon EC2</strong>, <strong>Citrix</strong>, ou <strong>Xen</strong> mas eu ainda posso editar minhas
+preferências e adicionar estas opções mais tarde.</p>
+<p>Uma vez minhas 2 imagens estavam finalizadas, chegou a hora de
+testá-las. Escolhi gravar um CD com a imagem ISO e instalei o Bailout em
+um computador que estava coletando poeira no closet do meu quarto. O
+instalador é baseado no anaconda, usado pela Red Hat e Fedora entre
+outras distribuições, e super fácil de usar. Depois que o processo
+(super rápido) de instalação acabou e de um rápido reboot, me deparei
+com um terminal todo preto e com instruções para me conectar ao sistema
+de gerenciamento do produto, apontando meu navegador de web para um
+endereço local IP. E lá fui eu.</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/3087612648/"><img src="http://farm4.static.flickr.com/3227/3087612648_23a5164936.jpg" alt="ApplianceManagement"></a></p>
+<p>Caso você decida brincar com o Bailout você verá na seção de downloads
+algumas instruções sobre qual o nome de usuário e senha padrão do
+sistema de gerenciamento, mas para aqueles que se esqueceram de ler
+isso, use <strong>admin</strong> e <strong>password</strong> para conectar. Não se preoculpe com a
+senha super fácil de quebrar&hellip; você vai mudá-la no próximo passo.</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/3086775491/"><img src="http://farm4.static.flickr.com/3218/3086775491_bb6ee9acd6.jpg" alt="Wizard: Setup apassword"></a></p>
+<p>A primeira vez que você conecta no Bailout, você será requisitado a
+mudar sua senha. Certifique-se que a nova senha é algo seguro já que com
+ela você será capaz de administrar seu servidor de músicas.</p>
+<p>O próximo (opcional) passo é configurar como você gostaria de ser
+notificado sobre as atividades do seu servidor como também sobre
+atualizações disponíveis para o seu sistema. Como eu gosto de receber
+estes tipos de notificações, adicionei a informação necessária e
+continuei com o wizard (dica: Caso você não queira completar este passo,
+clique no botão <strong>save</strong>).</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/3087612788/"><img src="http://farm4.static.flickr.com/3228/3087612788_1e44136a71.jpg" alt="Wizard: Setup a password forroot"></a></p>
+<p>Finalmente, escolha uma senha segura para o usuário root do sistema.</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/3086776079/"><img src="http://farm4.static.flickr.com/3050/3086776079_e03069c47b.jpg" alt="Landingpage"></a></p>
+<p>E pronto! Seja bem-vindo ao seu servidor de músicas! O sistema de
+administração web possui várias outras funções que te permite efetuar
+tarefas como atualizar, fazer backups&hellip;</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/3086776183/"><img src="http://farm4.static.flickr.com/3198/3086776183_1b03d6363d.jpg" alt="Managing runningservices"></a></p>
+<p>&hellip; gerenciar serviços, configurar a rede&hellip;</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/3086776791/"><img src="http://farm4.static.flickr.com/3033/3086776791_7100cd5479.jpg" alt="SystemInformation"></a></p>
+<p>&hellip; checar o status do sistema e até mesmo restaurar o sistema de volta
+a um estado anterior.</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/3087613296/"><img src="http://farm4.static.flickr.com/3077/3087613296_2f78daff21.jpg" alt="MT-Daapd service webpage"></a></p>
+<p>Agora podemos apontar o nosso navegador web para o mesmo endereço do
+sistema de administração web, mudando a porta para 3689 e usando
+<strong>admin</strong>/<strong>mt-daapd</strong> como credenciais para conectar no sistema de
+gerenciamento web do mt-daapd. Você deve também ver um novo
+compartilhamento de músicas aparecer no seu reprodutor de mídia favorito
+(assumindo que o servidor Bailout e o sistema onde o reprodutor de
+músicas estão na mesma rede).</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/3086941341/"><img src="http://farm4.static.flickr.com/3038/3086941341_6586e3754d.jpg" alt="Banshee using a mt-daapd musicshare"></a></p>
+<p>Por enquanto o servidor é configurado para usar o diretório /mnt/mp3
+como armazenamento de mídia e não está configurado para varrer seu
+conteúdo automaticamente, mas isso e outras opções podem ser modificadas
+conectando por ssh no servidor e editando manualmente o arquivo
+/etc/mt-daapd.conf. Uma versão mais recente (mas ainda em
+desenvolvimento) do mt-daapd, batizado de FireFly, permite que todas
+estas configurações sejam feitas pela interface web. Com certeza terei
+este versão atualizado em breve para que fique ainda mais fácil
+configurar o servidor de músicas. Obviamente, se você quer me dar uma
+mão, é só entrar em contato comigo.</p>
+<p>Então aproveite o começo de um novo ano e faça o download do servidor de
+músicas <a href="http://bailout.rpath.org">Bailout</a> hoje!</p>
+
+        </article>
+
+        
+        <div class="mb-4 p-5">
+          <div class="card">
+            <h5 class="card-header m-0">Tags</h5>
+            <div class=" card-body">
+              
+              
+              <a href="/tags/rpath" class="btn btn-info btn-rounded mb-2">rpath</a>
+              
+              
+            </div>
+            </a>
+          </div>
+        </div>
+
+
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "journalofanopensourcee" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+      </div>
+    </div>
+  </div>
+</section>
+<footer>
+    <div class="container bg-transparent py-4">
+        <div class="row row-eq-height align-items-center">
+            <div class="col-md-4 nav-link text-center font-weight-bold">
+                <a class="text-uppercase" href="https://omaciel.github.io">Og Maciel</a>
+            </div>
+            <div class="col-md-4 text-center order-2 order-lg-1 order-md-1">
+                <div class="d-none d-sm-none d-md-block">
+                    <a href="https://omaciel.github.io">
+                        <img alt="Footer logo" src="/images/fav.png"
+                            height="40px" width="40px">
+                    </a>
+                </div>
+                &copy; 2020 All Rights Reserved
+                <div class="text-secondary">
+                    Powered by
+                    <a class="text-secondary" href="https://themes.gohugo.io/hugo-profile">Hugo-profile</a>
+                </div>
+            </div>
+            <div class="col-md-4 font-weight-bold order-1">
+                <ul class="nav justify-content-center">
+                    
+                    <li class="nav-link">
+                        <a href="/posts" aria-label="Posts">Posts</a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="/js/jquery.slim.min.js"></script>
+<script src="/js/bootstrap.min.js"></script></body>
+
+</html>

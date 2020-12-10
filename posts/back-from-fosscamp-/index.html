@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="icon" href="/images/fav.png" type="image/gif">
+
+<style>
+     
+    footer {
+        background-color: #1c2d41;
+        color: #8392a5;
+        border-top-width: 1px !important;
+        border-color: #8392a5;
+    }
+
+    footer a {
+        color: #8392a5;
+    }
+
+     
+    .navbar-color {
+        color: #101820ff;
+    }
+
+    .navbar-text {
+        font-size: 17px;
+    }
+
+    .navbar-brand {
+        font-size: 22px;
+    }
+
+    .nav-link {
+        color: #101820ff !important;
+        font-size: 18px;
+    }
+</style>
+<meta name="description" content="" />
+<title>Back from FossCamp</title>
+<style>
+  article {
+    font-family: 'Peddana', serif;
+    line-height: 1.3;
+    font-size: 30px;
+  }
+
+  article blockquote {
+    margin: 0 !;
+    border-left: 4px solid #248aaa !important;
+    background-color: #248baa15 !important;
+    padding: 0.3rem !important;
+    padding-left: 1rem !important;
+  }
+
+  article blockquote>p {
+    color: #3c4858 !important;
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  article h1 {
+    font-size: 55px !important;
+  }
+
+  article h2 {
+    font-size: 42px !important;
+  }
+
+  article h3 {
+    font-size: 35px !important;
+  }
+
+  article h4,
+  h5,
+  h6 {
+    font-size: 30px !important;
+  }
+
+  article table {
+    border-radius: 0.1rem;
+    background: #e5e9f2;
+    border: 1px solid #c0ccda;
+    padding: 0.1rem;
+  }
+
+  article table tr {
+    height: 40px !important;
+  }
+
+  article table th,
+  td {
+    padding: 0.5rem;
+    border-left: 1px solid #8392a5;
+    border-bottom: 1px solid #8392a5;
+  }
+
+  article table thead tr {
+    background: #248aaa;
+    color: #e5e9f2;
+  }
+
+  article tbody tr:nth-child(odd) {
+    background-color: #e5e9f2;
+  }
+
+  article tbody tr:hover {
+    background: #c0ccda;
+  }
+
+  article img {
+    width: 100%;
+  }
+
+  article caption,
+  figcaption {
+    caption-side: bottom;
+    text-align: center;
+    color: #8392a5;
+  }
+
+  article pre {
+    margin: 5px;
+    padding: 5%;
+    font-size: 18px;
+    max-height: 400px;
+    border-radius: 2%;
+    background-color: #1f618d !important;
+    color: white;
+  }
+
+  article pre>code {
+    padding: 10px !important;
+  }
+
+  article a.header-anchor {
+    text-decoration: none;
+    color: #1c2d41;
+  }
+
+  article a.header-anchor i {
+    font-size: 10pt;
+    color: #3c4858;
+    display: none;
+    margin-left: 0.5rem;
+  }
+
+  article a.header-anchor:hover i {
+    display: inline-block;
+  }
+
+  article a.header-anchor code {
+    color: #e83e8c;
+  }
+
+  article kbd {
+    background-color: #248aaa !important;
+    color: #f9fafc;
+  }
+
+  article mark {
+    background-color: #ffc21280;
+  }
+</style>
+
+
+
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css" media="all">
+
+    
+    <link href="https://fonts.googleapis.com/css2?family=Peddana&display=swap" rel="stylesheet" media="all">
+    <style>
+        footer {
+            background-color: #1c2d41;
+            color: #8392a5;
+            border-top-width: 1px !important;
+            border-color: #8392a5;
+        }
+    </style>
+</head>
+
+<body><nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
+	<div class="container">
+		<a class="navbar-brand font-weight-bold" href="/">
+			
+			<img src="/images/fav.png" width="30" height="30" class="d-inline-block align-top"
+				alt="Og Maciel">
+			Og Maciel
+			
+		</a>
+		<button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+			aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarNavDropdown">
+			<ul class="navbar-nav ml-auto text-center">
+				<li class="nav-item navbar-text">
+					<a class="nav-link" href="/#" aria-label="about">About</a>
+				</li>
+
+				
+				<li class="nav-item  navbar-text">
+					<a class="nav-link" href="/posts" aria-label="Posts">Posts</a>
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<section class="bg-white">
+  <div class="container">
+    <div class="row justify-content-md-center">
+      <div class="col-md-8">
+        
+        <div class="p-2">
+          <h1>Back from FossCamp</h1>
+          <div class="text-muted">
+            
+            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar" fill="currentColor"
+              xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd"
+                d="M1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1zm1-3a2 2 0 0 0-2 2v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2z" />
+              <path fill-rule="evenodd"
+                d="M3.5 0a.5.5 0 0 1 .5.5V1a.5.5 0 0 1-1 0V.5a.5.5 0 0 1 .5-.5zm9 0a.5.5 0 0 1 .5.5V1a.5.5 0 0 1-1 0V.5a.5.5 0 0 1 .5-.5z" />
+            </svg>
+            Jan 1, 0001
+
+            
+            
+
+            
+            
+          </div>
+
+          
+        </div>
+
+        <div>
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+              
+              
+              <li><a href="/">Home</a></li>
+              
+              
+              
+              
+              
+              
+              
+              
+              <span class="text-muted px-2">/</span>
+              <li><a href="/posts">Posts</a></li>
+              
+              
+              
+              
+              
+              
+              <span class="text-muted px-2">/</span>
+              <li><a href="/posts/back-from-fosscamp-">Back from fosscamp </a></li>
+              
+              
+              
+              
+            </ol>
+          </nav>
+        </div>
+        
+        <div class="py-2">
+          
+        </div>
+
+        
+        <article>
+          <p>For those who noticed my sudden disappearance from the web late last
+week, I was attending <a href="http://www.fosscamp.org/HowToAttend">FossCamp</a> in
+Boston as a <a href="http://www.foresightlinux.org/">Foresight Linux</a>
+representative as well as representing my own interests in the
+localization arena. Unfortunately <a href="http://ken.vandine.org/">Ken</a> could
+not make it and I was left with the daunting task of talking to people
+about
+<a href="http://en.wikipedia.org/wiki/Conary_%28package_manager%29">conary</a>.</p>
+<p>My flight was pretty peaceful with a quick stop in NYC where I met up
+with my older sister. After grabbing a bite to eat and a couple of cold
+ones, we boarded the plane to Boston where we arrived shortly after
+17:00. The weather was pretty nasty with the temperature dropping to the
+low 40s as we checked in the hotel.</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/1806893718/"><img src="http://farm3.static.flickr.com/2211/1806893718_55d3b741fd_o.jpg" alt="My sister and I enjoying some coldones"></a></p>
+<p>My plan was to grab dinner and then lock myself in the hotel room so I
+could work on my presentations (I also wanted to talk about localization
+work besides conary). To much of my surprise, the entire area of Revere
+lost power for approximately 2 hours and we had no means to stay in the
+room or eat at the local restaurant. The solution was order for a pizza
+which arrived around 21:00 just as we gained power back at the hotel.
+Needless to say, after all the traveling and boredom without power, I
+completely collapsed in my bed and woke up the next morning.</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/1806043089/"><img src="http://farm3.static.flickr.com/2180/1806043089_4f479ddae1_o.jpg" alt="Session at FossCamp: Vinny, Jono andI"></a></p>
+<p>The trip to the Hilton @ MIT where FossCamp was being held took longer
+than we expected, as our cab driver got lost for a good 20 minutos. We
+would probably have spent more time driving aimlessly around Cambridge
+if it wasn&rsquo;t for my quick phone call to my friend Vinny who bailed us
+out by giving is directions to the hotel where he awaited for me. A few
+minutes later I was upstairs in the third floor staring at an already
+booked grid of events. With no presentation ready and a single empty
+slot at 14:30, I quickly signed myself up for a presentation on how to
+better integrate upstream translations with Rosetta. At the lobby I also
+met up with a bunch of guys I had met before like
+<a href="http://stompbox.typepad.com/blog/">Jorge</a> and
+<a href="http://macslow.thepimp.net/">Mirco</a> among others.</p>
+<p>I attended a very interesting session about community building led by
+<a href="http://www.jonobacon.org/">Jono</a> where I brought up a few of my ideas
+on how to better integrate translations teams and avoid the duplication
+of efforts. Something the also came up quite often was the potential
+that <a href="http://www.packagekit.org/">PackageKit</a> has to integrate the look
+and feel of package management across distributions. As a matter of
+fact, I pretty much heard PackageKit being tossed around in almost every
+session I attended. :)</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/1806043403/"><img src="http://farm3.static.flickr.com/2302/1806043403_29acf063fc_o.jpg" alt="My presentation atFossCamp"></a></p>
+<p>Between sessions I managed to get 9 slides together just in time for my
+session. Initially I only had 4 people sitting in the room but that
+quickly changed and more people joined in. I was really glad to see
+<a href="http://troy-at-kde.livejournal.com/10417.html">Troy</a> Unrau (from the
+KDE team) and <a href="http://www.markshuttleworth.com/">Mark Shuttleworth</a> (do
+you know this guy? hehehe) among the attendees, for Troy was very
+receptive about my ideas on how to bring upstream translation teams
+together and Mark was fairly interested in my ideas on how to improve
+Rosetta (and the relationship with upstream). There is an initial thread
+<a href="https://lists.ubuntu.com/archives/launchpad-users/2007-October/002601.html">here</a>
+and I&rsquo;ll be talking more about this once Halloween is over. I also
+managed to talk to Jorge about the creation of a Localization team to
+help orient and organize the many translation teams currently working on
+Ubuntu translations. My idea is for the creation of a series of
+documents and road maps for anyone doing translations and how to make
+sure there is an open channel of communication with upstream groups.</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/1806894028/"><img src="http://farm3.static.flickr.com/2030/1806894028_91b7e519a6_o.jpg" alt="Jorge Castro and OgMaciel"></a></p>
+<p>The rest of the day was spent between attending sessions and meeting new
+and interesting people, like <a href="http://amarok.kde.org/blog/">Leo Franchi, Jeff
+Mitchell</a>, and <a href="http://kdemonkey.blogspot.com/">Robert
+Knight</a> from the KDE gang. We talked for
+a while and I was very pleased when they invited me to attend the <strong>KDE
+4.0 Release Event</strong> to be held at Google&rsquo;s head quarter in Mountain
+View, CA next January. I want to take the opportunity to thank you guys
+for your attention and invitation, and I am looking forward to working
+together with you! It was also a pleasure to finally meet <strong>Adilson
+Oliveira</strong> in person (since we had only known each other via irc)!</p>
+<p><a href="http://www.flickr.com/photos/ogmaciel/1806044877/"><img src="http://farm3.static.flickr.com/2189/1806044877_0746ea7eaa_o.jpg" alt="My sister and I enjoying a well deservedlunch"></a></p>
+<p>The second day was much quieter and I spent most of my time talking to
+people and trying to decide whether to give a session about conary or
+not. But shortly after the PackageKit session led by Jorge and Troy, I
+came to the conclusion that I still needed a bit more preparation to
+properly present the material on this great technology. Since I had my
+flight back to NC scheduled for 18:35, I took a cab to the airport
+around 15:30 and grabbed one last meal before getting on the plane.
+Another quick stop at NYC and a 1 hour delay brought me back home around
+midnight. Another hour was spent trying to figure out where my luggage
+was but by then I was too tired and sleepy to care. I got on my car and
+drove home finally falling asleep at around 2:00.</p>
+<p>The trip was definitely worth every minute and it was nice to represent
+Foresight in the middle of the big heavy weights. If anything, a lot of
+people heard of Foresight for the first time over this weekend and some
+of them were curious about this &lsquo;conary thing&rsquo;. I very much look forward
+to doing this kind of event again in the near future&hellip; and next time I
+will be ready for the conary talk! :)</p>
+
+        </article>
+
+        
+        <div class="mb-4 p-5">
+          <div class="card">
+            <h5 class="card-header m-0">Tags</h5>
+            <div class=" card-body">
+              
+              
+              <a href="/tags/english" class="btn btn-info btn-rounded mb-2">english</a>
+              
+              
+            </div>
+            </a>
+          </div>
+        </div>
+
+
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "journalofanopensourcee" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+      </div>
+    </div>
+  </div>
+</section>
+<footer>
+    <div class="container bg-transparent py-4">
+        <div class="row row-eq-height align-items-center">
+            <div class="col-md-4 nav-link text-center font-weight-bold">
+                <a class="text-uppercase" href="https://omaciel.github.io">Og Maciel</a>
+            </div>
+            <div class="col-md-4 text-center order-2 order-lg-1 order-md-1">
+                <div class="d-none d-sm-none d-md-block">
+                    <a href="https://omaciel.github.io">
+                        <img alt="Footer logo" src="/images/fav.png"
+                            height="40px" width="40px">
+                    </a>
+                </div>
+                &copy; 2020 All Rights Reserved
+                <div class="text-secondary">
+                    Powered by
+                    <a class="text-secondary" href="https://themes.gohugo.io/hugo-profile">Hugo-profile</a>
+                </div>
+            </div>
+            <div class="col-md-4 font-weight-bold order-1">
+                <ul class="nav justify-content-center">
+                    
+                    <li class="nav-link">
+                        <a href="/posts" aria-label="Posts">Posts</a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="/js/jquery.slim.min.js"></script>
+<script src="/js/bootstrap.min.js"></script></body>
+
+</html>

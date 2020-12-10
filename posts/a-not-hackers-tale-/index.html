@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="icon" href="/images/fav.png" type="image/gif">
+
+<style>
+     
+    footer {
+        background-color: #1c2d41;
+        color: #8392a5;
+        border-top-width: 1px !important;
+        border-color: #8392a5;
+    }
+
+    footer a {
+        color: #8392a5;
+    }
+
+     
+    .navbar-color {
+        color: #101820ff;
+    }
+
+    .navbar-text {
+        font-size: 17px;
+    }
+
+    .navbar-brand {
+        font-size: 22px;
+    }
+
+    .nav-link {
+        color: #101820ff !important;
+        font-size: 18px;
+    }
+</style>
+<meta name="description" content="" />
+<title>A (Not) Hacker\&#39;s Tale</title>
+<style>
+  article {
+    font-family: 'Peddana', serif;
+    line-height: 1.3;
+    font-size: 30px;
+  }
+
+  article blockquote {
+    margin: 0 !;
+    border-left: 4px solid #248aaa !important;
+    background-color: #248baa15 !important;
+    padding: 0.3rem !important;
+    padding-left: 1rem !important;
+  }
+
+  article blockquote>p {
+    color: #3c4858 !important;
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  article h1 {
+    font-size: 55px !important;
+  }
+
+  article h2 {
+    font-size: 42px !important;
+  }
+
+  article h3 {
+    font-size: 35px !important;
+  }
+
+  article h4,
+  h5,
+  h6 {
+    font-size: 30px !important;
+  }
+
+  article table {
+    border-radius: 0.1rem;
+    background: #e5e9f2;
+    border: 1px solid #c0ccda;
+    padding: 0.1rem;
+  }
+
+  article table tr {
+    height: 40px !important;
+  }
+
+  article table th,
+  td {
+    padding: 0.5rem;
+    border-left: 1px solid #8392a5;
+    border-bottom: 1px solid #8392a5;
+  }
+
+  article table thead tr {
+    background: #248aaa;
+    color: #e5e9f2;
+  }
+
+  article tbody tr:nth-child(odd) {
+    background-color: #e5e9f2;
+  }
+
+  article tbody tr:hover {
+    background: #c0ccda;
+  }
+
+  article img {
+    width: 100%;
+  }
+
+  article caption,
+  figcaption {
+    caption-side: bottom;
+    text-align: center;
+    color: #8392a5;
+  }
+
+  article pre {
+    margin: 5px;
+    padding: 5%;
+    font-size: 18px;
+    max-height: 400px;
+    border-radius: 2%;
+    background-color: #1f618d !important;
+    color: white;
+  }
+
+  article pre>code {
+    padding: 10px !important;
+  }
+
+  article a.header-anchor {
+    text-decoration: none;
+    color: #1c2d41;
+  }
+
+  article a.header-anchor i {
+    font-size: 10pt;
+    color: #3c4858;
+    display: none;
+    margin-left: 0.5rem;
+  }
+
+  article a.header-anchor:hover i {
+    display: inline-block;
+  }
+
+  article a.header-anchor code {
+    color: #e83e8c;
+  }
+
+  article kbd {
+    background-color: #248aaa !important;
+    color: #f9fafc;
+  }
+
+  article mark {
+    background-color: #ffc21280;
+  }
+</style>
+
+
+
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css" media="all">
+
+    
+    <link href="https://fonts.googleapis.com/css2?family=Peddana&display=swap" rel="stylesheet" media="all">
+    <style>
+        footer {
+            background-color: #1c2d41;
+            color: #8392a5;
+            border-top-width: 1px !important;
+            border-color: #8392a5;
+        }
+    </style>
+</head>
+
+<body><nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
+	<div class="container">
+		<a class="navbar-brand font-weight-bold" href="/">
+			
+			<img src="/images/fav.png" width="30" height="30" class="d-inline-block align-top"
+				alt="Og Maciel">
+			Og Maciel
+			
+		</a>
+		<button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+			aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarNavDropdown">
+			<ul class="navbar-nav ml-auto text-center">
+				<li class="nav-item navbar-text">
+					<a class="nav-link" href="/#" aria-label="about">About</a>
+				</li>
+
+				
+				<li class="nav-item  navbar-text">
+					<a class="nav-link" href="/posts" aria-label="Posts">Posts</a>
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<section class="bg-white">
+  <div class="container">
+    <div class="row justify-content-md-center">
+      <div class="col-md-8">
+        
+        <div class="p-2">
+          <h1>A (Not) Hacker\&#39;s Tale</h1>
+          <div class="text-muted">
+            
+            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar" fill="currentColor"
+              xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd"
+                d="M1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1zm1-3a2 2 0 0 0-2 2v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2z" />
+              <path fill-rule="evenodd"
+                d="M3.5 0a.5.5 0 0 1 .5.5V1a.5.5 0 0 1-1 0V.5a.5.5 0 0 1 .5-.5zm9 0a.5.5 0 0 1 .5.5V1a.5.5 0 0 1-1 0V.5a.5.5 0 0 1 .5-.5z" />
+            </svg>
+            Jan 1, 0001
+
+            
+            
+
+            
+            
+          </div>
+
+          
+        </div>
+
+        <div>
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+              
+              
+              <li><a href="/">Home</a></li>
+              
+              
+              
+              
+              
+              
+              
+              
+              <span class="text-muted px-2">/</span>
+              <li><a href="/posts">Posts</a></li>
+              
+              
+              
+              
+              
+              
+              <span class="text-muted px-2">/</span>
+              <li><a href="/posts/a-not-hackers-tale-">A not hackers tale </a></li>
+              
+              
+              
+              
+            </ol>
+          </nav>
+        </div>
+        
+        <div class="py-2">
+          
+        </div>
+
+        
+        <article>
+          <p>This is just too <a href="http://www.jellyslab.com/~bteo/hacker.htm">funny</a>!!!
+Not sure if it really happened or not but my professional experience has
+proven me wrong many times before! Hehehe&hellip; Read on&hellip;</p>
+<p><em>Something nice I read on <a href="http://www.stophiphop.de">www.stophiphop.de</a> (got pointed there by a
+comment on <a href="http://www.macguardians.de">www.macguardians.de</a>) is this nice story of a hacker:
+`http://www.beast.mos-worlds.de/modules/new&hellip;php?storyid=184
+&lt;http://www.beast.mos-worlds.de/modules/new...php?storyid=184&gt;`__`www.stophiphop.de
+&lt;http://www.stophiphop.de&gt;`__ (got pointed there by a comment on
+`www.macguardians.de &lt;http://www.macguardians.de&gt;`__) is this nice
+story of a hacker:
+<a href="http://www.beast.mos-worlds.de/modules/new...php?storyid=184">http://www.beast.mos-worlds.de/modules/new...php?storyid=184</a> (site might
+be down, quite a lot of people are reading this).</em></p>
+<p>In case you don&rsquo;t speak german (just as this hacker), I&rsquo;ve tried a
+little translation to english. I might have made some spelling errors,
+but the original spelling wasn&rsquo;t perfect either. The guy really said
+&ldquo;buy buy&rdquo; in the german version. I&rsquo;ve posted this on the forum on
+<a href="http://www.desertcombat.com">http://www.desertcombat.com</a> before, so if this looks familiar, might
+be the same. I&rsquo;ve corrected some mistakes and put the &lt;&gt; back to the
+right version (The DC forum does not support them). All censoring was
+done by this particular forum here. Notice that in germany we get DST
+earlier than in the US.</p>
+<p>The story starts (I&rsquo;m shortcutting here) with an [Please control your
+cussing] insulting everyone on the IRC channel. Most people there
+believed it was rather funny, but it got even more funny. For
+information: The dangerous hacker is called bitchchecker and the one
+being hacked and original author of the comments, who is talking here,
+is known as Elch. 127.0.0.1 is always the IP-adress of the computer
+you&rsquo;re currently using, any request there will return to your computer.</p>
+<blockquote>
+<p>* bitchchecker (~java@euirc-a97f9137.dip.t-dialin.net) Quit (Ping
+timeout#) * bitchchecker (~java@euirc-61a2169c.dip.t-dialin.net)
+has joined #stopHipHop <strong>bitchchecker</strong>: why do you kick me
+<strong>bitchchecker</strong>: can&rsquo;t you discus normally <strong>bitchchecker</strong>: answer!
+<strong>elch</strong>: we didn&rsquo;t kick you <strong>elch</strong>: you had a ping timeout: *
+bitchchecker (~java@euirc-a97f9137.dip.t-dialin.net) Quit (Ping
+timeout#) <strong>bitchchecker</strong>: what ping man <strong>bitchchecker</strong>: the
+timing of my pc is right <strong>bitchchecker</strong>: i even have dst
+<strong>bitchchecker</strong>: you banned me <strong>bitchchecker</strong>: amit it you son of a
+bitch <strong>hopperhunter |afk</strong>: LOL <strong>hopperhunter |afk</strong>: shit you&rsquo;re
+stupid, DST^^ <strong>bitchchecker</strong>: shut your mouth WE HAVE DST!
+<strong>bitchchecker</strong>: for two weaks already <strong>bitchchecker</strong>: when you
+start your pc there is a message from windows that DST is applied.
+<strong>elch</strong>: You&rsquo;re a real computer expert <strong>bitchchecker</strong>: shut up i
+hack you <strong>elch</strong>: ok, i&rsquo;m quiet, hope you don&rsquo;t show us how good a
+hacker you are ^^ <strong>bitchchecker</strong>: tell me your network number man
+then you&rsquo;re dead <strong>elch</strong>: Eh, it&rsquo;s 129.0.0.1 <strong>elch</strong>: or maybe
+127.0.0.1v <strong>elch</strong>: yes exactly that&rsquo;s it: 127.0.0.1 I&rsquo;m waiting for
+you great attack <strong>bitchchecker</strong>: in five minutes your hard drive is
+deleted <strong>elch</strong>: Now I&rsquo;m frightened <strong>bitchchecker</strong>: shut up you&rsquo;ll
+be gone <strong>bitchchecker</strong>: i have a program where i enter your ip and
+you&rsquo;re dead <strong>bitchchecker</strong>: say goodbye <strong>elch</strong>: to whom?
+<strong>bitchchecker</strong>: to you man <strong>bitchchecker</strong>: buy buy <strong>elch</strong>: I&rsquo;m
+shivering thinking about such great Hack0rs like you * bitchchecker
+(~java@euirc-61a2169c.dip.t-dialin.net) Quit (Ping timeout#)</p>
+</blockquote>
+<p>What happened is clear: That guy entered his own IP-Adress in his mighty
+Hack-Tool and crashed his own PC. This way, the attack on my PC was a
+failure. I was already starting to think that I did not have to worry,
+but a good hacker never calls it a day. Two minutes later he returned.</p>
+<blockquote>
+<p>* bitchchecker (~java@euirc-b5cd558e.dip.t-dialin.net) has joined
+#stopHipHop <strong>bitchchecker</strong>: dude be happy my pc crashed otherwise
+you&rsquo;d be gone <strong>metanot</strong>: lol <strong>elch</strong>: bitchchecker: Then try
+hacking me again&hellip; I still have the same IP: 127.0.0.1
+<strong>bitchchecker</strong>: you&rsquo;re so stupid man <strong>bitchchecker</strong>: say buy buy
+<strong>metanot</strong>: ah, [Please control your cussing] off <strong>bitchchecker</strong>:
+buy buy elch * bitchchecker (~java@euirc-b5cd558e.dip.t-dialin.net)
+Quit (Ping timeout#)</p>
+</blockquote>
+<p>There was a tension in the room&hellip; Would he manage, after these two
+failures, to crash my PC? I waited. Nothing happened. I felt relieve&hellip;
+Six minutes passed by until he prepared the next wave of attack. Being a
+Hacker, who usually cracks whole data centers, he knew what his problem
+was now.</p>
+<blockquote>
+<p>* bitchchecker (~java@euirc-9ff3c180.dip.t-dialin.net) has joined
+#stopHipHop <strong>bitchchecker</strong>: elch you son of a bitch <strong>metanot</strong>:
+bitchchecker how old are you? <strong>elch</strong>: What&rsquo;s up bitchchecker?
+<strong>bitchchecker</strong>: you have a frie wal <strong>bitchchecker</strong>: fire wall
+<strong>elch</strong>: maybe, i don&rsquo;t know <strong>bitchchecker</strong>: i&rsquo;m 26 <strong>metanot</strong>:
+such behaviour with 26? <strong>elch</strong>: how did you find out that I have a
+firewall? <strong>metanot</strong>: tststs this is not very nice missy
+<strong>bitchchecker</strong>: because your gay fire wall directed my turn off
+signal back to me <strong>bitchchecker</strong>: be a man turn that shit off
+<strong>elch</strong>: cool, didn&rsquo;t know this was possible. <strong>bitchchecker</strong>: thn
+my virus destroys your pc man <strong>metanot</strong>: are you hacking yourselves?
+<strong>elch</strong>: yes bitchchecker is trying to hack me <strong>metanot</strong>: he
+bitchchecker if you&rsquo;re a hacker you have to get around a firewall even
+i can do that <strong>bitchchecker</strong>: yes man i hack the elch but the sucker
+has a fire wall the <strong>metanot</strong>: what firewall do you have?
+<strong>bitchchecker</strong>: like a girl <strong>metanot</strong>: firewall is normal a normal
+hacker has to be able to get past it&hellip;you girl^^ <strong>he</strong>: Bitch give
+yourself a jackson and chill you&rsquo;re letting them provoce you and give
+those little girls new material all the time <strong>bitchchecker</strong>: turn
+the firewall off then i send you a virus [Please control your
+cussing]er <strong>elch</strong>: Noo <strong>metanot</strong>: he bitchchecker why turn it
+off, you should turn it off <strong>bitchchecker</strong>: you&rsquo;re afraid
+<strong>bitchchecker</strong>: i don&rsquo;t wanna hack like this if he hides like a girl
+behind a fire wall <strong>bitchchecker</strong>: elch turn off your shit wall!
+<strong>metanot</strong>: i wanted to say something about this, do you know the
+definition of hacking??? if he turns of the firewall that&rsquo;s an
+invitation and that has nothing to do with hacking <strong>bitchchecker</strong>:
+shut up <strong>metanot</strong>: lol <strong>bitchchecker</strong>: my grandma surfs with fire
+wall <strong>bitchchecker</strong>: and you suckers think you&rsquo;re cool and don&rsquo;t
+dare going into the internet without a fire wall</p>
+</blockquote>
+<p>He calls me girly and says only his grandma would use a firewall. I know
+that elder people are much more intelligent then younger, but I couldn&rsquo;t
+let that rest. To see whether he really is a good hacker I lie and let
+everything as it is. I don&rsquo;t have a firewall at all, only my router.</p>
+<blockquote>
+<p><strong>elch</strong>: bitchchecker, a collegue showed me how to turn the firewall
+off. Now you can try again <strong>metanot</strong>: bitchhacker can&rsquo;t hack &gt; nice
+play on words ^^ <strong>bitchchecker</strong>: wort man <strong>elch</strong>: bitchchecker:
+I&rsquo;m still waiting for your attack! <strong>metanot</strong>: how many times again
+he is no hacker <strong>bitchchecker</strong>: man do you want a virus
+<strong>bitchchecker</strong>: tell me your ip and it deletes your hard drive
+<strong>metanot</strong>: lol ne give it up i&rsquo;m a hacker myself and i know how
+hackers behave and i can tell you 100.00% you&rsquo;re no hacker..^^
+<strong>elch</strong>: 127.0.0.1 <strong>elch</strong>: it&rsquo;s easy <strong>bitchchecker</strong>: lolololol
+you so stupid man you&rsquo;ll be gone <strong>bitchchecker</strong>: and are the first
+files being deleted <strong>elch</strong>: mom&hellip; <strong>elch</strong>: i&rsquo;ll take a look</p>
+</blockquote>
+<p>In panic I started the Windows Explorer, my heart beating faster. Had I
+under-estimated him?</p>
+<blockquote>
+<p><strong>bitchchecker</strong>: don&rsquo;t need to rescue you can&rsquo;t son of a bitch
+<strong>elch</strong>: that&rsquo;s bad <strong>bitchchecker</strong>: elch you idiout your hard drive
+g: is deleted <strong>elch</strong>: yes, there&rsquo;s nothing i can do about it
+<strong>bitchchecker</strong>: and in 20 seconds f: is gone</p>
+</blockquote>
+<p>Yes, true, G: and F: were gone. Did I ever have them? Doesn&rsquo;t matter, I
+did not have time to think, I was scared. bitchchecker was comforting me
+with a music tip.</p>
+<blockquote>
+<p><strong>bitchchecker</strong>: tupac rules <strong>bitchchecker</strong>: elch you son of a
+bitch your f: is gone and e: too</p>
+</blockquote>
+<p>Drive E:? Oh my god&hellip; All the games are there! And the vacation
+pictures! I instantly take a look. Everything still there. But the
+hacker said it was deleted&hellip;.</p>
+<p>Or isn&rsquo;t it happening on my computer?</p>
+<blockquote>
+<p><strong>bitchchecker</strong>: and d: is at 45% you idiot lolololol <strong>he</strong>: why
+doesn&rsquo;t meta say anything <strong>elch</strong>: he&rsquo;s probably rolling on the floor
+laughing &gt; ^^ <strong>bitchchecker</strong>: your d: is gone <strong>he</strong>: go on BITCH</p>
+</blockquote>
+<p>The guy is good: My CD-drive is allegedly deleted! Bitchchecker turned
+my ancient disk sucker into a burner! But how did he do this? I&rsquo;ll have
+to ask him. Some encourage him. He himself is giving advice how to avoid
+the disaster on my hard drives.</p>
+<blockquote>
+<p><strong>bitchchecker</strong>: elch man you&rsquo;re so stupid never give your ip on the
+internet <strong>bitchchecker</strong>: i&rsquo;m already at c: 30 percent</p>
+</blockquote>
+<p>Should I tell him he&rsquo;s not attacking my computer?</p>
+<blockquote>
+<p>* bitchchecker (~java@euirc-9ff3c180.dip.t-dialin.net) Quit (Ping
+timeout#)</p>
+</blockquote>
+<p>Too late&hellip; It&rsquo;s 20:22 when we get the last message of our hacker with
+the alias &ldquo;bitchchecker&rdquo;. We see that he has a &ldquo;Ping timeout&rdquo;. We
+haven&rsquo;t seen him since then&hellip; must be the Daylight Saving Time.</p>
+
+        </article>
+
+        
+        <div class="mb-4 p-5">
+          <div class="card">
+            <h5 class="card-header m-0">Tags</h5>
+            <div class=" card-body">
+              
+              
+              <a href="/tags/english" class="btn btn-info btn-rounded mb-2">english</a>
+              
+              
+            </div>
+            </a>
+          </div>
+        </div>
+
+
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "journalofanopensourcee" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+      </div>
+    </div>
+  </div>
+</section>
+<footer>
+    <div class="container bg-transparent py-4">
+        <div class="row row-eq-height align-items-center">
+            <div class="col-md-4 nav-link text-center font-weight-bold">
+                <a class="text-uppercase" href="https://omaciel.github.io">Og Maciel</a>
+            </div>
+            <div class="col-md-4 text-center order-2 order-lg-1 order-md-1">
+                <div class="d-none d-sm-none d-md-block">
+                    <a href="https://omaciel.github.io">
+                        <img alt="Footer logo" src="/images/fav.png"
+                            height="40px" width="40px">
+                    </a>
+                </div>
+                &copy; 2020 All Rights Reserved
+                <div class="text-secondary">
+                    Powered by
+                    <a class="text-secondary" href="https://themes.gohugo.io/hugo-profile">Hugo-profile</a>
+                </div>
+            </div>
+            <div class="col-md-4 font-weight-bold order-1">
+                <ul class="nav justify-content-center">
+                    
+                    <li class="nav-link">
+                        <a href="/posts" aria-label="Posts">Posts</a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="/js/jquery.slim.min.js"></script>
+<script src="/js/bootstrap.min.js"></script></body>
+
+</html>

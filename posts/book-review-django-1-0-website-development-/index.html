@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="icon" href="/images/fav.png" type="image/gif">
+
+<style>
+     
+    footer {
+        background-color: #1c2d41;
+        color: #8392a5;
+        border-top-width: 1px !important;
+        border-color: #8392a5;
+    }
+
+    footer a {
+        color: #8392a5;
+    }
+
+     
+    .navbar-color {
+        color: #101820ff;
+    }
+
+    .navbar-text {
+        font-size: 17px;
+    }
+
+    .navbar-brand {
+        font-size: 22px;
+    }
+
+    .nav-link {
+        color: #101820ff !important;
+        font-size: 18px;
+    }
+</style>
+<meta name="description" content="" />
+<title>Book Review: Django 1.0 Website Development</title>
+<style>
+  article {
+    font-family: 'Peddana', serif;
+    line-height: 1.3;
+    font-size: 30px;
+  }
+
+  article blockquote {
+    margin: 0 !;
+    border-left: 4px solid #248aaa !important;
+    background-color: #248baa15 !important;
+    padding: 0.3rem !important;
+    padding-left: 1rem !important;
+  }
+
+  article blockquote>p {
+    color: #3c4858 !important;
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  article h1 {
+    font-size: 55px !important;
+  }
+
+  article h2 {
+    font-size: 42px !important;
+  }
+
+  article h3 {
+    font-size: 35px !important;
+  }
+
+  article h4,
+  h5,
+  h6 {
+    font-size: 30px !important;
+  }
+
+  article table {
+    border-radius: 0.1rem;
+    background: #e5e9f2;
+    border: 1px solid #c0ccda;
+    padding: 0.1rem;
+  }
+
+  article table tr {
+    height: 40px !important;
+  }
+
+  article table th,
+  td {
+    padding: 0.5rem;
+    border-left: 1px solid #8392a5;
+    border-bottom: 1px solid #8392a5;
+  }
+
+  article table thead tr {
+    background: #248aaa;
+    color: #e5e9f2;
+  }
+
+  article tbody tr:nth-child(odd) {
+    background-color: #e5e9f2;
+  }
+
+  article tbody tr:hover {
+    background: #c0ccda;
+  }
+
+  article img {
+    width: 100%;
+  }
+
+  article caption,
+  figcaption {
+    caption-side: bottom;
+    text-align: center;
+    color: #8392a5;
+  }
+
+  article pre {
+    margin: 5px;
+    padding: 5%;
+    font-size: 18px;
+    max-height: 400px;
+    border-radius: 2%;
+    background-color: #1f618d !important;
+    color: white;
+  }
+
+  article pre>code {
+    padding: 10px !important;
+  }
+
+  article a.header-anchor {
+    text-decoration: none;
+    color: #1c2d41;
+  }
+
+  article a.header-anchor i {
+    font-size: 10pt;
+    color: #3c4858;
+    display: none;
+    margin-left: 0.5rem;
+  }
+
+  article a.header-anchor:hover i {
+    display: inline-block;
+  }
+
+  article a.header-anchor code {
+    color: #e83e8c;
+  }
+
+  article kbd {
+    background-color: #248aaa !important;
+    color: #f9fafc;
+  }
+
+  article mark {
+    background-color: #ffc21280;
+  }
+</style>
+
+
+
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css" media="all">
+
+    
+    <link href="https://fonts.googleapis.com/css2?family=Peddana&display=swap" rel="stylesheet" media="all">
+    <style>
+        footer {
+            background-color: #1c2d41;
+            color: #8392a5;
+            border-top-width: 1px !important;
+            border-color: #8392a5;
+        }
+    </style>
+</head>
+
+<body><nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
+	<div class="container">
+		<a class="navbar-brand font-weight-bold" href="/">
+			
+			<img src="/images/fav.png" width="30" height="30" class="d-inline-block align-top"
+				alt="Og Maciel">
+			Og Maciel
+			
+		</a>
+		<button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+			aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarNavDropdown">
+			<ul class="navbar-nav ml-auto text-center">
+				<li class="nav-item navbar-text">
+					<a class="nav-link" href="/#" aria-label="about">About</a>
+				</li>
+
+				
+				<li class="nav-item  navbar-text">
+					<a class="nav-link" href="/posts" aria-label="Posts">Posts</a>
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<section class="bg-white">
+  <div class="container">
+    <div class="row justify-content-md-center">
+      <div class="col-md-8">
+        
+        <div class="p-2">
+          <h1>Book Review: Django 1.0 Website Development</h1>
+          <div class="text-muted">
+            
+            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar" fill="currentColor"
+              xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd"
+                d="M1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1zm1-3a2 2 0 0 0-2 2v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2z" />
+              <path fill-rule="evenodd"
+                d="M3.5 0a.5.5 0 0 1 .5.5V1a.5.5 0 0 1-1 0V.5a.5.5 0 0 1 .5-.5zm9 0a.5.5 0 0 1 .5.5V1a.5.5 0 0 1-1 0V.5a.5.5 0 0 1 .5-.5z" />
+            </svg>
+            Jan 1, 0001
+
+            
+            
+
+            
+            
+          </div>
+
+          
+        </div>
+
+        <div>
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+              
+              
+              <li><a href="/">Home</a></li>
+              
+              
+              
+              
+              
+              
+              
+              
+              <span class="text-muted px-2">/</span>
+              <li><a href="/posts">Posts</a></li>
+              
+              
+              
+              
+              
+              
+              <span class="text-muted px-2">/</span>
+              <li><a href="/posts/book-review-django-1-0-website-development-">Book review django 1 0 website development </a></li>
+              
+              
+              
+              
+            </ol>
+          </nav>
+        </div>
+        
+        <div class="py-2">
+          
+        </div>
+
+        
+        <article>
+          <p>[caption id=&quot;attachment_860&rdquo; align=&quot;alignleft&rdquo; width=&quot;300&rdquo;
+caption=&quot;Django 1.0 Website Development&rdquo;]<a href="http://www.ogmaciel.com/wp-content/uploads/2010/03/packt_djangowebsitedevelopment.jpg"><img src="http://www.ogmaciel.com/wp-content/uploads/2010/03/packt_djangowebsitedevelopment.jpg" alt="Django 1.0 WebsiteDevelopment"></a>[/caption]</p>
+<p>Back when I purchased my ebook version of â€œ<a href="http://bit.ly/PythonTestingBook">Python Testing:
+Beginnerâ€™s Guide</a>â€œby <strong>Daniel
+Arbuckle</strong>, I also snagged a copy of &ldquo;<a href="http://bit.ly/DjangoWebDevelopment">Django 1.0 Website
+Development</a>&quot; by <strong>Ayman Hourieh</strong>.</p>
+<p>Once again, I have to tip my head to the folks at Packt Publishing for
+their decision of selling ebooks and <strong>not password protecting</strong> them,
+giving you complete control over your purchase!!! You can also<strong>copy
+tex</strong>t from it, which makes your life really easy when youâ€™re
+following along and want to copy some of the code being described!</p>
+<p>If you&rsquo;re new to Django and want to learn quickly how to use this
+powerful framework or, if you&rsquo;re like me and want to get your hands
+dirty on a small project to get you up to speed, then <strong>this is the book
+you should buy</strong>! Let me say this again so not to leave any room for
+doubts: I am wholeheartedly recommending this book!</p>
+<p>I wish more books were written like &ldquo;<a href="http://bit.ly/DjangoWebDevelopment">Django 1.0 Website
+Development</a>&quot;: You start off with an
+idea for a full blown project and as you progress through the chapters,
+you build this project from scratch to its completeness! This is <strong>not a
+reference book</strong> and you should already know what Django is, etc, etc.</p>
+<p>Each chapter builds onto the next one, giving you a full sense of
+developing a web application from the ground up, all the while learning
+some cool techniques such as adding AJAX-y effects and doing in-place
+searches and editing of information:</p>
+<p><a href="https://www.packtpub.com/toc/django-10-website-development-table-contents#chapter_1">Chapter 1: Introduction to
+Django</a>
+<a href="https://www.packtpub.com/toc/django-10-website-development-table-contents#chapter_2">Chapter 2: Getting
+Started</a>
+<a href="https://www.packtpub.com/toc/django-10-website-development-table-contents#chapter_3">Chapter 3: Building a Social Bookmarking
+Application</a>
+<a href="https://www.packtpub.com/toc/django-10-website-development-table-contents#chapter_4">Chapter 4: User Registration and
+Management</a>
+<a href="https://www.packtpub.com/toc/django-10-website-development-table-contents#chapter_5">Chapter 5: Introducing
+Tags</a>
+<a href="https://www.packtpub.com/toc/django-10-website-development-table-contents#chapter_6">Chapter 6: Enhancing the User Interface with
+AJAX</a>
+<a href="https://www.packtpub.com/toc/django-10-website-development-table-contents#chapter_7">Chapter 7: Voting and
+Commenting</a>
+<a href="https://www.packtpub.com/toc/django-10-website-development-table-contents#chapter_8">Chapter 8: Creating an Administration
+Interface</a>
+<a href="https://www.packtpub.com/toc/django-10-website-development-table-contents#chapter_9">Chapter 9: Advanced Browsing and
+Searching</a>
+<a href="https://www.packtpub.com/toc/django-10-website-development-table-contents#chapter_10">Chapter 10: Building User
+Networks</a>
+<a href="https://www.packtpub.com/toc/django-10-website-development-table-contents#chapter_11">Chapter 11: Extending and
+Deploying</a>
+<a href="https://www.packtpub.com/toc/django-10-website-development-table-contents#chapter_12">Chapter 12: What
+Next?</a></p>
+<p>By the time you&rsquo;re done with it, you will wish this book had more than
+12 chapters! But have no fear, soon I&rsquo;ll be neck deep into &ldquo;<a href="http://bit.ly/DjangoTestingBook">Django 1.1
+Testing and Debugging</a>&quot;, due to be
+published this April! :)</p>
+
+        </article>
+
+        
+        <div class="mb-4 p-5">
+          <div class="card">
+            <h5 class="card-header m-0">Tags</h5>
+            <div class=" card-body">
+              
+              
+              <a href="/tags/english" class="btn btn-info btn-rounded mb-2">english</a>
+              
+              
+            </div>
+            </a>
+          </div>
+        </div>
+
+
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "journalofanopensourcee" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+      </div>
+    </div>
+  </div>
+</section>
+<footer>
+    <div class="container bg-transparent py-4">
+        <div class="row row-eq-height align-items-center">
+            <div class="col-md-4 nav-link text-center font-weight-bold">
+                <a class="text-uppercase" href="https://omaciel.github.io">Og Maciel</a>
+            </div>
+            <div class="col-md-4 text-center order-2 order-lg-1 order-md-1">
+                <div class="d-none d-sm-none d-md-block">
+                    <a href="https://omaciel.github.io">
+                        <img alt="Footer logo" src="/images/fav.png"
+                            height="40px" width="40px">
+                    </a>
+                </div>
+                &copy; 2020 All Rights Reserved
+                <div class="text-secondary">
+                    Powered by
+                    <a class="text-secondary" href="https://themes.gohugo.io/hugo-profile">Hugo-profile</a>
+                </div>
+            </div>
+            <div class="col-md-4 font-weight-bold order-1">
+                <ul class="nav justify-content-center">
+                    
+                    <li class="nav-link">
+                        <a href="/posts" aria-label="Posts">Posts</a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="/js/jquery.slim.min.js"></script>
+<script src="/js/bootstrap.min.js"></script></body>
+
+</html>
