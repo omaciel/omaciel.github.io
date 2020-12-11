@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fedora 17, Heroku, english on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/fedora-17-heroku-english/</link>
+    <description>Recent content in Fedora 17, Heroku, english on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/fedora-17-heroku-english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Error: uninitialized constant Heroku::API (NameError)</title>
+      <link>https://omaciel.github.io/posts/error-uninitialized-constant-heroku-api-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/error-uninitialized-constant-heroku-api-/</guid>
+      <description>Got stuck with this error on Fedora 17 while trying to get a project onto Heroku:
+ Error: uninitialized constant Heroku::API (NameError)
+ After some quick back and forth with the Heroku guys I finally got it fixed:
+ $ rvm uninstall 1.9.3 $ rvm reset $ sudo yum reinstall openssl openssl-devel $ rvm install 1.9.3 $ rvm use 1.9.3 &amp;mdash;default $ heroku login
+ Hope this helps someone else :)</description>
+    </item>
+    
+  </channel>
+</rss>

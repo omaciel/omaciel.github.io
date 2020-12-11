@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>english, optparse, python, wordpress, xml on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/english-optparse-python-wordpress-xml/</link>
+    <description>Recent content in english, optparse, python, wordpress, xml on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/english-optparse-python-wordpress-xml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Command Line Tools with Python OptParse</title>
+      <link>https://omaciel.github.io/posts/python-optparse-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/python-optparse-/</guid>
+      <description>It is not very uncommon for me to receive some code requests from friends looking for a little help to &amp;ldquo;make something easier&amp;rdquo;. I&amp;rsquo;m talking about those pesky day to day things that after a while makes you go: &amp;ldquo;If I could only push a button and have it done!&amp;rdquo;
+This week I was chit-chatting with my good friend Evandro Pastor when he mentioned one of these situations that, according to him, makes his existence miserable.</description>
+    </item>
+    
+  </channel>
+</rss>

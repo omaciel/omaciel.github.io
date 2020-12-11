@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rpath, foresight linux, conary on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/rpath-foresight-linux-conary/</link>
+    <description>Recent content in rpath, foresight linux, conary on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/rpath-foresight-linux-conary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Foresight Linux: Week 1</title>
+      <link>https://omaciel.github.io/posts/using-foresight-linux-week-1-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/using-foresight-linux-week-1-/</guid>
+      <description>Been using Foresight Linux at work for the last 8 days and am pretty impressed with the stability and community so far. Work hasn&amp;rsquo;t let me get knee deep into the documentation and all the nitty gritty details about the conary system, but I have a walking reference sitting right next to me! :) I&amp;rsquo;ve been bugging him to develop a &amp;ldquo;lite&amp;rdquo; version of it so I can get some of my friends with &amp;ldquo;limited bandwith&amp;rdquo; to take it for a spin, and I can proudly claim that it is working&amp;hellip; hehehehe More information about that soon, right Ken?</description>
+    </item>
+    
+  </channel>
+</rss>

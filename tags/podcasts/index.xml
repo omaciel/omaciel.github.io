@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcasts on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/podcasts/</link>
+    <description>Recent content in podcasts on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Sep 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podcasts I&#39;ve Been Listening To Lately</title>
+      <link>https://omaciel.github.io/posts/1183-podcasts-i-listen-to/</link>
+      <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/1183-podcasts-i-listen-to/</guid>
+      <description>For someone who has run his own podcast for several years (albeit not generating a lot of content lately), it took me quite some time to actually start listening to podcasts myself. Ironic, I know, but I guess the main reason behind this was because I was always reading code at work and eventually, no matter how hard I tried, I just couldn&#39;t pay attention to what was being said! No matter how interesting the topic being discussed was or how engaging the hosts (or hosts) were, my brain would be so focused on reading code that everything else just turned into white noise.</description>
+    </item>
+    
+  </channel>
+</rss>

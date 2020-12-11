@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rpath, turbogears, raa on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/rpath-turbogears-raa/</link>
+    <description>Recent content in rpath, turbogears, raa on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/rpath-turbogears-raa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monoglotism in TurboGears\...</title>
+      <link>https://omaciel.github.io/posts/monoglotism-in-turbogears-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/monoglotism-in-turbogears-/</guid>
+      <description>or how the support for localization in Turbo Gears seems to be borked!
+I have spent several hours trying to get a very simple Turbo Gears sample application to &amp;ldquo;speak&amp;rdquo; a different language, with no success. This is all part of my research at work to localize our rPath Appliance Agent to other idioms.
+The rPath Appliance Agent (rAA) is a framework for administering appliances built with rPath technologies through a web based user interface.</description>
+    </item>
+    
+  </channel>
+</rss>

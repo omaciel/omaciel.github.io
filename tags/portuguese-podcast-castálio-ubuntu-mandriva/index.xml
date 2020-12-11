@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>portuguese, podcast, castálio, ubuntu, mandriva on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio-ubuntu-mandriva/</link>
+    <description>Recent content in portuguese, podcast, castálio, ubuntu, mandriva on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio-ubuntu-mandriva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Castálio Podcast: Everaldo Canuto: Toca do Canuto</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-everaldo-canuto-toca-do-canuto-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-everaldo-canuto-toca-do-canuto-/</guid>
+      <description>Eu conheci o Everaldo em uma tarde super calorenta durante a abertura do evento GUADEC nas *Ilhas Canárias*. O mais interessante foi que não demorou mais que um dia para que nossa amizade se tornasse igual aquelas amizades que fazemos quando criança&amp;hellip; aquelas pessoas que não importa o tempo ou a distância, você sempre fica feliz de encontrar e bater um papo!
+O Everaldo teve uma das oportunidades que eu sempre sonhei em ter: trabalhar lado a lado com o Miguel de Icaza, um dos fundadores do Projeto GNOME, figura quase que mitológica do mundo do software livre e hoje empresário com várias companhias de sucesso em seu histórico!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Fabiano Fidêncio: Red Hat</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-fabiano-fidencio-red-hat-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-fabiano-fidencio-red-hat-/</guid>
+      <description>Para o primeiro episódio de 2013 eu tive o prazer de entrevistar o Fabiano Fidêncio, recém contratado pela Red Hat! Durante nosso bate-papo o Fabiano conta como que ele aprendeu a programar &amp;ldquo;de verdade&amp;rdquo; na ProFUSION e como que de usuário GNOME, ele se transformou em desenvolvedor quando começou a trabalhar no GNOME Boxes e libosinfo pelo *Google Summer of Code*. Sua participação neste projeto foi muito interessante, já que ele teve de aproveitar um código base escrito por uma pessoa da Red Hat e refatorar para que ficasse mais limpo e genérico, algo que não é super fácil de fazer.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Felipe Ribeiro - Spotify</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-felipe-ribeiro-spotify-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-felipe-ribeiro-spotify-/</guid>
+      <description>Olá pessoal e sejam muito bem-vindos à mais um episódio! Desta vez para comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há tempo para comprar o meu presente hehehe) tive a chance de conversar com o Felipe Ribeiro, o único Brasileiro que trabalha na companhia `Spotify &amp;lt;http://www.spotify.com/&amp;gt;`__! O Felipe é irmão do Flávio Ribeiro que eu entrevistei no último episódio, o que me leva a pensar que existe um movimento muito forte na Paraíba nas áreas de educação e software livre, já que foram várias pessoas da região que passaram por aqui.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Flávio Ribeiro: Globo.com</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-flavio-ribeiro-globo-com-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-flavio-ribeiro-globo-com-/</guid>
+      <description>Eu gosto muito quando alguém me sugere um livro, filme, música ou pessoa para conhecer, e depois de trocar uns e-mails com meu amigo Yuri Malheiros na semana passada, decidi convidar o Flávio Ribeiro para uma entrevista! O Flávio é um engenheiro de software que trabalha na Globo.com no Rio de Janeiro (na entrevista parecia que ele estava sentado bem no meio de Interlagos hehehe) e está na equipe responsável por toda a área de streaming de conteúdo pela net!</description>
+    </item>
+    
+  </channel>
+</rss>

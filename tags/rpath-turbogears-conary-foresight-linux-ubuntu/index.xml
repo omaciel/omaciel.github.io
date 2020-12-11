@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rpath, turbogears, conary, foresight linux, ubuntu on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/rpath-turbogears-conary-foresight-linux-ubuntu/</link>
+    <description>Recent content in rpath, turbogears, conary, foresight linux, ubuntu on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/rpath-turbogears-conary-foresight-linux-ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sudo apt-get dist-upgrade</title>
+      <link>https://omaciel.github.io/posts/sudo-apt-get-dist-upgrade-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/sudo-apt-get-dist-upgrade-/</guid>
+      <description>Para os meus amigos que estao curiosos por onde estou, aqui vao algumas noticias rapidas para mante-los atualizados.
+No dia 29 de setembro me mudei de mala e cuia para Chapel Hill em North Carolina!!! O motivo da mudanca? Meu novo emprego com a companhia rPath, onde fui contratado como engenheiro e estarei trabalhando com python e Turbo Gears, entre outras coisas!! A companhia e&#39; simplesmente tudo e um pouco mais que eu sempre sonhei em ter em termos de trabalho!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rpath, raa, aptoncd on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/rpath-raa-aptoncd/</link>
+    <description>Recent content in rpath, raa, aptoncd on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/rpath-raa-aptoncd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rPath Appliance Agent 1.0.9 in the wild!</title>
+      <link>https://omaciel.github.io/posts/rpath-appliance-agent-109-in-the-wild-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/rpath-appliance-agent-109-in-the-wild-/</guid>
+      <description>Today we have released rPath Appliance Agent (rAA) version 1.0.9!!! I&amp;rsquo;m very excited about this since it has 2 new features that I worked on:
+ A new plugin for setting the time, date and timezone, and configuring the Network Time Protocol (NTP). The rAA user password is now salted to provide additional security.  A long time ago I experienced the joy of seeing a program I had developed and open sourced pick up over 30000 downloads on downloads.</description>
+    </item>
+    
+  </channel>
+</rss>

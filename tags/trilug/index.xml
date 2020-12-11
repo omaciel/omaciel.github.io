@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trilug on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/trilug/</link>
+    <description>Recent content in trilug on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/trilug/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overheard at the TriLUG meeting</title>
+      <link>https://omaciel.github.io/posts/overheard-at-the-trilug-meeting-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/overheard-at-the-trilug-meeting-/</guid>
+      <description>Interesting:
+ evilaptop: Dude, CHICKS DIG UNIX evilaptop: Everyone knows that evilaptop: Right?? JasonF: that&amp;rsquo;s almost as unattractive as someone who scripts festival to sing &amp;ldquo;99 bottles of beer on the wall&amp;rdquo; at a party
+ Funny how a lot of the attendees were also chatting on #trilug! hehehe
+What??? You&amp;rsquo;re actually interested in how to do it??? Ok, ok&amp;hellip; The source code was also provided! hehehehe
+ #!/usr/bin/python  # 99 bottles of beer on the wall.</description>
+    </item>
+    
+  </channel>
+</rss>

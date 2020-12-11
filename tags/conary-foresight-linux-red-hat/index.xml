@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conary, foresight linux, red hat on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/conary-foresight-linux-red-hat/</link>
+    <description>Recent content in conary, foresight linux, red hat on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/conary-foresight-linux-red-hat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heard it through the grapevine</title>
+      <link>https://omaciel.github.io/posts/heard-it-through-the-grapevine-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/heard-it-through-the-grapevine-/</guid>
+      <description>Interesting:
+ I&amp;rsquo;ve heard that when the Red Hat developers present new open-source packages to their local Linux User-Group, before the meeting is over one of the Foresight people will have downloaded the source, created a Foresight package, uploaded it to the repository for folks to get, and it will be available for anyone to use. It&amp;rsquo;s explicitly designed as a package management system with very little overhead to creating new packages.</description>
+    </item>
+    
+  </channel>
+</rss>

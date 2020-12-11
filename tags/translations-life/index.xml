@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>translations, life on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/translations-life/</link>
+    <description>Recent content in translations, life on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jul 2014 11:20:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/translations-life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The End For Pylyglot</title>
+      <link>https://omaciel.github.io/posts/1174-end-of-pylyglot/</link>
+      <pubDate>Sat, 12 Jul 2014 11:20:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/1174-end-of-pylyglot/</guid>
+      <description>Background It was around 2005 when I started doing translations for Free and Open-Source Software. Back then I was warmly welcomed to the Ubuntu family and quickly learned all there was to know about using their Rosetta online tool to translate and/or review existing translations for the Brazilian Portuguese language. I spent so much time doing it, even during working hours, that eventually I sort of &amp;quot;made a name for myself&amp;quot; and made my way up to the upper layers of the Ubuntu Community echelon.</description>
+    </item>
+    
+  </channel>
+</rss>

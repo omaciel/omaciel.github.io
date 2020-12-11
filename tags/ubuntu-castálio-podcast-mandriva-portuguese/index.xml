@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubuntu, castálio, podcast, mandriva, portuguese on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/ubuntu-cast%C3%A1lio-podcast-mandriva-portuguese/</link>
+    <description>Recent content in ubuntu, castálio, podcast, mandriva, portuguese on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/ubuntu-cast%C3%A1lio-podcast-mandriva-portuguese/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Castálio Podcast: Licio Fonseca - Google</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-licio-fonseca-google-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-licio-fonseca-google-/</guid>
+      <description>Nesta última quinta-feira tive o prazer em entrevistar o Licio Fonseca da *Google! Eu e o Licio nos conhecemos nos saudosos tempos do Ubuntu Brasil, mas não conversávamos desde 2006 se não me engano. Desde então muita coisa aconteceu, e hoje ele trabalha na Google, fazendo toda a manutenção e administração da infra estrutura de toda a América do Sul*!
+Durante nosso bate-papo, conversamos sobre o que ele faz por lá, sobre o seu dia a dia, como que conseguiu este trabalho, e sobre o processo de entrevistas e seleção para trabalhar na Google.</description>
+    </item>
+    
+  </channel>
+</rss>

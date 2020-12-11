@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>portuguese, podcast, castálio, ubuntu on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio-ubuntu/</link>
+    <description>Recent content in portuguese, podcast, castálio, ubuntu on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio-ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Castálio Podcast: Fábio Kung e Pedro Belo: Heroku</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-fabio-kung-e-pedro-belo-heroku-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-fabio-kung-e-pedro-belo-heroku-/</guid>
+      <description>Mais um episódio, desta vez com dois convidados: Fábio Kung e *Pedro Belo, que atualmente trabalham na companhia Californiana Heroku*! Se você escutou os dois últimos episódios, você deve se lembrar que eu mencionei sobre esta companhia com o Henrique Bastos e Júlio Monteiro, e como que eu tenho usado os serviços que eles oferecem para hospedar e rodar alguns dos meus projetos. Então quando o Júlio se ofereceu para me apresentar ao pessoal da Heroku eu aceitei na mesma hora!</description>
+    </item>
+    
+  </channel>
+</rss>
