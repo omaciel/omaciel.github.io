@@ -197,6 +197,15 @@ In [1]: from fauxfactory import FauxFactory In [2]: FauxFactory.generate_iplum()
     </item>
     
     <item>
+      <title>Chiclete com Banana</title>
+      <link>https://omaciel.github.io/posts/0714-chiclete-com-banana/</link>
+      <pubDate>Thu, 31 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/0714-chiclete-com-banana/</guid>
+      <description>No verÃ£o de 1989 fui com minha famÃ­lia passear pela Bahia, passando por vÃ¡rias cidades pequenas, atÃ© chegar em Caravelas. Uma noite enquanto assistia minhas irmÃ£s jogando ping-pong na pousada, encontrei um exemplar da revista Chiclete com Banana. Achei o estilo dos desenhos bem diferente do que eu estava acostumado (revistinhas Marvel, DC, Tex, Zagor, Turma da MÃ´nica, etc) e comecei a folhear o que eventualmente virou uma jornada de muita rizada.</description>
+    </item>
+    
+    <item>
       <title>0wn3d???</title>
       <link>https://omaciel.github.io/posts/0wn3d-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2606,15 +2615,6 @@ Neste último episódio tive um bate-papo super divertido com o Murilo Queiroz, 
       
       <guid>https://omaciel.github.io/posts/cheguei-/</guid>
       <description>Depois de 3 1/2 horas dirigindo de New Jersey para Boston, cheguei em meu hotel Ramada Inn!Ã‚Â Assim que deixei minhas malas no hotel (ainda nÃƒÂ£o sei porque mas o quarto fede naftalin) peguei um taxi e fui pegar meu crachÃƒÂ¡ no centro de exposiÃƒÂ§ÃƒÂ£o.Ã‚Â Tudo ainda estava bagunÃƒÂ§ado e muitas organizaÃƒÂ§ÃƒÂµes nem mesmo apareceram para arrumar sua ÃƒÂ¡rea.Ã‚Â Como nÃƒÂ£o level minha cÃƒÂ¢mera digital, tirei algumas fotos com meu telefone&amp;hellip;Ã‚Â De todas as fotos que tirei, somente duas ficaram legÃƒÂ­veis&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Chiclete com Banana</title>
-      <link>https://omaciel.github.io/posts/chiclete-com-banana-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/chiclete-com-banana-/</guid>
-      <description>No verÃ£o de 1989 fui com minha famÃ­lia passear pela Bahia, passando por vÃ¡rias cidades pequenas, atÃ© chegar em Caravelas. Uma noite enquanto assistia minhas irmÃ£s jogando ping-pong na pousada, encontrei um exemplar da revista Chiclete com Banana. Achei o estilo dos desenhos bem diferente do que eu estava acostumado (revistinhas Marvel, DC, Tex, Zagor, Turma da MÃ´nica, etc) e comecei a folhear o que eventualmente virou uma jornada de muita rizada.</description>
     </item>
     
     <item>
