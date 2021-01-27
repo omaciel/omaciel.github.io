@@ -295,12 +295,20 @@ it, and send it to the repository.</p>
 <p>Vinagre is a VNC client well integrated with GNOME , current being
 developed by <a href="http://www.bani.com.br/">Jonh Wendell</a>. For those curious
 as to what the recipe for packaging it was, take a look:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">loadRecipe(<span style="color:#e6db74">&#39;gnomepackage.recipe&#39;</span>) <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Vinagre</span>(GnomePackageRecipe):
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">loadRecipe(<span style="color:#e6db74">&#39;gnomepackage.recipe&#39;</span>)
+<span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Vinagre</span>(GnomePackageRecipe):
 
     name <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;vinagre&#39;</span>
     version <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;0.3&#39;</span>
 
-    buildRequires <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#39;GConf:devel&#39;</span>, <span style="color:#e6db74">&#39;ORBit2:devel&#39;</span>, <span style="color:#e6db74">&#39;desktop-file-utils:runtime&#39;</span>, <span style="color:#e6db74">&#39;gnutls:devel&#39;</span>, <span style="color:#e6db74">&#39;gtk-vnc:devel&#39;</span>, <span style="color:#e6db74">&#39;libglade:devel&#39;</span>]
+    buildRequires <span style="color:#f92672">=</span> [
+      <span style="color:#e6db74">&#39;GConf:devel&#39;</span>,
+      <span style="color:#e6db74">&#39;ORBit2:devel&#39;</span>,
+      <span style="color:#e6db74">&#39;desktop-file-utils:runtime&#39;</span>,
+      <span style="color:#e6db74">&#39;gnutls:devel&#39;</span>,
+      <span style="color:#e6db74">&#39;gtk-vnc:devel&#39;</span>,
+      <span style="color:#e6db74">&#39;libglade:devel&#39;</span>,
+    ]
     <span style="color:#e6db74">``</span><span style="color:#960050;background-color:#1e0010">`</span>
 
 Then it <span style="color:#f92672">is</span> a matter of executing:
