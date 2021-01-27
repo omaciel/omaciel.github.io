@@ -208,6 +208,15 @@ In [1]: from fauxfactory import FauxFactory In [2]: FauxFactory.generate_iplum()
     </item>
     
     <item>
+      <title>A Hamster, a Lynx and The Princess Bride\... What???</title>
+      <link>https://omaciel.github.io/posts/a-hamster-a-lynx-and-the-princess-bride-what-/</link>
+      <pubDate>Fri, 30 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/a-hamster-a-lynx-and-the-princess-bride-what-/</guid>
+      <description>Got a couple of interesting bits for you today, starting with some really great news from the Hamster Project, a time tracking application. My friend Tom wrote about his recent work decoupling the communication layer from the client and the back-end, which will now be handled by dbus. What that really means is that it will be easier to script against hamster and tap into the data that it captures. Here&amp;rsquo;s a simple code sample from Tom&amp;rsquo;s page:</description>
+    </item>
+    
+    <item>
       <title>Chiclete com Banana</title>
       <link>https://omaciel.github.io/posts/0714-chiclete-com-banana/</link>
       <pubDate>Thu, 31 Jan 2008 00:00:00 +0000</pubDate>
@@ -409,16 +418,6 @@ Something nice I read on www.stophiphop.de (got pointed there by a comment on ww
       <guid>https://omaciel.github.io/posts/a-fistfull-of-news-/</guid>
       <description>Been quite busy at work these days, as well as playing the host to my parents during the holidays. I did keep up with what was happening around the world, thanks to my G1 (I love this gadget!), and wanted to share a few nice nuggets.
  First of all, the birth of Lotte, the online translation editor! This new feature will help the Transifex guys deliver a fatal 1,2 punch combination in the fight against bad translation tools and processes!</description>
-    </item>
-    
-    <item>
-      <title>A Hamster, a Lynx and The Princess Bride\... What???</title>
-      <link>https://omaciel.github.io/posts/a-hamster-a-lynx-and-the-princess-bride-what-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/a-hamster-a-lynx-and-the-princess-bride-what-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1008&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Keep track of your time with Hamster&amp;rdquo;][/caption]
-Got a couple of interesting bits for you today, starting with some really great news from the Hamster Project, a time tracking application. My friend Tom wrote about his recent work decoupling the communication layer from the client and the back-end, which will now be handled by dbus. What that really means is that it will be easier to script against hamster and tap into the data that it captures.</description>
     </item>
     
     <item>
