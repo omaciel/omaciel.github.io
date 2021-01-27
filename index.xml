@@ -217,6 +217,17 @@ In [1]: from fauxfactory import FauxFactory In [2]: FauxFactory.generate_iplum()
     </item>
     
     <item>
+      <title>Adding Vinagre to Conary</title>
+      <link>https://omaciel.github.io/posts/adding-vinagre-to-conary-/</link>
+      <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/adding-vinagre-to-conary-/</guid>
+      <description>Tonight during our TriLUG meeting, Ken packaged Vinagre for the first time using Conary, the distributed software management system for Linux distributions. It took him literally no more than 5 minutes to write up the recipe, cook (package) it, and send it to the repository.
+
+Vinagre is a VNC client well integrated with GNOME , current being developed by Jonh Wendell. For those curious as to what the recipe for packaging it was, take a look:</description>
+    </item>
+    
+    <item>
       <title>0wn3d???</title>
       <link>https://omaciel.github.io/posts/0wn3d-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -554,17 +565,6 @@ The one thing that I&amp;rsquo;m most proud of however, is my most recent achiev
       <description>Se você tem um projeto hospedado no Google Code (ou acompanha o desenvolvimento de um projeto) e não quer criar um Google Group somente para receber notificações (e-mail, rss) de commits ou relatórios de suporte/erro, existe um novo recurso que foi adicionado recentemente:
  http://code.google.com/feeds/p/PROJETO/svnchanges/basic http://code.google.com/feeds/p/PROJETO/issueupdates/basic  No primeiro url, substitua PROJETO pelo nome do projeto que você deseja acompanhar.
 Depois é só adicionar o url no seu leitor de notícias preferido!</description>
-    </item>
-    
-    <item>
-      <title>Adding Vinagre to Conary</title>
-      <link>https://omaciel.github.io/posts/adding-vinagre-to-conary-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/adding-vinagre-to-conary-/</guid>
-      <description>Tonight during our TriLUG meeting, Ken packaged Vinagre for the first time using Conary, the distributed software management system for Linux distributions. It took him literally no more than 5 minutes to write up the recipe, cook (package) it, and send it to the repository.
-
-Vinagre is a VNC client well integrated with GNOME , current being developed by Jonh Wendell. For those curious as to what the recipe for packaging it was, take a look:</description>
     </item>
     
     <item>
