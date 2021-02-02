@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brno on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/brno/</link>
+    <description>Recent content in brno on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/brno/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>End of Year - 2015</title>
+      <link>https://omaciel.github.io/posts/1182-2015-end-of-year/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/1182-2015-end-of-year/</guid>
+      <description>Another year has gone by and I guess it is time to review the things I set out to do and grade myself on how well (or poorly) I fared. Here are some of my goals for 2015:
+Read 70 Books Grade: PASS
+Even though I had a very, very busy year at work, with many releases of Red Hat Satellite 5 and Red Hat Satellite 6 shipped to our customers, I managed to surpass my goal of reading 70 books, finishing the year with a whopping 79 books read!</description>
+    </item>
+    
+  </channel>
+</rss>
