@@ -60,55 +60,73 @@
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/migrando-para-o-google-code-1-/">Migrando para o Google Code \#1</a></h6>
+                  <h6><a href="https://omaciel.github.io/posts/pra-quem-voce-trabalha-/">Prá quem você trabalha?</a></h6>
                   <strong class="text-gray-dark">Jan 01, 0001</strong>
                 </div>
-                <div class="d-block text-truncate">Na semana passada eu tinha escrito no meu blog em Inglês sobre minha tentativa frustrada em migrar o meu projeto BillReminder para o Google Code. Bem, graças a algumas boas almas da Google, eu finalmente consegui migrar o projeto!
-Eu realmente tinha a expectativa de um processo completo e tranquilo mas (felizmente?) existem vários passos manuais que você deve efetuar antes de ter a mesma estrutura (hmmm&hellip; não igual, mas algo útil) da SourceForge.</div>
+                <div class="d-block text-truncate"></div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/minha-experiencia-nas-nacoes-unidas-/">Minha experiÃƒÂªncia nas NaÃƒÂ§ÃƒÂµes Unidas</a></h6>
+                  <h6><a href="https://omaciel.github.io/posts/que-lingua-falo-eu-/">Que lingua falo eu?</a></h6>
                   <strong class="text-gray-dark">Jan 01, 0001</strong>
                 </div>
-                <div class="d-block text-truncate">Como jÃƒÂ¡ havia mencionado antes, ontem tive a oportunidade de representar o Ubuntu linux em um simpÃƒÂ³sio nas NaÃƒÂ§ÃƒÂµes Unidas, organizado pelo departamento UNITAR. Junto com um representante da Novel, fui convidado a demonstrar o nosso sistema operacional e responder qualquer pergunta que surgissem durante o evento.
-Junto com meu novo amigo, Nathan Eckenrode que tive a oportunidade de conhecer hÃƒÂ¡ umas 3 semanas atrÃƒÂ¡s (ele acompanha meu blog em inglÃƒÂªs, e um dia me encontrou na hora do almoÃƒÂ§o perto do meu ex-trabalho), chegamos nas NaÃƒÂ§ÃƒÂµes Unidas perto das 9:30.</div>
+                <div class="d-block text-truncate">Para os interessados que notaram o meu sumiÃ§o este fim de semana, a minha &ldquo;gripe mutante&rdquo; estÃ¡ bem melhor e devo voltar ao trabalho amanhÃ£. Tentei ao mÃ¡ximo evitar o computador, e creio ter feito um bom trabalho, considerando que trabalho em vÃ¡rios projetos fora do meu trabalho profissional.
+Fiquei extremamente feliz ao ler um e-mail enviado Ã turma de TraduÃ§Ã£o do Ubuntu pelo Raul Pereira, sobre um documento que ele criou recentemente.</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/mini-entrevista-e-review-do-billreminder-/">Mini entrevista e review do BillReminder</a></h6>
+                  <h6><a href="https://omaciel.github.io/posts/receita-para-encontrar-um-string-que-precisa-ser-traduzi-/">Receita para encontrar um string que precisa ser traduzido</a></h6>
                   <strong class="text-gray-dark">Jan 01, 0001</strong>
                 </div>
-                <div class="d-block text-truncate">O Júlio Neto publicou uma mini entrevista que ele fez comigo pelo IRC outro dia e um review do BillReminder com direito a screencast e tudo! :) A versão é a 0.3 e não a mais recente, mas mesmo assim da para ver o potencial do programa. Bom saber que ele foi considerado uma parte importante do desktop dele. :) Valeu Júlio!</div>
+                <div class="d-block text-truncate">Alguem compartilhou um script que ajuda na hora de procurar o pacote que contem uma mensagem que precisa ser traduzida ou revisada. Crie um novo arquivo e cole o seguinte codigo:
+ #!/bin/bash string=&quot;^_:&quot; if [ &ldquo;$1&rdquo; != &quot;&quot; ] ; then string=$1 fi for i in /usr/share/locale-langpack/pt_BR/LC_MESSAGES/*.mo do if msgunfmt $i 2&gt; /dev/null | msggrep -T -e &ldquo;$string&rdquo; 2&gt;/dev/null | grep &ldquo;.&rdquo; ; then echo $i echo fi done</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/maquina-do-tempo-/">MÃƒÂ¡quina do Tempo</a></h6>
+                  <h6><a href="https://omaciel.github.io/posts/receita-ubuntu-dapper-midia-/">Receita Ubuntu Dapper MÃƒÂ­dia</a></h6>
                   <strong class="text-gray-dark">Jan 01, 0001</strong>
                 </div>
-                <div class="d-block text-truncate">Se eu tivesse uma mÃƒÂ¡quina do tempo e fosse dado a opÃƒÂ§ÃƒÂ£o de escolher 2 ÃƒÂ©pocas no passado para visitar e conhecer alguÃƒÂ©m, estas pessoas seriam, nesta ordem:
- Jesus Leonardo Da Vinci  E vocÃƒÂª???</div>
+                <div class="d-block text-truncate">Com o novo lanÃƒÂ§amento do Ubuntu Dapper, foram muitas as pessoas que iniciaram no mundo linux sem saber como configurar seu sistema para a melhor experiÃƒÂªncia possÃƒÂ­vel. Claro que a instalaÃƒÂ§ÃƒÂ£o padrÃƒÂ£o jÃƒÂ¡ possui a maioria das ferramentas e aplicativos que um usuÃƒÂ¡rio possivelmente vai precisar, mas existem certas tecnologias que, devido ÃƒÂ licenÃƒÂ§as um pouco mais restritivas (em relaÃƒÂ§ÃƒÂ£o ÃƒÂ sua distribuiÃƒÂ§ÃƒÂ£o, etc), nÃƒÂ£o sÃƒÂ£o instaladas de forma automÃƒÂ¡tica.</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/nagasaki-60-anos-depois-/">Nagasaki: 60 anos depois</a></h6>
+                  <h6><a href="https://omaciel.github.io/posts/red-hat-certified-engineer-dia-1-/">Red Hat Certified Engineer - Dia 1</a></h6>
                   <strong class="text-gray-dark">Jan 01, 0001</strong>
                 </div>
-                <div class="d-block text-truncate">Hoje marca um dia negro na histÃƒÂ³ria da humanidade, o dia que o aviÃƒÂ£o de guerra B-29 americano Bockscar despejou a &ldquo;Fat Man&rdquo;, uma bomba de plutÃƒÂ´nio sobre a cidade de Nagasaki, no JapÃƒÂ£o.
- &quot;O engenho de 2.34 metros de comprimento, e 1.52 metros de diÃƒÂ¢metro, de 4545 kg foi detonado a uma altitude de cerca de 550 metros sob a cidade&quot; [1]
- Com uma potÃƒÂªncia de mais de 25 kilotons, esta bomba foi responsÃƒÂ¡vel pela morte de mais de 40,000 pessoas, incluindo crianÃƒÂ§as, mulheres, e idosos!</div>
+                <div class="d-block text-truncate">Par quem nao sabe, estou em Boston fazendo o curso que me dara o certificado do Red Hat Linux para engenheiros (RHCE).Ã‚Â Cheguei aqui ontem a noite, e depois de pelejar um pouco pra' fazer meu laptop conectar no wireless access point, fui procurar algo de comer.
+Hoje, acoredi bem cedo e dirigi por 40 minutos para chegar na classe.Ã‚Â Ate' agora, estamos fazendo um monte de coisas bem noobie (instacao padrao, etc)&hellip;Ã‚Â Uma coisa que ficou bem claro pra' mim, e' que descobri a formula do sucesso do Red Hat:Ã‚Â Todo mundo por aqui bebe RH2O!</div>
+            </div>
+        </div>
+        
+        <div class="d-flex text-muted pt-3">
+            <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
+                <div class="d-flex justify-content-between">
+                  <h6><a href="https://omaciel.github.io/posts/relembrando-os-anos-dourados-do-videogame-/">Relembrando os anos dourados do videogame</a></h6>
+                  <strong class="text-gray-dark">Jan 01, 0001</strong>
+                </div>
+                <div class="d-block text-truncate">Eu nunca publiquei um vÃ­deo do YouTube em nenhum dos meus posts, mas este aqui fez muitas pessoas aqui no trabalho rolar de rir! EntÃ£o, para aqueles que como eu, passaram vÃ¡rias horas jogando o Super Mario Bros.</div>
+            </div>
+        </div>
+        
+        <div class="d-flex text-muted pt-3">
+            <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
+                <div class="d-flex justify-content-between">
+                  <h6><a href="https://omaciel.github.io/posts/reuniao-da-equipe-de-traducoes-do-gnome-brasil-/">Reunião da equipe de traduções do GNOME Brasil</a></h6>
+                  <strong class="text-gray-dark">Jan 01, 0001</strong>
+                </div>
+                <div class="d-block text-truncate">Na noite de outubro 16 de 2009 aconteceu a primeira reunião da equipe de traduções do GNOME Brasil já sobre a nova coordenação do Rodrigo Flores. Infelizmente perdi o início da reunião mas o Rodrigo fez um excelente trabalho em resumir os pontos discutidos e enviou para todos da lista de discussão. O que segue abaixo é o conteúdo deste e-mail, formatado por mim para (espero) melhor destacar os assuntos discutidos:</div>
             </div>
         </div>
         
@@ -148,13 +166,13 @@ Junto com meu novo amigo, Nathan Eckenrode que tive a oportunidade de conhecer h
     <span aria-hidden="true">&nbsp;&hellip;&nbsp;</span>
   </li>
   <li class="page-item">
-    <a class="page-link" href="/tags/portuguese/page/73/">73</a>
+    <a class="page-link" href="/tags/portuguese/page/53/">53</a>
   </li>
   <li class="page-item">
     <a href="/tags/portuguese/page/40/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
   </li>
   <li class="page-item">
-    <a href="/tags/portuguese/page/73/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    <a href="/tags/portuguese/page/53/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
   </li>
 </ul>
 
@@ -166,7 +184,8 @@ Junto com meu novo amigo, Nathan Eckenrode que tive a oportunidade de conhecer h
     
     </div>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script></body><footer class="blog-footer">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+</body><footer class="blog-footer">
     <p>Theme built by <a href="https://twitter.com/OgMaciel">@OgMaciel</a>.</p>
     <p>
       <a href="#">Back to top</a>
