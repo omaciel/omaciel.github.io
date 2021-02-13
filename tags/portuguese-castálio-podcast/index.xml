@@ -5,20 +5,48 @@
     <link>https://omaciel.github.io/tags/portuguese-cast%C3%A1lio-podcast/</link>
     <description>Recent content in portuguese, castálio, podcast on Og Maciel&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/portuguese-cast%C3%A1lio-podcast/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Mar 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/portuguese-cast%C3%A1lio-podcast/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Castálio Podcast - Guilherme Salgado: Canonical e Linaro</title>
-      <link>https://omaciel.github.io/posts/castalio-podcast-guilherme-salgado-canonical-e-linaro-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Castálio Podcast: Gabriel Falcão: Yipit</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-gabriel-falcao-yipit-/</link>
+      <pubDate>Sun, 18 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/castalio-podcast-guilherme-salgado-canonical-e-linaro-/</guid>
-      <description>O convidado de hoje é o Guilherme Salgado. Durante nosso bate-papo, conversamos sobre como que ele começou a usar computadores e Linux, sobre sua passagem pela companhia ASync e trabalhando no Launchpad, e sua ida para a Canonical, a companhia por trás da distribuição Ubuntu Linux! Também conversamos sobre o trabalho que ele tem feito na Linaro para melhorar e facilitar o desenvolvimento em dispositivos ARM, sobre integração contínua, suas aventuras no mundo de bodyboarding, nova experiência vivendo na Argentina e sobre as criticas que a Canonical tem sofrido nos últimos anos!</description>
+      <guid>https://omaciel.github.io/posts/castalio-podcast-gabriel-falcao-yipit-/</guid>
+      <description>A história do Gabriel é um excelente exemplo de como o mundo do software livre pode abrir as portas do mundo profissional para aqueles que são trabalhadores e competentes no que fazem! Começando pela universidade, quando o Gabriel escreveu o programa Guake para mostrar ao seu professor que haviam ferramentas bacanas para o GNOME, passando por sua estadia na Globo.com até chegar na Yipit em *New York* onde hoje trabalha com automatização de processos, este episódio é garantido de te deixar super animado (&amp;ldquo;ou eu não me chamo Raimundo Donato!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - Marcelo Hashimoto: Polly Twitter Client</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-marcelo-hashimoto-polly-twitter-client-/</link>
+      <pubDate>Sun, 22 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-marcelo-hashimoto-polly-twitter-client-/</guid>
+      <description>Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo deste ano! O convidado de hoje é o Marcelo Hashimoto, desenvolvedor do cliente de Twitter chamado Polly! Se você curte programar com Gtk e Python, ou tem interesse em conhecer um aplicativo específico para o seu sistem Linux para acessar o Twitter, então dê uma olhadinho no programa do Marcelo. Ultimamente o Polly tem atraído bastante atenção, especialmente depois de ter saído em sites como o OMG!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - Rodrigo Padula de Oliveira: UFRJ</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-rodrigo-padula-de-oliveira-ufrj-/</link>
+      <pubDate>Sun, 08 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-rodrigo-padula-de-oliveira-ufrj-/</guid>
+      <description>Olá pessoal e sejam muito bem-vindos ao primeiro episódio de 2012! Desta vez entrevistei o Rodrigo Padula, amigo de algum tempo pela internet nas traduções do projeto GNOME. O Rodrigo tem um currículo bastante extensivo trabalhando em vários dos projetos de software livre, e durante nosso bate-papo ele conta sobre como tudo começou. Usuário de Linux desde 1997, ele participou da formação e organização do Projeto Fedora no Brasil, participando de várias conferências e iniciativas visando o crescimento do projeto na América Latina.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - Rodrigo Novo: Conectiva Linux</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-rodrigo-novo-conectiva-linux-/</link>
+      <pubDate>Mon, 26 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-rodrigo-novo-conectiva-linux-/</guid>
+      <description>Olá pessoal e seja muito bem-vindo à este episódio de natal (e o último de 2011)! Dando continuidade à proposta de trazer mais uma entrevista com uma personalidade do Conectiva Linux, desta vez tenho o prazer de apresentar a vocês o Rodrigo Novo! Durante nosso bate-papo ele conta como que largou a faculdade para entrar no Conectiva Linux em 1997, trabalhando com o Aurélio &amp;ldquo;verde&amp;rdquo; Jargas, Marcelo Tosatti, entre outros na área de suporte, como que ele &amp;ldquo;graduou&amp;rdquo; para a equipe da distribuição, KDE 0.</description>
     </item>
     
     <item>
       <title>Castálio Podcast - João Fernando Costa Junior: Revista Espírito Livre</title>
       <link>https://omaciel.github.io/posts/castalio-podcast-joao-fernando-costa-junior-revista-espi-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/castalio-podcast-joao-fernando-costa-junior-revista-espi-/</guid>
       <description>O entrevistado deste episódio é o João Fernando Costa Junior, criador e mantenedor da Revista Espírito Livre, &amp;ldquo;uma publicação em formato digital, a ser distribuída em PDF, gratuita e com foco em tecnologia, cultura livre, Internet, sempre tendo como plano de fundo o iniciativas como o software livre.&amp;rdquo;
@@ -26,36 +54,9 @@ Durante o nosso bate-papo, tive a oportunidade de aprender sobre como que o proj
     </item>
     
     <item>
-      <title>Castálio Podcast - Marcelo Hashimoto: Polly Twitter Client</title>
-      <link>https://omaciel.github.io/posts/castalio-podcast-marcelo-hashimoto-polly-twitter-client-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/castalio-podcast-marcelo-hashimoto-polly-twitter-client-/</guid>
-      <description>Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo deste ano! O convidado de hoje é o Marcelo Hashimoto, desenvolvedor do cliente de Twitter chamado Polly! Se você curte programar com Gtk e Python, ou tem interesse em conhecer um aplicativo específico para o seu sistem Linux para acessar o Twitter, então dê uma olhadinho no programa do Marcelo. Ultimamente o Polly tem atraído bastante atenção, especialmente depois de ter saído em sites como o OMG!</description>
-    </item>
-    
-    <item>
-      <title>Castálio Podcast - Rodrigo Novo: Conectiva Linux</title>
-      <link>https://omaciel.github.io/posts/castalio-podcast-rodrigo-novo-conectiva-linux-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/castalio-podcast-rodrigo-novo-conectiva-linux-/</guid>
-      <description>Olá pessoal e seja muito bem-vindo à este episódio de natal (e o último de 2011)! Dando continuidade à proposta de trazer mais uma entrevista com uma personalidade do Conectiva Linux, desta vez tenho o prazer de apresentar a vocês o Rodrigo Novo! Durante nosso bate-papo ele conta como que largou a faculdade para entrar no Conectiva Linux em 1997, trabalhando com o Aurélio &amp;ldquo;verde&amp;rdquo; Jargas, Marcelo Tosatti, entre outros na área de suporte, como que ele &amp;ldquo;graduou&amp;rdquo; para a equipe da distribuição, KDE 0.</description>
-    </item>
-    
-    <item>
-      <title>Castálio Podcast - Rodrigo Padula de Oliveira: UFRJ</title>
-      <link>https://omaciel.github.io/posts/castalio-podcast-rodrigo-padula-de-oliveira-ufrj-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/castalio-podcast-rodrigo-padula-de-oliveira-ufrj-/</guid>
-      <description>Olá pessoal e sejam muito bem-vindos ao primeiro episódio de 2012! Desta vez entrevistei o Rodrigo Padula, amigo de algum tempo pela internet nas traduções do projeto GNOME. O Rodrigo tem um currículo bastante extensivo trabalhando em vários dos projetos de software livre, e durante nosso bate-papo ele conta sobre como tudo começou. Usuário de Linux desde 1997, ele participou da formação e organização do Projeto Fedora no Brasil, participando de várias conferências e iniciativas visando o crescimento do projeto na América Latina.</description>
-    </item>
-    
-    <item>
       <title>Castálio Podcast - Rudá Moura: Conectiva Linux</title>
       <link>https://omaciel.github.io/posts/castalio-podcast-ruda-moura-conectiva-linux-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/castalio-podcast-ruda-moura-conectiva-linux-/</guid>
       <description>Dando continuidade ao plano de trazer mais uma entrevista com um membro do Conectiva Linux, desta vez conversei com o Rudá Moura que trabalhou na área de suporte e empacotamento da distribuição! Durante o nosso bate-papo conversamos sobre como que entrar no Conectiva Linux foi para ele aquela famosa frase &amp;ldquo;estar no local certo, na hora certa!&amp;rdquo; Também falamos sobre como o Conectiva foi o equivalente da &amp;ldquo;Canonical Brasileira&amp;rdquo;, problemas comuns de suporte dos usuários e o mantra &amp;ldquo;Use o X Configurator&amp;rdquo;, as críticas que sofreram dos usuários brasileiros, rock stars, dia a dia no escritório.</description>
@@ -64,19 +65,19 @@ Durante o nosso bate-papo, tive a oportunidade de aprender sobre como que o proj
     <item>
       <title>Castálio Podcast: Alexandre Coster - Asobo Studio</title>
       <link>https://omaciel.github.io/posts/castalio-podcast-alexandre-coster-asobo-studio-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/castalio-podcast-alexandre-coster-asobo-studio-/</guid>
       <description>No episódio de hoje conversei com o Alexandre Coster, um Game Programmer trabalhando para a Asobo Studio em Bordeaux, na França em um projeto que ainda não foi anunciado para um console next generation. Durante os 60 minutos que batemos papo, conversamos sobre sua experiência vivendo com somente 550 euros por semana na Alemanha, como começou sua carrera em companhias de jogos, vivendo em Israel com um chefe Russo, se perdendo na Palestina, fazendo renderizador de jogos &amp;ldquo;no braço&amp;rdquo;, seu ódio pelo Eclipse, e muito mais!</description>
     </item>
     
     <item>
-      <title>Castálio Podcast: Gabriel Falcão: Yipit</title>
-      <link>https://omaciel.github.io/posts/castalio-podcast-gabriel-falcao-yipit-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Castálio Podcast - Guilherme Salgado: Canonical e Linaro</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-guilherme-salgado-canonical-e-linaro-/</link>
+      <pubDate>Mon, 31 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/castalio-podcast-gabriel-falcao-yipit-/</guid>
-      <description>A história do Gabriel é um excelente exemplo de como o mundo do software livre pode abrir as portas do mundo profissional para aqueles que são trabalhadores e competentes no que fazem! Começando pela universidade, quando o Gabriel escreveu o programa Guake para mostrar ao seu professor que haviam ferramentas bacanas para o GNOME, passando por sua estadia na Globo.com até chegar na Yipit em *New York* onde hoje trabalha com automatização de processos, este episódio é garantido de te deixar super animado (&amp;ldquo;ou eu não me chamo Raimundo Donato!</description>
+      <guid>https://omaciel.github.io/posts/castalio-podcast-guilherme-salgado-canonical-e-linaro-/</guid>
+      <description>O convidado de hoje é o Guilherme Salgado. Durante nosso bate-papo, conversamos sobre como que ele começou a usar computadores e Linux, sobre sua passagem pela companhia ASync e trabalhando no Launchpad, e sua ida para a Canonical, a companhia por trás da distribuição Ubuntu Linux! Também conversamos sobre o trabalho que ele tem feito na Linaro para melhorar e facilitar o desenvolvimento em dispositivos ARM, sobre integração contínua, suas aventuras no mundo de bodyboarding, nova experiência vivendo na Argentina e sobre as criticas que a Canonical tem sofrido nos últimos anos!</description>
     </item>
     
   </channel>

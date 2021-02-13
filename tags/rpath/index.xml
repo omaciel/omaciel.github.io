@@ -6,7 +6,240 @@
     <description>Recent content in rpath on Og Maciel&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Apr 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/rpath/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Feb 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/rpath/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Castálio Podcast: Og Maciel: Red Hat</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-og-maciel-red-hat-/</link>
+      <pubDate>Tue, 19 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-og-maciel-red-hat-/</guid>
+      <description>Passados 51 episódios, neste último sábado o Castálio Podcast completou 2 anos! Foram muitas entrevistas super divertidas, animadas e prá lá de interessantes com pessoas representando vários projetos e áreas de trabalho! Para comemorar, decidi atender aos pedidos de alguns ouvintes e fazer mais uma entrevista&amp;hellip; comigo mesmo! A primeira vez foi quando ainda não havia um formato definido e, para falar a verdade, eu não pesava que ia conseguir levar o projeto para frente por tanto tempo.</description>
+    </item>
+    
+    <item>
+      <title>Red Hat: Os Primeiros 3 Meses</title>
+      <link>https://omaciel.github.io/posts/red-hat-os-primeiros-3-meses-/</link>
+      <pubDate>Thu, 08 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/red-hat-os-primeiros-3-meses-/</guid>
+      <description>Este último dia 5 de fevereiro recebi a seguinte mensagem por e-mail:
+ Congratulations for reaching 90 days of service with Red Hat!
+ É difícil de acreditar que já se passaram 3 meses desde que eu comecei este novo capítulo na minha carreira! Meus dias têm sido preenchidos com tantas novidades que isso talvez ajude a explicar porque parece que foi somente ontem que eu sai da rPath para ingressar na equipe CloudForms QE aqui na Red Hat!</description>
+    </item>
+    
+    <item>
+      <title>Red Hat: The First 3 Months</title>
+      <link>https://omaciel.github.io/posts/red-hat-the-first-3-months-/</link>
+      <pubDate>Thu, 08 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/red-hat-the-first-3-months-/</guid>
+      <description>This past Feb. 5th I was greeted early in the morning with the following email:
+ Congratulations for reaching 90 days of service with Red Hat!
+ It is hard for me to believe that it has been 3 months already since I started this new chapter in my career! My days have been filled with so many new things that it may explain why it literally feels like it was only yesterday that I left rPath to join the CloudForms QE Team here at Red Hat!</description>
+    </item>
+    
+    <item>
+      <title>Looking For A Platform Engineer</title>
+      <link>https://omaciel.github.io/posts/looking-for-a-platform-engineer-/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/looking-for-a-platform-engineer-/</guid>
+      <description>[caption id=&amp;ldquo;attachment_1392&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Looking!&amp;quot;][/caption]
+My employer is currently looking for a Platform Engineer to join our team at our new office in Raleigh, NC! We have a great team working on some really cool and bleeding edge technology here, so if you have significant system administration experience, and have experience creating and maintaining RPMs as well as understanding their dependencies, then you may consider us! Check the full description for this role here and feel free to shoot me your CV.</description>
+    </item>
+    
+    <item>
+      <title>Feel Good Friday</title>
+      <link>https://omaciel.github.io/posts/feel-good-friday-/</link>
+      <pubDate>Fri, 25 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/feel-good-friday-/</guid>
+      <description>[caption id=&amp;ldquo;attachment_1379&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;180&amp;rdquo; caption=&amp;ldquo;Feel Good&amp;rdquo;][/caption]
+This is more of a &amp;ldquo;feel good&amp;rdquo; post, mostly for me! Through my life I have come across a fork on the road many times, and for the last 4+ years I have always chosen the path to the right. Even when the left side sometimes looked a bit more &amp;ldquo;paved&amp;rdquo; and less difficult to walk through, I still chose the right path! The reasons are many, but I think I can distill them into one single sentence: I believe!</description>
+    </item>
+    
+    <item>
+      <title>Foresight Linux 2.5.0 Release Candidate Galore!</title>
+      <link>https://omaciel.github.io/posts/foresight-linux-2-5-0-release-candidate-galore-/</link>
+      <pubDate>Wed, 09 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/foresight-linux-2-5-0-release-candidate-galore-/</guid>
+      <description>[caption id=&amp;ldquo;attachment_1363&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;Foresight Linux 2.5.0 RC&amp;rdquo;][/caption]
+It is with great pleasure that I announce the release of Foresight 2.5.0 RC! This time, we have updated images for GNOME, Xfce and KDE! Things are shaping up quite nicely and thanks to all the feedback we&amp;rsquo;ve received from our users, we should be releasing our GA images pretty soon!
+Well known for being a desktop operating system featuring an intuitive user interface and a showcase of the latest desktop software, this new release brings you the latest GNOME 2.</description>
+    </item>
+    
+    <item>
+      <title>Announcing Foresight Linux 2.5.0 ALPHA 2 GNOME Edition</title>
+      <link>https://omaciel.github.io/posts/announcing-foresight-linux-2-5-0-alpha-2-gnome-edition-/</link>
+      <pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/announcing-foresight-linux-2-5-0-alpha-2-gnome-edition-/</guid>
+      <description>Who said that lightening doesn&amp;rsquo;t strike twice on the same spot? I&amp;rsquo;m proud to announce the release of Foresight Linux 2.5.0 ALPHA 2 GNOME Edition!
+Once again, this alpha release is from our QA branch, and is intended mostly to receive feedback on brand new installs from end-users, specially in relation to the overall behavior of X.org on first boot! Obviously, if you&amp;rsquo;re already running Foresight Linux 2.5.0 ALPHA1, simply update your system from the command line: *sudo conary updateall*</description>
+    </item>
+    
+    <item>
+      <title>Disappointed With Dreamhost Private Server Service</title>
+      <link>https://omaciel.github.io/posts/disappointed-with-dreamhost-private-server-service-/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/disappointed-with-dreamhost-private-server-service-/</guid>
+      <description>[caption id=&amp;ldquo;attachment_1304&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Sad Face&amp;rdquo;][/caption]
+This year I decided to do something I&amp;rsquo;ve wanted to do for a very long time: get my own private Linux server! A place where I could have total control (i.e. root access) and be able to install or run anything I wanted! Better yet, I wanted a conary managed system that could leverage all the packaging that I have already done for Foresight Linux and be dead simple to maintain!</description>
+    </item>
+    
+    <item>
+      <title>Because Your Distro Should Be Cool!</title>
+      <link>https://omaciel.github.io/posts/because-your-distro-should-be-cool-/</link>
+      <pubDate>Mon, 24 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/because-your-distro-should-be-cool-/</guid>
+      <description>It is with my Community Manager hat and as a Linux enthusiast that I bring you this post about the Foresight Linux distribution, literally born and brewed where I work and filled to the brim with the technology developed at rPath. However, this is not yet another article about yet another Linux distribution with arguments about how great it is compared to other popular ones out there. No siree Bob! In fact, if you are happy with the platform or distribution that you are running, then kudos to you!</description>
+    </item>
+    
+    <item>
+      <title>When Hard Work Pays Off: rBuilder 5.8 for Linux and Windows</title>
+      <link>https://omaciel.github.io/posts/when-hard-work-pays-off-rbuilder-5-8-for-linux-and-windo-/</link>
+      <pubDate>Tue, 30 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/when-hard-work-pays-off-rbuilder-5-8-for-linux-and-windo-/</guid>
+      <description>It&amp;rsquo;s been a while since I last wrote anything here, mainly because I have been working very hard on a very cool project for work that I can now finally talk about it. `rPath &amp;lt;http://www.rpath.com&amp;gt;`__, the place where I have been working for the last 4+ years has just announced the release of rBuilder 5.8, bringing &amp;ldquo;model-driven, version-controlled system automation deeper into the enterprise with active inventory management and support for Windows&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Transifex Appliance 1.0 (Proteus) Release</title>
+      <link>https://omaciel.github.io/posts/transifex-appliance-1-0-proteus-release-/</link>
+      <pubDate>Fri, 15 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/transifex-appliance-1-0-proteus-release-/</guid>
+      <description>A newer version of the Transifex Appliance has been released with all the latest, juicy bits! In fact, this release is the mother of all releases with so many new features and goodies that it would take me a while to jot them down here! A few impressive nuggets are:
+ Brand New Translation Storage Engine QT (TS) translation file format support Source language file tracking over HTTP Translation file metadata auto-updating Clone language Non-English Source Languages Lotte: Multiple Source Languages, Suggestions, Keyboard Shortcuts, Translation Memory Application Programmable Interface  Can you believe that Transifex has reached the 1.</description>
+    </item>
+    
+    <item>
+      <title>Announcing: Foresight based Django Developer Kit Appliance RC1</title>
+      <link>https://omaciel.github.io/posts/announcing-foresight-based-django-developer-kit-applianc-/</link>
+      <pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/announcing-foresight-based-django-developer-kit-applianc-/</guid>
+      <description>[caption id=&amp;ldquo;attachment_1194&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Foresight Linux based Django Developer Kit Appliance&amp;rdquo;][/caption]
+If you remember one of my last posts, I wanted to eventually migrate my Django Developer Kit Appliance to use Foresight Linux as the underlying operating system&amp;hellip; and I am proud to announce that I have made huge strides toward this goal!
+Thanks to the guidance of some fellow rPathians, I managed to get an almost ready for production Django 1.</description>
+    </item>
+    
+    <item>
+      <title>Django Devel Kit Appliance 1.2.3</title>
+      <link>https://omaciel.github.io/posts/django-devel-kit-appliance-1-2-3-/</link>
+      <pubDate>Sat, 11 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/django-devel-kit-appliance-1-2-3-/</guid>
+      <description>[caption id=&amp;ldquo;attachment_1191&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Oops!&amp;quot;][/caption]
+No, this is not a repeat from yesterday&amp;rsquo;s post. Turns out there was another security release for Django yesterday (thanks Zygmunt for the heads up), so here&amp;rsquo;s the release of ï»¿Django Developer Kit Appliance 1.2.3.
+As always, choose from the following image types:
+ Amazon EC2 AMI Large (ami-ba996cd3) Amazon EC2 AMI Small (ami-a0996cc9) ISO x86 (SHA1 11811571ee8f8f2a0d7778c9e4275060de73f271) ISO x86_64 (SHA1 065b1c5dfa410cffeec9950d577cddd15f369bad) Raw Filesystem x86 (SHA1 141427d7c84449ccc7eacbee7d527b8ba6f7ca48) Raw Filesystem x86_64 (SHA1 482ecbbd2c177e3fdc33b18dc0ee65c83d681956) VMware ESX x86 (SHA1 10757fd1f0ec119fe236f3402bf38dfde25cb40a) VMware ESX x86 OVF 1.</description>
+    </item>
+    
+    <item>
+      <title>Django Developer Kit Appliance 1.2.2</title>
+      <link>https://omaciel.github.io/posts/django-developer-kit-appliance-1-2-2-/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/django-developer-kit-appliance-1-2-2-/</guid>
+      <description>[caption id=&amp;ldquo;attachment_1188&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Foresight Django Pony&amp;rdquo;][/caption]
+Today I&amp;rsquo;m releasing my ï»¿Django Developer Kit Appliance 1.2.2 due to the recent security release of Django 1.2.2. Other than a newer version of Django, you&amp;rsquo;ll also get newer versions of several packages already included by default in the appliance.
+I have been working hard (time permitting, off course) on migrating the appliance to a slim Foresight Linux base in order to upgrade the underlying python from 2.</description>
+    </item>
+    
+    <item>
+      <title>Translations.xfce.org is 1 year old</title>
+      <link>https://omaciel.github.io/posts/translations-xfce-org-is-1-year-old-/</link>
+      <pubDate>Tue, 17 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/translations-xfce-org-is-1-year-old-/</guid>
+      <description>[caption id=&amp;ldquo;attachment_1176&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Happy Birthday&amp;rdquo;][/caption]
+Received the following email this morning:
+ Last night our Transifex installation turned 1 year old. I think with 101 users and 4012 submissions in 45 languages it has been quite a step forward compared to the previous mailing list-based submission system. For that I&#39;d like to thank all the people involved, most noticeably Jannis for the initial setup, the Transifex guys for help and fixing bugs, Og for the appliance we&#39;ve been running for the last half year and of course the Translators with all their patience and effort to make it a success.</description>
+    </item>
+    
+    <item>
+      <title>Week in Review: May 24th â€&#34; May 28th, 2010</title>
+      <link>https://omaciel.github.io/posts/week-in-review-may-24th-e2-80-93-may-28th-2010-/</link>
+      <pubDate>Sat, 29 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/week-in-review-may-24th-e2-80-93-may-28th-2010-/</guid>
+      <description>ï»¿ï»¿Hereâ€™s what happened this week:
+The Maze Runner This past March I started a new routine to my Sunday mornings: shortly after breakfast with the kids, I flip my laptop open and start reading theÂ Books section[&amp;hellip;]
+Django Developer Kit 1.2.1 I have just released theÂ Django Developer Kit 1.2.1 appliance to match with the release ofÂ Django 1.2.1! Check thisÂ page for[&amp;hellip;]
+For The Win! Sunday I was lucky enough to have the chance of attending a book reading (well, a passage actually) byÂ Cory Doctorow!</description>
+    </item>
+    
+    <item>
+      <title>Django Developer Kit 1.2.1</title>
+      <link>https://omaciel.github.io/posts/django-developer-kit-1-2-1-/</link>
+      <pubDate>Tue, 25 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/django-developer-kit-1-2-1-/</guid>
+      <description>[caption id=&amp;ldquo;attachment_1038&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;117&amp;rdquo; caption=&amp;ldquo;Django&amp;rdquo;][/caption]
+I have just released the Django Developer Kit 1.2.1 appliance to match with the release of Django 1.2.1! Check this page for more information about this release!
+There are several ways for you to play with the Django Developer Kit appliance, so just head on down to the download page and pick from the following image types:
+ x86 Amazon Machine Image (EC2) x86 VMware (R) ESX Server Virtual Appliance x86 VMware (R) ESX Server Virtual Appliance OVF 0.</description>
+    </item>
+    
+    <item>
+      <title>Week in Review: May 17th â€&#34; May 21th, 2010</title>
+      <link>https://omaciel.github.io/posts/week-in-review-may-17th-e2-80-93-may-21th-2010-/</link>
+      <pubDate>Sat, 22 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/week-in-review-may-17th-e2-80-93-may-21th-2010-/</guid>
+      <description>ï»¿ï»¿Hereâ€™s what happened this week:
+ï»¿ï»¿
+Should you go to college straight out of high school? Over the weekend I came across an interesting article in theÂ New York Timescalled â€œPlan B: Skip Collegeâ€œ. According to theÂ Department of Education, â€œno more than half of those who began a four-year[&amp;hellip;]
+Django Developer Kit 1.2 Iâ€™m really excited to announce the release of myÂ Django Developer Kit 1.2! Setting up a Django-based project in the appliance is a piece of cake!</description>
+    </item>
+    
+    <item>
+      <title>Want people to work harder? Give them an innovation bonus!</title>
+      <link>https://omaciel.github.io/posts/want-people-to-work-harder-give-them-an-innovation-bonus-/</link>
+      <pubDate>Fri, 21 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/want-people-to-work-harder-give-them-an-innovation-bonus-/</guid>
+      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;240&amp;rdquo; caption=&amp;ldquo;Can Money Buy Your Productivity?&amp;quot;][/caption]
+In True Motivation, my friend Vinny pointed to a very interesting video byÂ Dan Pink, &amp;ldquo;author of several provocative, bestselling books about the changing world of work.&amp;ldquo;Â This video talks about how research has come up with key factors to make people happier, successful and fulfilled: Autonomy, Mastery and Purpose!
+Ok, this shouldn&amp;rsquo;t really shock people, but how about this nice little nugget: when it comes down to tasks that require cognitive skills, offering more money as an incentive does not yield good results!</description>
+    </item>
+    
+    <item>
+      <title>Django Developer Kit 1.2</title>
+      <link>https://omaciel.github.io/posts/django-developer-kit-1-2-/</link>
+      <pubDate>Tue, 18 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/django-developer-kit-1-2-/</guid>
+      <description>[caption id=&amp;ldquo;attachment_1038&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;117&amp;rdquo; caption=&amp;ldquo;Django&amp;rdquo;][/caption] I&amp;rsquo;m really excited to announce the release of my Django Developer Kit 1.2! Setting up a Django-based project in the appliance is a piece of cake! Some of the Django modules included are:
+ PIL=1.1.7-1-1 PyYAML=3.05-1-1 Pygments=1.3.1-1-1 bzr=2.0.0-1-1 bzrtools=2.0.1-1-1 cElementTree=1.0.5-1-1 coverage:source=3.3.1-2[] django-ajax-selects:source=r24_patched-2[] django-authopenid:source=0.9.6-1[] django-authority:source=0.4-1[] django-cache-memcached=1.2-1-1[is: x86] django-contact-form=r61-1-1[is: x86] django-db-mysql=1.2-1-1 django-db-sqlite3=1.2-1-1[is: x86] django-evolution=r165-1-1[is: x86] django-favorites=b145949-1-1[is: x86] django-filter=0.5.0-1-1[is: x86] django-notification=0.1.5-1-1[is: x86] django-pagination=1.0.5-1-1[is: x86] django-piston=0.2.2-1-1[is: x86] django-profile=r452-1-1[is: x86] django-ratings=9e32d33-1-1[is: x86] django-sorting=0.</description>
+    </item>
+    
+    <item>
+      <title>Week in Review: May 3rd - 7th, 2010</title>
+      <link>https://omaciel.github.io/posts/week-in-review-may-3rd-7th-2010-/</link>
+      <pubDate>Sat, 08 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/week-in-review-may-3rd-7th-2010-/</guid>
+      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;286&amp;rdquo; caption=&amp;ldquo;Week in Review&amp;rdquo;][/caption]
+ï»¿ï»¿Here&amp;rsquo;s what happened this week:
+ï»¿
+ Whatâ€™s new with Radio Tray?  http://www.ogmaciel.com/?p=1016Radio Tray, your favorite light weight online radio streaming application, has gone under some more development churn since its last release. Namely, there is now aÂ dbus interface to allow other applications to interact with it!   When the movie is better than the book  Over this past weekend I found just enough time to finish readingÂ Band of Brothers byÂ Stephen E.</description>
+    </item>
+    
+    <item>
+      <title>Django Developer Kit 1.2 Release Candidate 1</title>
+      <link>https://omaciel.github.io/posts/django-developer-kit-1-2-release-candidate-1-/</link>
+      <pubDate>Fri, 07 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/django-developer-kit-1-2-release-candidate-1-/</guid>
+      <description>I&amp;rsquo;m really excited to announce the release of my Django Developer Kit 1.2 RC1! The highlights for this release include the first Release Candidate for the upcoming Django 1.2, as well as a switch of the underlying platform, from CentOS to rPath Linux 2. All kinks have been worked out and setting up a Django-based project in the appliance is a piece of cake! Some of the Django modules included are:</description>
+    </item>
+    
     <item>
       <title>A Hamster, a Lynx and The Princess Bride\... What???</title>
       <link>https://omaciel.github.io/posts/a-hamster-a-lynx-and-the-princess-bride-what-/</link>
@@ -14,6 +247,426 @@
       
       <guid>https://omaciel.github.io/posts/a-hamster-a-lynx-and-the-princess-bride-what-/</guid>
       <description>Got a couple of interesting bits for you today, starting with some really great news from the Hamster Project, a time tracking application. My friend Tom wrote about his recent work decoupling the communication layer from the client and the back-end, which will now be handled by dbus. What that really means is that it will be easier to script against hamster and tap into the data that it captures. Here&amp;rsquo;s a simple code sample from Tom&amp;rsquo;s page:</description>
+    </item>
+    
+    <item>
+      <title>Help sponsor Mercurial development!</title>
+      <link>https://omaciel.github.io/posts/help-sponsor-mercurial-development-/</link>
+      <pubDate>Wed, 21 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/help-sponsor-mercurial-development-/</guid>
+      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;240&amp;rdquo; caption=&amp;ldquo;Mercurial is the bee&amp;rsquo;s knees&amp;rdquo;][/caption]
+Anyone who has ever added a project to BitBucket already knows what Mercurial is, but for those who have never heard about it, &amp;ldquo;it is a free, distributed source control managemt tool that can efficiently handle projects of any size and offers an easy and intuitive interface.&amp;rdquo; In other words, in the world of Distributed Version Control (Systems), or DVCS or short, Mercurial is the bee&amp;rsquo;s knees!</description>
+    </item>
+    
+    <item>
+      <title>Django Developer Kit Appliance: First Steps</title>
+      <link>https://omaciel.github.io/posts/django-developer-kit-appliance-first-steps-/</link>
+      <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/django-developer-kit-appliance-first-steps-/</guid>
+      <description>I&amp;rsquo;ll make it quick so I can go back to watching TV:
+Announcing my first attempt at a generic Django Developer Kit, a CentOS (powered by rPath&#39;s conary) based software appliance with all you&#39;d need to run a Django project.
+[caption id=&amp;ldquo;attachment_829&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Django Developer Kit Appliance&amp;rdquo;][/caption]
+The current images are built on the development stage, which means it includes the very latest Django 1.2 code line straight from the subversion repository.</description>
+    </item>
+    
+    <item>
+      <title>GNOME Developer Kit, follow up</title>
+      <link>https://omaciel.github.io/posts/gnome-developer-kit-follow-up-/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/gnome-developer-kit-follow-up-/</guid>
+      <description>Just wanted to update everyone who showed interest in the new release of GNOME Developer Kit I announced yesterday. Based on some preliminary statistics I collected in the (less than) last 24 hours, it seems that the VMware image type got the most download, followed closely by the installable ISO format. I guess that was due to VirtualBox being able to use *.vmdk files and some people opting for the free virtualization tool.</description>
+    </item>
+    
+    <item>
+      <title>GNOME 2.30 Translations for the Faint of Heart</title>
+      <link>https://omaciel.github.io/posts/gnome-2-30-translations-for-the-faint-of-heart-/</link>
+      <pubDate>Tue, 02 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/gnome-2-30-translations-for-the-faint-of-heart-/</guid>
+      <description>With the GNOME 2.30 release just around the corner, translators are feverishly working hard to get the desktop completely translated into a multitude of different languages! But unless you&amp;rsquo;re comfortable building the application you&amp;rsquo;re trying to translate on your own (or perhaps the entire desktop), you&amp;rsquo;re pretty much doing what I call &amp;ldquo;blind translations.&amp;rdquo;
+ 
+From Screenshots The good news is that you don&amp;rsquo;t have to do any compiling to play with the very latest GNOME applications!</description>
+    </item>
+    
+    <item>
+      <title>TriZPUG, Fabric, epdb, oh my!</title>
+      <link>https://omaciel.github.io/posts/trizpug-fabric-epdb-oh-my-/</link>
+      <pubDate>Fri, 29 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/trizpug-fabric-epdb-oh-my-/</guid>
+      <description>Yesterday I attended my first TriZPUG meeting to check out Kurt Grandis&#39; talk on Fabric, &amp;ldquo;a Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.&amp;rdquo;
+It was pretty cool to see a bunch of guys who share the same interests take some time on a Thursday to hang out, drink beers, and chat about python, django, zope, and other stuff. After the original talk was over and some of the other lightening talks that succeeded it was over, a couple of things became very clear to me:</description>
+    </item>
+    
+    <item>
+      <title>Xfce using Transifex</title>
+      <link>https://omaciel.github.io/posts/xfce-using-transifex-/</link>
+      <pubDate>Mon, 18 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/xfce-using-transifex-/</guid>
+      <description>In case you&amp;rsquo;ve missed it, the Xfce project has been using their own installation of Transifex to manage their translations online! Translators can now visit http://translations.xfce.org and keep up with the action!
+ 
+From Transifex v8.0 featutes I&amp;rsquo;ve been contributing with translations for the Brazilian Portuguese language for quite some time now, and have been a strong supporter for the Transifex project as well, so I was thrilled to learn they were &amp;ldquo;working together&amp;rdquo;!</description>
+    </item>
+    
+    <item>
+      <title>Ditching MySQL for PostgreSQL</title>
+      <link>https://omaciel.github.io/posts/ditching-mysql-for-postgresql-/</link>
+      <pubDate>Sat, 12 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/ditching-mysql-for-postgresql-/</guid>
+      <description>In order to better follow what the Transifex guys are doing with their development and deployment of Transifex.net, I have finally made the switch from MySQL to PostgreSQL for the Transifex Appliance. Luckly I was able to corral diegobz during my lunch break and together we worked out the necessary changes to get things to work (and caught and fixed a minor issue along the way too!).
+In the meantime, the appliance seems to be getting some nice and steady traffic, which I suspect will only increase, specially when a new version of Transifex hits the streets.</description>
+    </item>
+    
+    <item>
+      <title>RHEL 5 Appliance sneak peak</title>
+      <link>https://omaciel.github.io/posts/rhel-5-appliance-sneak-peak-/</link>
+      <pubDate>Thu, 10 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/rhel-5-appliance-sneak-peak-/</guid>
+      <description>I&amp;rsquo;ve already mentioned on my Twitter account about our latest feat here at rPath, namely, &amp;ldquo;rPath Expands Operating System Coverage with Red Hat Enterprise Linux 4 and 5.&amp;rdquo; But the more I play with our technology, the more gaga I get at how simple we can make things!
+So today I built a plain vanilla appliance based on the Red Hat Enterprise Linux Server 5 withjust enough operating system and launched it on VMware vSphere 4.</description>
+    </item>
+    
+    <item>
+      <title>My Own Personal Translation Portal in the Cloud</title>
+      <link>https://omaciel.github.io/posts/my-own-personal-translation-portal-in-the-cloud-/</link>
+      <pubDate>Fri, 04 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/my-own-personal-translation-portal-in-the-cloud-/</guid>
+      <description>Had some time today during lunch to work on the Transifex Appliance and decided to play with the newly added feature of supporting subversion over https. So I launched thedevel EC2 instance on Amazon Web Service and proceeded to add PCMan File Manager so that I could translate it online. Before you ask, yes: I do have commit access to the project and could have checked out the code locally and done the work as I usually do, but that&amp;rsquo;s not fun!</description>
+    </item>
+    
+    <item>
+      <title>What do Moblin, Xfce, Fedora plus a few other projects have in common?</title>
+      <link>https://omaciel.github.io/posts/what-do-moblin-xfce-fedora-plus-a-few-other-projects-hav-/</link>
+      <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/what-do-moblin-xfce-fedora-plus-a-few-other-projects-hav-/</guid>
+      <description>Just to follow up on one of my earlier messages to Twitter/Identi.ca today, here&amp;rsquo;s a little trivia for you:
+ &amp;quot;What do Moblin, Xfce, Fedora plus a few other projects have in common? They all use Transifex for their translations!&amp;quot;
+ There&amp;rsquo;s quite a few other projects out there already toying with Transifex to see if it fits their needs too, which goes to show that the word is getting out about the benefits of using it as a platform for managing translations.</description>
+    </item>
+    
+    <item>
+      <title>Foresight Linux quickie</title>
+      <link>https://omaciel.github.io/posts/foresight-linux-quickie-/</link>
+      <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/foresight-linux-quickie-/</guid>
+      <description>For those of you out there who are Foresight Linux users wondering when the next major software update will hit the stable branch, your wait is almost over! We&amp;rsquo;ve been feverishly making all the latest bits to play nice with each other so that we can also release newer ISO images of what will be Foresight 2.1.2. Some of the issues we&amp;rsquo;re facing right now are:
+ Issues with latest *goocanvas/pycairo mess [0][1][2]; Epiphany issues with latest WebKit in x86_64; Exotic side effects of kernel changes that make audio CDs not easilly playable (not a Foresight exclusive issue); Mono is somehow partly busted (part of gnome bindings) in x86_64  hits latest banshee;   Getting Anaconda to play nicely with newer kernel drivers for some motherboards;  Some of the cool things we&amp;rsquo;re cooking in the development branch are: latest KDE, GNOME, Chromium/Firefox/Opera web browser, gst streamer bits, latest kernel, Banshee 1.</description>
+    </item>
+    
+    <item>
+      <title>To the Transifex Appliance users out there</title>
+      <link>https://omaciel.github.io/posts/to-the-transifex-appliance-users-out-there-/</link>
+      <pubDate>Fri, 16 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/to-the-transifex-appliance-users-out-there-/</guid>
+      <description>Some time around the middle of 2008 I was asked if I would be interested in joining the very young QA department for rPath. I had already been working as a software engineer for them since late 2006, spending a larger chunk of my time working on a single project and not being able to experiment with the cool technology we were developing outside of my project. Somehow the idea of doing QA felt very appealing to me as I would then be able to see, first hand, what type of products we were publishing, as well as experience what our customers and users were going through.</description>
+    </item>
+    
+    <item>
+      <title>SmÃ¶rgÃ¥sbord News for September 2009</title>
+      <link>https://omaciel.github.io/posts/smorgasbord-news-for-september-2009-/</link>
+      <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/smorgasbord-news-for-september-2009-/</guid>
+      <description>It&amp;rsquo;s been a while since I last wrote anything on my blog so here are some interesting nuggets:
+ I&amp;rsquo;ve been house hunting for the last 3-4 months and I can honestly say that it is a very intense experience! There are so many things to learn and remember and so many different things to consider! Wouldn&amp;rsquo;t be nice if you knew right up front all the costs and fees involved in purchasing a house, the same way you know how much it costs to purchase a pair of sneakers (cost of sneakers plus sales tax)?</description>
+    </item>
+    
+    <item>
+      <title>Get your oven mittens on because Transifex Pyro is out!</title>
+      <link>https://omaciel.github.io/posts/get-your-oven-mittens-on-because-transifex-pyro-is-out-/</link>
+      <pubDate>Sun, 30 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/get-your-oven-mittens-on-because-transifex-pyro-is-out-/</guid>
+      <description>Last weekend the Indifex developers released the new version of Transifex, &amp;ldquo;anÂ open service allowing people toÂ collaboratively translate software, documentation and other types of projects.&amp;rdquo; Codenamed &amp;ldquo;Pyro&amp;quot; (all releases are named after a X-Men villains), Transifex 0.7 has a pretty lengthy list of new features and bug fixes to make any translator worth his/her salt cry with joy!
+The one feature sure to turn people&amp;rsquo;s head is the ability to do their translations online using their Lotte Translation Editor.</description>
+    </item>
+    
+    <item>
+      <title>I got your latest GNOME right here!</title>
+      <link>https://omaciel.github.io/posts/i-got-your-latest-gnome-right-here-/</link>
+      <pubDate>Thu, 30 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/i-got-your-latest-gnome-right-here-/</guid>
+      <description>Just wanted to re-enforce what Zhang said earlier today about the bleeding edge GNOME Developer&amp;rsquo;s Kit, now with extra sauce!
+What is it? It is a continuous build of GNOME packages all bundled up into a distribution (in this case, Foresight Linux) and distributed in a few different formats, such as ISO and VMware.
+
+&amp;quot;What&amp;rsquo;s so special about it&amp;quot;, you ask? Is it the fact that different image types can be generated at will?</description>
+    </item>
+    
+    <item>
+      <title>Thanks a Lotte! Transifex development in full motion!</title>
+      <link>https://omaciel.github.io/posts/thanks-a-lotte-transifex-development-in-full-motion-/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/thanks-a-lotte-transifex-development-in-full-motion-/</guid>
+      <description>I&amp;rsquo;m back from GUADEC 2009 (a blog post dedicated to this will be posted soon, I promise) and am now trying to get caught up with everything that has happened at work and projects I follow. Manage to spend some time today to check what&amp;rsquo;s new with the Transifex project and am very impressed with the direction it is going.
+
+What you see above is the new tool/feature being added for inline, online translation of projects, codenamed Lotte!</description>
+    </item>
+    
+    <item>
+      <title>Announcing the Transifex Appliance</title>
+      <link>https://omaciel.github.io/posts/announcing-the-transifex-appliance-/</link>
+      <pubDate>Wed, 20 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/announcing-the-transifex-appliance-/</guid>
+      <description>Does your role within a project have you asking the following questions?
+ How do I provide an interface for translators to submit translations to multiple projects, regardless of the type of the underlying VCS? How do I reduce the overhead a project maintainer usually undertakes to administrate accounts for translators? How do I help translators do more by eliminating the need to subscribe to each VCS and learn its commands and tricks?</description>
+    </item>
+    
+    <item>
+      <title>Foresight Linux 2.1.1 is out and about!</title>
+      <link>https://omaciel.github.io/posts/foresight-linux-211-is-out-and-about-/</link>
+      <pubDate>Fri, 15 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/foresight-linux-211-is-out-and-about-/</guid>
+      <description>It is with great pleasure that I announce the release of Foresight 2.1.1. Well known for being a desktop operating system featuring an intuitive user interface and a showcase of the latest desktop software, this new release brings you the latest GNOME 2.26.1 release, a newer Linux kernel 2.6.29, a revamped notification area, and a ton of Xorg improvements!
+As always, you can read the complete release notes for a detailed list of all changes.</description>
+    </item>
+    
+    <item>
+      <title>To my fallen comrades</title>
+      <link>https://omaciel.github.io/posts/to-my-fallen-comrades-/</link>
+      <pubDate>Sat, 10 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/to-my-fallen-comrades-/</guid>
+      <description>Quote:
+ &amp;quot;Life is never more fun than when you&amp;rsquo;re the underdog competing against the giants.&amp;quot;
+ Through the years our relationship changed and as with a good wine (I want to believe) it improved. Some of you became really good friends to me and it was painful for me to watch you pack and leave. I can assure you that you&amp;rsquo;ll be missed...
+Hang in there and may your 2009 turn out to be the beginning of a great and new adventure!</description>
+    </item>
+    
+    <item>
+      <title>Usando o Dropbox com o Openbox</title>
+      <link>https://omaciel.github.io/posts/usando-o-dropbox-com-o-openbox-/</link>
+      <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/usando-o-dropbox-com-o-openbox-/</guid>
+      <description>Dando continuidade ao post do Vladimir Melo, gostaria de compartilhar minha experiência usando o programa Dropbox.
+Mesmo sendo um usuário do GNU/Linux por tanto tempo, foi somente 2 anos atrás que comecei a usá-lo o tempo todo. Como eu antes trabalhava como um desenvolvedor de .NET e Oracle durante o dia para o Departamento de Educação da cidade de New York, eu tinha um ambiente padrão de desenvolvedor instalado em meu sistema e nada mais.</description>
+    </item>
+    
+    <item>
+      <title>Servidor de músicas Bailout MT-Daapd</title>
+      <link>https://omaciel.github.io/posts/servidor-de-musicas-bailout-mt-daapd-/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/servidor-de-musicas-bailout-mt-daapd-/</guid>
+      <description>No finalzinho do ano passado eu passei alguns dias trabalhando para configurar um servidor de músicas bem simples para usar em casa. Como eu estou sempre fazendo algo maluco no meu desktop/laptop que eventualmente sempre me leva a re-instalar o meu sistema operacional, eu estou constantemente movendo meus arquivos de música entre computadores e discos externos. Quando você tem uma coleção de tamanho considerado, este exercício se torna um pé no saco.</description>
+    </item>
+    
+    <item>
+      <title>Bailout MT-Daapd Appliance</title>
+      <link>https://omaciel.github.io/posts/bailout-mt-daapd-appliance-/</link>
+      <pubDate>Sat, 06 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/bailout-mt-daapd-appliance-/</guid>
+      <description>For the past few days I&amp;rsquo;ve been working on setting up a minimalistic music server for home. As I am always doing some crazy things to my desktop/laptop that eventually leads me to re-install my operating system, I find myself constantly moving music files between computers and external media. When you have a decent sized music library, this excercise starts to become a major pain. That&amp;rsquo;s how I came up with the idea of creating a media server using mt-daapd as my tool of choice.</description>
+    </item>
+    
+    <item>
+      <title>News Update - Dec. 04, 2008</title>
+      <link>https://omaciel.github.io/posts/news-update-dec-04-2008-/</link>
+      <pubDate>Fri, 05 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/news-update-dec-04-2008-/</guid>
+      <description>Built a MT-Daapd Linux appliance to share my music at home. Installed it in a machine with 1GB of RAM and am now as happy as I can be. The whole thing weighs in at 237MB (I&amp;rsquo;ve included vim, openssh, libogg plus a few other nuggets) and off course everything is managed by the awesome conary technology. I&amp;rsquo;ve also added ushare (upnp support) and am hoping to make it so that sharing videos and music can be all done via a web interface.</description>
+    </item>
+    
+    <item>
+      <title>Experimente a versão Openbox 3.4.8-RC1</title>
+      <link>https://omaciel.github.io/posts/experimente-a-versao-openbox-348-rc1-/</link>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/experimente-a-versao-openbox-348-rc1-/</guid>
+      <description>Se você curte o Openbox e quer brincar com a versão 3.4.8 RC1, faça o download aqui: http://icculus.org/openbox/releases/openbox-3.4.8-rc1.tar.gz. Note que você vai ter de fazer uma modificação no obconf substituindo &amp;lsquo;obrender-3.0&amp;rsquo; e &amp;lsquo;obparser-3.0&amp;rsquo; por &amp;lsquo;obrender-4.0&amp;rsquo; e &amp;lsquo;obparser-4.0&amp;rsquo; respectivamente no arquivo configure.ac.
+Ou se você usar uma distribuição baseada no systema conary, existe uma versão empacotada diretamente do repositório git que você pode instalar executando o comando sudo conary update openbox=foresightlinux.rpath.org@fl:2-devel.</description>
+    </item>
+    
+    <item>
+      <title>Try the upcoming Openbox 3.4.8</title>
+      <link>https://omaciel.github.io/posts/try-the-upcoming-openbox-348-/</link>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/try-the-upcoming-openbox-348-/</guid>
+      <description>if you like Openbox and want to play with the upcoming 3.4.8 version, download the release candidate 1 here: http://icculus.org/openbox/releases/openbox-3.4.8-rc1.tar.gz. Keep in mind that you&amp;rsquo;ll have to patch obconf by basically replacing &amp;lsquo;obrender-3.0&amp;rsquo; and &amp;lsquo;obparser-3.0&amp;rsquo; to &amp;lsquo;obrender-4.0&amp;rsquo; and &amp;lsquo;obparser-4.0&amp;rsquo; respectively in the configure.ac file.
+Or you use a conary-based system, there is a version packaged directly from their git repository which you can install by running sudo conary update openbox=foresightlinux.rpath.org@fl:2-devel.</description>
+    </item>
+    
+    <item>
+      <title>BarCamp Raleigh 2008</title>
+      <link>https://omaciel.github.io/posts/barcamp-raleigh-2008-/</link>
+      <pubDate>Thu, 31 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/barcamp-raleigh-2008-/</guid>
+      <description>This weekend I&amp;rsquo;ll be attending BarCamp Raleigh for the second year in a row. Together with a couple of fellow rPathians, I&amp;rsquo;m planning to pitch in the following talks:
+ Building GNU/Linux appliances and deploying them in the clouds How to participate and contribute with open source projects like GNOME, KDE, XFCE, Openbox, etc  If you&amp;rsquo;re one of the lucky ones who managed to register in time for the event, tomorrow there will be a get together (think drinks, snacks and all the trilug geeks you can fit in a bar) at Tyler&amp;rsquo;s Tap Room (map).</description>
+    </item>
+    
+    <item>
+      <title>Building a GNU/Linux Appliance: Step 1</title>
+      <link>https://omaciel.github.io/posts/building-a-gnulinux-appliance-step-1-/</link>
+      <pubDate>Wed, 30 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/building-a-gnulinux-appliance-step-1-/</guid>
+      <description>As some of you may know, I&amp;rsquo;ve been doing a great deal of testing for rBuilder Online, rPath&amp;rsquo;s online community service for all your GNU/Linux appliances needs. As a QA Enginner I have a chance to play with the most innovative technologies we create (and dare I say some of the coolest things in the system/package management world?) before it hits the general public.
+It is because of this work and my recent super involvement with our products that I decided to create a videocast on how to create a virtual GNU/Linux appliance using rBuilder Online.</description>
+    </item>
+    
+    <item>
+      <title>Forward</title>
+      <link>https://omaciel.github.io/posts/forward-/</link>
+      <pubDate>Thu, 17 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/forward-/</guid>
+      <description>Yesterday&amp;rsquo;s news about the Suse Appliance Program had me grinning all morning long&amp;hellip; and I just had to forward what my co-worker wrote:
+ Billy Marshall, CEO, rPath (2006): The Standard OS is Virtually Gone Nat Friedman, CTO, Novell (2008): The Standalone OS is Dead Indeed, weâ€™re flattered.
+ Yes, indeed!</description>
+    </item>
+    
+    <item>
+      <title>Apresentando o Windmill Appliance</title>
+      <link>https://omaciel.github.io/posts/apresentando-o-windmill-appliance-/</link>
+      <pubDate>Mon, 14 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/apresentando-o-windmill-appliance-/</guid>
+      <description>Tenho um grande orgulho em apresentar o lançamento do Windmill Appliance! Construido com a tecnologia inovadora da rPath, está disponível para download como um ISO assim como também uma imagem VMWare para a sua alegria.
+&amp;quot;Mas para que exatamente serve este windmill appliance?&amp;quot;, você pergunta. Que bom que você perguntou&amp;hellip; O Windmill é um framework de testes em AJAX para interfaces web de código livre. Pelos últimos meses eu tenho usado e abusado deste software para estar apropriadamente a interface web de um de nossos produtos, e os resultados tem sido muito agradaveis.</description>
+    </item>
+    
+    <item>
+      <title>The Windmill Appliance</title>
+      <link>https://omaciel.github.io/posts/the-windmill-appliance-/</link>
+      <pubDate>Mon, 14 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/the-windmill-appliance-/</guid>
+      <description>I&amp;rsquo;m proud to announce the release of the Windmill Appliance! Built with the technology provided by rPath, it is currently available as a downloadable installable ISO as well as a VMWare image for you pleasure.
+Now, just what is the windmill appliance for, you may ask? Glad you did&amp;hellip; Windmill is an Open Source AJAX Web UI Testing framework. For the last couple of months I have relied heavily on this software to properly test the web UI of one of our products, and the results have been quite pleasant.</description>
+    </item>
+    
+    <item>
+      <title>ApresentaÃ§Ã£o ao Planeta Mandriva Brasil</title>
+      <link>https://omaciel.github.io/posts/apresentacao-ao-planeta-mandriva-brasil-/</link>
+      <pubDate>Sat, 12 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/apresentacao-ao-planeta-mandriva-brasil-/</guid>
+      <description>Fui gentilmente convidado a participar do Planeta Mandriva Brasil, e pensei: Por que nÃ£o me apresentar entÃ£o?
+Para os que nÃ£o me conhecem, meu nome Ã© Og Maciel e moro na Carolina do Norte, USA desde 1991. Sou formado em Engenharia GenÃ©tica e tenho vÃ¡rios cursos e certificados na Ã¡rea de GNU/Linux, sendo o RHCE uma delas. Sou casado hÃ¡ 7 anos e pai de duas filhas.
+Minha participaÃ§Ã£o no mundo de software livre pode ser traduzida pelos seguintes itens:</description>
+    </item>
+    
+    <item>
+      <title>Google Highly Open Participation Contest e TraduÃ§Ãµes</title>
+      <link>https://omaciel.github.io/posts/google-highly-open-participation-contest-e-traducoes-2-/</link>
+      <pubDate>Sat, 29 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/google-highly-open-participation-contest-e-traducoes-2-/</guid>
+      <description>Se vocÃª estÃ¡ participando do Google Highly Open Participation Contest e estÃ¡ ajudando com o processo de traduÃ§Ãµes, ou estÃ¡ procurando por uma forma garantida de testar suas traduÃ§Ãµes com o GNOME mais recente (ainda em desenvolvimento), entÃ£o vÃ¡ buscar sua cÃ³pia do GNOME Developer Kit agora!
+VocÃª poderÃ¡ entÃ£o baixar o catÃ¡logo de mensagens para a aplicaÃ§Ã£o que vocÃª deseja traduzir (no meu caso eu baixei o arquivo do Empathy) para o seu idioma e use o poEdit (jÃ¡ incluÃ­do) para mandar bala na sua traduÃ§Ã£o.</description>
+    </item>
+    
+    <item>
+      <title>Google Highly Open Participation Contest and Translations</title>
+      <link>https://omaciel.github.io/posts/google-highly-open-participation-contest-and-translation-/</link>
+      <pubDate>Wed, 19 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/google-highly-open-participation-contest-and-translation-/</guid>
+      <description>If you&amp;rsquo;re participating in the Google Highly Open Participation Contest and is involved with the translation process, or just want a sure way to test your translations with the latest GNOME, then go get your copy of the GNOME Developer Kit now!
+You could then download the message catalog file for the application you want to translate (in my case I got the Brazilian Portuguese file for Empathy) to your language and use poEdit (already included) to work on your translation.</description>
+    </item>
+    
+    <item>
+      <title>Foresight and Conary Updates</title>
+      <link>https://omaciel.github.io/posts/foresight-and-conary-updates-/</link>
+      <pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/foresight-and-conary-updates-/</guid>
+      <description>First off, for those participating of the Google Highly Open Participation Contest, get your GNOME Developer Kit now! Download the VMWare image or the DVD and start hacking today! There will be continuous builds (the plan is to have them daily) so that you&amp;rsquo;ll always have the freshest GNOME code to play with. For the translators out there, I&amp;rsquo;ve recommended the inclusion of poEdit, intltool, translate-toolkit and gettext, all latest versions available.</description>
+    </item>
+    
+    <item>
+      <title>Foresight Linux KDE Edition: The start of the odyssey!</title>
+      <link>https://omaciel.github.io/posts/foresight-linux-kde-edition-the-start-of-the-odyssey-/</link>
+      <pubDate>Wed, 14 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/foresight-linux-kde-edition-the-start-of-the-odyssey-/</guid>
+      <description>As I mentioned in my previous post, I decided to give KDE a chance on my home system. For the last 5 days I&amp;rsquo;ve been neck deep in KDE land, with some fairly minor trips to non-KDE applications when I can&amp;rsquo;t figure out how to get something done (more on the soon).
+The first step was to download the brand spanking alpha ISO for Foresight Linux KDE Edition (x86 here and x86_64 here) and bring it home.</description>
+    </item>
+    
+    <item>
+      <title>Foresight Linux no The Linux Link Tech Show</title>
+      <link>https://omaciel.github.io/posts/foresight-linux-no-the-linux-link-tech-show-/</link>
+      <pubDate>Thu, 08 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/foresight-linux-no-the-linux-link-tech-show-/</guid>
+      <description>Escute o Ken Vandine falar sobre a futura versÃ£o 2.0 do Foresight Linux, novos &amp;ldquo;sabores&amp;rdquo; com KDE e XFCE , Conary, GNOME, Ubuntu, traduÃ§Ãµes e muito mais no The Linux Link Tech Show. (EpisÃ³dio #218, em InglÃªs)</description>
+    </item>
+    
+    <item>
+      <title>Foresight Linux on The Linux Link Tech Show</title>
+      <link>https://omaciel.github.io/posts/foresight-linux-on-the-linux-link-tech-show-/</link>
+      <pubDate>Thu, 08 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/foresight-linux-on-the-linux-link-tech-show-/</guid>
+      <description>Listen to Ken Vandine talk about Foresight Linux&#39;s upcoming 2.0 version, new KDE and XFCE &amp;ldquo;flavors&amp;rdquo;, Conary, GNOME, Ubuntu, translations and more at The Linux Link Tech Show. (Episode #218)</description>
+    </item>
+    
+    <item>
+      <title>Foresight Linux installation in 7 minutes!</title>
+      <link>https://omaciel.github.io/posts/foresight-linux-installation-in-7-minutes-/</link>
+      <pubDate>Wed, 24 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/foresight-linux-installation-in-7-minutes-/</guid>
+      <description>That is what the new version of Foresight Linux will offer with its new forthcoming version 2! I heard the news from Ken (Foresight&amp;rsquo;s leader and co-worker) last night and it has been confirmed by Elliot, our Anaconda tamer. Obviously your installation time may vary depending on your system, but I&amp;rsquo;m fairly sure they&amp;rsquo;ve used a standard PC for this. Another worthy mention is the addition of PackageKit as the graphical interface for our Conary package management system and we will definitely make a big splash with the addition of the Splashy boot splash!</description>
+    </item>
+    
+    <item>
+      <title>Instale o Foresight Linux em 7 minutos!</title>
+      <link>https://omaciel.github.io/posts/instale-o-foresight-linux-em-7-minutos-/</link>
+      <pubDate>Wed, 24 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/instale-o-foresight-linux-em-7-minutos-/</guid>
+      <description>Isso Ã© o que vocÃª pode esperar da nova versÃ£o do Foresight Linux que estÃ¡ por vir nos prÃ³ximos dias! Eu escutei a noticia do Ken (lider do Foresight e meu companheiro de trabalho) ontem a noite e confirmado mais tarde pelo Elliot, nosso domador do Anaconda. Obviamente seu tempo de instalaÃ§Ã£o vai variar dependendo do seu sistema, mas estou bem seguro que eles usaram um sistema padrÃ£o nestes testes. Outra novidade importante Ã© a adiÃ§Ã£o do gerente de iniciaÃ§Ã£o Splashy e o PackageKit, nossa interface grÃ¡fica para o sistema de gerenciamento de pacotes Conary.</description>
+    </item>
+    
+    <item>
+      <title>All you ever wanted to know about Conary and was afraid of asking</title>
+      <link>https://omaciel.github.io/posts/all-you-ever-wanted-to-know-about-conary-and-was-afraid-/</link>
+      <pubDate>Tue, 16 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/all-you-ever-wanted-to-know-about-conary-and-was-afraid-/</guid>
+      <description>Ken has just announced the very first Conary BOF to be held at rPath this upcoming Oct. 23! If you want to learn all there is to know about the hottest technology out there, come over and talk to us!</description>
+    </item>
+    
+    <item>
+      <title>Milestones and Events</title>
+      <link>https://omaciel.github.io/posts/milestones-and-events-/</link>
+      <pubDate>Wed, 03 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/milestones-and-events-/</guid>
+      <description>Quick post to mention a couple of personal milestones and events:
+ Today is my 1-year anniversary at rPath. It also marks 1 year since I stopped doing work with VB.NET/C# and PL/SQL and embarked in a brand new world of Python, and web-by programming&amp;hellip; There is not a day that I don&amp;rsquo;t learn something new! Sept. 29th marked 1 year since I left New Jersey for North Carolina! Besides the advantages of working with such a smart bunch (see above), I now get to spend quality time with my wife and two daughters.</description>
+    </item>
+    
+    <item>
+      <title>Milestones e Eventos</title>
+      <link>https://omaciel.github.io/posts/milestones-e-eventos-/</link>
+      <pubDate>Wed, 03 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/milestones-e-eventos-/</guid>
+      <description>Um post rapidinho para anunciar alguns milestones e eventos pessoais:
+ Hoje completo um ano trabalhando na rPath. TambÃ©m completa um ano que parei de trabalhar com VB.NET/C# e PL/SQL e embarquei em um mundo novinho de Python, e pragramaÃ§Ã£o com web&amp;hellip; NÃ£o tem um dia que passa que nÃ£o aprendo algo novo! Setembro 29 marcou 1 ano desde que saÃ­ de New Jersey e me mudei para North Carolina! AlÃ©m das vantagens de trabalhar com uma galera super esperta (mencionado acima), eu agora posso passar mais tempo com minha esposa e duas filhas.</description>
     </item>
     
     <item>
@@ -28,79 +681,38 @@ Vinagre is a VNC client well integrated with GNOME , current being developed by 
     </item>
     
     <item>
+      <title>Caminhos Cruzados</title>
+      <link>https://omaciel.github.io/posts/caminhos-cruzados-/</link>
+      <pubDate>Wed, 12 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/caminhos-cruzados-/</guid>
+      <description>Foi bem interessante ver um artigo mencionando Canonical e rPath (onde trabalho) no mesmo parÃ¡grafo, jÃ¡ que Ubuntu foi responsÃ¡vel pela minha entrada no mundo do software livre, e a rPath responsÃ¡vel por me permitir trabalhar (leia, ser pago) com software livre!
+Como somos os pioneiros desta Ã¡rea de Linux appliances, fiquei surpreso que nÃ£o houve muita informaÃ§Ã£o fornecida sobre o que nÃ³s (rPath) fazemos, nem mesmo um link para o web site da compania.</description>
+    </item>
+    
+    <item>
+      <title>Crossing Paths</title>
+      <link>https://omaciel.github.io/posts/crossing-paths-/</link>
+      <pubDate>Wed, 12 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/crossing-paths-/</guid>
+      <description>It was interesting to see an article mentioning Canonical and rPath (where I work) in the same paragraph, since Ubuntu was responsible for my entrance into the open source world, and rPath is responsible for allowing me to work (i.e. get paid) with it!
+Being the pioneers of the whole Linux appliances business, I was surprised that not much information was provided on what we (rPath) do, not even a link to the company&amp;rsquo;s web site.</description>
+    </item>
+    
+    <item>
       <title>A Few Good People</title>
       <link>https://omaciel.github.io/posts/a-few-good-people-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Aug 2007 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/a-few-good-people-/</guid>
       <description>&amp;lt;shameless_plug&amp;gt;We here at rPath are looking for a few good people to join our company. There are a few positions still open! So if you trive in fast-paced environments, enjoy the challenge of working with bleeding edge technology, and know a thing or two about Python and web technologies, send us your resume!&amp;lt;/shameless_plug&amp;gt;</description>
     </item>
     
     <item>
-      <title>All you ever wanted to know about Conary and was afraid of asking</title>
-      <link>https://omaciel.github.io/posts/all-you-ever-wanted-to-know-about-conary-and-was-afraid-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/all-you-ever-wanted-to-know-about-conary-and-was-afraid-/</guid>
-      <description>Ken has just announced the very first Conary BOF to be held at rPath this upcoming Oct. 23! If you want to learn all there is to know about the hottest technology out there, come over and talk to us!</description>
-    </item>
-    
-    <item>
-      <title>Announcing Foresight Linux 2.5.0 ALPHA 2 GNOME Edition</title>
-      <link>https://omaciel.github.io/posts/announcing-foresight-linux-2-5-0-alpha-2-gnome-edition-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/announcing-foresight-linux-2-5-0-alpha-2-gnome-edition-/</guid>
-      <description>Who said that lightening doesn&amp;rsquo;t strike twice on the same spot? I&amp;rsquo;m proud to announce the release of Foresight Linux 2.5.0 ALPHA 2 GNOME Edition!
-Once again, this alpha release is from our QA branch, and is intended mostly to receive feedback on brand new installs from end-users, specially in relation to the overall behavior of X.org on first boot! Obviously, if you&amp;rsquo;re already running Foresight Linux 2.5.0 ALPHA1, simply update your system from the command line: *sudo conary updateall*</description>
-    </item>
-    
-    <item>
-      <title>Announcing the Transifex Appliance</title>
-      <link>https://omaciel.github.io/posts/announcing-the-transifex-appliance-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/announcing-the-transifex-appliance-/</guid>
-      <description>Does your role within a project have you asking the following questions?
- How do I provide an interface for translators to submit translations to multiple projects, regardless of the type of the underlying VCS? How do I reduce the overhead a project maintainer usually undertakes to administrate accounts for translators? How do I help translators do more by eliminating the need to subscribe to each VCS and learn its commands and tricks?</description>
-    </item>
-    
-    <item>
-      <title>Announcing: Foresight based Django Developer Kit Appliance RC1</title>
-      <link>https://omaciel.github.io/posts/announcing-foresight-based-django-developer-kit-applianc-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/announcing-foresight-based-django-developer-kit-applianc-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1194&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Foresight Linux based Django Developer Kit Appliance&amp;rdquo;][/caption]
-If you remember one of my last posts, I wanted to eventually migrate my Django Developer Kit Appliance to use Foresight Linux as the underlying operating system&amp;hellip; and I am proud to announce that I have made huge strides toward this goal!
-Thanks to the guidance of some fellow rPathians, I managed to get an almost ready for production Django 1.</description>
-    </item>
-    
-    <item>
-      <title>Apresentando o Windmill Appliance</title>
-      <link>https://omaciel.github.io/posts/apresentando-o-windmill-appliance-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/apresentando-o-windmill-appliance-/</guid>
-      <description>Tenho um grande orgulho em apresentar o lançamento do Windmill Appliance! Construido com a tecnologia inovadora da rPath, está disponível para download como um ISO assim como também uma imagem VMWare para a sua alegria.
-&amp;quot;Mas para que exatamente serve este windmill appliance?&amp;quot;, você pergunta. Que bom que você perguntou&amp;hellip; O Windmill é um framework de testes em AJAX para interfaces web de código livre. Pelos últimos meses eu tenho usado e abusado deste software para estar apropriadamente a interface web de um de nossos produtos, e os resultados tem sido muito agradaveis.</description>
-    </item>
-    
-    <item>
-      <title>ApresentaÃ§Ã£o ao Planeta Mandriva Brasil</title>
-      <link>https://omaciel.github.io/posts/apresentacao-ao-planeta-mandriva-brasil-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/apresentacao-ao-planeta-mandriva-brasil-/</guid>
-      <description>Fui gentilmente convidado a participar do Planeta Mandriva Brasil, e pensei: Por que nÃ£o me apresentar entÃ£o?
-Para os que nÃ£o me conhecem, meu nome Ã© Og Maciel e moro na Carolina do Norte, USA desde 1991. Sou formado em Engenharia GenÃ©tica e tenho vÃ¡rios cursos e certificados na Ã¡rea de GNU/Linux, sendo o RHCE uma delas. Sou casado hÃ¡ 7 anos e pai de duas filhas.
-Minha participaÃ§Ã£o no mundo de software livre pode ser traduzida pelos seguintes itens:</description>
-    </item>
-    
-    <item>
       <title>APTonCD on Linux Format Magazine</title>
       <link>https://omaciel.github.io/posts/aptoncd-on-linux-format-magazine-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Aug 2007 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/aptoncd-on-linux-format-magazine-/</guid>
       <description>I was pleasantly surprised to see (as far as I know) the very first article written about APTonCD on last month&amp;rsquo;s issue (issue 95) of Linux Format, my favorite Linux magazine!
@@ -109,39 +721,9 @@ Back in August (or was it September?) of last year I learned that Rafael &amp;ld
     </item>
     
     <item>
-      <title>Article about Conary</title>
-      <link>https://omaciel.github.io/posts/article-about-conary-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/article-about-conary-/</guid>
-      <description>Had a really nice surprise waiting for me today at work in the form of an envelope covered with Brazilian postal stamps.
-
-It was a gift from my friend Vladimir Melo, who saw an article written about the package management system Conary, product from the company I work for. There was also another article talking about the GNOME 2.18 release and the fact that it was completely translated to the Brazilian Portuguese language, thanks to the collaborative work of 16 people.</description>
-    </item>
-    
-    <item>
-      <title>Bailout MT-Daapd Appliance</title>
-      <link>https://omaciel.github.io/posts/bailout-mt-daapd-appliance-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/bailout-mt-daapd-appliance-/</guid>
-      <description>For the past few days I&amp;rsquo;ve been working on setting up a minimalistic music server for home. As I am always doing some crazy things to my desktop/laptop that eventually leads me to re-install my operating system, I find myself constantly moving music files between computers and external media. When you have a decent sized music library, this excercise starts to become a major pain. That&amp;rsquo;s how I came up with the idea of creating a media server using mt-daapd as my tool of choice.</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Raleigh 2008</title>
-      <link>https://omaciel.github.io/posts/barcamp-raleigh-2008-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/barcamp-raleigh-2008-/</guid>
-      <description>This weekend I&amp;rsquo;ll be attending BarCamp Raleigh for the second year in a row. Together with a couple of fellow rPathians, I&amp;rsquo;m planning to pitch in the following talks:
- Building GNU/Linux appliances and deploying them in the clouds How to participate and contribute with open source projects like GNOME, KDE, XFCE, Openbox, etc  If you&amp;rsquo;re one of the lucky ones who managed to register in time for the event, tomorrow there will be a get together (think drinks, snacks and all the trilug geeks you can fit in a bar) at Tyler&amp;rsquo;s Tap Room (map).</description>
-    </item>
-    
-    <item>
       <title>BarCampRDU</title>
       <link>https://omaciel.github.io/posts/barcamprdu-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Aug 2007 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/barcamprdu-/</guid>
       <description>So here I am at BarCampRDU, together with the rPath crew. Got to meet a few new faces and am now sitting through my first session about distributed version control with Bzr and Launchpad. So far it sounds very much like Mercurial, which is pretty cool!
@@ -150,317 +732,78 @@ Technorati Tags: BarCampRDU</description>
     </item>
     
     <item>
-      <title>Because Your Distro Should Be Cool!</title>
-      <link>https://omaciel.github.io/posts/because-your-distro-should-be-cool-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>VocÃª sabe que estÃ¡ usando muito o Vim quando\...</title>
+      <link>https://omaciel.github.io/posts/voce-sabe-que-esta-usando-muito-o-vim-quando-/</link>
+      <pubDate>Fri, 20 Jul 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/because-your-distro-should-be-cool-/</guid>
-      <description>It is with my Community Manager hat and as a Linux enthusiast that I bring you this post about the Foresight Linux distribution, literally born and brewed where I work and filled to the brim with the technology developed at rPath. However, this is not yet another article about yet another Linux distribution with arguments about how great it is compared to other popular ones out there. No siree Bob! In fact, if you are happy with the platform or distribution that you are running, then kudos to you!</description>
+      <guid>https://omaciel.github.io/posts/voce-sabe-que-esta-usando-muito-o-vim-quando-/</guid>
+      <description>&amp;hellip; vocÃª aperta a tecla ESC depois de preencher um formulÃ¡rio na web!
+Eu realmente comecei a usar o Vim em tempo integral quando comecei a trabalhar na rPath em outubro do ano passado. De vez em quando eu aprendo um truque novo e resolvi compartilhÃ¡-los aqui com vocÃªs, e ao mesmo tempo mantÃª-los em um lugar que eu possa sempre pesquisar (o famoso &amp;ldquo;matar 2 pÃ¡ssaros com uma pedrada sÃ³!</description>
     </item>
     
     <item>
-      <title>Building a GNU/Linux Appliance: Step 1</title>
-      <link>https://omaciel.github.io/posts/building-a-gnulinux-appliance-step-1-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>You know you\&#39;re using too much Vi when\...</title>
+      <link>https://omaciel.github.io/posts/you-know-youre-using-too-much-vi-when-/</link>
+      <pubDate>Thu, 19 Jul 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/building-a-gnulinux-appliance-step-1-/</guid>
-      <description>As some of you may know, I&amp;rsquo;ve been doing a great deal of testing for rBuilder Online, rPath&amp;rsquo;s online community service for all your GNU/Linux appliances needs. As a QA Enginner I have a chance to play with the most innovative technologies we create (and dare I say some of the coolest things in the system/package management world?) before it hits the general public.
-It is because of this work and my recent super involvement with our products that I decided to create a videocast on how to create a virtual GNU/Linux appliance using rBuilder Online.</description>
+      <guid>https://omaciel.github.io/posts/you-know-youre-using-too-much-vi-when-/</guid>
+      <description>&amp;hellip; you press ESC after filling out web forms!
+I really started using Vim full-time when I started working at rPath last October. Every now and then I learn a new trick and I figured I&amp;rsquo;d share them here, as well as make sure I can always search for them later (talk about killing 2 birds with a stone!).
+The first one if is for those times you want to make a generic search and replace action on a file you&amp;rsquo;re working on.</description>
     </item>
     
     <item>
-      <title>Caminhos Cruzados</title>
-      <link>https://omaciel.github.io/posts/caminhos-cruzados-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>MIA / POW</title>
+      <link>https://omaciel.github.io/posts/mia-pow-/</link>
+      <pubDate>Tue, 17 Jul 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/caminhos-cruzados-/</guid>
-      <description>Foi bem interessante ver um artigo mencionando Canonical e rPath (onde trabalho) no mesmo parÃ¡grafo, jÃ¡ que Ubuntu foi responsÃ¡vel pela minha entrada no mundo do software livre, e a rPath responsÃ¡vel por me permitir trabalhar (leia, ser pago) com software livre!
-Como somos os pioneiros desta Ã¡rea de Linux appliances, fiquei surpreso que nÃ£o houve muita informaÃ§Ã£o fornecida sobre o que nÃ³s (rPath) fazemos, nem mesmo um link para o web site da compania.</description>
+      <guid>https://omaciel.github.io/posts/mia-pow-/</guid>
+      <description>That is, Missing In Action / Prisoner Of WORK! Here at rPath we work based on iteration periods that could vary between 4 - 6 weeks. During these periods, we are all assigned (or loaded as we say) several hours of issues to work on plus whatever may come up during the course of the iteration. Decided to tackle all my issues without any disturbance, I took the plunge and have completely immersed myself in lots of python, javascript, and you name it!</description>
     </item>
     
     <item>
-      <title>Castálio Podcast: Og Maciel: Red Hat</title>
-      <link>https://omaciel.github.io/posts/castalio-podcast-og-maciel-red-hat-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Article about Conary</title>
+      <link>https://omaciel.github.io/posts/article-about-conary-/</link>
+      <pubDate>Wed, 27 Jun 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/castalio-podcast-og-maciel-red-hat-/</guid>
-      <description>Passados 51 episódios, neste último sábado o Castálio Podcast completou 2 anos! Foram muitas entrevistas super divertidas, animadas e prá lá de interessantes com pessoas representando vários projetos e áreas de trabalho! Para comemorar, decidi atender aos pedidos de alguns ouvintes e fazer mais uma entrevista&amp;hellip; comigo mesmo! A primeira vez foi quando ainda não havia um formato definido e, para falar a verdade, eu não pesava que ia conseguir levar o projeto para frente por tanto tempo.</description>
-    </item>
-    
-    <item>
-      <title>Churning away</title>
-      <link>https://omaciel.github.io/posts/churning-away-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/churning-away-/</guid>
-      <description>Ok, so we now have Live CDs (not VMware images&amp;hellip; towards the end of the page) with GNOME 2.17.92 fresh out of the oven! Come and get it!!! :)
-The user name is Live and the password is blanked, so change it once you get a chance.</description>
-    </item>
-    
-    <item>
-      <title>Crossing Paths</title>
-      <link>https://omaciel.github.io/posts/crossing-paths-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/crossing-paths-/</guid>
-      <description>It was interesting to see an article mentioning Canonical and rPath (where I work) in the same paragraph, since Ubuntu was responsible for my entrance into the open source world, and rPath is responsible for allowing me to work (i.e. get paid) with it!
-Being the pioneers of the whole Linux appliances business, I was surprised that not much information was provided on what we (rPath) do, not even a link to the company&amp;rsquo;s web site.</description>
-    </item>
-    
-    <item>
-      <title>Disappointed With Dreamhost Private Server Service</title>
-      <link>https://omaciel.github.io/posts/disappointed-with-dreamhost-private-server-service-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/disappointed-with-dreamhost-private-server-service-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1304&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Sad Face&amp;rdquo;][/caption]
-This year I decided to do something I&amp;rsquo;ve wanted to do for a very long time: get my own private Linux server! A place where I could have total control (i.e. root access) and be able to install or run anything I wanted! Better yet, I wanted a conary managed system that could leverage all the packaging that I have already done for Foresight Linux and be dead simple to maintain!</description>
-    </item>
-    
-    <item>
-      <title>Ditching MySQL for PostgreSQL</title>
-      <link>https://omaciel.github.io/posts/ditching-mysql-for-postgresql-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/ditching-mysql-for-postgresql-/</guid>
-      <description>In order to better follow what the Transifex guys are doing with their development and deployment of Transifex.net, I have finally made the switch from MySQL to PostgreSQL for the Transifex Appliance. Luckly I was able to corral diegobz during my lunch break and together we worked out the necessary changes to get things to work (and caught and fixed a minor issue along the way too!).
-In the meantime, the appliance seems to be getting some nice and steady traffic, which I suspect will only increase, specially when a new version of Transifex hits the streets.</description>
-    </item>
-    
-    <item>
-      <title>Django Devel Kit Appliance 1.2.3</title>
-      <link>https://omaciel.github.io/posts/django-devel-kit-appliance-1-2-3-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/django-devel-kit-appliance-1-2-3-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1191&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Oops!&amp;quot;][/caption]
-No, this is not a repeat from yesterday&amp;rsquo;s post. Turns out there was another security release for Django yesterday (thanks Zygmunt for the heads up), so here&amp;rsquo;s the release of ï»¿Django Developer Kit Appliance 1.2.3.
-As always, choose from the following image types:
- Amazon EC2 AMI Large (ami-ba996cd3) Amazon EC2 AMI Small (ami-a0996cc9) ISO x86 (SHA1 11811571ee8f8f2a0d7778c9e4275060de73f271) ISO x86_64 (SHA1 065b1c5dfa410cffeec9950d577cddd15f369bad) Raw Filesystem x86 (SHA1 141427d7c84449ccc7eacbee7d527b8ba6f7ca48) Raw Filesystem x86_64 (SHA1 482ecbbd2c177e3fdc33b18dc0ee65c83d681956) VMware ESX x86 (SHA1 10757fd1f0ec119fe236f3402bf38dfde25cb40a) VMware ESX x86 OVF 1.</description>
-    </item>
-    
-    <item>
-      <title>Django Developer Kit 1.2</title>
-      <link>https://omaciel.github.io/posts/django-developer-kit-1-2-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/django-developer-kit-1-2-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1038&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;117&amp;rdquo; caption=&amp;ldquo;Django&amp;rdquo;][/caption] I&amp;rsquo;m really excited to announce the release of my Django Developer Kit 1.2! Setting up a Django-based project in the appliance is a piece of cake! Some of the Django modules included are:
- PIL=1.1.7-1-1 PyYAML=3.05-1-1 Pygments=1.3.1-1-1 bzr=2.0.0-1-1 bzrtools=2.0.1-1-1 cElementTree=1.0.5-1-1 coverage:source=3.3.1-2[] django-ajax-selects:source=r24_patched-2[] django-authopenid:source=0.9.6-1[] django-authority:source=0.4-1[] django-cache-memcached=1.2-1-1[is: x86] django-contact-form=r61-1-1[is: x86] django-db-mysql=1.2-1-1 django-db-sqlite3=1.2-1-1[is: x86] django-evolution=r165-1-1[is: x86] django-favorites=b145949-1-1[is: x86] django-filter=0.5.0-1-1[is: x86] django-notification=0.1.5-1-1[is: x86] django-pagination=1.0.5-1-1[is: x86] django-piston=0.2.2-1-1[is: x86] django-profile=r452-1-1[is: x86] django-ratings=9e32d33-1-1[is: x86] django-sorting=0.</description>
-    </item>
-    
-    <item>
-      <title>Django Developer Kit 1.2 Release Candidate 1</title>
-      <link>https://omaciel.github.io/posts/django-developer-kit-1-2-release-candidate-1-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/django-developer-kit-1-2-release-candidate-1-/</guid>
-      <description>I&amp;rsquo;m really excited to announce the release of my Django Developer Kit 1.2 RC1! The highlights for this release include the first Release Candidate for the upcoming Django 1.2, as well as a switch of the underlying platform, from CentOS to rPath Linux 2. All kinks have been worked out and setting up a Django-based project in the appliance is a piece of cake! Some of the Django modules included are:</description>
-    </item>
-    
-    <item>
-      <title>Django Developer Kit 1.2.1</title>
-      <link>https://omaciel.github.io/posts/django-developer-kit-1-2-1-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/django-developer-kit-1-2-1-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1038&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;117&amp;rdquo; caption=&amp;ldquo;Django&amp;rdquo;][/caption]
-I have just released the Django Developer Kit 1.2.1 appliance to match with the release of Django 1.2.1! Check this page for more information about this release!
-There are several ways for you to play with the Django Developer Kit appliance, so just head on down to the download page and pick from the following image types:
- x86 Amazon Machine Image (EC2) x86 VMware (R) ESX Server Virtual Appliance x86 VMware (R) ESX Server Virtual Appliance OVF 0.</description>
-    </item>
-    
-    <item>
-      <title>Django Developer Kit Appliance 1.2.2</title>
-      <link>https://omaciel.github.io/posts/django-developer-kit-appliance-1-2-2-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/django-developer-kit-appliance-1-2-2-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1188&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Foresight Django Pony&amp;rdquo;][/caption]
-Today I&amp;rsquo;m releasing my ï»¿Django Developer Kit Appliance 1.2.2 due to the recent security release of Django 1.2.2. Other than a newer version of Django, you&amp;rsquo;ll also get newer versions of several packages already included by default in the appliance.
-I have been working hard (time permitting, off course) on migrating the appliance to a slim Foresight Linux base in order to upgrade the underlying python from 2.</description>
-    </item>
-    
-    <item>
-      <title>Django Developer Kit Appliance: First Steps</title>
-      <link>https://omaciel.github.io/posts/django-developer-kit-appliance-first-steps-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/django-developer-kit-appliance-first-steps-/</guid>
-      <description>I&amp;rsquo;ll make it quick so I can go back to watching TV:
-Announcing my first attempt at a generic Django Developer Kit, a CentOS (powered by rPath&#39;s conary) based software appliance with all you&#39;d need to run a Django project.
-[caption id=&amp;ldquo;attachment_829&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Django Developer Kit Appliance&amp;rdquo;][/caption]
-The current images are built on the development stage, which means it includes the very latest Django 1.2 code line straight from the subversion repository.</description>
-    </item>
-    
-    <item>
-      <title>Don\&#39;t forget to pay your bills again\... or else!</title>
-      <link>https://omaciel.github.io/posts/dont-forget-to-pay-your-bills-again-or-else-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/dont-forget-to-pay-your-bills-again-or-else-/</guid>
-      <description>It&amp;rsquo;s been a while since I last wrote about my pet project, BillReminder, a late and due bills notifier for the desktop. With the birth of my daughter Kate, and the projects I&amp;rsquo;m involved with at rPath, together with the translation of GNOME 2.18, there wasn&amp;rsquo;t much time left to do anything else. Fortunately, I had the great pleasure of adding one more developer to the project: Luiz Armesto.</description>
+      <guid>https://omaciel.github.io/posts/article-about-conary-/</guid>
+      <description>Had a really nice surprise waiting for me today at work in the form of an envelope covered with Brazilian postal stamps.
+
+It was a gift from my friend Vladimir Melo, who saw an article written about the package management system Conary, product from the company I work for. There was also another article talking about the GNOME 2.18 release and the fact that it was completely translated to the Brazilian Portuguese language, thanks to the collaborative work of 16 people.</description>
     </item>
     
     <item>
       <title>Empacotando software com Conary</title>
       <link>https://omaciel.github.io/posts/empacotando-software-com-conary-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Apr 2007 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/empacotando-software-com-conary-/</guid>
       <description>Muitas pessoas jÃ¡ tinham me pedido para escrever um pequeno tutorial sobre como empacotar software para o Foresight Linux. Para quem ainda nÃ£o conhece o sistema de gerenciamento de pacotes Conary, uma forma de descrevÃª-lo seria comparÃ¡-lo com um sistema de controle de versÃµes e gerenciamento de pacotes. Isso quer dizer que vocÃª tem um controle sobre as modificaÃ§Ãµes do cÃ³digo no mesmo estilo do CVS ou SVN, e qualquer modificaÃ§Ã£o feita pelo mantenedor do cÃ³digo original Ã© implementado em seu pacote em fragmentos, equivalentes Ã s linhas que foram adicionadas ou modificadas.</description>
     </item>
     
     <item>
-      <title>Experimente a versão Openbox 3.4.8-RC1</title>
-      <link>https://omaciel.github.io/posts/experimente-a-versao-openbox-348-rc1-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Don\&#39;t forget to pay your bills again\... or else!</title>
+      <link>https://omaciel.github.io/posts/dont-forget-to-pay-your-bills-again-or-else-/</link>
+      <pubDate>Sun, 18 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/experimente-a-versao-openbox-348-rc1-/</guid>
-      <description>Se você curte o Openbox e quer brincar com a versão 3.4.8 RC1, faça o download aqui: http://icculus.org/openbox/releases/openbox-3.4.8-rc1.tar.gz. Note que você vai ter de fazer uma modificação no obconf substituindo &amp;lsquo;obrender-3.0&amp;rsquo; e &amp;lsquo;obparser-3.0&amp;rsquo; por &amp;lsquo;obrender-4.0&amp;rsquo; e &amp;lsquo;obparser-4.0&amp;rsquo; respectivamente no arquivo configure.ac.
-Ou se você usar uma distribuição baseada no systema conary, existe uma versão empacotada diretamente do repositório git que você pode instalar executando o comando sudo conary update openbox=foresightlinux.rpath.org@fl:2-devel.</description>
+      <guid>https://omaciel.github.io/posts/dont-forget-to-pay-your-bills-again-or-else-/</guid>
+      <description>It&amp;rsquo;s been a while since I last wrote about my pet project, BillReminder, a late and due bills notifier for the desktop. With the birth of my daughter Kate, and the projects I&amp;rsquo;m involved with at rPath, together with the translation of GNOME 2.18, there wasn&amp;rsquo;t much time left to do anything else. Fortunately, I had the great pleasure of adding one more developer to the project: Luiz Armesto.</description>
     </item>
     
     <item>
-      <title>Experimente o GNOME 2.17.92 agora!</title>
-      <link>https://omaciel.github.io/posts/experimente-o-gnome-21792-agora-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>NÃ£o se esqueÃ§a de pagar suas contas novamente, se nÃ£o\...</title>
+      <link>https://omaciel.github.io/posts/nao-se-esqueca-de-pagar-suas-contas-novamente-se-nao-/</link>
+      <pubDate>Sun, 18 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/experimente-o-gnome-21792-agora-/</guid>
-      <description>Quer ver como esta&#39; o GNOME 2.18 agora mas nao quer esperar ate&#39; o dia de lancamento? So&#39; de pensar em compilar codigo direto da fonte te deixa com febre? Nao tenha mais medo!
-Ken Vandine empacotou o GNOME 2.17.92 como uma imagem de VMware, a qual pode ser baixada aqui! Experimente o GNOME (somente em ingles por enquanto) com todos os seus programas comprimidos em uns meros 362 MB, incluindo VMware Tools!</description>
-    </item>
-    
-    <item>
-      <title>Feel Good Friday</title>
-      <link>https://omaciel.github.io/posts/feel-good-friday-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/feel-good-friday-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1379&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;180&amp;rdquo; caption=&amp;ldquo;Feel Good&amp;rdquo;][/caption]
-This is more of a &amp;ldquo;feel good&amp;rdquo; post, mostly for me! Through my life I have come across a fork on the road many times, and for the last 4+ years I have always chosen the path to the right. Even when the left side sometimes looked a bit more &amp;ldquo;paved&amp;rdquo; and less difficult to walk through, I still chose the right path! The reasons are many, but I think I can distill them into one single sentence: I believe!</description>
-    </item>
-    
-    <item>
-      <title>Foresight and Conary Updates</title>
-      <link>https://omaciel.github.io/posts/foresight-and-conary-updates-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/foresight-and-conary-updates-/</guid>
-      <description>First off, for those participating of the Google Highly Open Participation Contest, get your GNOME Developer Kit now! Download the VMWare image or the DVD and start hacking today! There will be continuous builds (the plan is to have them daily) so that you&amp;rsquo;ll always have the freshest GNOME code to play with. For the translators out there, I&amp;rsquo;ve recommended the inclusion of poEdit, intltool, translate-toolkit and gettext, all latest versions available.</description>
-    </item>
-    
-    <item>
-      <title>Foresight Linux 2.1.1 is out and about!</title>
-      <link>https://omaciel.github.io/posts/foresight-linux-211-is-out-and-about-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/foresight-linux-211-is-out-and-about-/</guid>
-      <description>It is with great pleasure that I announce the release of Foresight 2.1.1. Well known for being a desktop operating system featuring an intuitive user interface and a showcase of the latest desktop software, this new release brings you the latest GNOME 2.26.1 release, a newer Linux kernel 2.6.29, a revamped notification area, and a ton of Xorg improvements!
-As always, you can read the complete release notes for a detailed list of all changes.</description>
-    </item>
-    
-    <item>
-      <title>Foresight Linux 2.5.0 Release Candidate Galore!</title>
-      <link>https://omaciel.github.io/posts/foresight-linux-2-5-0-release-candidate-galore-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/foresight-linux-2-5-0-release-candidate-galore-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1363&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;Foresight Linux 2.5.0 RC&amp;rdquo;][/caption]
-It is with great pleasure that I announce the release of Foresight 2.5.0 RC! This time, we have updated images for GNOME, Xfce and KDE! Things are shaping up quite nicely and thanks to all the feedback we&amp;rsquo;ve received from our users, we should be releasing our GA images pretty soon!
-Well known for being a desktop operating system featuring an intuitive user interface and a showcase of the latest desktop software, this new release brings you the latest GNOME 2.</description>
-    </item>
-    
-    <item>
-      <title>Foresight Linux installation in 7 minutes!</title>
-      <link>https://omaciel.github.io/posts/foresight-linux-installation-in-7-minutes-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/foresight-linux-installation-in-7-minutes-/</guid>
-      <description>That is what the new version of Foresight Linux will offer with its new forthcoming version 2! I heard the news from Ken (Foresight&amp;rsquo;s leader and co-worker) last night and it has been confirmed by Elliot, our Anaconda tamer. Obviously your installation time may vary depending on your system, but I&amp;rsquo;m fairly sure they&amp;rsquo;ve used a standard PC for this. Another worthy mention is the addition of PackageKit as the graphical interface for our Conary package management system and we will definitely make a big splash with the addition of the Splashy boot splash!</description>
-    </item>
-    
-    <item>
-      <title>Foresight Linux KDE Edition: The start of the odyssey!</title>
-      <link>https://omaciel.github.io/posts/foresight-linux-kde-edition-the-start-of-the-odyssey-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/foresight-linux-kde-edition-the-start-of-the-odyssey-/</guid>
-      <description>As I mentioned in my previous post, I decided to give KDE a chance on my home system. For the last 5 days I&amp;rsquo;ve been neck deep in KDE land, with some fairly minor trips to non-KDE applications when I can&amp;rsquo;t figure out how to get something done (more on the soon).
-The first step was to download the brand spanking alpha ISO for Foresight Linux KDE Edition (x86 here and x86_64 here) and bring it home.</description>
-    </item>
-    
-    <item>
-      <title>Foresight Linux no The Linux Link Tech Show</title>
-      <link>https://omaciel.github.io/posts/foresight-linux-no-the-linux-link-tech-show-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/foresight-linux-no-the-linux-link-tech-show-/</guid>
-      <description>Escute o Ken Vandine falar sobre a futura versÃ£o 2.0 do Foresight Linux, novos &amp;ldquo;sabores&amp;rdquo; com KDE e XFCE , Conary, GNOME, Ubuntu, traduÃ§Ãµes e muito mais no The Linux Link Tech Show. (EpisÃ³dio #218, em InglÃªs)</description>
-    </item>
-    
-    <item>
-      <title>Foresight Linux on The Linux Link Tech Show</title>
-      <link>https://omaciel.github.io/posts/foresight-linux-on-the-linux-link-tech-show-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/foresight-linux-on-the-linux-link-tech-show-/</guid>
-      <description>Listen to Ken Vandine talk about Foresight Linux&#39;s upcoming 2.0 version, new KDE and XFCE &amp;ldquo;flavors&amp;rdquo;, Conary, GNOME, Ubuntu, translations and more at The Linux Link Tech Show. (Episode #218)</description>
-    </item>
-    
-    <item>
-      <title>Foresight Linux quickie</title>
-      <link>https://omaciel.github.io/posts/foresight-linux-quickie-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/foresight-linux-quickie-/</guid>
-      <description>For those of you out there who are Foresight Linux users wondering when the next major software update will hit the stable branch, your wait is almost over! We&amp;rsquo;ve been feverishly making all the latest bits to play nice with each other so that we can also release newer ISO images of what will be Foresight 2.1.2. Some of the issues we&amp;rsquo;re facing right now are:
- Issues with latest *goocanvas/pycairo mess [0][1][2]; Epiphany issues with latest WebKit in x86_64; Exotic side effects of kernel changes that make audio CDs not easilly playable (not a Foresight exclusive issue); Mono is somehow partly busted (part of gnome bindings) in x86_64  hits latest banshee;   Getting Anaconda to play nicely with newer kernel drivers for some motherboards;  Some of the cool things we&amp;rsquo;re cooking in the development branch are: latest KDE, GNOME, Chromium/Firefox/Opera web browser, gst streamer bits, latest kernel, Banshee 1.</description>
-    </item>
-    
-    <item>
-      <title>Forward</title>
-      <link>https://omaciel.github.io/posts/forward-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/forward-/</guid>
-      <description>Yesterday&amp;rsquo;s news about the Suse Appliance Program had me grinning all morning long&amp;hellip; and I just had to forward what my co-worker wrote:
- Billy Marshall, CEO, rPath (2006): The Standard OS is Virtually Gone Nat Friedman, CTO, Novell (2008): The Standalone OS is Dead Indeed, weâ€™re flattered.
- Yes, indeed!</description>
-    </item>
-    
-    <item>
-      <title>Get your oven mittens on because Transifex Pyro is out!</title>
-      <link>https://omaciel.github.io/posts/get-your-oven-mittens-on-because-transifex-pyro-is-out-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/get-your-oven-mittens-on-because-transifex-pyro-is-out-/</guid>
-      <description>Last weekend the Indifex developers released the new version of Transifex, &amp;ldquo;anÂ open service allowing people toÂ collaboratively translate software, documentation and other types of projects.&amp;rdquo; Codenamed &amp;ldquo;Pyro&amp;quot; (all releases are named after a X-Men villains), Transifex 0.7 has a pretty lengthy list of new features and bug fixes to make any translator worth his/her salt cry with joy!
-The one feature sure to turn people&amp;rsquo;s head is the ability to do their translations online using their Lotte Translation Editor.</description>
-    </item>
-    
-    <item>
-      <title>Giggle empacotado para o Foresight</title>
-      <link>https://omaciel.github.io/posts/giggle-empacotado-para-o-foresight-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/giggle-empacotado-para-o-foresight-/</guid>
-      <description>Giggle e&#39; a nova &amp;ldquo;Interface GTK+ para GIT&amp;rdquo;. Instale Giggle v.0.1 hoje mesmo!</description>
-    </item>
-    
-    <item>
-      <title>Giggle packaged for Foresight</title>
-      <link>https://omaciel.github.io/posts/giggle-packaged-for-foresight-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/giggle-packaged-for-foresight-/</guid>
-      <description>Giggle is the new &amp;ldquo;GTK+ based GIT interface&amp;rdquo;. Get Giggle v.0.1 today!</description>
+      <guid>https://omaciel.github.io/posts/nao-se-esqueca-de-pagar-suas-contas-novamente-se-nao-/</guid>
+      <description>JÃ¡ faz um bom tempo que nÃ£o escrevo nada sobre o meu programa para notificaÃ§Ã£o de contas, o BillReminder. Com o nascimento da minha filha Kate, e os novos projetos que apareceram no meu trabalho na rPath, e as traduÃ§Ãµes do GNOME 2.18, nÃ£o tinha sobrado muito tempo para fazer mais nada. Felizmente, tive a prazerosa inclusÃ£o de mais um desenvolvidor no BillReminder: Luiz Armesto.
+Depois de trocar umas idÃ©ias pelo IRC sobre o rumo que eu queria levar o projeto, o Luiz simplesmente carregou em suas costas a grande responsabilidade de re-escrever o sistema de banco de dados, para suportar uma arquitetura mais flexivel e dinÃ¢mica.</description>
     </item>
     
     <item>
       <title>Giggling already</title>
       <link>https://omaciel.github.io/posts/giggling-already-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Mar 2007 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/giggling-already-/</guid>
       <description>Hey Sven;
@@ -469,123 +812,37 @@ BTW, I could not post a comment in your blog. Someone translated the messages fo
     </item>
     
     <item>
-      <title>GNOME 2.30 Translations for the Faint of Heart</title>
-      <link>https://omaciel.github.io/posts/gnome-2-30-translations-for-the-faint-of-heart-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Giggle empacotado para o Foresight</title>
+      <link>https://omaciel.github.io/posts/giggle-empacotado-para-o-foresight-/</link>
+      <pubDate>Thu, 08 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/gnome-2-30-translations-for-the-faint-of-heart-/</guid>
-      <description>With the GNOME 2.30 release just around the corner, translators are feverishly working hard to get the desktop completely translated into a multitude of different languages! But unless you&amp;rsquo;re comfortable building the application you&amp;rsquo;re trying to translate on your own (or perhaps the entire desktop), you&amp;rsquo;re pretty much doing what I call &amp;ldquo;blind translations.&amp;rdquo;
- 
-From Screenshots The good news is that you don&amp;rsquo;t have to do any compiling to play with the very latest GNOME applications!</description>
+      <guid>https://omaciel.github.io/posts/giggle-empacotado-para-o-foresight-/</guid>
+      <description>Giggle e&#39; a nova &amp;ldquo;Interface GTK+ para GIT&amp;rdquo;. Instale Giggle v.0.1 hoje mesmo!</description>
     </item>
     
     <item>
-      <title>GNOME Developer Kit, follow up</title>
-      <link>https://omaciel.github.io/posts/gnome-developer-kit-follow-up-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Giggle packaged for Foresight</title>
+      <link>https://omaciel.github.io/posts/giggle-packaged-for-foresight-/</link>
+      <pubDate>Thu, 08 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/gnome-developer-kit-follow-up-/</guid>
-      <description>Just wanted to update everyone who showed interest in the new release of GNOME Developer Kit I announced yesterday. Based on some preliminary statistics I collected in the (less than) last 24 hours, it seems that the VMware image type got the most download, followed closely by the installable ISO format. I guess that was due to VirtualBox being able to use *.vmdk files and some people opting for the free virtualization tool.</description>
+      <guid>https://omaciel.github.io/posts/giggle-packaged-for-foresight-/</guid>
+      <description>Giggle is the new &amp;ldquo;GTK+ based GIT interface&amp;rdquo;. Get Giggle v.0.1 today!</description>
     </item>
     
     <item>
-      <title>Google Highly Open Participation Contest and Translations</title>
-      <link>https://omaciel.github.io/posts/google-highly-open-participation-contest-and-translation-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Churning away</title>
+      <link>https://omaciel.github.io/posts/churning-away-/</link>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/google-highly-open-participation-contest-and-translation-/</guid>
-      <description>If you&amp;rsquo;re participating in the Google Highly Open Participation Contest and is involved with the translation process, or just want a sure way to test your translations with the latest GNOME, then go get your copy of the GNOME Developer Kit now!
-You could then download the message catalog file for the application you want to translate (in my case I got the Brazilian Portuguese file for Empathy) to your language and use poEdit (already included) to work on your translation.</description>
-    </item>
-    
-    <item>
-      <title>Google Highly Open Participation Contest e TraduÃ§Ãµes</title>
-      <link>https://omaciel.github.io/posts/google-highly-open-participation-contest-e-traducoes-2-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/google-highly-open-participation-contest-e-traducoes-2-/</guid>
-      <description>Se vocÃª estÃ¡ participando do Google Highly Open Participation Contest e estÃ¡ ajudando com o processo de traduÃ§Ãµes, ou estÃ¡ procurando por uma forma garantida de testar suas traduÃ§Ãµes com o GNOME mais recente (ainda em desenvolvimento), entÃ£o vÃ¡ buscar sua cÃ³pia do GNOME Developer Kit agora!
-VocÃª poderÃ¡ entÃ£o baixar o catÃ¡logo de mensagens para a aplicaÃ§Ã£o que vocÃª deseja traduzir (no meu caso eu baixei o arquivo do Empathy) para o seu idioma e use o poEdit (jÃ¡ incluÃ­do) para mandar bala na sua traduÃ§Ã£o.</description>
-    </item>
-    
-    <item>
-      <title>Help sponsor Mercurial development!</title>
-      <link>https://omaciel.github.io/posts/help-sponsor-mercurial-development-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/help-sponsor-mercurial-development-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;240&amp;rdquo; caption=&amp;ldquo;Mercurial is the bee&amp;rsquo;s knees&amp;rdquo;][/caption]
-Anyone who has ever added a project to BitBucket already knows what Mercurial is, but for those who have never heard about it, &amp;ldquo;it is a free, distributed source control managemt tool that can efficiently handle projects of any size and offers an easy and intuitive interface.&amp;rdquo; In other words, in the world of Distributed Version Control (Systems), or DVCS or short, Mercurial is the bee&amp;rsquo;s knees!</description>
-    </item>
-    
-    <item>
-      <title>I got your latest GNOME right here!</title>
-      <link>https://omaciel.github.io/posts/i-got-your-latest-gnome-right-here-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/i-got-your-latest-gnome-right-here-/</guid>
-      <description>Just wanted to re-enforce what Zhang said earlier today about the bleeding edge GNOME Developer&amp;rsquo;s Kit, now with extra sauce!
-What is it? It is a continuous build of GNOME packages all bundled up into a distribution (in this case, Foresight Linux) and distributed in a few different formats, such as ISO and VMware.
-
-&amp;quot;What&amp;rsquo;s so special about it&amp;quot;, you ask? Is it the fact that different image types can be generated at will?</description>
-    </item>
-    
-    <item>
-      <title>Instale o Foresight Linux em 7 minutos!</title>
-      <link>https://omaciel.github.io/posts/instale-o-foresight-linux-em-7-minutos-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/instale-o-foresight-linux-em-7-minutos-/</guid>
-      <description>Isso Ã© o que vocÃª pode esperar da nova versÃ£o do Foresight Linux que estÃ¡ por vir nos prÃ³ximos dias! Eu escutei a noticia do Ken (lider do Foresight e meu companheiro de trabalho) ontem a noite e confirmado mais tarde pelo Elliot, nosso domador do Anaconda. Obviamente seu tempo de instalaÃ§Ã£o vai variar dependendo do seu sistema, mas estou bem seguro que eles usaram um sistema padrÃ£o nestes testes. Outra novidade importante Ã© a adiÃ§Ã£o do gerente de iniciaÃ§Ã£o Splashy e o PackageKit, nossa interface grÃ¡fica para o sistema de gerenciamento de pacotes Conary.</description>
-    </item>
-    
-    <item>
-      <title>Life 2.0</title>
-      <link>https://omaciel.github.io/posts/life-20-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/life-20-/</guid>
-      <description>After a very brief night of sleep (about 3 hours), Elizabeth started having contractions, strong enough for us to drive to the hospital. At around 5:18 EST our second daughter Kate Maciel was born!
-
-There were some post-partum complications and Elizabeth lost a lot of blood, but the doctors seem to have things under control now.
-Nothing can prepare you for the roller coaster of emotions one goes through when witnessing the birth of your child.</description>
-    </item>
-    
-    <item>
-      <title>Live CD do GNOME, versÃ£o 2.17.92</title>
-      <link>https://omaciel.github.io/posts/live-cd-do-gnome-versao-21792-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/live-cd-do-gnome-versao-21792-/</guid>
-      <description>Saiu hoje pela manhÃ£ a tÃ£o esperada versÃ£o Live CD do GNOME, contendo a versÃ£o 2.17.92 do ambiente de trabalho do GNOME.
-Baseado no Foresight Linux, este CD impressiona bastante por conter todos os pacotes do GNOME + alguns programas adicionais, localizaÃ§Ã£o completa (ou seja, suporte para todos os idiomas que foram traduzidos, incluindo o portuguÃªs do Brasil), e tudo isso em uma imagem ISO de somente 490 MB!
-O plano Ã© continuar gerando estes Live CDs, culminando com o lanÃ§amento da versÃ£o 2.</description>
-    </item>
-    
-    <item>
-      <title>Live Gnome VMware Image</title>
-      <link>https://omaciel.github.io/posts/live-gnome-vmware-image-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/live-gnome-vmware-image-/</guid>
-      <description>Want to see what the new GNOME 2.18 will be like and can&amp;rsquo;t wait for the release date? Don&amp;rsquo;t feel like rolling up your sleeves and compiling it from source? Have no fear!!!
-Ken Vandine has packaged GNOME 2.17.92 as a VMware image, which can be downloaded here. Experience GNOME (in english only for now) with all of its components packed into a mere 362 MB, including VMware Tools!!! All of this goodness thanks to the powers of Conary!</description>
-    </item>
-    
-    <item>
-      <title>Looking For A Platform Engineer</title>
-      <link>https://omaciel.github.io/posts/looking-for-a-platform-engineer-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/looking-for-a-platform-engineer-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1392&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Looking!&amp;quot;][/caption]
-My employer is currently looking for a Platform Engineer to join our team at our new office in Raleigh, NC! We have a great team working on some really cool and bleeding edge technology here, so if you have significant system administration experience, and have experience creating and maintaining RPMs as well as understanding their dependencies, then you may consider us! Check the full description for this role here and feel free to shoot me your CV.</description>
+      <guid>https://omaciel.github.io/posts/churning-away-/</guid>
+      <description>Ok, so we now have Live CDs (not VMware images&amp;hellip; towards the end of the page) with GNOME 2.17.92 fresh out of the oven! Come and get it!!! :)
+The user name is Live and the password is blanked, so change it once you get a chance.</description>
     </item>
     
     <item>
       <title>Mais formas de experimentar o novo GNOME 2.17.92 virtualmente</title>
       <link>https://omaciel.github.io/posts/mais-formas-de-experimentar-o-novo-gnome-21792-virtualme-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/mais-formas-de-experimentar-o-novo-gnome-21792-virtualme-/</guid>
       <description>Agora voce ja&#39; pode experimentar o GNOME 2.17.92 que eu falei antes usando QEMU, Microsoft VHD, e claro, VMware.
@@ -595,7 +852,7 @@ Estas imagens serao atualizadas com muita frequencia, e se voce trabalha com tra
     <item>
       <title>Mais noticias sobre o GNOME!</title>
       <link>https://omaciel.github.io/posts/mais-noticias-sobre-o-gnome-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/mais-noticias-sobre-o-gnome-/</guid>
       <description>Ok, agora ja&#39; temos Live CDs (nao confundir com imagens para virtualizacao tipo VMware&amp;hellip; no final da pagina) com o GNOME 2.17.92 fresquinho do forno! :)
@@ -603,38 +860,9 @@ O nome do usuario e&#39; Live e a senha esta&#39; em branco, portanto, mude-a as
     </item>
     
     <item>
-      <title>MIA / POW</title>
-      <link>https://omaciel.github.io/posts/mia-pow-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/mia-pow-/</guid>
-      <description>That is, Missing In Action / Prisoner Of WORK! Here at rPath we work based on iteration periods that could vary between 4 - 6 weeks. During these periods, we are all assigned (or loaded as we say) several hours of issues to work on plus whatever may come up during the course of the iteration. Decided to tackle all my issues without any disturbance, I took the plunge and have completely immersed myself in lots of python, javascript, and you name it!</description>
-    </item>
-    
-    <item>
-      <title>Milestones and Events</title>
-      <link>https://omaciel.github.io/posts/milestones-and-events-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/milestones-and-events-/</guid>
-      <description>Quick post to mention a couple of personal milestones and events:
- Today is my 1-year anniversary at rPath. It also marks 1 year since I stopped doing work with VB.NET/C# and PL/SQL and embarked in a brand new world of Python, and web-by programming&amp;hellip; There is not a day that I don&amp;rsquo;t learn something new! Sept. 29th marked 1 year since I left New Jersey for North Carolina! Besides the advantages of working with such a smart bunch (see above), I now get to spend quality time with my wife and two daughters.</description>
-    </item>
-    
-    <item>
-      <title>Milestones e Eventos</title>
-      <link>https://omaciel.github.io/posts/milestones-e-eventos-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/milestones-e-eventos-/</guid>
-      <description>Um post rapidinho para anunciar alguns milestones e eventos pessoais:
- Hoje completo um ano trabalhando na rPath. TambÃ©m completa um ano que parei de trabalhar com VB.NET/C# e PL/SQL e embarquei em um mundo novinho de Python, e pragramaÃ§Ã£o com web&amp;hellip; NÃ£o tem um dia que passa que nÃ£o aprendo algo novo! Setembro 29 marcou 1 ano desde que saÃ­ de New Jersey e me mudei para North Carolina! AlÃ©m das vantagens de trabalhar com uma galera super esperta (mencionado acima), eu agora posso passar mais tempo com minha esposa e duas filhas.</description>
-    </item>
-    
-    <item>
       <title>More ways to test GNOME 2.17.92</title>
       <link>https://omaciel.github.io/posts/more-ways-to-test-gnome-21792-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/more-ways-to-test-gnome-21792-/</guid>
       <description>Now you can test GNOME 2.17.92 using QEMU, Microsoft VHD, and VMware.
@@ -642,283 +870,55 @@ These images will be generated periodically so that you&amp;rsquo;ll always have
     </item>
     
     <item>
-      <title>My Own Personal Translation Portal in the Cloud</title>
-      <link>https://omaciel.github.io/posts/my-own-personal-translation-portal-in-the-cloud-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Live CD do GNOME, versÃ£o 2.17.92</title>
+      <link>https://omaciel.github.io/posts/live-cd-do-gnome-versao-21792-/</link>
+      <pubDate>Mon, 05 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/my-own-personal-translation-portal-in-the-cloud-/</guid>
-      <description>Had some time today during lunch to work on the Transifex Appliance and decided to play with the newly added feature of supporting subversion over https. So I launched thedevel EC2 instance on Amazon Web Service and proceeded to add PCMan File Manager so that I could translate it online. Before you ask, yes: I do have commit access to the project and could have checked out the code locally and done the work as I usually do, but that&amp;rsquo;s not fun!</description>
+      <guid>https://omaciel.github.io/posts/live-cd-do-gnome-versao-21792-/</guid>
+      <description>Saiu hoje pela manhÃ£ a tÃ£o esperada versÃ£o Live CD do GNOME, contendo a versÃ£o 2.17.92 do ambiente de trabalho do GNOME.
+Baseado no Foresight Linux, este CD impressiona bastante por conter todos os pacotes do GNOME + alguns programas adicionais, localizaÃ§Ã£o completa (ou seja, suporte para todos os idiomas que foram traduzidos, incluindo o portuguÃªs do Brasil), e tudo isso em uma imagem ISO de somente 490 MB!
+O plano Ã© continuar gerando estes Live CDs, culminando com o lanÃ§amento da versÃ£o 2.</description>
     </item>
     
     <item>
-      <title>News Update - Dec. 04, 2008</title>
-      <link>https://omaciel.github.io/posts/news-update-dec-04-2008-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Experimente o GNOME 2.17.92 agora!</title>
+      <link>https://omaciel.github.io/posts/experimente-o-gnome-21792-agora-/</link>
+      <pubDate>Fri, 02 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/news-update-dec-04-2008-/</guid>
-      <description>Built a MT-Daapd Linux appliance to share my music at home. Installed it in a machine with 1GB of RAM and am now as happy as I can be. The whole thing weighs in at 237MB (I&amp;rsquo;ve included vim, openssh, libogg plus a few other nuggets) and off course everything is managed by the awesome conary technology. I&amp;rsquo;ve also added ushare (upnp support) and am hoping to make it so that sharing videos and music can be all done via a web interface.</description>
+      <guid>https://omaciel.github.io/posts/experimente-o-gnome-21792-agora-/</guid>
+      <description>Quer ver como esta&#39; o GNOME 2.18 agora mas nao quer esperar ate&#39; o dia de lancamento? So&#39; de pensar em compilar codigo direto da fonte te deixa com febre? Nao tenha mais medo!
+Ken Vandine empacotou o GNOME 2.17.92 como uma imagem de VMware, a qual pode ser baixada aqui! Experimente o GNOME (somente em ingles por enquanto) com todos os seus programas comprimidos em uns meros 362 MB, incluindo VMware Tools!</description>
     </item>
     
     <item>
-      <title>NÃ£o se esqueÃ§a de pagar suas contas novamente, se nÃ£o\...</title>
-      <link>https://omaciel.github.io/posts/nao-se-esqueca-de-pagar-suas-contas-novamente-se-nao-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Live Gnome VMware Image</title>
+      <link>https://omaciel.github.io/posts/live-gnome-vmware-image-/</link>
+      <pubDate>Fri, 02 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/posts/nao-se-esqueca-de-pagar-suas-contas-novamente-se-nao-/</guid>
-      <description>JÃ¡ faz um bom tempo que nÃ£o escrevo nada sobre o meu programa para notificaÃ§Ã£o de contas, o BillReminder. Com o nascimento da minha filha Kate, e os novos projetos que apareceram no meu trabalho na rPath, e as traduÃ§Ãµes do GNOME 2.18, nÃ£o tinha sobrado muito tempo para fazer mais nada. Felizmente, tive a prazerosa inclusÃ£o de mais um desenvolvidor no BillReminder: Luiz Armesto.
-Depois de trocar umas idÃ©ias pelo IRC sobre o rumo que eu queria levar o projeto, o Luiz simplesmente carregou em suas costas a grande responsabilidade de re-escrever o sistema de banco de dados, para suportar uma arquitetura mais flexivel e dinÃ¢mica.</description>
+      <guid>https://omaciel.github.io/posts/live-gnome-vmware-image-/</guid>
+      <description>Want to see what the new GNOME 2.18 will be like and can&amp;rsquo;t wait for the release date? Don&amp;rsquo;t feel like rolling up your sleeves and compiling it from source? Have no fear!!!
+Ken Vandine has packaged GNOME 2.17.92 as a VMware image, which can be downloaded here. Experience GNOME (in english only for now) with all of its components packed into a mere 362 MB, including VMware Tools!!! All of this goodness thanks to the powers of Conary!</description>
+    </item>
+    
+    <item>
+      <title>Life 2.0</title>
+      <link>https://omaciel.github.io/posts/life-20-/</link>
+      <pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/life-20-/</guid>
+      <description>After a very brief night of sleep (about 3 hours), Elizabeth started having contractions, strong enough for us to drive to the hospital. At around 5:18 EST our second daughter Kate Maciel was born!
+
+There were some post-partum complications and Elizabeth lost a lot of blood, but the doctors seem to have things under control now.
+Nothing can prepare you for the roller coaster of emotions one goes through when witnessing the birth of your child.</description>
     </item>
     
     <item>
       <title>O ano de 2006 em fotos!</title>
       <link>https://omaciel.github.io/posts/o-ano-de-2006-em-fotos-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jan 2007 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/o-ano-de-2006-em-fotos-/</guid>
       <description>Bem, depois de quase 2 semanas doente com um resfriado horrÃ­vel, eu melhorei em tempo para o ano novo! Este ano (passado) de 2006 provou ter sido um ano super movimentado para a minha familia e eu. Creio que eu viajei e conheci mais pessoas e lugares em 2006 do que nos Ãºltimos 5 anos combinados! JÃ¡ que vÃ¡rias pessoas escreveram sobre o que aconteceu no ano de 2006, eis a minha tentativa fotogrÃ¡fica.</description>
-    </item>
-    
-    <item>
-      <title>Red Hat: Os Primeiros 3 Meses</title>
-      <link>https://omaciel.github.io/posts/red-hat-os-primeiros-3-meses-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/red-hat-os-primeiros-3-meses-/</guid>
-      <description>Este último dia 5 de fevereiro recebi a seguinte mensagem por e-mail:
- Congratulations for reaching 90 days of service with Red Hat!
- É difícil de acreditar que já se passaram 3 meses desde que eu comecei este novo capítulo na minha carreira! Meus dias têm sido preenchidos com tantas novidades que isso talvez ajude a explicar porque parece que foi somente ontem que eu sai da rPath para ingressar na equipe CloudForms QE aqui na Red Hat!</description>
-    </item>
-    
-    <item>
-      <title>Red Hat: The First 3 Months</title>
-      <link>https://omaciel.github.io/posts/red-hat-the-first-3-months-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/red-hat-the-first-3-months-/</guid>
-      <description>This past Feb. 5th I was greeted early in the morning with the following email:
- Congratulations for reaching 90 days of service with Red Hat!
- It is hard for me to believe that it has been 3 months already since I started this new chapter in my career! My days have been filled with so many new things that it may explain why it literally feels like it was only yesterday that I left rPath to join the CloudForms QE Team here at Red Hat!</description>
-    </item>
-    
-    <item>
-      <title>RHEL 5 Appliance sneak peak</title>
-      <link>https://omaciel.github.io/posts/rhel-5-appliance-sneak-peak-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/rhel-5-appliance-sneak-peak-/</guid>
-      <description>I&amp;rsquo;ve already mentioned on my Twitter account about our latest feat here at rPath, namely, &amp;ldquo;rPath Expands Operating System Coverage with Red Hat Enterprise Linux 4 and 5.&amp;rdquo; But the more I play with our technology, the more gaga I get at how simple we can make things!
-So today I built a plain vanilla appliance based on the Red Hat Enterprise Linux Server 5 withjust enough operating system and launched it on VMware vSphere 4.</description>
-    </item>
-    
-    <item>
-      <title>Servidor de músicas Bailout MT-Daapd</title>
-      <link>https://omaciel.github.io/posts/servidor-de-musicas-bailout-mt-daapd-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/servidor-de-musicas-bailout-mt-daapd-/</guid>
-      <description>No finalzinho do ano passado eu passei alguns dias trabalhando para configurar um servidor de músicas bem simples para usar em casa. Como eu estou sempre fazendo algo maluco no meu desktop/laptop que eventualmente sempre me leva a re-instalar o meu sistema operacional, eu estou constantemente movendo meus arquivos de música entre computadores e discos externos. Quando você tem uma coleção de tamanho considerado, este exercício se torna um pé no saco.</description>
-    </item>
-    
-    <item>
-      <title>SmÃ¶rgÃ¥sbord News for September 2009</title>
-      <link>https://omaciel.github.io/posts/smorgasbord-news-for-september-2009-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/smorgasbord-news-for-september-2009-/</guid>
-      <description>It&amp;rsquo;s been a while since I last wrote anything on my blog so here are some interesting nuggets:
- I&amp;rsquo;ve been house hunting for the last 3-4 months and I can honestly say that it is a very intense experience! There are so many things to learn and remember and so many different things to consider! Wouldn&amp;rsquo;t be nice if you knew right up front all the costs and fees involved in purchasing a house, the same way you know how much it costs to purchase a pair of sneakers (cost of sneakers plus sales tax)?</description>
-    </item>
-    
-    <item>
-      <title>Thanks a Lotte! Transifex development in full motion!</title>
-      <link>https://omaciel.github.io/posts/thanks-a-lotte-transifex-development-in-full-motion-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/thanks-a-lotte-transifex-development-in-full-motion-/</guid>
-      <description>I&amp;rsquo;m back from GUADEC 2009 (a blog post dedicated to this will be posted soon, I promise) and am now trying to get caught up with everything that has happened at work and projects I follow. Manage to spend some time today to check what&amp;rsquo;s new with the Transifex project and am very impressed with the direction it is going.
-
-What you see above is the new tool/feature being added for inline, online translation of projects, codenamed Lotte!</description>
-    </item>
-    
-    <item>
-      <title>The Windmill Appliance</title>
-      <link>https://omaciel.github.io/posts/the-windmill-appliance-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/the-windmill-appliance-/</guid>
-      <description>I&amp;rsquo;m proud to announce the release of the Windmill Appliance! Built with the technology provided by rPath, it is currently available as a downloadable installable ISO as well as a VMWare image for you pleasure.
-Now, just what is the windmill appliance for, you may ask? Glad you did&amp;hellip; Windmill is an Open Source AJAX Web UI Testing framework. For the last couple of months I have relied heavily on this software to properly test the web UI of one of our products, and the results have been quite pleasant.</description>
-    </item>
-    
-    <item>
-      <title>To my fallen comrades</title>
-      <link>https://omaciel.github.io/posts/to-my-fallen-comrades-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/to-my-fallen-comrades-/</guid>
-      <description>Quote:
- &amp;quot;Life is never more fun than when you&amp;rsquo;re the underdog competing against the giants.&amp;quot;
- Through the years our relationship changed and as with a good wine (I want to believe) it improved. Some of you became really good friends to me and it was painful for me to watch you pack and leave. I can assure you that you&amp;rsquo;ll be missed...
-Hang in there and may your 2009 turn out to be the beginning of a great and new adventure!</description>
-    </item>
-    
-    <item>
-      <title>To the Transifex Appliance users out there</title>
-      <link>https://omaciel.github.io/posts/to-the-transifex-appliance-users-out-there-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/to-the-transifex-appliance-users-out-there-/</guid>
-      <description>Some time around the middle of 2008 I was asked if I would be interested in joining the very young QA department for rPath. I had already been working as a software engineer for them since late 2006, spending a larger chunk of my time working on a single project and not being able to experiment with the cool technology we were developing outside of my project. Somehow the idea of doing QA felt very appealing to me as I would then be able to see, first hand, what type of products we were publishing, as well as experience what our customers and users were going through.</description>
-    </item>
-    
-    <item>
-      <title>Transifex Appliance 1.0 (Proteus) Release</title>
-      <link>https://omaciel.github.io/posts/transifex-appliance-1-0-proteus-release-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/transifex-appliance-1-0-proteus-release-/</guid>
-      <description>A newer version of the Transifex Appliance has been released with all the latest, juicy bits! In fact, this release is the mother of all releases with so many new features and goodies that it would take me a while to jot them down here! A few impressive nuggets are:
- Brand New Translation Storage Engine QT (TS) translation file format support Source language file tracking over HTTP Translation file metadata auto-updating Clone language Non-English Source Languages Lotte: Multiple Source Languages, Suggestions, Keyboard Shortcuts, Translation Memory Application Programmable Interface  Can you believe that Transifex has reached the 1.</description>
-    </item>
-    
-    <item>
-      <title>Translations.xfce.org is 1 year old</title>
-      <link>https://omaciel.github.io/posts/translations-xfce-org-is-1-year-old-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/translations-xfce-org-is-1-year-old-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1176&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Happy Birthday&amp;rdquo;][/caption]
-Received the following email this morning:
- Last night our Transifex installation turned 1 year old. I think with 101 users and 4012 submissions in 45 languages it has been quite a step forward compared to the previous mailing list-based submission system. For that I&#39;d like to thank all the people involved, most noticeably Jannis for the initial setup, the Transifex guys for help and fixing bugs, Og for the appliance we&#39;ve been running for the last half year and of course the Translators with all their patience and effort to make it a success.</description>
-    </item>
-    
-    <item>
-      <title>TriZPUG, Fabric, epdb, oh my!</title>
-      <link>https://omaciel.github.io/posts/trizpug-fabric-epdb-oh-my-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/trizpug-fabric-epdb-oh-my-/</guid>
-      <description>Yesterday I attended my first TriZPUG meeting to check out Kurt Grandis&#39; talk on Fabric, &amp;ldquo;a Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.&amp;rdquo;
-It was pretty cool to see a bunch of guys who share the same interests take some time on a Thursday to hang out, drink beers, and chat about python, django, zope, and other stuff. After the original talk was over and some of the other lightening talks that succeeded it was over, a couple of things became very clear to me:</description>
-    </item>
-    
-    <item>
-      <title>Try the upcoming Openbox 3.4.8</title>
-      <link>https://omaciel.github.io/posts/try-the-upcoming-openbox-348-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/try-the-upcoming-openbox-348-/</guid>
-      <description>if you like Openbox and want to play with the upcoming 3.4.8 version, download the release candidate 1 here: http://icculus.org/openbox/releases/openbox-3.4.8-rc1.tar.gz. Keep in mind that you&amp;rsquo;ll have to patch obconf by basically replacing &amp;lsquo;obrender-3.0&amp;rsquo; and &amp;lsquo;obparser-3.0&amp;rsquo; to &amp;lsquo;obrender-4.0&amp;rsquo; and &amp;lsquo;obparser-4.0&amp;rsquo; respectively in the configure.ac file.
-Or you use a conary-based system, there is a version packaged directly from their git repository which you can install by running sudo conary update openbox=foresightlinux.rpath.org@fl:2-devel.</description>
-    </item>
-    
-    <item>
-      <title>Usando o Dropbox com o Openbox</title>
-      <link>https://omaciel.github.io/posts/usando-o-dropbox-com-o-openbox-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/usando-o-dropbox-com-o-openbox-/</guid>
-      <description>Dando continuidade ao post do Vladimir Melo, gostaria de compartilhar minha experiência usando o programa Dropbox.
-Mesmo sendo um usuário do GNU/Linux por tanto tempo, foi somente 2 anos atrás que comecei a usá-lo o tempo todo. Como eu antes trabalhava como um desenvolvedor de .NET e Oracle durante o dia para o Departamento de Educação da cidade de New York, eu tinha um ambiente padrão de desenvolvedor instalado em meu sistema e nada mais.</description>
-    </item>
-    
-    <item>
-      <title>VocÃª sabe que estÃ¡ usando muito o Vim quando\...</title>
-      <link>https://omaciel.github.io/posts/voce-sabe-que-esta-usando-muito-o-vim-quando-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/voce-sabe-que-esta-usando-muito-o-vim-quando-/</guid>
-      <description>&amp;hellip; vocÃª aperta a tecla ESC depois de preencher um formulÃ¡rio na web!
-Eu realmente comecei a usar o Vim em tempo integral quando comecei a trabalhar na rPath em outubro do ano passado. De vez em quando eu aprendo um truque novo e resolvi compartilhÃ¡-los aqui com vocÃªs, e ao mesmo tempo mantÃª-los em um lugar que eu possa sempre pesquisar (o famoso &amp;ldquo;matar 2 pÃ¡ssaros com uma pedrada sÃ³!</description>
-    </item>
-    
-    <item>
-      <title>Want people to work harder? Give them an innovation bonus!</title>
-      <link>https://omaciel.github.io/posts/want-people-to-work-harder-give-them-an-innovation-bonus-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/want-people-to-work-harder-give-them-an-innovation-bonus-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;240&amp;rdquo; caption=&amp;ldquo;Can Money Buy Your Productivity?&amp;quot;][/caption]
-In True Motivation, my friend Vinny pointed to a very interesting video byÂ Dan Pink, &amp;ldquo;author of several provocative, bestselling books about the changing world of work.&amp;ldquo;Â This video talks about how research has come up with key factors to make people happier, successful and fulfilled: Autonomy, Mastery and Purpose!
-Ok, this shouldn&amp;rsquo;t really shock people, but how about this nice little nugget: when it comes down to tasks that require cognitive skills, offering more money as an incentive does not yield good results!</description>
-    </item>
-    
-    <item>
-      <title>Week in Review: May 17th â€&#34; May 21th, 2010</title>
-      <link>https://omaciel.github.io/posts/week-in-review-may-17th-e2-80-93-may-21th-2010-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/week-in-review-may-17th-e2-80-93-may-21th-2010-/</guid>
-      <description>ï»¿ï»¿Hereâ€™s what happened this week:
-ï»¿ï»¿
-Should you go to college straight out of high school? Over the weekend I came across an interesting article in theÂ New York Timescalled â€œPlan B: Skip Collegeâ€œ. According to theÂ Department of Education, â€œno more than half of those who began a four-year[&amp;hellip;]
-Django Developer Kit 1.2 Iâ€™m really excited to announce the release of myÂ Django Developer Kit 1.2! Setting up a Django-based project in the appliance is a piece of cake!</description>
-    </item>
-    
-    <item>
-      <title>Week in Review: May 24th â€&#34; May 28th, 2010</title>
-      <link>https://omaciel.github.io/posts/week-in-review-may-24th-e2-80-93-may-28th-2010-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/week-in-review-may-24th-e2-80-93-may-28th-2010-/</guid>
-      <description>ï»¿ï»¿Hereâ€™s what happened this week:
-The Maze Runner This past March I started a new routine to my Sunday mornings: shortly after breakfast with the kids, I flip my laptop open and start reading theÂ Books section[&amp;hellip;]
-Django Developer Kit 1.2.1 I have just released theÂ Django Developer Kit 1.2.1 appliance to match with the release ofÂ Django 1.2.1! Check thisÂ page for[&amp;hellip;]
-For The Win! Sunday I was lucky enough to have the chance of attending a book reading (well, a passage actually) byÂ Cory Doctorow!</description>
-    </item>
-    
-    <item>
-      <title>Week in Review: May 3rd - 7th, 2010</title>
-      <link>https://omaciel.github.io/posts/week-in-review-may-3rd-7th-2010-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/week-in-review-may-3rd-7th-2010-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;286&amp;rdquo; caption=&amp;ldquo;Week in Review&amp;rdquo;][/caption]
-ï»¿ï»¿Here&amp;rsquo;s what happened this week:
-ï»¿
- Whatâ€™s new with Radio Tray?  http://www.ogmaciel.com/?p=1016Radio Tray, your favorite light weight online radio streaming application, has gone under some more development churn since its last release. Namely, there is now aÂ dbus interface to allow other applications to interact with it!   When the movie is better than the book  Over this past weekend I found just enough time to finish readingÂ Band of Brothers byÂ Stephen E.</description>
-    </item>
-    
-    <item>
-      <title>What do Moblin, Xfce, Fedora plus a few other projects have in common?</title>
-      <link>https://omaciel.github.io/posts/what-do-moblin-xfce-fedora-plus-a-few-other-projects-hav-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/what-do-moblin-xfce-fedora-plus-a-few-other-projects-hav-/</guid>
-      <description>Just to follow up on one of my earlier messages to Twitter/Identi.ca today, here&amp;rsquo;s a little trivia for you:
- &amp;quot;What do Moblin, Xfce, Fedora plus a few other projects have in common? They all use Transifex for their translations!&amp;quot;
- There&amp;rsquo;s quite a few other projects out there already toying with Transifex to see if it fits their needs too, which goes to show that the word is getting out about the benefits of using it as a platform for managing translations.</description>
-    </item>
-    
-    <item>
-      <title>When Hard Work Pays Off: rBuilder 5.8 for Linux and Windows</title>
-      <link>https://omaciel.github.io/posts/when-hard-work-pays-off-rbuilder-5-8-for-linux-and-windo-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/when-hard-work-pays-off-rbuilder-5-8-for-linux-and-windo-/</guid>
-      <description>It&amp;rsquo;s been a while since I last wrote anything here, mainly because I have been working very hard on a very cool project for work that I can now finally talk about it. `rPath &amp;lt;http://www.rpath.com&amp;gt;`__, the place where I have been working for the last 4+ years has just announced the release of rBuilder 5.8, bringing &amp;ldquo;model-driven, version-controlled system automation deeper into the enterprise with active inventory management and support for Windows&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>Xfce using Transifex</title>
-      <link>https://omaciel.github.io/posts/xfce-using-transifex-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/xfce-using-transifex-/</guid>
-      <description>In case you&amp;rsquo;ve missed it, the Xfce project has been using their own installation of Transifex to manage their translations online! Translators can now visit http://translations.xfce.org and keep up with the action!
- 
-From Transifex v8.0 featutes I&amp;rsquo;ve been contributing with translations for the Brazilian Portuguese language for quite some time now, and have been a strong supporter for the Transifex project as well, so I was thrilled to learn they were &amp;ldquo;working together&amp;rdquo;!</description>
-    </item>
-    
-    <item>
-      <title>You know you\&#39;re using too much Vi when\...</title>
-      <link>https://omaciel.github.io/posts/you-know-youre-using-too-much-vi-when-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/posts/you-know-youre-using-too-much-vi-when-/</guid>
-      <description>&amp;hellip; you press ESC after filling out web forms!
-I really started using Vim full-time when I started working at rPath last October. Every now and then I learn a new trick and I figured I&amp;rsquo;d share them here, as well as make sure I can always search for them later (talk about killing 2 birds with a stone!).
-The first one if is for those times you want to make a generic search and replace action on a file you&amp;rsquo;re working on.</description>
     </item>
     
   </channel>

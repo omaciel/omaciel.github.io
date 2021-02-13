@@ -5,11 +5,12 @@
     <link>https://omaciel.github.io/tags/english-lxml-python-optparse-wordpress/</link>
     <description>Recent content in english, lxml, python, optparse, wordpress on Og Maciel&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/english-lxml-python-optparse-wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Apr 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/english-lxml-python-optparse-wordpress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Splitting WordPress Export File with ChoppedPress</title>
       <link>https://omaciel.github.io/posts/splitting-wordpress-export-file-with-choppedpress-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Apr 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/splitting-wordpress-export-file-with-choppedpress-/</guid>
       <description>You&amp;rsquo;re all probably tired of hearing me talking about my script to split the XML-like file that WordPress generates when you use the Export feature. Tonight I have finally added the final touches to it and can now share it here with you.

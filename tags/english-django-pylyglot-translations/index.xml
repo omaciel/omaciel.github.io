@@ -5,11 +5,12 @@
     <link>https://omaciel.github.io/tags/english-django-pylyglot-translations/</link>
     <description>Recent content in english, django, pylyglot, translations on Og Maciel&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/english-django-pylyglot-translations/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Aug 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/english-django-pylyglot-translations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pylyglot: Open Source Translation Search</title>
       <link>https://omaciel.github.io/posts/pylyglot-open-source-translation-search-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/pylyglot-open-source-translation-search-/</guid>
       <description>It&amp;rsquo;s been a while since I wrote about Pylyglot, my translation searching tool that I use whenever I translate open source applications. Have not heard about Pylyglot? Read the About page for more info!

@@ -5,11 +5,12 @@
     <link>https://omaciel.github.io/tags/rpath-turbogears-raa/</link>
     <description>Recent content in rpath, turbogears, raa on Og Maciel&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/rpath-turbogears-raa/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2006 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/rpath-turbogears-raa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monoglotism in TurboGears\...</title>
       <link>https://omaciel.github.io/posts/monoglotism-in-turbogears-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Dec 2006 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/monoglotism-in-turbogears-/</guid>
       <description>or how the support for localization in Turbo Gears seems to be borked!

@@ -5,11 +5,12 @@
     <link>https://omaciel.github.io/tags/rpath-appliance/</link>
     <description>Recent content in rpath, appliance on Og Maciel&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/rpath-appliance/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Dec 2006 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/rpath-appliance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pastebin as a Linux Appliance</title>
       <link>https://omaciel.github.io/posts/pastebin-as-a-linux-appliance-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Dec 2006 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/pastebin-as-a-linux-appliance-/</guid>
       <description>My co-worker Elliot Peele just released the Pastebin Appliance using rBuilder Online and conary. This is actually pretty cool and it will be extremely useful for those who want to have the features of a pastebin but don&amp;rsquo;t want to roll up their sleeves and install all the necessary pieces from scratch. You could even have it running on vmware and use it as such!
@@ -19,7 +20,7 @@ I&amp;rsquo;m sure that in a not so distant future people will really take advan
     <item>
       <title>Usando Linux como eletrodomesticos</title>
       <link>https://omaciel.github.io/posts/usando-linux-como-eletrodomesticos-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Dec 2006 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/usando-linux-como-eletrodomesticos-/</guid>
       <description>Hoje um dos meus amigos no trabalho anunciou o lancamento de um Linux Appliance (a traducao literal seria eletrodomestico) com o Pastebin. Mas o que e&#39; um Linux Appliance? Este foi um termo cunhado por minha companhia (tenho quase certeza sobre isso) para descrever a habilidade de criar instalacoes de software usando Linux, sem as complicacoes que existem para instalar e configurar um novo sistema. O mecanismo funciona mais ou menos assim:</description>

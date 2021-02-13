@@ -5,11 +5,12 @@
     <link>https://omaciel.github.io/tags/rpath-foresight-linux-conary-br-office/</link>
     <description>Recent content in rpath, foresight linux, conary, br-office on Og Maciel&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://omaciel.github.io/tags/rpath-foresight-linux-conary-br-office/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Oct 2006 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/rpath-foresight-linux-conary-br-office/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BR-Office empacotado para o Foresight Linux</title>
       <link>https://omaciel.github.io/posts/br-office-packaged-for-foresight-linux-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Oct 2006 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/br-office-packaged-for-foresight-linux-/</guid>
       <description>Aproveitei o dia hoje para empacotar o Br-Office para o Foresight Linux!!! Como podem ver, esta&#39; rodando &amp;ldquo;redondinho&amp;rdquo;! :) No processo de empacota-lo, acabei descobrindo um bug no glibc. Mas o pessoal da rPath ja&#39; tinha um patch e assim que o glibc for arrumado e for liberado no repositorio oficial, voces poderao usufruir do Br-Office tambem.
