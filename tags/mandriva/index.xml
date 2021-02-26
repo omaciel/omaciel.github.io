@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mandriva on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/mandriva/</link>
+    <description>Recent content in mandriva on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/mandriva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ANÚNCIO: Final do Planeta GNU/Linux Brasil</title>
+      <link>https://omaciel.github.io/posts/anuncio-final-do-planeta-gnu-linux-brasil-/</link>
+      <pubDate>Mon, 09 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/anuncio-final-do-planeta-gnu-linux-brasil-/</guid>
+      <description>Em 2008, depois de algumas discussões sobre o tipo de conteúdo que meu blog estava gerando em alguns agregadores nacionais, eu tomei a decisāo de criar meu próprio agregador com o seguinte objetivo:
+&amp;ldquo;O Planeta GNU/Linux* nasceu da minha necessidade de querer ler blogs de pessoas relacionadas ao movimento Brasileiro de software livre, mas sem a censura bitolada que outros agregadores de blogs usam para filtrar o conteúdo que é publicado.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - Enrico Nicoletto e Rafael Ferreira: Projeto GNOME</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-enrico-nicoletto-e-rafael-/</link>
+      <pubDate>Tue, 03 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-enrico-nicoletto-e-rafael-/</guid>
+      <description>Depois de vários meses sem &amp;ldquo;fora do ar&amp;rdquo;, tenho o grande prazer em trazer mais um episódio sobre o projeto GNOME! Desta vez convidei o Enrico Nicoletto e *Rafael Ferreira* para conversar sobre o processo de traduçōes, que mais uma vez promete entregar mais uma versão completamente traduzida para o nosso bom português!
+A entrevista aconteceu &amp;ldquo;na estrada&amp;rdquo; quando eu estava voltando de viagem, e acabei gravando o episódio de um hotel lá em Richmond no estado da Virgínia.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Everaldo Canuto: Toca do Canuto</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-everaldo-canuto-toca-do-canuto-/</link>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-everaldo-canuto-toca-do-canuto-/</guid>
+      <description>Eu conheci o Everaldo em uma tarde super calorenta durante a abertura do evento GUADEC nas *Ilhas Canárias*. O mais interessante foi que não demorou mais que um dia para que nossa amizade se tornasse igual aquelas amizades que fazemos quando criança&amp;hellip; aquelas pessoas que não importa o tempo ou a distância, você sempre fica feliz de encontrar e bater um papo!
+O Everaldo teve uma das oportunidades que eu sempre sonhei em ter: trabalhar lado a lado com o Miguel de Icaza, um dos fundadores do Projeto GNOME, figura quase que mitológica do mundo do software livre e hoje empresário com várias companhias de sucesso em seu histórico!</description>
+    </item>
+    
+  </channel>
+</rss>

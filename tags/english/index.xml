@@ -6,7 +6,45 @@
     <description>Recent content in english on Og Maciel&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Oct 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Sep 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Python to Control Katello</title>
+      <link>https://omaciel.github.io/posts/using-python-to-control-katello-/</link>
+      <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/using-python-to-control-katello-/</guid>
+      <description>I usually like to use python to script my day to day tests against Katello (you may have seen some of my previous posts about using the Katello CLI for the same purpose) and I figured I&amp;rsquo;d start showing some basic examples for anyone else out there who may be interested.
+Assuming you have already installed and configured your Katello instance (learn how to do this here) with the default configurations, we now have a few options to proceed:</description>
+    </item>
+    
+    <item>
+      <title>Populating a Katello instance using the CLI</title>
+      <link>https://omaciel.github.io/posts/populating-a-katello-instance-using-the-cli-/</link>
+      <pubDate>Tue, 04 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/populating-a-katello-instance-using-the-cli-/</guid>
+      <description>Lately I have been asked a lot about my previous script to automatically populate a Katello server instance with real data (hi reyc!) I wrote that a while back and though it still does contain some helpful commands, I figured it was about time I updated it. Well, it took me longer than I expected to find some time and clean it up, but I think I can now show you a brand new script which also includes the extra feature of downloading a manifest file directly from Red Hat&#39;s portal and importing it as part of the process.</description>
+    </item>
+    
+    <item>
+      <title>Adventures in the Music Streaming World</title>
+      <link>https://omaciel.github.io/posts/adventures-in-the-music-streaming-world-/</link>
+      <pubDate>Tue, 23 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/adventures-in-the-music-streaming-world-/</guid>
+      <description>These last couple of years have brought (along with some new wrinkles and occasional grey hairs) some interesting changes on how I manage and maintain my &amp;ldquo;digital belongings&amp;rdquo;. For a long while I used to worry about backing up and storing in a safe place all the files, photos, books, movies and music I&amp;rsquo;ve collected through the years. I have also managed to collect a variety of different external USB hard drives to keep up with this digital sprawl, where for each iteration the next device would increase in size and sometimes in speed compared to the current one.</description>
+    </item>
+    
+    <item>
+      <title>Perks of being a polyglot</title>
+      <link>https://omaciel.github.io/posts/perks-of-being-a-polyglot-/</link>
+      <pubDate>Thu, 28 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/perks-of-being-a-polyglot-/</guid>
+      <description>￼
+Yesterday I had one of those &amp;ldquo;once in a a lifetime&amp;rdquo; opportunities, thanks to my wife who dragged me to a presentation hosted by the University of North Carolina. The presentation by Dr. Eduardo Torres Cuevas, titled &amp;ldquo;Preserving Cuba&amp;rsquo;s Cultural Heritage in the 21st Century&amp;rdquo; attracted a small gathering, apparently mostly made up of UNC staff and students who are currently enrolled in one of their languages courses. I wasn&amp;rsquo;t really sure what to expect from it, but being the supportive husband that I am, I signed off from work a bit earlier and together with our 2 kids we drove to the main campus.</description>
+    </item>
+    
     <item>
       <title>Tough Times</title>
       <link>https://omaciel.github.io/posts/tough-times-/</link>

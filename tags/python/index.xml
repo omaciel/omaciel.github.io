@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/python/</link>
+    <description>Recent content in python on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jun 2014 19:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FauxFactory 0.3.0</title>
+      <link>https://omaciel.github.io/posts/1173-fauxfactory-0-3-0/</link>
+      <pubDate>Mon, 30 Jun 2014 19:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/1173-fauxfactory-0-3-0/</guid>
+      <description>Took some time from my vacation and released FauxFactory 0.3.0 to make it Python 3 compatible and to add a new generate_utf8 method (plus some nice tweaks and code clean up).
+As always, the package is available on Pypi and can be installed via pip install fauxfactory.
+If you have any constructive feedback, suggestions, or file a bug report or feature request, please use the Github page.</description>
+    </item>
+    
+    <item>
+      <title>FauxFactory 0.2.1</title>
+      <link>https://omaciel.github.io/posts/1171-brown-paper-bag-release/</link>
+      <pubDate>Fri, 09 May 2014 17:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/1171-brown-paper-bag-release/</guid>
+      <description>Short on its heels, today I&#39;m releasing FauxFactory 0.2.1 to fix a brown paper bag bug I encountered last night before going to bed.
+Basically, the new &amp;quot;Lorem Ipsum&amp;quot; generator was not honoring the words parameter if you asked for a string longer than 70 characters. I have fixed the issue as well as added a new test to make sure that the generator does the right thing.
+The package is available on Pypi (sadly the page is still not rendering correctly.</description>
+    </item>
+    
+    <item>
+      <title>FauxFactory 0.2.0</title>
+      <link>https://omaciel.github.io/posts/1170-fauxfactory-0-2-0/</link>
+      <pubDate>Thu, 08 May 2014 19:12:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/1170-fauxfactory-0-2-0/</guid>
+      <description>Today I&#39;m releasing FauxFactory 0.2.0 with a new feature, a &amp;quot;Lorem Ipsum&amp;quot; generator. I confess that I did not look around for any existing implementation in python out there and just started writing code. My idea was to create a method that would:
+Return a &amp;quot;Lorem Ipsum&amp;quot; string if I passed no arguments:
+In [1]: from fauxfactory import FauxFactory In [2]: FauxFactory.generate_iplum() Out[2]: u&#39;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Hiring is Tough!</title>
+      <link>https://omaciel.github.io/posts/1169-hiring-is-tough/</link>
+      <pubDate>Thu, 01 May 2014 18:05:45 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/1169-hiring-is-tough/</guid>
+      <description>So I&#39;ve been trying to hire two python developers to join my automation team here at Red Hat since last November, 2013... and believe it or not, so far I&#39;ve had absolutely zero success in finding good, strong, with real world experience candidates in North Carolina! I either find really smart people, who do have relevant backgrounds or could &#39;hit the ground running&#39; but are way out of my current budget, or they lack real world experience and fall into more of an entry level position.</description>
+    </item>
+    
+    <item>
+      <title>Emacs &#43; Rope for Python Development</title>
+      <link>https://omaciel.github.io/posts/emacs-rope-for-python-development-/</link>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/emacs-rope-for-python-development-/</guid>
+      <description>*Disclaimer: This is more of a note for myself than a proper tutorial or howto, so I make no promises that this will work for you. The setup used through this post was a Mac OS laptop upgraded to the very latest version of the OS.*
+Ever since I started doing Python development using Emacs, I have unsuccessfully tried to configure `Rope &amp;lt;http://rope.sourceforge.net/&amp;gt;`__,&amp;quot;a python refactoring library&amp;quot;&amp;hellip; until last Friday. Turns out I wasn&amp;rsquo;t too far off the mark during the many iterations I went through to get it done, but the following post was tremendously helpful to me: http://www.</description>
+    </item>
+    
+    <item>
+      <title>Using Python to Control Katello</title>
+      <link>https://omaciel.github.io/posts/using-python-to-control-katello-/</link>
+      <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/using-python-to-control-katello-/</guid>
+      <description>I usually like to use python to script my day to day tests against Katello (you may have seen some of my previous posts about using the Katello CLI for the same purpose) and I figured I&amp;rsquo;d start showing some basic examples for anyone else out there who may be interested.
+Assuming you have already installed and configured your Katello instance (learn how to do this here) with the default configurations, we now have a few options to proceed:</description>
+    </item>
+    
+  </channel>
+</rss>

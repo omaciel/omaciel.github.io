@@ -27,5 +27,38 @@
  New acquaintance: &amp;quot;What do you do at Red Hat?&amp;quot; Me: &amp;quot;I manage a team of quality engineers for a couple of different products.</description>
     </item>
     
+    <item>
+      <title>FauxFactory 0.3.0</title>
+      <link>https://omaciel.github.io/posts/1173-fauxfactory-0-3-0/</link>
+      <pubDate>Mon, 30 Jun 2014 19:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/1173-fauxfactory-0-3-0/</guid>
+      <description>Took some time from my vacation and released FauxFactory 0.3.0 to make it Python 3 compatible and to add a new generate_utf8 method (plus some nice tweaks and code clean up).
+As always, the package is available on Pypi and can be installed via pip install fauxfactory.
+If you have any constructive feedback, suggestions, or file a bug report or feature request, please use the Github page.</description>
+    </item>
+    
+    <item>
+      <title>FauxFactory 0.2.1</title>
+      <link>https://omaciel.github.io/posts/1171-brown-paper-bag-release/</link>
+      <pubDate>Fri, 09 May 2014 17:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/1171-brown-paper-bag-release/</guid>
+      <description>Short on its heels, today I&#39;m releasing FauxFactory 0.2.1 to fix a brown paper bag bug I encountered last night before going to bed.
+Basically, the new &amp;quot;Lorem Ipsum&amp;quot; generator was not honoring the words parameter if you asked for a string longer than 70 characters. I have fixed the issue as well as added a new test to make sure that the generator does the right thing.
+The package is available on Pypi (sadly the page is still not rendering correctly.</description>
+    </item>
+    
+    <item>
+      <title>FauxFactory 0.2.0</title>
+      <link>https://omaciel.github.io/posts/1170-fauxfactory-0-2-0/</link>
+      <pubDate>Thu, 08 May 2014 19:12:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/1170-fauxfactory-0-2-0/</guid>
+      <description>Today I&#39;m releasing FauxFactory 0.2.0 with a new feature, a &amp;quot;Lorem Ipsum&amp;quot; generator. I confess that I did not look around for any existing implementation in python out there and just started writing code. My idea was to create a method that would:
+Return a &amp;quot;Lorem Ipsum&amp;quot; string if I passed no arguments:
+In [1]: from fauxfactory import FauxFactory In [2]: FauxFactory.generate_iplum() Out[2]: u&#39;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
   </channel>
 </rss>

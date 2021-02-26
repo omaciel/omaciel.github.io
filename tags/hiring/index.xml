@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hiring on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/hiring/</link>
+    <description>Recent content in hiring on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 May 2014 18:05:45 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/hiring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiring is Tough!</title>
+      <link>https://omaciel.github.io/posts/1169-hiring-is-tough/</link>
+      <pubDate>Thu, 01 May 2014 18:05:45 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/1169-hiring-is-tough/</guid>
+      <description>So I&#39;ve been trying to hire two python developers to join my automation team here at Red Hat since last November, 2013... and believe it or not, so far I&#39;ve had absolutely zero success in finding good, strong, with real world experience candidates in North Carolina! I either find really smart people, who do have relevant backgrounds or could &#39;hit the ground running&#39; but are way out of my current budget, or they lack real world experience and fall into more of an entry level position.</description>
+    </item>
+    
+  </channel>
+</rss>

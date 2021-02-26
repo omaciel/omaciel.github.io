@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>katello on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/katello/</link>
+    <description>Recent content in katello on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Sep 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/katello/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Python to Control Katello</title>
+      <link>https://omaciel.github.io/posts/using-python-to-control-katello-/</link>
+      <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/using-python-to-control-katello-/</guid>
+      <description>I usually like to use python to script my day to day tests against Katello (you may have seen some of my previous posts about using the Katello CLI for the same purpose) and I figured I&amp;rsquo;d start showing some basic examples for anyone else out there who may be interested.
+Assuming you have already installed and configured your Katello instance (learn how to do this here) with the default configurations, we now have a few options to proceed:</description>
+    </item>
+    
+    <item>
+      <title>Populating a Katello instance using the CLI</title>
+      <link>https://omaciel.github.io/posts/populating-a-katello-instance-using-the-cli-/</link>
+      <pubDate>Tue, 04 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/populating-a-katello-instance-using-the-cli-/</guid>
+      <description>Lately I have been asked a lot about my previous script to automatically populate a Katello server instance with real data (hi reyc!) I wrote that a while back and though it still does contain some helpful commands, I figured it was about time I updated it. Well, it took me longer than I expected to find some time and clean it up, but I think I can now show you a brand new script which also includes the extra feature of downloading a manifest file directly from Red Hat&#39;s portal and importing it as part of the process.</description>
+    </item>
+    
+  </channel>
+</rss>

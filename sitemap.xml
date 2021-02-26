@@ -473,17 +473,22 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/books-goodreads-2014/</loc>
+    <loc>https://omaciel.github.io/tags/goodreads/</loc>
     <lastmod>2014-12-31T13:26:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/posts/1176-red-hat-three-years/</loc>
+    <loc>https://omaciel.github.io/tags/anniversary/</loc>
     <lastmod>2014-12-05T10:49:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/work-redhat-anniversary/</loc>
+    <loc>https://omaciel.github.io/tags/redhat/</loc>
+    <lastmod>2014-12-05T10:49:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/posts/1176-red-hat-three-years/</loc>
     <lastmod>2014-12-05T10:49:00+00:00</lastmod>
   </url>
   
@@ -493,7 +498,7 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/books-life/</loc>
+    <loc>https://omaciel.github.io/tags/life/</loc>
     <lastmod>2014-09-21T12:07:00+00:00</lastmod>
   </url>
   
@@ -503,7 +508,7 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/translations-life/</loc>
+    <loc>https://omaciel.github.io/tags/translations/</loc>
     <lastmod>2014-07-12T11:20:00+00:00</lastmod>
   </url>
   
@@ -513,12 +518,17 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/python-testing-qe/</loc>
+    <loc>https://omaciel.github.io/tags/python/</loc>
     <lastmod>2014-06-30T19:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/family-life/</loc>
+    <loc>https://omaciel.github.io/tags/testing/</loc>
+    <lastmod>2014-06-30T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/family/</loc>
     <lastmod>2014-05-28T18:32:00+00:00</lastmod>
   </url>
   
@@ -538,13 +548,18 @@
   </url>
   
   <url>
+    <loc>https://omaciel.github.io/tags/hiring/</loc>
+    <lastmod>2014-05-01T18:05:45+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omaciel.github.io/posts/1169-hiring-is-tough/</loc>
     <lastmod>2014-05-01T18:05:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/python-hiring/</loc>
-    <lastmod>2014-05-01T18:05:45+00:00</lastmod>
+    <loc>https://omaciel.github.io/tags/emacs/</loc>
+    <lastmod>2013-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -553,12 +568,27 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/emacs-python-rope-pymacs-gnome/</loc>
+    <loc>https://omaciel.github.io/tags/gnome/</loc>
     <lastmod>2013-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/katello-english-python/</loc>
+    <loc>https://omaciel.github.io/tags/pymacs/</loc>
+    <lastmod>2013-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/rope/</loc>
+    <lastmod>2013-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/english/</loc>
+    <lastmod>2013-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/katello/</loc>
     <lastmod>2013-09-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -573,12 +603,22 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/ubuntu-portuguese-mandriva/</loc>
+    <loc>https://omaciel.github.io/tags/mandriva/</loc>
     <lastmod>2013-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/castalio-podcast-ubuntu-portuguese-mandriva/</loc>
+    <loc>https://omaciel.github.io/tags/portuguese/</loc>
+    <lastmod>2013-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/ubuntu/</loc>
+    <lastmod>2013-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/castalio/</loc>
     <lastmod>2013-09-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -588,12 +628,17 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/english-katello-red-hat/</loc>
-    <lastmod>2013-06-04T00:00:00+00:00</lastmod>
+    <loc>https://omaciel.github.io/tags/podcast/</loc>
+    <lastmod>2013-09-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://omaciel.github.io/posts/populating-a-katello-instance-using-the-cli-/</loc>
+    <lastmod>2013-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/red-hat/</loc>
     <lastmod>2013-06-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -603,7 +648,47 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/music-stream-pandora-spotify-rdio-grooveshark-last.fm-android-ios-english/</loc>
+    <loc>https://omaciel.github.io/tags/android/</loc>
+    <lastmod>2013-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/grooveshark/</loc>
+    <lastmod>2013-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/ios/</loc>
+    <lastmod>2013-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/last.fm/</loc>
+    <lastmod>2013-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/music/</loc>
+    <lastmod>2013-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/pandora/</loc>
+    <lastmod>2013-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/rdio/</loc>
+    <lastmod>2013-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/spotify/</loc>
+    <lastmod>2013-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/stream/</loc>
     <lastmod>2013-04-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -618,17 +703,22 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/university-of-north-carolina-unc-english/</loc>
+    <loc>https://omaciel.github.io/tags/unc/</loc>
     <lastmod>2013-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/posts/castalio-podcast-everaldo-canuto-toca-do-canuto-/</loc>
+    <loc>https://omaciel.github.io/tags/university-of-north-carolina/</loc>
+    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/cast%C3%A1lio/</loc>
     <lastmod>2013-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio-ubuntu-mandriva/</loc>
+    <loc>https://omaciel.github.io/posts/castalio-podcast-everaldo-canuto-toca-do-canuto-/</loc>
     <lastmod>2013-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -664,6 +754,11 @@
   
   <url>
     <loc>https://omaciel.github.io/posts/castalio-podcast-fabiano-fidencio-red-hat-/</loc>
+    <lastmod>2013-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio-ubuntu-mandriva/</loc>
     <lastmod>2013-01-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -705,11 +800,6 @@
   <url>
     <loc>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-for-an-/</loc>
     <lastmod>2012-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/english/</loc>
-    <lastmod>2012-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1059,11 +1149,6 @@
   
   <url>
     <loc>https://omaciel.github.io/posts/castalio-podcast-ana-cristina-fricke-matte-text-livre-/</loc>
-    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/portuguese/</loc>
     <lastmod>2012-02-06T00:00:00+00:00</lastmod>
   </url>
   
