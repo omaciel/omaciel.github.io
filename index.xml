@@ -718,7 +718,7 @@ A história do Ubuntero me lembra um pouco a história do BR-Linux, começando c
     </item>
     
     <item>
-      <title>Desculpe Pela Bagunça\...</title>
+      <title>Desculpe Pela Bagunça...</title>
       <link>https://omaciel.github.io/posts/desculpe-pela-bagunca-/</link>
       <pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate>
       
@@ -728,7 +728,7 @@ Por favor aceite os meus mais sinceros pedidos de desculpas pelo incoveniente&am
     </item>
     
     <item>
-      <title>Sorry for the noise\...</title>
+      <title>Sorry for the noise...</title>
       <link>https://omaciel.github.io/posts/sorry-for-the-noise-/</link>
       <pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate>
       
@@ -922,8 +922,7 @@ When I asked my listeners if they would be interested in an episode in English w
       <pubDate>Wed, 14 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/django-devkit-appliance-1-3-1-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_853&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Django&amp;rdquo;][/caption]
-I rebuilt the appliance to use the latest Django 1.3.1 release to deliver the security fixes found in the previous version. There are also several other updated packages included.
+      <description>I rebuilt the appliance to use the latest Django 1.3.1 release to deliver the security fixes found in the previous version. There are also several other updated packages included.
 If you want to play with this appliance, feel free to download it in the following formats:
  Django DevKit Raw Filesystem x86 (390 MB - SHA1: 3ae0ab73477be3308011735aac5b33908700a82d) Django DevKit Raw Filesystem x86_64 (411 MB - SHA1: 3fb040a9b48b0dc248e5424271d4ea9274605530) Django DevKit ISO x86 (517 MB - SHA1: 88d5f1065bf5646d7cd952e8ccac435a40176fef) Django DevKit ISO x86_64 (537 MB - SHA1: cee9f5f584261d69baca09efeb58278d23cab410)  Speaking of Raw Filesystem images, here&amp;rsquo;s how I currently use it with QEMU.</description>
     </item>
@@ -934,7 +933,7 @@ If you want to play with this appliance, feel free to download it in the followi
       <pubDate>Wed, 07 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/sixth-annual-packt-open-source-awards-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;248&amp;rdquo; caption=&amp;ldquo;Packt Publishing&amp;rdquo;][/caption]
+      <description>!Packt Publishing
 The 2011 Open Source Awards was launched on the 1st week of August by Packt, inviting people to submit nominations for their favorite Open Source project. Now in its sixth year, the Awards continue in its aim of encouraging, supporting, recognizing and rewarding all Open Source projects.
 The 2010 Open Source Award Winners included the Open Source Content Management System (CMS) Award winner CMS Made Simple, Open Source JavaScript Libraries Award winner jQuery and Pimcore the winner of the Most Promising Open Source Project Award.</description>
     </item>
@@ -982,8 +981,8 @@ Baixe já o episódio e não se esqueça de acompanhar o podcast pelo Twitter!</
       <pubDate>Wed, 03 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/lost-in-translation-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1453&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Deformed Man Toilet&amp;rdquo;][/caption]
-[caption id=&amp;ldquo;attachment_1454&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;225&amp;rdquo; caption=&amp;ldquo;Strange Juice&amp;rdquo;][/caption]</description>
+      <description>!Deformed Man Toilet]
+!Strange Juice</description>
     </item>
     
     <item>
@@ -1010,8 +1009,8 @@ Baixe já o episódio e não se esqueça de acompanhar o podcast pelo Twitter!</
       <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/castalio-podcast-aline-duarte-bessa-accerciser-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_56&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;199&amp;rdquo; caption=&amp;ldquo;Aline Duarte Bessa - Accerciser&amp;rdquo;] [/caption]
-Mais um episódio do Castálio Podcast, desta vez com um bate-papo com a Aline Duarte Bessa, mais uma Brasileira que está participando do GNOME Women Outreach Program (GWOP). Mesmo com um pouco de febre, gripe, e problemas técnicos com 2 de seus computadores, ela tirou um pouco do seu tempo para me contar como que ela está atualizando a documentação do Accerciser para desenvolvedores para implementação de acessibilidade.</description>
+      <description>Mais um episódio do Castálio Podcast, desta vez com um bate-papo com a Aline Duarte Bessa, mais uma Brasileira que está participando do GNOME Women Outreach Program (GWOP). Mesmo com um pouco de febre, gripe, e problemas técnicos com 2 de seus computadores, ela tirou um pouco do seu tempo para me contar como que ela está atualizando a documentação do Accerciser para desenvolvedores para implementação de acessibilidade.
+Escute ou baixe o episódio aqui.</description>
     </item>
     
     <item>
@@ -1030,8 +1029,7 @@ Another episode of my Castálio Podcast, this time with Aline Duarte Bessa, anot
       <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/castalio-podcast-three-times-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;350&amp;rdquo; caption=&amp;ldquo;Castálio Podcast&amp;rdquo;][/caption]
-The idea of doing a podcast is something that has tickled my [STRIKEOUT:curiosity] fancy for quite some time. As a matter of fact, I am already the survivor of 2 other mildly successful attempts, which sadly, died prematurely due to commitment issues from my partners and my inability to record and edit audio using Linux.
+      <description>The idea of doing a podcast is something that has tickled my [STRIKEOUT:curiosity] fancy for quite some time. As a matter of fact, I am already the survivor of 2 other mildly successful attempts, which sadly, died prematurely due to commitment issues from my partners and my inability to record and edit audio using Linux.
 About 6 months ago the need to scratch this itch came back in full power, and thanks to the support of my friend Evandro Pastor, Castálio Podcast was born!</description>
     </item>
     
@@ -1041,8 +1039,7 @@ About 6 months ago the need to scratch this itch came back in full power, and th
       <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/o-objetivo-do-castalio-podcast-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;350&amp;rdquo; caption=&amp;ldquo;Castálio Podcast&amp;rdquo;][/caption]
-A idéia de fazer um podcast é algo que vem me cutucando há muito tempo. Para falar a verdade, eu sou um sobrevivente de 2 tentativas mais ou menos fracassadas que, infelizmente, morreram prematuramente devido à falta de compromisso de terceiros e da minha inabilidade de saber como gravar e editar arquivos de áudio usando o Linux.
+      <description>A idéia de fazer um podcast é algo que vem me cutucando há muito tempo. Para falar a verdade, eu sou um sobrevivente de 2 tentativas mais ou menos fracassadas que, infelizmente, morreram prematuramente devido à falta de compromisso de terceiros e da minha inabilidade de saber como gravar e editar arquivos de áudio usando o Linux.
 Mais ou menos 6 meses atrás o desejo de fazer um podcast me pegou com força total, e graças ao apoio do amigo Evandro Pastor, nasceu o Castálio Podcast!</description>
     </item>
     
@@ -1052,8 +1049,7 @@ Mais ou menos 6 meses atrás o desejo de fazer um podcast me pegou com força to
       <pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/faxina-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;333&amp;rdquo; caption=&amp;ldquo;Faxina&amp;rdquo;][/caption]
-Depois de debater por alguns meses sobre re-organizar os meus dois blogs de uma forma mais intuitiva (quem sabe até mesmo mais lógica?), finalmente aproveitei uma trégua que tive no fim de semana para fazer algumas modificações. De hoje em diante, o site www.ogmaciel.com não vai ser mais o meu blog em inglês, mas servirá de &amp;ldquo;cartão de visitas/vitrine&amp;rdquo; do meu mundo. Meu blog em inglês agora será hospedado em en.</description>
+      <description>Depois de debater por alguns meses sobre re-organizar os meus dois blogs de uma forma mais intuitiva (quem sabe até mesmo mais lógica?), finalmente aproveitei uma trégua que tive no fim de semana para fazer algumas modificações. De hoje em diante, o site www.ogmaciel.com não vai ser mais o meu blog em inglês, mas servirá de &amp;ldquo;cartão de visitas/vitrine&amp;rdquo; do meu mundo. Meu blog em inglês agora será hospedado em en.</description>
     </item>
     
     <item>
@@ -1062,8 +1058,7 @@ Depois de debater por alguns meses sobre re-organizar os meus dois blogs de uma 
       <pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/summer-cleaning-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;333&amp;rdquo; caption=&amp;ldquo;Summer Cleaning&amp;rdquo;][/caption]
-After debating for the last couple of months about re-organizing my two blogs into a more intuitive (perhaps logical even?) format, I finally took advantage of some down time over the weekend and made a few changes. From now on, www.ogmaciel.com will no longer be my blog written in English, but instead will serve as a &amp;ldquo;business card/window&amp;rdquo; into my world. My &amp;ldquo;English&amp;rdquo; blog is now hosted on en.</description>
+      <description>After debating for the last couple of months about re-organizing my two blogs into a more intuitive (perhaps logical even?) format, I finally took advantage of some down time over the weekend and made a few changes. From now on, www.ogmaciel.com will no longer be my blog written in English, but instead will serve as a &amp;ldquo;business card/window&amp;rdquo; into my world. My &amp;ldquo;English&amp;rdquo; blog is now hosted on en.ogmaciel.com and my &amp;ldquo;Brazilian Portuguese&amp;quot; blog lives on pt.</description>
     </item>
     
     <item>

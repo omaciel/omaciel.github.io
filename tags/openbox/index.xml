@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>openbox on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/openbox/</link>
+    <description>Recent content in openbox on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Aug 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/openbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Icons on menus for Openbox</title>
+      <link>https://omaciel.github.io/posts/icons-on-menus-for-openbox-/</link>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/icons-on-menus-for-openbox-/</guid>
+      <description>Openbox 3.5.0 was released yesterday, and with it several bugs got fixed and a few new features were added. Out of these features the one that I liked most was the ability to add icons to menus (and submenus as well)! Yeah, I know some other managers already do this but for someone who enjoys running Openbox because of its simplicity and keyboard binding limitless possibilities, I was sure glad to see some eye candy make its way to it.</description>
+    </item>
+    
+    <item>
+      <title>Menu com ícones no Openbox</title>
+      <link>https://omaciel.github.io/posts/menu-com-icones-no-openbox-/</link>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/menu-com-icones-no-openbox-/</guid>
+      <description>O Openbox 3.5.0 foi lançado ontem, e com ele vários problemas (bugs) foram resolvidos e alguns novos recursos foram adicionados. Dentre estes novos recursos, o que eu gostei mais foi poder adicionar ícones aos menus (e submenus também)! Tá, eu sei que outros gerenciadores fazem isso, mas para alguém que como eu curto o Openbox por sua simplicidade e possibilidades ilimitadas de atalhos de teclado, eu fiquei super empolgado de ver um pouco de &amp;ldquo;eye candy&amp;rdquo; ser adicionado ao projeto.</description>
+    </item>
+    
+  </channel>
+</rss>

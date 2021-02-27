@@ -26,5 +26,32 @@ Assuming you have already installed and configured your Katello instance (learn 
       <description>Lately I have been asked a lot about my previous script to automatically populate a Katello server instance with real data (hi reyc!) I wrote that a while back and though it still does contain some helpful commands, I figured it was about time I updated it. Well, it took me longer than I expected to find some time and clean it up, but I think I can now show you a brand new script which also includes the extra feature of downloading a manifest file directly from Red Hat&#39;s portal and importing it as part of the process.</description>
     </item>
     
+    <item>
+      <title>Extending the default EC2 root partition for an instance</title>
+      <link>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-for-an-/</link>
+      <pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-for-an-/</guid>
+      <description>Today I was playing with EC2, trying to launch a RHEL 6.3 instance so that I could then install the latest version of Katello and beat a bit on it&amp;hellip; just for fun, you know? Using the EC2 Management Console web interface I used the &amp;ldquo;classical&amp;rdquo; wizard to select all the components I wanted for a m1.large instance, making sure to edit the default 7.5 GB root partition they give you so that I could have more space available to synchronize content&amp;hellip; but when the instance finally came up I realized that my disk space was still showing the default value:</description>
+    </item>
+    
+    <item>
+      <title>Script to populate a Katello instance with valid data</title>
+      <link>https://omaciel.github.io/posts/script-to-populate-a-katello-instance-with-valid-/</link>
+      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/script-to-populate-a-katello-instance-with-valid-/</guid>
+      <description>Every now and then I need to populate a brand new Katello installation with some valid organizations, users and products to test certain areas&amp;hellip; and after a while I developed a script which I find very handy that does just that and may be of use for someone else. If you also find it useful, feel free to fork it and contribute with your own tricks. :)</description>
+    </item>
+    
+    <item>
+      <title>Meet Some Of The Guys Behind The Katello Project</title>
+      <link>https://omaciel.github.io/posts/meet-some-of-the-guys-behind-the-katello-project-/</link>
+      <pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/meet-some-of-the-guys-behind-the-katello-project-/</guid>
+      <description>Meet some of the guys behind the Katello project!</description>
+    </item>
+    
   </channel>
 </rss>

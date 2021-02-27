@@ -27,5 +27,427 @@ A entrevista aconteceu &amp;ldquo;na estrada&amp;rdquo; quando eu estava voltand
 O Everaldo teve uma das oportunidades que eu sempre sonhei em ter: trabalhar lado a lado com o Miguel de Icaza, um dos fundadores do Projeto GNOME, figura quase que mitológica do mundo do software livre e hoje empresário com várias companhias de sucesso em seu histórico!</description>
     </item>
     
+    <item>
+      <title>Castálio Podcast: Alexandre Gaigalas: Yahoo</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-alexandre-gaigalas-yahoo-/</link>
+      <pubDate>Sun, 03 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-alexandre-gaigalas-yahoo-/</guid>
+      <description>Seja bem-vindo à mais um episódio, desta vez com o Alexandre Gaigalas que trabalha como engenheiro de software da *Yahoo* no Brasil! Durante nosso bate-papo conversamos sobre o que ele faz na Yahoo, em quais projetos que trabalha, e acabei descobrindo que ele é mais um exemplo de uma pessoa que teve seu trabalho perante uma comunidade de software livre reconhecido, levando-o a ser indicado para trabalhar em uma companhia de nome!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Luciano Ramalho: Oficinas Turing</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-luciano-ramalho-oficinas-turing-/</link>
+      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-luciano-ramalho-oficinas-turing-/</guid>
+      <description>Um dias destes eu estava procurando documentação sobre umas coisas da linguagem python quando me deparei com uma apresentação do *Luciano Ramalho*, o entrevistado deste episódio deste episódio. O que me chamou atenção não foi nem tanto a qualidade do material ou a didática do mesmo, mas sim o fato do autor ser brasileiro E por ter feito tudo em inglês. Claro que, se você vive no Brasil e trabalha ou convive com quem trabalha com python, o nome do Luciano não lhe deve ser estranho.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Fabiano Fidêncio: Red Hat</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-fabiano-fidencio-red-hat-/</link>
+      <pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-fabiano-fidencio-red-hat-/</guid>
+      <description>Para o primeiro episódio de 2013 eu tive o prazer de entrevistar o Fabiano Fidêncio, recém contratado pela Red Hat! Durante nosso bate-papo o Fabiano conta como que ele aprendeu a programar &amp;ldquo;de verdade&amp;rdquo; na ProFUSION e como que de usuário GNOME, ele se transformou em desenvolvedor quando começou a trabalhar no GNOME Boxes e libosinfo pelo *Google Summer of Code*. Sua participação neste projeto foi muito interessante, já que ele teve de aproveitar um código base escrito por uma pessoa da Red Hat e refatorar para que ficasse mais limpo e genérico, algo que não é super fácil de fazer.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Julian Fernandes: Ubuntu BR SC</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-julian-fernandes-ubuntu-br-sc-/</link>
+      <pubDate>Mon, 03 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-julian-fernandes-ubuntu-br-sc-/</guid>
+      <description>Demorou mais chegou!!! Devido a problemas pessoais eu infelizmente fiquei um pouco sem tempo para agendar as minhas entrevistas, mas te garanto que foi super difícil para mim deixar de publicar a cada 2 semanas. Mas nada como um pouco de tempo para colocar a vida de novo nos trilhos, e eu quero agradecer a todos que me enviaram mensagems de apoio aqui, por e-mail e pelas várias redes sociais que uso!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 1</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-carlos-brando-e-rafael-rosa-fu-/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-carlos-brando-e-rafael-rosa-fu-/</guid>
+      <description>Olá pessoal e sejam muito bem vindos ao primeiro episódio de outubro! Desta vez eu tive a oportunidade de conversar pelo Google Hangout com o Carlos Brando e *Rafael Rosa Fu* do **GrokPodcast**! Foi super divertido conversar com eles, e o bate-papo foi tão bom que eu decidi dividir a entrevista em duas partes para ficar mais conveninente para vocês escutarem.
+Nesta primeira parte conversamos sobre como que a idéia de criar o podcast surgiu em um barzinho em São Paulo, quando o Brando e Rafael conversavam com o Fábio Akita depois de um RubyConf.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Licio Fonseca - Google</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-licio-fonseca-google-/</link>
+      <pubDate>Mon, 17 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-licio-fonseca-google-/</guid>
+      <description>Nesta última quinta-feira tive o prazer em entrevistar o Licio Fonseca da *Google! Eu e o Licio nos conhecemos nos saudosos tempos do Ubuntu Brasil, mas não conversávamos desde 2006 se não me engano. Desde então muita coisa aconteceu, e hoje ele trabalha na Google, fazendo toda a manutenção e administração da infra estrutura de toda a América do Sul*!
+Durante nosso bate-papo, conversamos sobre o que ele faz por lá, sobre o seu dia a dia, como que conseguiu este trabalho, e sobre o processo de entrevistas e seleção para trabalhar na Google.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Bruno Gonçalves - BigLinux</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-bruno-goncalves-biglinux-/</link>
+      <pubDate>Tue, 04 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-bruno-goncalves-biglinux-/</guid>
+      <description>Na semana passada eu tive o grande prazer e honra de participar do Opencast em um episódio onde discutimos várias coisas relacionadas à distribuições Linux! Por coincidência, meu amigo Vladimir Melo tinha me recomendando entrevistar uma pessoa que por muito tempo tinha criado e mantido uma distribuição nacional, e recentemente decidiu parar o projeto!
+Neste último episódio então tive o grande prazer de conversar com o Bruno Gonçalves, criador e mantenedor do BigLinux!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Felipe Borges: Google Summer of Code</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-felipe-borges-google-summer-of-/</link>
+      <pubDate>Sun, 19 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-felipe-borges-google-summer-of-/</guid>
+      <description>Finalzinho do verão americano e no ar já se sente um pouco a vinda do outono e a volta às aulas. Nada melhor então que bater um papo com o Felipe Borges que está participando do Google Summer of Code pelo projeto GNOME!
+Durante estes últimos meses o Felipe tem trabalhado no GNOME Documents, adicionando suporte para administrar e visualizar arquivos em dispositivos removíveis, e tendo como mentor o italiano Cosimo Cecchi.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Episódio 43 hoje a noite!</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-episodio-43-hoje-a-noite-/</link>
+      <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-episodio-43-hoje-a-noite-/</guid>
+      <description>Hoje vou gravar o episódio 43 do Castálio Podcast que será transmitido ao vivo pelo Youtube lá pelas 19:00 horário do Brasil. O entrevistado será o Felipe Borges que está participando do Google Summer of Code pelo Projeto GNOME. O link do vídeo será anunciado mais tarde e se você quizer participar com perguntas, basta acompanhar o podcast pelo Twitter!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Cristiano Costa - Hora do Mac</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-cristiano-costa-hora-do-mac-/</link>
+      <pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-cristiano-costa-hora-do-mac-/</guid>
+      <description>Mais um dia de calor aqui na Carolina do Norte, e mesmo na correria desta semana eu consegui achar um pouco de tempo para entrevistar o Cristiano Costa, aka @caccac, do podcast Hora do Mac (HDM)! Quem ainda não conhece o HDM não sabe o que está perdendo!
+O HDM começou à quase 4 anos no fimzinho de 2008 lá em Porto Alegre e desde então o podcast já publicou 82 episódios e só tem aumentado em tamanho de equipe (divertidíssima diga-se de passagem), qualidade de assuntos, e popularidade.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Fábio Nogueira - Ubuntu Brasil</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-fabio-nogueira-ubuntu-brasil-/</link>
+      <pubDate>Mon, 23 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-fabio-nogueira-ubuntu-brasil-/</guid>
+      <description>Olá pessoal e sejam muito bem-vindos à mais um episódio! No começo deste ano eu tinha prometido fazer uma série especial sobre os primeiros membros do Ubuntu Brasil e como tudo começou (quem ainda não escutou o episódio com o Rodrigo Belém?), mas nem sempre é fácil conseguir arrumar um tempinho para bater um papo com estas pessoas. Felizmente, nesta última semana, consegui bater um papo com o Fábio Nogueira, um dos primeiros integrantes e membro das primeiras &amp;ldquo;safras&amp;rdquo; de pioneiros da comunidade Ubuntu Brasil!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Danilo Resende - Facebook</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-danilo-resende-facebook-/</link>
+      <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-danilo-resende-facebook-/</guid>
+      <description>Olá pessoal e sejam muito bem-vindos à mais um episódio, mais uma vez com uma novidade: uma participação especial do Ivan Brasil Fuzzer, criador e mantenedor do web site de dicas e tutoriais Ubuntero! Com uma conexão Carolina do Norte - *Rio Grande do Sul* - *Califórnia, batemos um papo muito legal com o Danilo Resende* do *Facebook*!
+Durante nosso bate-papo, conversamos sobre como que o Danilo começou sua carreira no Facebook, começando como estagiário ainda na faculdade, quais os projetos que ele trabalha, sobre sua vinda do Brasil e se acostumando à vida nos Estados Unidos, como que ele mata saudade da família e onde que ele encontra arroz com feijão na Califórnia!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Djavan Fagundes: GNOME Brasil</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-djavan-fagundes-gnome-brasil-/</link>
+      <pubDate>Mon, 25 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-djavan-fagundes-gnome-brasil-/</guid>
+      <description>Olá pessoal e sejam muito bem-vindos à mais um episódio, desta vez com uma novidade: vídeo com os bastidores e a prórpria entrevista pelo Youtube! Deixa eu explicar melhor! Depois que vi o último episódio do Hora do Mac (HDM) sendo gravado ao vivo pelo Youtube usando o Google Hangout, decidi tentar fazer a mesma coisa para que as pessoas possam ver como que as entrevistas acontecem e poderem também participar com perguntas durante a gravação.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Felipe Ribeiro - Spotify</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-felipe-ribeiro-spotify-/</link>
+      <pubDate>Sun, 10 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-felipe-ribeiro-spotify-/</guid>
+      <description>Olá pessoal e sejam muito bem-vindos à mais um episódio! Desta vez para comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há tempo para comprar o meu presente hehehe) tive a chance de conversar com o Felipe Ribeiro, o único Brasileiro que trabalha na companhia `Spotify &amp;lt;http://www.spotify.com/&amp;gt;`__! O Felipe é irmão do Flávio Ribeiro que eu entrevistei no último episódio, o que me leva a pensar que existe um movimento muito forte na Paraíba nas áreas de educação e software livre, já que foram várias pessoas da região que passaram por aqui.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Flávio Ribeiro: Globo.com</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-flavio-ribeiro-globo-com-/</link>
+      <pubDate>Mon, 28 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-flavio-ribeiro-globo-com-/</guid>
+      <description>Eu gosto muito quando alguém me sugere um livro, filme, música ou pessoa para conhecer, e depois de trocar uns e-mails com meu amigo Yuri Malheiros na semana passada, decidi convidar o Flávio Ribeiro para uma entrevista! O Flávio é um engenheiro de software que trabalha na Globo.com no Rio de Janeiro (na entrevista parecia que ele estava sentado bem no meio de Interlagos hehehe) e está na equipe responsável por toda a área de streaming de conteúdo pela net!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Caike Souza - Envy Labs</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-caike-souza-envy-labs-/</link>
+      <pubDate>Sun, 13 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-caike-souza-envy-labs-/</guid>
+      <description>Nem parece que já passaram duas semanas desde o último episódio, mas mais uma vez tive o prazer de entrevistar uma pessoa prá lá de interessante e divertida: o Caike Souza! Foi durante a minha entrevista com o Henrique Bastos que eu fiquei sabendo sobre ele, mas foi somente esta semana que eu fui saber que ele trabalha na Envy Labs desde 2009 lá em Orlando, na Flórida. A companhia parece ser super bacana e está por trás de vários projetos bacanas, como o Rails for Zombies, Code School e TryRuby.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Fábio Kung e Pedro Belo: Heroku</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-fabio-kung-e-pedro-belo-heroku-/</link>
+      <pubDate>Sun, 29 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-fabio-kung-e-pedro-belo-heroku-/</guid>
+      <description>Mais um episódio, desta vez com dois convidados: Fábio Kung e *Pedro Belo, que atualmente trabalham na companhia Californiana Heroku*! Se você escutou os dois últimos episódios, você deve se lembrar que eu mencionei sobre esta companhia com o Henrique Bastos e Júlio Monteiro, e como que eu tenho usado os serviços que eles oferecem para hospedar e rodar alguns dos meus projetos. Então quando o Júlio se ofereceu para me apresentar ao pessoal da Heroku eu aceitei na mesma hora!</description>
+    </item>
+    
+    <item>
+      <title>Uma Sessao Gravando Um Episodio Do Castalio</title>
+      <link>https://omaciel.github.io/posts/uma-sessao-gravando-um-episodio-do-castalio-/</link>
+      <pubDate>Sun, 22 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/uma-sessao-gravando-um-episodio-do-castalio-/</guid>
+      <description>Uma sessão gravando um episódio do Castálio Podcast é mais ou menos assim. Dependendo da hora, ou tem um cafezinho ou uma breja gelada. :)</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Júlio Monteiro - JobScore</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-julio-monteiro-jobscore-/</link>
+      <pubDate>Sun, 15 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-julio-monteiro-jobscore-/</guid>
+      <description>Depois de ter falado um pouco com pessoas que usam Python ou Django no seu dia-a-dia, eu decidi entrevistar alguém que trabalha com o framework Ruby on Rails para este episódio! Dentre as pessoas que eu conheço (online e pessoalmente) o nome do Júlio Monteiro foi o primeiro que passou pela minha cabeça.
+Eu e o Júlio nos conhecemos na época que participávamos da comunidade Ubuntu Brasil, mas desde então eu tinha perdido um pouco de contato com ele, até descobrir que ele estava trabalhando para a JobScore com Ruby on Rails.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Henrique Bastos - Welcome to the Django</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-henrique-bastos-welcome-to-the-/</link>
+      <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-henrique-bastos-welcome-to-the-/</guid>
+      <description>Há mais ou menos 1 anos e meio atrás eu tinha começado a aprender a programar com o framework Django e durante minhas pesquisas pela net encontrei o projeto do Henrique Bastos: Welcome to the Django. Não demorou muito para ver a qualidade e o potencial que este curso oferece, e desde então eu tenho acompanhado o trabalho que o Henrique tem feito! Nesta última quinta eu tive a oportunidade de bater um bate-papo com ele via Skype, e entrevistá-lo para este episódio!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Gabriel Falcão: Yipit</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-gabriel-falcao-yipit-/</link>
+      <pubDate>Sun, 18 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-gabriel-falcao-yipit-/</guid>
+      <description>A história do Gabriel é um excelente exemplo de como o mundo do software livre pode abrir as portas do mundo profissional para aqueles que são trabalhadores e competentes no que fazem! Começando pela universidade, quando o Gabriel escreveu o programa Guake para mostrar ao seu professor que haviam ferramentas bacanas para o GNOME, passando por sua estadia na Globo.com até chegar na Yipit em *New York* onde hoje trabalha com automatização de processos, este episódio é garantido de te deixar super animado (&amp;ldquo;ou eu não me chamo Raimundo Donato!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - Ivan Brasil Fuzzer: Ubuntero</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-ivan-brasil-fuzzer-ubuntero-/</link>
+      <pubDate>Sun, 04 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-ivan-brasil-fuzzer-ubuntero-/</guid>
+      <description>Olá pessoal e sejam bem-vindos ao segundo episódio de 2012! Esta última semana tive a oportunidade de conversar com o Ivan Brasil Fuzzer, criador e mantenedor do web site de dicas e tutoriais Ubuntero! Junto com uma equipe de colaboradores, o Ivan escreve artigos sobre todas as áreas relacionadas à tecnologia e tutorias, focando na área de software livre!
+A história do Ubuntero me lembra um pouco a história do BR-Linux, começando como um catálogo de informações úteis para o Ivan e eventualmente tornando-se em um ponto de parada para todos aqueles usuários de Linux que procuram dicas e truques para lidarem com suas configurações.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - Rodrigo Belém: Ubuntu Brasil</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-rodrigo-belem-ubuntu-brasil-/</link>
+      <pubDate>Mon, 20 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-rodrigo-belem-ubuntu-brasil-/</guid>
+      <description>Olá pessoal e sejam mais uma vez muito bem-vindos a mais um novo episódio, este comemorando nosso primeiro ano no ar! Aproveitei a oportunidade então para dar o pontapé inicial em uma nova série, desta vez focada na criação do Ubuntu Brasil!!! Ame-a ou não, a distribuição Ubuntu teve uma história meteórica dentre os usuários de Linux brasileiros, e hoje em dia ainda continua liderando dentre as distribuições mais usadas no país.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Primeiro Ano e Bastidores</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-primeiro-ano-e-bastidores-/</link>
+      <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-primeiro-ano-e-bastidores-/</guid>
+      <description>No dia 16 de fevereiro de 2011, de forma simples e despretenciosa, foi publicado o primeiro episódio do Castálio Podcast! Veterano de alguns podcast nos últimos anos (quem ainda se lembra do Ubuntu Brasil e Foocast podcasts?), foi com um pouco de incerteza que eu decidi iniciar este projeto &amp;ldquo;com o objetivo de entrevistar e ao mesmo tempo apresentar pessoas e projetos que sejam fonte de inspiração para os ouvintes&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast -- Ana Cristina Fricke Matte: Text Livre</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-ana-cristina-fricke-matte-text-livre-/</link>
+      <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-ana-cristina-fricke-matte-text-livre-/</guid>
+      <description>Olá pessoal! Sejam muito bem-vindos a mais um episódio, que quase não saiu devido a problemas técnicos de última hora! Mas felizmente consegui resgatar e editar um bate-papo muito interessante que tive com a Ana Cristina Fricke Matte, ou &amp;ldquo;a acrisdo Texto Livre&amp;rdquo;, como ele prefere. A acris conta sobre como a idéia do Texto Livre nasceu depois de uma reunião com a equipe do Ubuntu Brasil em 2006, os problemas que enfrentou no começo, o progama de &amp;ldquo;beta testers&amp;rdquo; para professores, e os objetivos para as próximas fases do projeto.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - Marcelo Hashimoto: Polly Twitter Client</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-marcelo-hashimoto-polly-twitter-client-/</link>
+      <pubDate>Sun, 22 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-marcelo-hashimoto-polly-twitter-client-/</guid>
+      <description>Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo deste ano! O convidado de hoje é o Marcelo Hashimoto, desenvolvedor do cliente de Twitter chamado Polly! Se você curte programar com Gtk e Python, ou tem interesse em conhecer um aplicativo específico para o seu sistem Linux para acessar o Twitter, então dê uma olhadinho no programa do Marcelo. Ultimamente o Polly tem atraído bastante atenção, especialmente depois de ter saído em sites como o OMG!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - Rodrigo Padula de Oliveira: UFRJ</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-rodrigo-padula-de-oliveira-ufrj-/</link>
+      <pubDate>Sun, 08 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-rodrigo-padula-de-oliveira-ufrj-/</guid>
+      <description>Olá pessoal e sejam muito bem-vindos ao primeiro episódio de 2012! Desta vez entrevistei o Rodrigo Padula, amigo de algum tempo pela internet nas traduções do projeto GNOME. O Rodrigo tem um currículo bastante extensivo trabalhando em vários dos projetos de software livre, e durante nosso bate-papo ele conta sobre como tudo começou. Usuário de Linux desde 1997, ele participou da formação e organização do Projeto Fedora no Brasil, participando de várias conferências e iniciativas visando o crescimento do projeto na América Latina.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - Rodrigo Novo: Conectiva Linux</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-rodrigo-novo-conectiva-linux-/</link>
+      <pubDate>Mon, 26 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-rodrigo-novo-conectiva-linux-/</guid>
+      <description>Olá pessoal e seja muito bem-vindo à este episódio de natal (e o último de 2011)! Dando continuidade à proposta de trazer mais uma entrevista com uma personalidade do Conectiva Linux, desta vez tenho o prazer de apresentar a vocês o Rodrigo Novo! Durante nosso bate-papo ele conta como que largou a faculdade para entrar no Conectiva Linux em 1997, trabalhando com o Aurélio &amp;ldquo;verde&amp;rdquo; Jargas, Marcelo Tosatti, entre outros na área de suporte, como que ele &amp;ldquo;graduou&amp;rdquo; para a equipe da distribuição, KDE 0.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - João Fernando Costa Junior: Revista Espírito Livre</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-joao-fernando-costa-junior-revista-espi-/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-joao-fernando-costa-junior-revista-espi-/</guid>
+      <description>O entrevistado deste episódio é o João Fernando Costa Junior, criador e mantenedor da Revista Espírito Livre, &amp;ldquo;uma publicação em formato digital, a ser distribuída em PDF, gratuita e com foco em tecnologia, cultura livre, Internet, sempre tendo como plano de fundo o iniciativas como o software livre.&amp;rdquo;
+Durante o nosso bate-papo, tive a oportunidade de aprender sobre como que o projeto foi iniciado, o seu objetivo, e perguntei tudo aquilo que você sempre quiz saber sobre a revista, mas tinha medo de perguntar!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - Rudá Moura: Conectiva Linux</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-ruda-moura-conectiva-linux-/</link>
+      <pubDate>Sun, 04 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-ruda-moura-conectiva-linux-/</guid>
+      <description>Dando continuidade ao plano de trazer mais uma entrevista com um membro do Conectiva Linux, desta vez conversei com o Rudá Moura que trabalhou na área de suporte e empacotamento da distribuição! Durante o nosso bate-papo conversamos sobre como que entrar no Conectiva Linux foi para ele aquela famosa frase &amp;ldquo;estar no local certo, na hora certa!&amp;rdquo; Também falamos sobre como o Conectiva foi o equivalente da &amp;ldquo;Canonical Brasileira&amp;rdquo;, problemas comuns de suporte dos usuários e o mantra &amp;ldquo;Use o X Configurator&amp;rdquo;, as críticas que sofreram dos usuários brasileiros, rock stars, dia a dia no escritório.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - Elvis Pfutzenreuter: Conectiva Linux</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-elvis-pfutzenreuter-conectiva-linux-/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-elvis-pfutzenreuter-conectiva-linux-/</guid>
+      <description>O episódio de hoje marca o início de um mini-projeto que estou planejando há algum tempo: conversar com o pessoal que iniciou e trabalhou nos primeiros anos da distribuição Conectiva Linux! Ao longo das próximas semanas vou tentar entrevistar um membro desta distribuição que foi tão importante nos primeiros anos de internet no Brasil, e publicar um novo episódio fora da agenda, assim que sair do forno!
+Para dar o pontapé inicial, bati um papo com o Elvis Pfutzenreuter, que trabalhou inicialmente como documentador e depois mantenedor nos primeiros anos de 2000.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Alexandre Coster - Asobo Studio</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-alexandre-coster-asobo-studio-/</link>
+      <pubDate>Mon, 14 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-alexandre-coster-asobo-studio-/</guid>
+      <description>No episódio de hoje conversei com o Alexandre Coster, um Game Programmer trabalhando para a Asobo Studio em Bordeaux, na França em um projeto que ainda não foi anunciado para um console next generation. Durante os 60 minutos que batemos papo, conversamos sobre sua experiência vivendo com somente 550 euros por semana na Alemanha, como começou sua carrera em companhias de jogos, vivendo em Israel com um chefe Russo, se perdendo na Palestina, fazendo renderizador de jogos &amp;ldquo;no braço&amp;rdquo;, seu ódio pelo Eclipse, e muito mais!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast - Guilherme Salgado: Canonical e Linaro</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-guilherme-salgado-canonical-e-linaro-/</link>
+      <pubDate>Mon, 31 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-guilherme-salgado-canonical-e-linaro-/</guid>
+      <description>O convidado de hoje é o Guilherme Salgado. Durante nosso bate-papo, conversamos sobre como que ele começou a usar computadores e Linux, sobre sua passagem pela companhia ASync e trabalhando no Launchpad, e sua ida para a Canonical, a companhia por trás da distribuição Ubuntu Linux! Também conversamos sobre o trabalho que ele tem feito na Linaro para melhorar e facilitar o desenvolvimento em dispositivos ARM, sobre integração contínua, suas aventuras no mundo de bodyboarding, nova experiência vivendo na Argentina e sobre as criticas que a Canonical tem sofrido nos últimos anos!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Evandro Pastor - Quarto Estudio</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-evandro-pastor-quarto-estudio-/</link>
+      <pubDate>Mon, 17 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-evandro-pastor-quarto-estudio-/</guid>
+      <description>No episódio de hoje vocês vão ter a oportunidade de conhecer um pouco melhor o Evandro Pastor, co-fundador deste podcast e amigo de guerra de vários anos! Vocês vão aprender sobre como nasceu a sua companhia de web design, Quarto Estudio, sobre o tempo que ele passou trabalhando no parque de diversões do Gugu, o que ele pensa sobre os cursos de web design no Brasil, sua paixão por video games, sua mudança para o interiorrrr de São Paulo e o começo de seu Plano C.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Augusto Campos - BR-Linux, BR-Mac, Efetividade</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-augusto-campos-br-linux-br-mac-efetivid-/</link>
+      <pubDate>Sun, 02 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-augusto-campos-br-linux-br-mac-efetivid-/</guid>
+      <description>Em um dia de muita chuva em Florianópolis, SC finalmente consegui bater um bom papo com o Augusto Campos, fundador dos super populares sites BR-Linux, BR-Mac e Efetividade! Devido à conexão que estava sofrendo muita perda de pacotes (para cada 7 minutos de áudio, passei 60 minutos editando), mantivemos nossa entrevista por apenas 34 minutos, mas mesmo assim deu tempo para discutirmos sobre a criação dos web sites, as mudanças que aconteceram durante os anos, sobre a entrevista com GTalk Show do Karlisson, o mercado de trabalho em Santa Catarina, suas ferramentas de trabalho, livros, filmes e música.</description>
+    </item>
+    
+    <item>
+      <title>Podcast: Pete Savage</title>
+      <link>https://omaciel.github.io/posts/podcast-pete-savage-/</link>
+      <pubDate>Mon, 19 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/podcast-pete-savage-/</guid>
+      <description>[caption id=&amp;ldquo;attachment_78&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;243&amp;rdquo; caption=&amp;ldquo;Pete Savage: Git In The Trenches&amp;rdquo;][/caption]
+For those who follow my many different projects and enterprises, you probably already know that I have been hosting a podcast called Castálio Podcast, a bi-weekly show where I interview people from the Brazilian FOSS world and talk about their likes, dislikes and what events and factors shaped their lives!
+When I asked my listeners if they would be interested in an episode in English with someone new and exciting, the answer was an overwhelming &amp;lsquo;Yes!</description>
+    </item>
+    
+    <item>
+      <title>Primeiro Episódio do Castálio Podcast em Inglês!</title>
+      <link>https://omaciel.github.io/posts/primeiro-episodio-do-castalio-podcast-em-ingles-/</link>
+      <pubDate>Mon, 19 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/primeiro-episodio-do-castalio-podcast-em-ingles-/</guid>
+      <description>Como prometido aos ouvintes do Castálio Podcast, eu gostária de anunciar o primeiro episódio completamente em inglês!!! O convidado deste episódio é Pete Savage, amigo de alguns anos que começou sua empreitada no mundo do software livre pelo projeto Edubuntu, criador de vários programas de notícias como o ProgBox, GeekDeck, e escritor de alguns livros, como &amp;ldquo;Emblem Divide&amp;rdquo; e &amp;ldquo;Git In The Trenches&amp;rdquo;. Durante 58 minutos conversamos sobre sua evolução pelo mundo do software livre, sobre o processo de escrever livros de ficção e educacionais, e sobre o papel que a cultura japonesa tem no seu dia a dia!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Álvaro \&#34;Turicas\&#34; Justin - Arduino</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-alvaro-turicas-justin-arduino-/</link>
+      <pubDate>Mon, 05 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-alvaro-turicas-justin-arduino-/</guid>
+      <description>No episódio de hoje conversei com o Álvaro &amp;ldquo;Turicas&amp;rdquo; Justen sobre um monte de coisas relacionadas ao Arduino, e como usá-lo junto com vários outros adaptadores (shields) para fazer um monte de coisas bacanas, como controlar a cor de um abajour pelo seu telefone Android e usar uma guitarra para jogar Frets on Fire! Também falamos do Turiquinhas, o carro controlado por luz cheio de firulas que ele desenvolveu junto com uns amigos.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Carlos Ribeiro do projeto Radio Tray</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-carlos-ribeiro-do-projeto-radio-tray-/</link>
+      <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-carlos-ribeiro-do-projeto-radio-tray-/</guid>
+      <description>O entrevistado desta vez é o português Carlos Ribeiro, desenvolvedor do projeto RadioTray, um programa bem leve e simples para escutar estações de rádio online. Durante nosso bate-papo conversamos sobre a criação e o crescimento de seu projeto, sobre aprendendo a programar com python, como o software livre é visto em Portugal, a falta de livros técnicos em português em Portugal e o seu Top 5!
+Baixe já o episódio e não se esqueça de acompanhar o podcast pelo Twitter!</description>
+    </item>
+    
+    <item>
+      <title>Participe do Próximo Castálio Podcast!</title>
+      <link>https://omaciel.github.io/posts/participe-do-proximo-castalio-podcast-/</link>
+      <pubDate>Tue, 09 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/participe-do-proximo-castalio-podcast-/</guid>
+      <description>Olá pessoal! Só queria avisar que o meu próximo convidado será o Carlos Ribeiro do projeto RadioTray! O Carlos vai estar falando direto de Portugal comigo pelo Skype, e eu estou interessadíssimo em saber um pouco mais sobre o seu projeto e como é a cultura de ser um programador na Europa! Caso vocês queiram participar deste episódio, deixe suas perguntas aqui nos comentários.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Hugo Dória - Arch Linux</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-hugo-doria-arch-linux-/</link>
+      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-hugo-doria-arch-linux-/</guid>
+      <description>Mais um episódio do Castálio Podcast! O meu entrevistado de hoje é o Hugo Dória, que para mim foi por muito tempo sinônimo do Arch Linux no Brasil. Durante nosso bate-papo conversamos sobre sua história pelo Arch, alguns dos seus projetos de segurança e alerta de atualizações, e como que ele deixou de querer ser um hacker, invadir a NASA e FBI, e acabou se especializando em segurança de sistemas!</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast: Aline Duarte Bessa - Accerciser</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-aline-duarte-bessa-accerciser-/</link>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-aline-duarte-bessa-accerciser-/</guid>
+      <description>Mais um episódio do Castálio Podcast, desta vez com um bate-papo com a Aline Duarte Bessa, mais uma Brasileira que está participando do GNOME Women Outreach Program (GWOP). Mesmo com um pouco de febre, gripe, e problemas técnicos com 2 de seus computadores, ela tirou um pouco do seu tempo para me contar como que ela está atualizando a documentação do Accerciser para desenvolvedores para implementação de acessibilidade.
+Escute ou baixe o episódio aqui.</description>
+    </item>
+    
+    <item>
+      <title>Podcast: Aline Duarte Bessa - Accerciser</title>
+      <link>https://omaciel.github.io/posts/podcast-aline-duarte-bessa-accerciser-/</link>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/podcast-aline-duarte-bessa-accerciser-/</guid>
+      <description>[caption id=&amp;ldquo;attachment_56&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;199&amp;rdquo; caption=&amp;ldquo;Aline Duarte Bessa - Accerciser&amp;rdquo;] [/caption]
+Another episode of my Castálio Podcast, this time with Aline Duarte Bessa, another Brazilian who is participating of the GNOME Women Outreach Program (GWOP). Even with a fever, cold e technical issues getting a working system to record this show, she was gracious to spend some of her free time and tell me about her current task of updating the developer&amp;rsquo;s documentation for Accerciser.</description>
+    </item>
+    
+    <item>
+      <title>Castálio Podcast, or Three Times is a Charm</title>
+      <link>https://omaciel.github.io/posts/castalio-podcast-three-times-/</link>
+      <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/castalio-podcast-three-times-/</guid>
+      <description>The idea of doing a podcast is something that has tickled my [STRIKEOUT:curiosity] fancy for quite some time. As a matter of fact, I am already the survivor of 2 other mildly successful attempts, which sadly, died prematurely due to commitment issues from my partners and my inability to record and edit audio using Linux.
+About 6 months ago the need to scratch this itch came back in full power, and thanks to the support of my friend Evandro Pastor, Castálio Podcast was born!</description>
+    </item>
+    
+    <item>
+      <title>O Objetivo do Castálio Podcast</title>
+      <link>https://omaciel.github.io/posts/o-objetivo-do-castalio-podcast-/</link>
+      <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/o-objetivo-do-castalio-podcast-/</guid>
+      <description>A idéia de fazer um podcast é algo que vem me cutucando há muito tempo. Para falar a verdade, eu sou um sobrevivente de 2 tentativas mais ou menos fracassadas que, infelizmente, morreram prematuramente devido à falta de compromisso de terceiros e da minha inabilidade de saber como gravar e editar arquivos de áudio usando o Linux.
+Mais ou menos 6 meses atrás o desejo de fazer um podcast me pegou com força total, e graças ao apoio do amigo Evandro Pastor, nasceu o Castálio Podcast!</description>
+    </item>
+    
   </channel>
 </rss>

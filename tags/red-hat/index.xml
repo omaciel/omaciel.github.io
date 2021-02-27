@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Red Hat on Og Maciel&#39;s Journal</title>
+    <title>red hat on Og Maciel&#39;s Journal</title>
     <link>https://omaciel.github.io/tags/red-hat/</link>
-    <description>Recent content in Red Hat on Og Maciel&#39;s Journal</description>
+    <description>Recent content in red hat on Og Maciel&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Jun 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/red-hat/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,69 @@
       
       <guid>https://omaciel.github.io/posts/populating-a-katello-instance-using-the-cli-/</guid>
       <description>Lately I have been asked a lot about my previous script to automatically populate a Katello server instance with real data (hi reyc!) I wrote that a while back and though it still does contain some helpful commands, I figured it was about time I updated it. Well, it took me longer than I expected to find some time and clean it up, but I think I can now show you a brand new script which also includes the extra feature of downloading a manifest file directly from Red Hat&#39;s portal and importing it as part of the process.</description>
+    </item>
+    
+    <item>
+      <title>Red Hat: 366 days later (and counting)</title>
+      <link>https://omaciel.github.io/posts/red-hat-366-days-later-and-counting-/</link>
+      <pubDate>Wed, 05 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/red-hat-366-days-later-and-counting-/</guid>
+      <description>Woke up to the following email this morning:
+ Dear Og Maciel,
+Congratulations on your one-year anniversary with Red Hat! Thank you for your commitment and work over the past year. We hope that it has been everything you expected it to be and look forward to celebrating your future success with the company.
+ Time sure flies when you&amp;rsquo;re having too much fun! I can&amp;rsquo;t believe it&amp;rsquo;s been one whole year since I joined Red Hat as a Senior QA Engineer to work on their CloudForms project!</description>
+    </item>
+    
+    <item>
+      <title>English My Red Hat Took Me And The Kids To The Nc</title>
+      <link>https://omaciel.github.io/posts/english-my-red-hat-took-me-and-the-kids-to-the-nc-/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/english-my-red-hat-took-me-and-the-kids-to-the-nc-/</guid>
+      <description>English: My Red Hat took me and the kids to the NC Museum of Art this last Sunday! It was perfect too as we got to see a lot of the exhibits and still managed to find time to eat at Lilly&amp;rsquo;s. Did you know that the entrance is free and the museum is sponsored by the State of North Carolina for our viewing and learning pleasure? Take that NYC and your extremely expensive entrance fees!</description>
+    </item>
+    
+    <item>
+      <title>Red Hat: Os Primeiros 3 Meses</title>
+      <link>https://omaciel.github.io/posts/red-hat-os-primeiros-3-meses-/</link>
+      <pubDate>Thu, 08 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/red-hat-os-primeiros-3-meses-/</guid>
+      <description>Este último dia 5 de fevereiro recebi a seguinte mensagem por e-mail:
+ Congratulations for reaching 90 days of service with Red Hat!
+ É difícil de acreditar que já se passaram 3 meses desde que eu comecei este novo capítulo na minha carreira! Meus dias têm sido preenchidos com tantas novidades que isso talvez ajude a explicar porque parece que foi somente ontem que eu sai da rPath para ingressar na equipe CloudForms QE aqui na Red Hat!</description>
+    </item>
+    
+    <item>
+      <title>Red Hat: The First 3 Months</title>
+      <link>https://omaciel.github.io/posts/red-hat-the-first-3-months-/</link>
+      <pubDate>Thu, 08 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/red-hat-the-first-3-months-/</guid>
+      <description>This past Feb. 5th I was greeted early in the morning with the following email:
+ Congratulations for reaching 90 days of service with Red Hat!
+ It is hard for me to believe that it has been 3 months already since I started this new chapter in my career! My days have been filled with so many new things that it may explain why it literally feels like it was only yesterday that I left rPath to join the CloudForms QE Team here at Red Hat!</description>
+    </item>
+    
+    <item>
+      <title>Starting a New Chapter: To Infinity, and Beyond!</title>
+      <link>https://omaciel.github.io/posts/starting-a-new-chapter-to-infinity-and-beyond-/</link>
+      <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/starting-a-new-chapter-to-infinity-and-beyond-/</guid>
+      <description>Last October I celebrated a couple of milestones in my life:
+ 5 years living in North Carolina; 2 years since I bought my first house; 11 years married to my wife; 5 years working for rPath;  Needless to say, each one of those milestones were very important to me as they mark important decision points in my life! Every single one of them changed my life for the better and I can&amp;rsquo;t help but feel blessed that I have so many things to look forward to at end of the year that remind me how lucky I have been!</description>
+    </item>
+    
+    <item>
+      <title>Um Novo Capítulo: To Infinity, and Beyond!</title>
+      <link>https://omaciel.github.io/posts/um-novo-capitulo-to-infinity-and-beyond-/</link>
+      <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/um-novo-capitulo-to-infinity-and-beyond-/</guid>
+      <description>Outubro do ano passado eu comemorei alguns marcos na minha vida:
+ 5 anos morando na Carolina do Norte; 2 anos desde que eu comprei minha primeira casa; 11 anos casado com minha esposa; 5 anos trabalhando para rPath;  Te garanto que cada um desses marcos foram muito importantes para mim, já que marcam decisões importante na minha vida! Cada um deles mudou a minha vida para melhor e eu me sinto abençoado por ter tantas coisas para celebrar no final do ano que me fazem lembrar o quão sortudo eu tenho sido!</description>
     </item>
     
   </channel>

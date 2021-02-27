@@ -46,12 +46,199 @@ Yesterday I had one of those &amp;ldquo;once in a a lifetime&amp;rdquo; opportun
     </item>
     
     <item>
+      <title>Red Hat: 366 days later (and counting)</title>
+      <link>https://omaciel.github.io/posts/red-hat-366-days-later-and-counting-/</link>
+      <pubDate>Wed, 05 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/red-hat-366-days-later-and-counting-/</guid>
+      <description>Woke up to the following email this morning:
+ Dear Og Maciel,
+Congratulations on your one-year anniversary with Red Hat! Thank you for your commitment and work over the past year. We hope that it has been everything you expected it to be and look forward to celebrating your future success with the company.
+ Time sure flies when you&amp;rsquo;re having too much fun! I can&amp;rsquo;t believe it&amp;rsquo;s been one whole year since I joined Red Hat as a Senior QA Engineer to work on their CloudForms project!</description>
+    </item>
+    
+    <item>
+      <title>Extending the default EC2 root partition: Follow up</title>
+      <link>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-follow-/</link>
+      <pubDate>Fri, 30 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-follow-/</guid>
+      <description>Just wanted to follow up on my previous post in regards to how to resize the root partition of an EC2 instance. Turns out that, once you&amp;rsquo;ve edited the root partition while in the launch panel, you can then perform the resize command right away, as soon as the instance is up and running and you have ssh&amp;rsquo;ed to it.
+ [root@ip-aa-bb-cc-dd ~]# resize2fs /dev/xvde1
+ This is definitely better than what I thought one had to do to get a bigger root partition.</description>
+    </item>
+    
+    <item>
+      <title>Extending the default EC2 root partition for an instance</title>
+      <link>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-for-an-/</link>
+      <pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-for-an-/</guid>
+      <description>Today I was playing with EC2, trying to launch a RHEL 6.3 instance so that I could then install the latest version of Katello and beat a bit on it&amp;hellip; just for fun, you know? Using the EC2 Management Console web interface I used the &amp;ldquo;classical&amp;rdquo; wizard to select all the components I wanted for a m1.large instance, making sure to edit the default 7.5 GB root partition they give you so that I could have more space available to synchronize content&amp;hellip; but when the instance finally came up I realized that my disk space was still showing the default value:</description>
+    </item>
+    
+    <item>
       <title>Tough Times</title>
       <link>https://omaciel.github.io/posts/tough-times-/</link>
       <pubDate>Tue, 30 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/tough-times-/</guid>
       <description>These last few days have been rough for my family due to a very unfortunate event. About 10 weeks ago my wife and I learned that she was pregnant, something that we both wanted very much since our last child was born in 2007. So for the last 10 weeks we have been taking all the necessary steps to prepare our daughters, our house and our work schedules to welcome another child into our family.</description>
+    </item>
+    
+    <item>
+      <title>Error: uninitialized constant Heroku::API (NameError)</title>
+      <link>https://omaciel.github.io/posts/error-uninitialized-constant-heroku-api-/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/error-uninitialized-constant-heroku-api-/</guid>
+      <description>Got stuck with this error on Fedora 17 while trying to get a project onto Heroku:
+ Error: uninitialized constant Heroku::API (NameError)
+ After some quick back and forth with the Heroku guys I finally got it fixed:
+ $ rvm uninstall 1.9.3 $ rvm reset $ sudo yum reinstall openssl openssl-devel $ rvm install 1.9.3 $ rvm use 1.9.3 &amp;mdash;default $ heroku login
+ Hope this helps someone else :)</description>
+    </item>
+    
+    <item>
+      <title>Pylyglot: Open Source Translation Search</title>
+      <link>https://omaciel.github.io/posts/pylyglot-open-source-translation-search-/</link>
+      <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/pylyglot-open-source-translation-search-/</guid>
+      <description>It&amp;rsquo;s been a while since I wrote about Pylyglot, my translation searching tool that I use whenever I translate open source applications. Have not heard about Pylyglot? Read the About page for more info!
+The reasons for the long hiatus are too many to enumerate, but suffice to say that the project is very much alive and I intend to keep updating the translations database as often as possible.
+So, what&amp;rsquo;s new?</description>
+    </item>
+    
+    <item>
+      <title>Script to populate a Katello instance with valid data</title>
+      <link>https://omaciel.github.io/posts/script-to-populate-a-katello-instance-with-valid-/</link>
+      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/script-to-populate-a-katello-instance-with-valid-/</guid>
+      <description>Every now and then I need to populate a brand new Katello installation with some valid organizations, users and products to test certain areas&amp;hellip; and after a while I developed a script which I find very handy that does just that and may be of use for someone else. If you also find it useful, feel free to fork it and contribute with your own tricks. :)</description>
+    </item>
+    
+    <item>
+      <title>PyCarolinas 2012</title>
+      <link>https://omaciel.github.io/posts/pycarolinas-2012-/</link>
+      <pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/pycarolinas-2012-/</guid>
+      <description>I&amp;rsquo;ve seen the (yet unpublished draft) schedule and it looks great!
+WHEN: | | October 20-21, 2012
+WHERE: | | Kerr Hall | UNC School of Pharmacy | Chapel Hill, NC</description>
+    </item>
+    
+    <item>
+      <title>Meet Some Of The Guys Behind The Katello Project</title>
+      <link>https://omaciel.github.io/posts/meet-some-of-the-guys-behind-the-katello-project-/</link>
+      <pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/meet-some-of-the-guys-behind-the-katello-project-/</guid>
+      <description>Meet some of the guys behind the Katello project!</description>
+    </item>
+    
+    <item>
+      <title>Life Update: July 15th, 2012</title>
+      <link>https://omaciel.github.io/posts/life-update-july-15th-2012-/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/life-update-july-15th-2012-/</guid>
+      <description>It&amp;rsquo;s been a while since I actually blogged or wrote much that wasn&amp;rsquo;t work related&amp;hellip; so here&amp;rsquo;s a list, in no particular order, of what I have been doing these days for those who were wondering what had happened to me:
+I have been asked to step into a new role at work, and for the last 2-3 months I have been acting as the team lead (no job title change yet).</description>
+    </item>
+    
+    <item>
+      <title>Setting up Vim for Clojure development notes</title>
+      <link>https://omaciel.github.io/posts/setting-up-vim-for-clojure-development-notes-/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/setting-up-vim-for-clojure-development-notes-/</guid>
+      <description>Started the process of getting jiggy with Clojure at work and didn&amp;rsquo;t like the idea of using Eclipse for my day to day work&amp;hellip; so I started looking at how to make vim and clojure get along and came across a great post! Here are the distilled notes plus minor tweaks to get anyone out there trying to do the same thing going:
+ Download VimClojure (http://www.vim.org/scripts/script.php?script_id=2501) Download VimSlime (https://github.com/jpalardy/vim-slime) Extract these files into your ~/.</description>
+    </item>
+    
+    <item>
+      <title>Now My Adopted State Has Chosen To Turn Its Back</title>
+      <link>https://omaciel.github.io/posts/now-my-adopted-state-has-chosen-to-turn-its-back-/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/now-my-adopted-state-has-chosen-to-turn-its-back-/</guid>
+      <description>Now my adopted state has chosen to turn its back on its tradition of welcoming immigrants, and of tolerance and freedom to all its citizens, with a proposed amendment to the NC State Constitution no less, that hangs a great banner across the entrances to the state saying to a whole bunch of American citizens: You are not welcome here.
+Bob Young</description>
+    </item>
+    
+    <item>
+      <title>English My Red Hat Took Me And The Kids To The Nc</title>
+      <link>https://omaciel.github.io/posts/english-my-red-hat-took-me-and-the-kids-to-the-nc-/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/english-my-red-hat-took-me-and-the-kids-to-the-nc-/</guid>
+      <description>English: My Red Hat took me and the kids to the NC Museum of Art this last Sunday! It was perfect too as we got to see a lot of the exhibits and still managed to find time to eat at Lilly&amp;rsquo;s. Did you know that the entrance is free and the museum is sponsored by the State of North Carolina for our viewing and learning pleasure? Take that NYC and your extremely expensive entrance fees!</description>
+    </item>
+    
+    <item>
+      <title>How to import WordPress XML files</title>
+      <link>https://omaciel.github.io/posts/how-to-import-wordpress-xml-files-/</link>
+      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/how-to-import-wordpress-xml-files-/</guid>
+      <description>&amp;hellip; or, how I brought an old python code back from the dead!
+Inspired by Kenneth Reitz&#39;s recent post and spurred by recent events, I decided to turn an old python code I wrote a while back into something that can be (hopefully) easier to get to than by sheer luck.
+I&amp;rsquo;m talking about ChoppedPress, my script that let&amp;rsquo;s you split WordPress exported XML files into smaller files that can be easily imported into new WordPress installations.</description>
+    </item>
+    
+    <item>
+      <title>If You Hire People Just Because They Can Do A</title>
+      <link>https://omaciel.github.io/posts/if-you-hire-people-just-because-they-can-do-a-/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/if-you-hire-people-just-because-they-can-do-a-/</guid>
+      <description>If you hire people just because they can do a job, they&amp;rsquo;ll work for your money. But if you hire people who believe what you believe, they&amp;rsquo;ll work for you with blood and sweat and tears.
+Simon Sinek
+ I consider myself very lucky for having gotten to a point in my professional career where I can chose where I want to work, a place where I can try to make a difference, and more than anything, a place where I believe in what I do!</description>
+    </item>
+    
+    <item>
+      <title>Home Office Taken With Instagram</title>
+      <link>https://omaciel.github.io/posts/home-office-taken-with-instagram-/</link>
+      <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/home-office-taken-with-instagram-/</guid>
+      <description>Home Office (Taken with instagram)</description>
+    </item>
+    
+    <item>
+      <title>Alternatives to NY Times\&#39; Book section</title>
+      <link>https://omaciel.github.io/posts/alternatives-to-ny-times-book-section-/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/alternatives-to-ny-times-book-section-/</guid>
+      <description>The NY Times&#39; restriction of 10 articles/month for non-subscribers, online viewers means I won&#39;t be reading their Books section anymore. It sort of became a good habit for me and something I look forward to on Sunday mornings: as I drink my coffee and enjoy some peace and quietness as the kids are still asleep, I enjoy catching up with the latest books and reviews. This weekend ritual usually ends with a trip down to the public library with the whole family.</description>
+    </item>
+    
+    <item>
+      <title>Mad Props To The Pragmatic Programmers</title>
+      <link>https://omaciel.github.io/posts/mad-props-to-the-pragmatic-programmers-/</link>
+      <pubDate>Wed, 28 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/mad-props-to-the-pragmatic-programmers-/</guid>
+      <description>Earlier this morning I received the following email from The Pragmatic Programmers:
+ Dear Og Maciel,
+This is just to let you know that Pragmatic Guide to Git (eBook) has recently been updated. You own an electronic version of this book, and so you&amp;rsquo;ll be able to download this latest version. We have also sent it to Amazon.com for delivery to your kindle.
+Changes in This Release
+ Third printing: includes a few minor errata fixes.</description>
+    </item>
+    
+    <item>
+      <title>Sorry for the noise...</title>
+      <link>https://omaciel.github.io/posts/sorry-for-the-noise-/</link>
+      <pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/sorry-for-the-noise-/</guid>
+      <description>I&amp;rsquo;ve just recently started migrating my blog to Tumblr, and in the process of importing my archives from WordPress I seem to have caused some issues with certain aggregators that are now picking up posts from 2007&amp;hellip; Yesterday I also triggered a massive torrent on both Twitter and Facebook&amp;hellip;
+Please accept my apologies for the incovenience&amp;hellip; more on the Tumblr migration to follow!</description>
     </item>
     
     <item>
@@ -82,8 +269,7 @@ When I asked my listeners if they would be interested in an episode in English w
       <pubDate>Wed, 14 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/django-devkit-appliance-1-3-1-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_853&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Django&amp;rdquo;][/caption]
-I rebuilt the appliance to use the latest Django 1.3.1 release to deliver the security fixes found in the previous version. There are also several other updated packages included.
+      <description>I rebuilt the appliance to use the latest Django 1.3.1 release to deliver the security fixes found in the previous version. There are also several other updated packages included.
 If you want to play with this appliance, feel free to download it in the following formats:
  Django DevKit Raw Filesystem x86 (390 MB - SHA1: 3ae0ab73477be3308011735aac5b33908700a82d) Django DevKit Raw Filesystem x86_64 (411 MB - SHA1: 3fb040a9b48b0dc248e5424271d4ea9274605530) Django DevKit ISO x86 (517 MB - SHA1: 88d5f1065bf5646d7cd952e8ccac435a40176fef) Django DevKit ISO x86_64 (537 MB - SHA1: cee9f5f584261d69baca09efeb58278d23cab410)  Speaking of Raw Filesystem images, here&amp;rsquo;s how I currently use it with QEMU.</description>
     </item>
@@ -94,7 +280,7 @@ If you want to play with this appliance, feel free to download it in the followi
       <pubDate>Wed, 07 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/sixth-annual-packt-open-source-awards-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;248&amp;rdquo; caption=&amp;ldquo;Packt Publishing&amp;rdquo;][/caption]
+      <description>!Packt Publishing
 The 2011 Open Source Awards was launched on the 1st week of August by Packt, inviting people to submit nominations for their favorite Open Source project. Now in its sixth year, the Awards continue in its aim of encouraging, supporting, recognizing and rewarding all Open Source projects.
 The 2010 Open Source Award Winners included the Open Source Content Management System (CMS) Award winner CMS Made Simple, Open Source JavaScript Libraries Award winner jQuery and Pimcore the winner of the Most Promising Open Source Project Award.</description>
     </item>
@@ -105,8 +291,8 @@ The 2010 Open Source Award Winners included the Open Source Content Management S
       <pubDate>Wed, 03 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/lost-in-translation-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1453&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Deformed Man Toilet&amp;rdquo;][/caption]
-[caption id=&amp;ldquo;attachment_1454&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;225&amp;rdquo; caption=&amp;ldquo;Strange Juice&amp;rdquo;][/caption]</description>
+      <description>!Deformed Man Toilet]
+!Strange Juice</description>
     </item>
     
     <item>
@@ -134,8 +320,7 @@ Another episode of my Castálio Podcast, this time with Aline Duarte Bessa, anot
       <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/castalio-podcast-three-times-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;350&amp;rdquo; caption=&amp;ldquo;Castálio Podcast&amp;rdquo;][/caption]
-The idea of doing a podcast is something that has tickled my [STRIKEOUT:curiosity] fancy for quite some time. As a matter of fact, I am already the survivor of 2 other mildly successful attempts, which sadly, died prematurely due to commitment issues from my partners and my inability to record and edit audio using Linux.
+      <description>The idea of doing a podcast is something that has tickled my [STRIKEOUT:curiosity] fancy for quite some time. As a matter of fact, I am already the survivor of 2 other mildly successful attempts, which sadly, died prematurely due to commitment issues from my partners and my inability to record and edit audio using Linux.
 About 6 months ago the need to scratch this itch came back in full power, and thanks to the support of my friend Evandro Pastor, Castálio Podcast was born!</description>
     </item>
     
@@ -145,8 +330,7 @@ About 6 months ago the need to scratch this itch came back in full power, and th
       <pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/summer-cleaning-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;333&amp;rdquo; caption=&amp;ldquo;Summer Cleaning&amp;rdquo;][/caption]
-After debating for the last couple of months about re-organizing my two blogs into a more intuitive (perhaps logical even?) format, I finally took advantage of some down time over the weekend and made a few changes. From now on, www.ogmaciel.com will no longer be my blog written in English, but instead will serve as a &amp;ldquo;business card/window&amp;rdquo; into my world. My &amp;ldquo;English&amp;rdquo; blog is now hosted on en.</description>
+      <description>After debating for the last couple of months about re-organizing my two blogs into a more intuitive (perhaps logical even?) format, I finally took advantage of some down time over the weekend and made a few changes. From now on, www.ogmaciel.com will no longer be my blog written in English, but instead will serve as a &amp;ldquo;business card/window&amp;rdquo; into my world. My &amp;ldquo;English&amp;rdquo; blog is now hosted on en.ogmaciel.com and my &amp;ldquo;Brazilian Portuguese&amp;quot; blog lives on pt.</description>
     </item>
     
     <item>

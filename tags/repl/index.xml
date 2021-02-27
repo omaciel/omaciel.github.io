@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>repl on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/repl/</link>
+    <description>Recent content in repl on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 May 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/repl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up Vim for Clojure development notes</title>
+      <link>https://omaciel.github.io/posts/setting-up-vim-for-clojure-development-notes-/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/setting-up-vim-for-clojure-development-notes-/</guid>
+      <description>Started the process of getting jiggy with Clojure at work and didn&amp;rsquo;t like the idea of using Eclipse for my day to day work&amp;hellip; so I started looking at how to make vim and clojure get along and came across a great post! Here are the distilled notes plus minor tweaks to get anyone out there trying to do the same thing going:
+ Download VimClojure (http://www.vim.org/scripts/script.php?script_id=2501) Download VimSlime (https://github.com/jpalardy/vim-slime) Extract these files into your ~/.</description>
+    </item>
+    
+  </channel>
+</rss>

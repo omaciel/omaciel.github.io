@@ -69,5 +69,27 @@ Ever since I started doing Python development using Emacs, I have unsuccessfully
 Assuming you have already installed and configured your Katello instance (learn how to do this here) with the default configurations, we now have a few options to proceed:</description>
     </item>
     
+    <item>
+      <title>PyCarolinas 2012</title>
+      <link>https://omaciel.github.io/posts/pycarolinas-2012-/</link>
+      <pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/pycarolinas-2012-/</guid>
+      <description>I&amp;rsquo;ve seen the (yet unpublished draft) schedule and it looks great!
+WHEN: | | October 20-21, 2012
+WHERE: | | Kerr Hall | UNC School of Pharmacy | Chapel Hill, NC</description>
+    </item>
+    
+    <item>
+      <title>How to import WordPress XML files</title>
+      <link>https://omaciel.github.io/posts/how-to-import-wordpress-xml-files-/</link>
+      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/how-to-import-wordpress-xml-files-/</guid>
+      <description>&amp;hellip; or, how I brought an old python code back from the dead!
+Inspired by Kenneth Reitz&#39;s recent post and spurred by recent events, I decided to turn an old python code I wrote a while back into something that can be (hopefully) easier to get to than by sheer luck.
+I&amp;rsquo;m talking about ChoppedPress, my script that let&amp;rsquo;s you split WordPress exported XML files into smaller files that can be easily imported into new WordPress installations.</description>
+    </item>
+    
   </channel>
 </rss>

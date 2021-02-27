@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>django on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/django/</link>
+    <description>Recent content in django on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Aug 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pylyglot: Open Source Translation Search</title>
+      <link>https://omaciel.github.io/posts/pylyglot-open-source-translation-search-/</link>
+      <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/pylyglot-open-source-translation-search-/</guid>
+      <description>It&amp;rsquo;s been a while since I wrote about Pylyglot, my translation searching tool that I use whenever I translate open source applications. Have not heard about Pylyglot? Read the About page for more info!
+The reasons for the long hiatus are too many to enumerate, but suffice to say that the project is very much alive and I intend to keep updating the translations database as often as possible.
+So, what&amp;rsquo;s new?</description>
+    </item>
+    
+    <item>
+      <title>Django DevKit Appliance 1.3.1</title>
+      <link>https://omaciel.github.io/posts/django-devkit-appliance-1-3-1-/</link>
+      <pubDate>Wed, 14 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/django-devkit-appliance-1-3-1-/</guid>
+      <description>I rebuilt the appliance to use the latest Django 1.3.1 release to deliver the security fixes found in the previous version. There are also several other updated packages included.
+If you want to play with this appliance, feel free to download it in the following formats:
+ Django DevKit Raw Filesystem x86 (390 MB - SHA1: 3ae0ab73477be3308011735aac5b33908700a82d) Django DevKit Raw Filesystem x86_64 (411 MB - SHA1: 3fb040a9b48b0dc248e5424271d4ea9274605530) Django DevKit ISO x86 (517 MB - SHA1: 88d5f1065bf5646d7cd952e8ccac435a40176fef) Django DevKit ISO x86_64 (537 MB - SHA1: cee9f5f584261d69baca09efeb58278d23cab410)  Speaking of Raw Filesystem images, here&amp;rsquo;s how I currently use it with QEMU.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wordpress on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/wordpress/</link>
+    <description>Recent content in wordpress on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to import WordPress XML files</title>
+      <link>https://omaciel.github.io/posts/how-to-import-wordpress-xml-files-/</link>
+      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/how-to-import-wordpress-xml-files-/</guid>
+      <description>&amp;hellip; or, how I brought an old python code back from the dead!
+Inspired by Kenneth Reitz&#39;s recent post and spurred by recent events, I decided to turn an old python code I wrote a while back into something that can be (hopefully) easier to get to than by sheer luck.
+I&amp;rsquo;m talking about ChoppedPress, my script that let&amp;rsquo;s you split WordPress exported XML files into smaller files that can be easily imported into new WordPress installations.</description>
+    </item>
+    
+    <item>
+      <title>Desculpe Pela Bagunça...</title>
+      <link>https://omaciel.github.io/posts/desculpe-pela-bagunca-/</link>
+      <pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/desculpe-pela-bagunca-/</guid>
+      <description>Recentemente eu comecei o processo de migrar o meu blog para o Tumblr, e ao importar os posts antigos do WordPress eu sem querer iniciei uma enxurrada onde certos agregadores estão mostrando posts de 2007&amp;hellip; Ontem eu também causei um problema similar no Twitter e Facebook&amp;hellip;
+Por favor aceite os meus mais sinceros pedidos de desculpas pelo incoveniente&amp;hellip; depois escrevo mais sobre a migração para o Tumblr!</description>
+    </item>
+    
+    <item>
+      <title>Sorry for the noise...</title>
+      <link>https://omaciel.github.io/posts/sorry-for-the-noise-/</link>
+      <pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/sorry-for-the-noise-/</guid>
+      <description>I&amp;rsquo;ve just recently started migrating my blog to Tumblr, and in the process of importing my archives from WordPress I seem to have caused some issues with certain aggregators that are now picking up posts from 2007&amp;hellip; Yesterday I also triggered a massive torrent on both Twitter and Facebook&amp;hellip;
+Please accept my apologies for the incovenience&amp;hellip; more on the Tumblr migration to follow!</description>
+    </item>
+    
+  </channel>
+</rss>

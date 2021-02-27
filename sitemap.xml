@@ -728,11 +728,6 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/podcast-cast%C3%A1lio-ubuntu-mandriva-portuguese/</loc>
-    <lastmod>2013-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omaciel.github.io/posts/castalio-podcast-og-maciel-red-hat-/</loc>
     <lastmod>2013-02-19T00:00:00+00:00</lastmod>
   </url>
@@ -748,22 +743,12 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/portuguese-ubuntu-mandriva-cast%C3%A1lio-podcast/</loc>
-    <lastmod>2013-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omaciel.github.io/posts/castalio-podcast-fabiano-fidencio-red-hat-/</loc>
     <lastmod>2013-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio-ubuntu-mandriva/</loc>
-    <lastmod>2013-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/cloudforms-red-hat-qa-english/</loc>
+    <loc>https://omaciel.github.io/tags/cloudforms/</loc>
     <lastmod>2012-12-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -778,23 +763,13 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/cast%C3%A1lio-podcast-portuguese-ubuntu-mandriva/</loc>
-    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/ec2-english/</loc>
+    <loc>https://omaciel.github.io/tags/ec2/</loc>
     <lastmod>2012-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-follow-/</loc>
     <lastmod>2012-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/ec2-redhat-katello-english/</loc>
-    <lastmod>2012-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -813,17 +788,7 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/portuguese-cast%C3%A1lio-podcast-ubuntu-mandriva/</loc>
-    <lastmod>2012-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omaciel.github.io/posts/castalio-podcast-licio-fonseca-google-/</loc>
-    <lastmod>2012-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/ubuntu-cast%C3%A1lio-podcast-mandriva-portuguese/</loc>
     <lastmod>2012-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -833,17 +798,17 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/ubuntu-mandriva-cast%C3%A1lio-podcast-portuguese/</loc>
-    <lastmod>2012-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omaciel.github.io/posts/error-uninitialized-constant-heroku-api-/</loc>
     <lastmod>2012-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/fedora-17-heroku-english/</loc>
+    <loc>https://omaciel.github.io/tags/fedora-17/</loc>
+    <lastmod>2012-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/heroku/</loc>
     <lastmod>2012-08-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -858,7 +823,12 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/english-django-pylyglot-translations/</loc>
+    <loc>https://omaciel.github.io/tags/django/</loc>
+    <lastmod>2012-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/pylyglot/</loc>
     <lastmod>2012-08-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -868,17 +838,12 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/english-katello/</loc>
-    <lastmod>2012-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omaciel.github.io/posts/script-to-populate-a-katello-instance-with-valid-/</loc>
     <lastmod>2012-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/english-python-carolina/</loc>
+    <loc>https://omaciel.github.io/tags/carolina/</loc>
     <lastmod>2012-08-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -893,17 +858,7 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/katello-english/</loc>
-    <lastmod>2012-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omaciel.github.io/posts/meet-some-of-the-guys-behind-the-katello-project-/</loc>
-    <lastmod>2012-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/podcast-cast%C3%A1lio-ubuntu-mandriva/</loc>
     <lastmod>2012-08-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -913,12 +868,22 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/portuguese-ubuntu-mandriva-podcast-cast%C3%A1lio/</loc>
-    <lastmod>2012-07-23T00:00:00+00:00</lastmod>
+    <loc>https://omaciel.github.io/tags/clojure/</loc>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/english-redhat-clojure-foresight-linux-fedora-zite-flipboard-pandora-grooveshark-emacs/</loc>
+    <loc>https://omaciel.github.io/tags/fedora/</loc>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/flipboard/</loc>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/foresight-linux/</loc>
     <lastmod>2012-07-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -928,22 +893,17 @@
   </url>
   
   <url>
+    <loc>https://omaciel.github.io/tags/zite/</loc>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omaciel.github.io/posts/castalio-podcast-danilo-resende-facebook-/</loc>
     <lastmod>2012-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/ubuntu-portuguese-mandriva-podcast-cast%C3%A1lio/</loc>
-    <lastmod>2012-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omaciel.github.io/posts/castalio-podcast-djavan-fagundes-gnome-brasil-/</loc>
-    <lastmod>2012-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/podcast-ubuntu-portuguese-cast%C3%A1lio-mandriva/</loc>
     <lastmod>2012-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -958,7 +918,22 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/eclipse-clojure-vim-repl-lein-dropbox-english/</loc>
+    <loc>https://omaciel.github.io/tags/dropbox/</loc>
+    <lastmod>2012-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/eclipse/</loc>
+    <lastmod>2012-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/lein/</loc>
+    <lastmod>2012-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/repl/</loc>
     <lastmod>2012-05-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -968,17 +943,17 @@
   </url>
   
   <url>
+    <loc>https://omaciel.github.io/tags/vim/</loc>
+    <lastmod>2012-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omaciel.github.io/posts/castalio-podcast-caike-souza-envy-labs-/</loc>
     <lastmod>2012-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/podcast-cast%C3%A1lio-portuguese/</loc>
-    <lastmod>2012-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/english-nc-politics/</loc>
+    <loc>https://omaciel.github.io/tags/nc/</loc>
     <lastmod>2012-05-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -988,12 +963,12 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/posts/english-my-red-hat-took-me-and-the-kids-to-the-nc-/</loc>
-    <lastmod>2012-05-01T00:00:00+00:00</lastmod>
+    <loc>https://omaciel.github.io/tags/politics/</loc>
+    <lastmod>2012-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/red-hat-english-portuguese-ubuntu/</loc>
+    <loc>https://omaciel.github.io/posts/english-my-red-hat-took-me-and-the-kids-to-the-nc-/</loc>
     <lastmod>2012-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1003,12 +978,7 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio-ubuntu/</loc>
-    <lastmod>2012-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/english-wordpress-python-pypi-github-tumblr/</loc>
+    <loc>https://omaciel.github.io/tags/github/</loc>
     <lastmod>2012-04-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -1018,8 +988,18 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/portuguese-podcast-ubuntu/</loc>
-    <lastmod>2012-04-22T00:00:00+00:00</lastmod>
+    <loc>https://omaciel.github.io/tags/pypi/</loc>
+    <lastmod>2012-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/tumblr/</loc>
+    <lastmod>2012-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/wordpress/</loc>
+    <lastmod>2012-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1033,18 +1013,18 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/portuguese-cast%C3%A1lio-podcast-ubuntu/</loc>
-    <lastmod>2012-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/english-quotes/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omaciel.github.io/posts/if-you-hire-people-just-because-they-can-do-a-/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/quotes/</loc>
+    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/home-office/</loc>
+    <lastmod>2012-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1058,22 +1038,27 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/cast%C3%A1lio-podcast-portuguese-ubuntu/</loc>
-    <lastmod>2012-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omaciel.github.io/posts/alternatives-to-ny-times-book-section-/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/english-books-nytimes/</loc>
+    <loc>https://omaciel.github.io/tags/nytimes/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/english-kindle-epub-mobi-ebook/</loc>
+    <loc>https://omaciel.github.io/tags/ebook/</loc>
+    <lastmod>2012-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/epub/</loc>
+    <lastmod>2012-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/kindle/</loc>
     <lastmod>2012-03-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -1083,12 +1068,12 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/posts/castalio-podcast-gabriel-falcao-yipit-/</loc>
-    <lastmod>2012-03-18T00:00:00+00:00</lastmod>
+    <loc>https://omaciel.github.io/tags/mobi/</loc>
+    <lastmod>2012-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/portuguese-cast%C3%A1lio-podcast/</loc>
+    <loc>https://omaciel.github.io/posts/castalio-podcast-gabriel-falcao-yipit-/</loc>
     <lastmod>2012-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -1113,22 +1098,7 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/portuguese-ubuntu-cast%C3%A1lio-podcast/</loc>
-    <lastmod>2012-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omaciel.github.io/posts/desculpe-pela-bagunca-/</loc>
-    <lastmod>2012-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/english-tumblr-wordpress/</loc>
-    <lastmod>2012-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/portuguese-tumblr-wordpress/</loc>
     <lastmod>2012-02-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -1139,11 +1109,6 @@
   
   <url>
     <loc>https://omaciel.github.io/posts/castalio-podcast-primeiro-ano-e-bastidores-/</loc>
-    <lastmod>2012-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio/</loc>
     <lastmod>2012-02-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -1168,7 +1133,7 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/portuguese-pessoal/</loc>
+    <loc>https://omaciel.github.io/tags/pessoal/</loc>
     <lastmod>2011-12-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -1190,11 +1155,6 @@
   <url>
     <loc>https://omaciel.github.io/posts/castalio-podcast-elvis-pfutzenreuter-conectiva-linux-/</loc>
     <lastmod>2011-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/rpath-red-hat/</loc>
-    <lastmod>2011-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1224,11 +1184,6 @@
   
   <url>
     <loc>https://omaciel.github.io/posts/castalio-podcast-evandro-pastor-quarto-estudio-/</loc>
-    <lastmod>2011-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omaciel.github.io/tags/portuguese-castalio-podcast/</loc>
     <lastmod>2011-10-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -1268,11 +1223,6 @@
   </url>
   
   <url>
-    <loc>https://omaciel.github.io/tags/portuguese-podcast-castalio/</loc>
-    <lastmod>2011-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omaciel.github.io/posts/castalio-podcast-carlos-ribeiro-do-projeto-radio-tray-/</loc>
     <lastmod>2011-08-22T00:00:00+00:00</lastmod>
   </url>
@@ -1299,6 +1249,11 @@
   
   <url>
     <loc>https://omaciel.github.io/posts/menu-com-icones-no-openbox-/</loc>
+    <lastmod>2011-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omaciel.github.io/tags/openbox/</loc>
     <lastmod>2011-08-02T00:00:00+00:00</lastmod>
   </url>
   

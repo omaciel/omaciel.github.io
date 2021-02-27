@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clojure on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/clojure/</link>
+    <description>Recent content in Clojure on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/clojure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life Update: July 15th, 2012</title>
+      <link>https://omaciel.github.io/posts/life-update-july-15th-2012-/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/life-update-july-15th-2012-/</guid>
+      <description>It&amp;rsquo;s been a while since I actually blogged or wrote much that wasn&amp;rsquo;t work related&amp;hellip; so here&amp;rsquo;s a list, in no particular order, of what I have been doing these days for those who were wondering what had happened to me:
+I have been asked to step into a new role at work, and for the last 2-3 months I have been acting as the team lead (no job title change yet).</description>
+    </item>
+    
+    <item>
+      <title>Setting up Vim for Clojure development notes</title>
+      <link>https://omaciel.github.io/posts/setting-up-vim-for-clojure-development-notes-/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/setting-up-vim-for-clojure-development-notes-/</guid>
+      <description>Started the process of getting jiggy with Clojure at work and didn&amp;rsquo;t like the idea of using Eclipse for my day to day work&amp;hellip; so I started looking at how to make vim and clojure get along and came across a great post! Here are the distilled notes plus minor tweaks to get anyone out there trying to do the same thing going:
+ Download VimClojure (http://www.vim.org/scripts/script.php?script_id=2501) Download VimSlime (https://github.com/jpalardy/vim-slime) Extract these files into your ~/.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EC2 on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/ec2/</link>
+    <description>Recent content in EC2 on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Nov 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/ec2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extending the default EC2 root partition: Follow up</title>
+      <link>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-follow-/</link>
+      <pubDate>Fri, 30 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-follow-/</guid>
+      <description>Just wanted to follow up on my previous post in regards to how to resize the root partition of an EC2 instance. Turns out that, once you&amp;rsquo;ve edited the root partition while in the launch panel, you can then perform the resize command right away, as soon as the instance is up and running and you have ssh&amp;rsquo;ed to it.
+ [root@ip-aa-bb-cc-dd ~]# resize2fs /dev/xvde1
+ This is definitely better than what I thought one had to do to get a bigger root partition.</description>
+    </item>
+    
+    <item>
+      <title>Extending the default EC2 root partition for an instance</title>
+      <link>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-for-an-/</link>
+      <pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-for-an-/</guid>
+      <description>Today I was playing with EC2, trying to launch a RHEL 6.3 instance so that I could then install the latest version of Katello and beat a bit on it&amp;hellip; just for fun, you know? Using the EC2 Management Console web interface I used the &amp;ldquo;classical&amp;rdquo; wizard to select all the components I wanted for a m1.large instance, making sure to edit the default 7.5 GB root partition they give you so that I could have more space available to synchronize content&amp;hellip; but when the instance finally came up I realized that my disk space was still showing the default value:</description>
+    </item>
+    
+  </channel>
+</rss>

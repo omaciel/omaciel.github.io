@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>qa</title>
+      <title>QA</title>
       <link>https://omaciel.github.io/tags/qa/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
       
@@ -809,7 +809,7 @@
     </item>
     
     <item>
-      <title>Emacs</title>
+      <title>emacs</title>
       <link>https://omaciel.github.io/tags/emacs/</link>
       <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
       
@@ -881,7 +881,7 @@
     </item>
     
     <item>
-      <title>ubuntu</title>
+      <title>Ubuntu</title>
       <link>https://omaciel.github.io/tags/ubuntu/</link>
       <pubDate>Mon, 09 Sep 2013 00:00:00 +0000</pubDate>
       
@@ -908,7 +908,7 @@
     </item>
     
     <item>
-      <title>Red Hat</title>
+      <title>red hat</title>
       <link>https://omaciel.github.io/tags/red-hat/</link>
       <pubDate>Tue, 04 Jun 2013 00:00:00 +0000</pubDate>
       
@@ -926,7 +926,7 @@
     </item>
     
     <item>
-      <title>Grooveshark</title>
+      <title>grooveshark</title>
       <link>https://omaciel.github.io/tags/grooveshark/</link>
       <pubDate>Tue, 23 Apr 2013 00:00:00 +0000</pubDate>
       
@@ -962,7 +962,7 @@
     </item>
     
     <item>
-      <title>Pandora</title>
+      <title>pandora</title>
       <link>https://omaciel.github.io/tags/pandora/</link>
       <pubDate>Tue, 23 Apr 2013 00:00:00 +0000</pubDate>
       
@@ -1025,15 +1025,6 @@
     </item>
     
     <item>
-      <title>podcast, castálio, ubuntu, mandriva, portuguese</title>
-      <link>https://omaciel.github.io/tags/podcast-cast%C3%A1lio-ubuntu-mandriva-portuguese/</link>
-      <pubDate>Sun, 03 Mar 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/podcast-cast%C3%A1lio-ubuntu-mandriva-portuguese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>rpath</title>
       <link>https://omaciel.github.io/tags/rpath/</link>
       <pubDate>Tue, 19 Feb 2013 00:00:00 +0000</pubDate>
@@ -1043,362 +1034,290 @@
     </item>
     
     <item>
-      <title>portuguese, ubuntu, mandriva, castálio, podcast</title>
-      <link>https://omaciel.github.io/tags/portuguese-ubuntu-mandriva-cast%C3%A1lio-podcast/</link>
-      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/portuguese-ubuntu-mandriva-cast%C3%A1lio-podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portuguese, podcast, castálio, ubuntu, mandriva</title>
-      <link>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio-ubuntu-mandriva/</link>
-      <pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio-ubuntu-mandriva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CloudForms, Red Hat, QA, english</title>
-      <link>https://omaciel.github.io/tags/cloudforms-red-hat-qa-english/</link>
+      <title>CloudForms</title>
+      <link>https://omaciel.github.io/tags/cloudforms/</link>
       <pubDate>Wed, 05 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/cloudforms-red-hat-qa-english/</guid>
+      <guid>https://omaciel.github.io/tags/cloudforms/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>castálio, podcast, portuguese, ubuntu, mandriva</title>
-      <link>https://omaciel.github.io/tags/cast%C3%A1lio-podcast-portuguese-ubuntu-mandriva/</link>
-      <pubDate>Mon, 03 Dec 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/cast%C3%A1lio-podcast-portuguese-ubuntu-mandriva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EC2, english</title>
-      <link>https://omaciel.github.io/tags/ec2-english/</link>
+      <title>EC2</title>
+      <link>https://omaciel.github.io/tags/ec2/</link>
       <pubDate>Fri, 30 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/ec2-english/</guid>
+      <guid>https://omaciel.github.io/tags/ec2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>EC2, RedHat, Katello, english</title>
-      <link>https://omaciel.github.io/tags/ec2-redhat-katello-english/</link>
-      <pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/ec2-redhat-katello-english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portuguese, castálio, podcast, ubuntu, mandriva</title>
-      <link>https://omaciel.github.io/tags/portuguese-cast%C3%A1lio-podcast-ubuntu-mandriva/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/portuguese-cast%C3%A1lio-podcast-ubuntu-mandriva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ubuntu, castálio, podcast, mandriva, portuguese</title>
-      <link>https://omaciel.github.io/tags/ubuntu-cast%C3%A1lio-podcast-mandriva-portuguese/</link>
-      <pubDate>Mon, 17 Sep 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/ubuntu-cast%C3%A1lio-podcast-mandriva-portuguese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ubuntu, mandriva, castálio, podcast, portuguese</title>
-      <link>https://omaciel.github.io/tags/ubuntu-mandriva-cast%C3%A1lio-podcast-portuguese/</link>
-      <pubDate>Tue, 04 Sep 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/ubuntu-mandriva-cast%C3%A1lio-podcast-portuguese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fedora 17, Heroku, english</title>
-      <link>https://omaciel.github.io/tags/fedora-17-heroku-english/</link>
+      <title>Fedora 17</title>
+      <link>https://omaciel.github.io/tags/fedora-17/</link>
       <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/fedora-17-heroku-english/</guid>
+      <guid>https://omaciel.github.io/tags/fedora-17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>english, django, pylyglot, translations</title>
-      <link>https://omaciel.github.io/tags/english-django-pylyglot-translations/</link>
+      <title>Heroku</title>
+      <link>https://omaciel.github.io/tags/heroku/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/heroku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>django</title>
+      <link>https://omaciel.github.io/tags/django/</link>
       <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/english-django-pylyglot-translations/</guid>
+      <guid>https://omaciel.github.io/tags/django/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>english, katello</title>
-      <link>https://omaciel.github.io/tags/english-katello/</link>
-      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
+      <title>pylyglot</title>
+      <link>https://omaciel.github.io/tags/pylyglot/</link>
+      <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/english-katello/</guid>
+      <guid>https://omaciel.github.io/tags/pylyglot/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>english, python, carolina</title>
-      <link>https://omaciel.github.io/tags/english-python-carolina/</link>
+      <title>carolina</title>
+      <link>https://omaciel.github.io/tags/carolina/</link>
       <pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/english-python-carolina/</guid>
+      <guid>https://omaciel.github.io/tags/carolina/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>katello, english</title>
-      <link>https://omaciel.github.io/tags/katello-english/</link>
-      <pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/katello-english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>podcast, castálio, ubuntu, mandriva</title>
-      <link>https://omaciel.github.io/tags/podcast-cast%C3%A1lio-ubuntu-mandriva/</link>
-      <pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/podcast-cast%C3%A1lio-ubuntu-mandriva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portuguese, ubuntu, mandriva, podcast, castálio</title>
-      <link>https://omaciel.github.io/tags/portuguese-ubuntu-mandriva-podcast-cast%C3%A1lio/</link>
-      <pubDate>Mon, 23 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/portuguese-ubuntu-mandriva-podcast-cast%C3%A1lio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>english, redhat, clojure, foresight linux, fedora, zite, flipboard, pandora, grooveshark, emacs</title>
-      <link>https://omaciel.github.io/tags/english-redhat-clojure-foresight-linux-fedora-zite-flipboard-pandora-grooveshark-emacs/</link>
+      <title>Clojure</title>
+      <link>https://omaciel.github.io/tags/clojure/</link>
       <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/english-redhat-clojure-foresight-linux-fedora-zite-flipboard-pandora-grooveshark-emacs/</guid>
+      <guid>https://omaciel.github.io/tags/clojure/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ubuntu, portuguese, mandriva, podcast, castálio</title>
-      <link>https://omaciel.github.io/tags/ubuntu-portuguese-mandriva-podcast-cast%C3%A1lio/</link>
-      <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
+      <title>fedora</title>
+      <link>https://omaciel.github.io/tags/fedora/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/ubuntu-portuguese-mandriva-podcast-cast%C3%A1lio/</guid>
+      <guid>https://omaciel.github.io/tags/fedora/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>podcast, ubuntu, portuguese, castálio, mandriva</title>
-      <link>https://omaciel.github.io/tags/podcast-ubuntu-portuguese-cast%C3%A1lio-mandriva/</link>
-      <pubDate>Mon, 25 Jun 2012 00:00:00 +0000</pubDate>
+      <title>flipboard</title>
+      <link>https://omaciel.github.io/tags/flipboard/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/podcast-ubuntu-portuguese-cast%C3%A1lio-mandriva/</guid>
+      <guid>https://omaciel.github.io/tags/flipboard/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Eclipse, Clojure, vim, repl, lein, Dropbox, english</title>
-      <link>https://omaciel.github.io/tags/eclipse-clojure-vim-repl-lein-dropbox-english/</link>
+      <title>foresight linux</title>
+      <link>https://omaciel.github.io/tags/foresight-linux/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/foresight-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zite</title>
+      <link>https://omaciel.github.io/tags/zite/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/zite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dropbox</title>
+      <link>https://omaciel.github.io/tags/dropbox/</link>
       <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/eclipse-clojure-vim-repl-lein-dropbox-english/</guid>
+      <guid>https://omaciel.github.io/tags/dropbox/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>podcast, castálio, portuguese</title>
-      <link>https://omaciel.github.io/tags/podcast-cast%C3%A1lio-portuguese/</link>
-      <pubDate>Sun, 13 May 2012 00:00:00 +0000</pubDate>
+      <title>Eclipse</title>
+      <link>https://omaciel.github.io/tags/eclipse/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/podcast-cast%C3%A1lio-portuguese/</guid>
+      <guid>https://omaciel.github.io/tags/eclipse/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>english, NC, politics</title>
-      <link>https://omaciel.github.io/tags/english-nc-politics/</link>
+      <title>lein</title>
+      <link>https://omaciel.github.io/tags/lein/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/lein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>repl</title>
+      <link>https://omaciel.github.io/tags/repl/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/repl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://omaciel.github.io/tags/vim/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NC</title>
+      <link>https://omaciel.github.io/tags/nc/</link>
       <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/english-nc-politics/</guid>
+      <guid>https://omaciel.github.io/tags/nc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Red Hat, english, portuguese, ubuntu</title>
-      <link>https://omaciel.github.io/tags/red-hat-english-portuguese-ubuntu/</link>
-      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <title>politics</title>
+      <link>https://omaciel.github.io/tags/politics/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/red-hat-english-portuguese-ubuntu/</guid>
+      <guid>https://omaciel.github.io/tags/politics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>portuguese, podcast, castálio, ubuntu</title>
-      <link>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio-ubuntu/</link>
-      <pubDate>Sun, 29 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio-ubuntu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>english, wordpress, python, PyPi, Github, Tumblr</title>
-      <link>https://omaciel.github.io/tags/english-wordpress-python-pypi-github-tumblr/</link>
+      <title>Github</title>
+      <link>https://omaciel.github.io/tags/github/</link>
       <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/english-wordpress-python-pypi-github-tumblr/</guid>
+      <guid>https://omaciel.github.io/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>portuguese, podcast, ubuntu</title>
-      <link>https://omaciel.github.io/tags/portuguese-podcast-ubuntu/</link>
-      <pubDate>Sun, 22 Apr 2012 00:00:00 +0000</pubDate>
+      <title>PyPi</title>
+      <link>https://omaciel.github.io/tags/pypi/</link>
+      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/portuguese-podcast-ubuntu/</guid>
+      <guid>https://omaciel.github.io/tags/pypi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>portuguese, castálio, podcast, ubuntu</title>
-      <link>https://omaciel.github.io/tags/portuguese-cast%C3%A1lio-podcast-ubuntu/</link>
-      <pubDate>Sun, 15 Apr 2012 00:00:00 +0000</pubDate>
+      <title>tumblr</title>
+      <link>https://omaciel.github.io/tags/tumblr/</link>
+      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/portuguese-cast%C3%A1lio-podcast-ubuntu/</guid>
+      <guid>https://omaciel.github.io/tags/tumblr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>english, quotes</title>
-      <link>https://omaciel.github.io/tags/english-quotes/</link>
+      <title>wordpress</title>
+      <link>https://omaciel.github.io/tags/wordpress/</link>
+      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quotes</title>
+      <link>https://omaciel.github.io/tags/quotes/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/english-quotes/</guid>
+      <guid>https://omaciel.github.io/tags/quotes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>castálio, podcast, portuguese, ubuntu</title>
-      <link>https://omaciel.github.io/tags/cast%C3%A1lio-podcast-portuguese-ubuntu/</link>
-      <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
+      <title>home office</title>
+      <link>https://omaciel.github.io/tags/home-office/</link>
+      <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/cast%C3%A1lio-podcast-portuguese-ubuntu/</guid>
+      <guid>https://omaciel.github.io/tags/home-office/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>english, books, nytimes</title>
-      <link>https://omaciel.github.io/tags/english-books-nytimes/</link>
+      <title>nytimes</title>
+      <link>https://omaciel.github.io/tags/nytimes/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/english-books-nytimes/</guid>
+      <guid>https://omaciel.github.io/tags/nytimes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>english, kindle, epub, mobi, ebook</title>
-      <link>https://omaciel.github.io/tags/english-kindle-epub-mobi-ebook/</link>
+      <title>ebook</title>
+      <link>https://omaciel.github.io/tags/ebook/</link>
       <pubDate>Wed, 28 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/english-kindle-epub-mobi-ebook/</guid>
+      <guid>https://omaciel.github.io/tags/ebook/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>portuguese, castálio, podcast</title>
-      <link>https://omaciel.github.io/tags/portuguese-cast%C3%A1lio-podcast/</link>
-      <pubDate>Sun, 18 Mar 2012 00:00:00 +0000</pubDate>
+      <title>epub</title>
+      <link>https://omaciel.github.io/tags/epub/</link>
+      <pubDate>Wed, 28 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/portuguese-cast%C3%A1lio-podcast/</guid>
+      <guid>https://omaciel.github.io/tags/epub/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>portuguese, Ubuntu, castálio, podcast</title>
-      <link>https://omaciel.github.io/tags/portuguese-ubuntu-cast%C3%A1lio-podcast/</link>
-      <pubDate>Mon, 20 Feb 2012 00:00:00 +0000</pubDate>
+      <title>kindle</title>
+      <link>https://omaciel.github.io/tags/kindle/</link>
+      <pubDate>Wed, 28 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/portuguese-ubuntu-cast%C3%A1lio-podcast/</guid>
+      <guid>https://omaciel.github.io/tags/kindle/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>english, tumblr, wordpress</title>
-      <link>https://omaciel.github.io/tags/english-tumblr-wordpress/</link>
-      <pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate>
+      <title>mobi</title>
+      <link>https://omaciel.github.io/tags/mobi/</link>
+      <pubDate>Wed, 28 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/english-tumblr-wordpress/</guid>
+      <guid>https://omaciel.github.io/tags/mobi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>portuguese, tumblr, wordpress</title>
-      <link>https://omaciel.github.io/tags/portuguese-tumblr-wordpress/</link>
-      <pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/portuguese-tumblr-wordpress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portuguese, podcast, castálio</title>
-      <link>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio/</link>
-      <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/portuguese-podcast-cast%C3%A1lio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portuguese, pessoal</title>
-      <link>https://omaciel.github.io/tags/portuguese-pessoal/</link>
+      <title>pessoal</title>
+      <link>https://omaciel.github.io/tags/pessoal/</link>
       <pubDate>Sat, 31 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/portuguese-pessoal/</guid>
+      <guid>https://omaciel.github.io/tags/pessoal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>rpath, red hat</title>
-      <link>https://omaciel.github.io/tags/rpath-red-hat/</link>
-      <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
+      <title>openbox</title>
+      <link>https://omaciel.github.io/tags/openbox/</link>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/rpath-red-hat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portuguese, castalio, podcast</title>
-      <link>https://omaciel.github.io/tags/portuguese-castalio-podcast/</link>
-      <pubDate>Mon, 17 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/portuguese-castalio-podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portuguese, podcast, castalio</title>
-      <link>https://omaciel.github.io/tags/portuguese-podcast-castalio/</link>
-      <pubDate>Mon, 05 Sep 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://omaciel.github.io/tags/portuguese-podcast-castalio/</guid>
+      <guid>https://omaciel.github.io/tags/openbox/</guid>
       <description></description>
     </item>
     
