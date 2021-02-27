@@ -64,8 +64,7 @@
       <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/looking-for-a-platform-engineer-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1392&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Looking!&amp;quot;][/caption]
-My employer is currently looking for a Platform Engineer to join our team at our new office in Raleigh, NC! We have a great team working on some really cool and bleeding edge technology here, so if you have significant system administration experience, and have experience creating and maintaining RPMs as well as understanding their dependencies, then you may consider us! Check the full description for this role here and feel free to shoot me your CV.</description>
+      <description>My employer is currently looking for a Platform Engineer to join our team at our new office in Raleigh, NC! We have a great team working on some really cool and bleeding edge technology here, so if you have significant system administration experience, and have experience creating and maintaining RPMs as well as understanding their dependencies, then you may consider us! Check the full description for this role here and feel free to shoot me your CV.</description>
     </item>
     
     <item>
@@ -74,8 +73,7 @@ My employer is currently looking for a Platform Engineer to join our team at our
       <pubDate>Fri, 25 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/feel-good-friday-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1379&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;180&amp;rdquo; caption=&amp;ldquo;Feel Good&amp;rdquo;][/caption]
-This is more of a &amp;ldquo;feel good&amp;rdquo; post, mostly for me! Through my life I have come across a fork on the road many times, and for the last 4+ years I have always chosen the path to the right. Even when the left side sometimes looked a bit more &amp;ldquo;paved&amp;rdquo; and less difficult to walk through, I still chose the right path! The reasons are many, but I think I can distill them into one single sentence: I believe!</description>
+      <description>This is more of a &amp;ldquo;feel good&amp;rdquo; post, mostly for me! Through my life I have come across a fork on the road many times, and for the last 4+ years I have always chosen the path to the right. Even when the left side sometimes looked a bit more &amp;ldquo;paved&amp;rdquo; and less difficult to walk through, I still chose the right path! The reasons are many, but I think I can distill them into one single sentence: I believe!</description>
     </item>
     
     <item>
@@ -84,9 +82,17 @@ This is more of a &amp;ldquo;feel good&amp;rdquo; post, mostly for me! Through m
       <pubDate>Wed, 09 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/foresight-linux-2-5-0-release-candidate-galore-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1363&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;Foresight Linux 2.5.0 RC&amp;rdquo;][/caption]
-It is with great pleasure that I announce the release of Foresight 2.5.0 RC! This time, we have updated images for GNOME, Xfce and KDE! Things are shaping up quite nicely and thanks to all the feedback we&amp;rsquo;ve received from our users, we should be releasing our GA images pretty soon!
+      <description>It is with great pleasure that I announce the release of Foresight 2.5.0 RC! This time, we have updated images for GNOME, Xfce and KDE! Things are shaping up quite nicely and thanks to all the feedback we&amp;rsquo;ve received from our users, we should be releasing our GA images pretty soon!
 Well known for being a desktop operating system featuring an intuitive user interface and a showcase of the latest desktop software, this new release brings you the latest GNOME 2.</description>
+    </item>
+    
+    <item>
+      <title>Life at rPath: 4&#43; Years And Counting</title>
+      <link>https://omaciel.github.io/posts/life-at-rpath-4-years-and-counting-/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/life-at-rpath-4-years-and-counting-/</guid>
+      <description>It was around the end of 2006. Having spent most of my life living in the New Jersey - New York axis and close to my family, I bought a one-way ticket to RDU, packed my bag (yeah, one bag) and came down to North Carolina looking for a new job. Leaving my wife (who was expecting our second child) and young daughter while I went &amp;ldquo;job spelunking&amp;rdquo; wasn&amp;rsquo;t easy for me, but I was determined to quit the rat race once and for all!</description>
     </item>
     
     <item>
@@ -105,8 +111,7 @@ Once again, this alpha release is from our QA branch, and is intended mostly to 
       <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/disappointed-with-dreamhost-private-server-service-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1304&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Sad Face&amp;rdquo;][/caption]
-This year I decided to do something I&amp;rsquo;ve wanted to do for a very long time: get my own private Linux server! A place where I could have total control (i.e. root access) and be able to install or run anything I wanted! Better yet, I wanted a conary managed system that could leverage all the packaging that I have already done for Foresight Linux and be dead simple to maintain!</description>
+      <description>This year I decided to do something I&amp;rsquo;ve wanted to do for a very long time: get my own private Linux server! A place where I could have total control (i.e. root access) and be able to install or run anything I wanted! Better yet, I wanted a conary managed system that could leverage all the packaging that I have already done for Foresight Linux and be dead simple to maintain!</description>
     </item>
     
     <item>
@@ -124,7 +129,7 @@ This year I decided to do something I&amp;rsquo;ve wanted to do for a very long 
       <pubDate>Tue, 30 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/when-hard-work-pays-off-rbuilder-5-8-for-linux-and-windo-/</guid>
-      <description>It&amp;rsquo;s been a while since I last wrote anything here, mainly because I have been working very hard on a very cool project for work that I can now finally talk about it. `rPath &amp;lt;http://www.rpath.com&amp;gt;`__, the place where I have been working for the last 4+ years has just announced the release of rBuilder 5.8, bringing &amp;ldquo;model-driven, version-controlled system automation deeper into the enterprise with active inventory management and support for Windows&amp;rdquo;.</description>
+      <description>It&amp;rsquo;s been a while since I last wrote anything here, mainly because I have been working very hard on a very cool project for work that I can now finally talk about it. rPath, the place where I have been working for the last 4+ years has just announced the release of rBuilder 5.8, bringing &amp;ldquo;model-driven, version-controlled system automation deeper into the enterprise with active inventory management and support for Windows&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -143,9 +148,8 @@ This year I decided to do something I&amp;rsquo;ve wanted to do for a very long 
       <pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/announcing-foresight-based-django-developer-kit-applianc-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1194&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Foresight Linux based Django Developer Kit Appliance&amp;rdquo;][/caption]
-If you remember one of my last posts, I wanted to eventually migrate my Django Developer Kit Appliance to use Foresight Linux as the underlying operating system&amp;hellip; and I am proud to announce that I have made huge strides toward this goal!
-Thanks to the guidance of some fellow rPathians, I managed to get an almost ready for production Django 1.</description>
+      <description>If you remember one of my last posts, I wanted to eventually migrate my Django Developer Kit Appliance to use Foresight Linux as the underlying operating system&amp;hellip; and I am proud to announce that I have made huge strides toward this goal!
+Thanks to the guidance of some fellow rPathians, I managed to get an almost ready for production Django 1.2.3 + PostgreSQL 8.4 + Python 2.6.2 and lots of Django modules and latest versions for Git, Mercurial, Bzr, and Subversion ready to be used!</description>
     </item>
     
     <item>
@@ -154,8 +158,7 @@ Thanks to the guidance of some fellow rPathians, I managed to get an almost read
       <pubDate>Sat, 11 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/django-devel-kit-appliance-1-2-3-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1191&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Oops!&amp;quot;][/caption]
-No, this is not a repeat from yesterday&amp;rsquo;s post. Turns out there was another security release for Django yesterday (thanks Zygmunt for the heads up), so here&amp;rsquo;s the release of ï»¿Django Developer Kit Appliance 1.2.3.
+      <description>No, this is not a repeat from yesterday&amp;rsquo;s post. Turns out there was another security release for Django yesterday (thanks Zygmunt for the heads up), so here&amp;rsquo;s the release of Django Developer Kit Appliance 1.2.3.
 As always, choose from the following image types:
  Amazon EC2 AMI Large (ami-ba996cd3) Amazon EC2 AMI Small (ami-a0996cc9) ISO x86 (SHA1 11811571ee8f8f2a0d7778c9e4275060de73f271) ISO x86_64 (SHA1 065b1c5dfa410cffeec9950d577cddd15f369bad) Raw Filesystem x86 (SHA1 141427d7c84449ccc7eacbee7d527b8ba6f7ca48) Raw Filesystem x86_64 (SHA1 482ecbbd2c177e3fdc33b18dc0ee65c83d681956) VMware ESX x86 (SHA1 10757fd1f0ec119fe236f3402bf38dfde25cb40a) VMware ESX x86 OVF 1.</description>
     </item>
@@ -166,9 +169,17 @@ As always, choose from the following image types:
       <pubDate>Fri, 10 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/django-developer-kit-appliance-1-2-2-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1188&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Foresight Django Pony&amp;rdquo;][/caption]
-Today I&amp;rsquo;m releasing my ï»¿Django Developer Kit Appliance 1.2.2 due to the recent security release of Django 1.2.2. Other than a newer version of Django, you&amp;rsquo;ll also get newer versions of several packages already included by default in the appliance.
-I have been working hard (time permitting, off course) on migrating the appliance to a slim Foresight Linux base in order to upgrade the underlying python from 2.</description>
+      <description>Today I&amp;rsquo;m releasing my Django Developer Kit Appliance 1.2.2 due to the recent security release of Django 1.2.2. Other than a newer version of Django, you&amp;rsquo;ll also get newer versions of several packages already included by default in the appliance.
+I have been working hard (time permitting, off course) on migrating the appliance to a slim Foresight Linux base in order to upgrade the underlying python from 2.4 to latest 2.</description>
+    </item>
+    
+    <item>
+      <title>Running On Empty</title>
+      <link>https://omaciel.github.io/posts/running-on-empty-/</link>
+      <pubDate>Thu, 26 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/running-on-empty-/</guid>
+      <description>This post has been sitting in my Drafts folder for a while now, as I wasn&amp;rsquo;t sure when the right time would be to publish it. It is basically my personal reflection on the last 5 years I have worked doing translations for free and open source software (FOSS) and a few lessons I learned along the way. It is also a rant against those who took my labor for granted.</description>
     </item>
     
     <item>
@@ -177,8 +188,7 @@ I have been working hard (time permitting, off course) on migrating the applianc
       <pubDate>Tue, 17 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/translations-xfce-org-is-1-year-old-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1176&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Happy Birthday&amp;rdquo;][/caption]
-Received the following email this morning:
+      <description>Received the following email this morning:
  Last night our Transifex installation turned 1 year old. I think with 101 users and 4012 submissions in 45 languages it has been quite a step forward compared to the previous mailing list-based submission system. For that I&#39;d like to thank all the people involved, most noticeably Jannis for the initial setup, the Transifex guys for help and fixing bugs, Og for the appliance we&#39;ve been running for the last half year and of course the Translators with all their patience and effort to make it a success.</description>
     </item>
     

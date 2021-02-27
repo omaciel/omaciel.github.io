@@ -110,38 +110,32 @@ SystemGroupAPI</p>
 the &ldquo;<strong>ACME_Corporation</strong>&rdquo; that gets automatically created for a
 default installation:</p>
 <p> </p>
-<blockquote>
-<p>organization_api = OrganizationAPI()</p>
-<p>org = organization_api.organization('ACME_Corporation') print org
-{u&rsquo;apply_info_task_id': None, u&rsquo;created_at': u'2013-09-12T20:15:06Z',
-u&rsquo;default_info': {u&rsquo;distributor': [], u&rsquo;system': []},
-u&rsquo;deletion_task_id': None, u&rsquo;description': u&rsquo;ACME_Corporation
-Organization', u&rsquo;id': 1, u&rsquo;label': u&rsquo;ACME_Corporation', u&rsquo;name':
-u&rsquo;ACME_Corporation', u&rsquo;owner_auto_attach_all_systems_task_id': None,
-u&rsquo;service_level': None, u&rsquo;service_levels': [], u&rsquo;updated_at':
-u'2013-09-12T20:15:06Z'}</p>
-</blockquote>
-<p>|</p>
-<p>Lastly, let&rsquo;s create a brand new organization:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">&gt; organization_api <span style="color:#f92672">=</span> OrganizationAPI<span style="color:#f92672">()</span>
+&gt;
+&gt; org <span style="color:#f92672">=</span> organization_api.organization<span style="color:#f92672">(</span><span style="color:#ae81ff">\&#39;</span>ACME_Corporation<span style="color:#ae81ff">\&#39;</span><span style="color:#f92672">)</span> print org
+&gt; <span style="color:#f92672">{</span>u<span style="color:#e6db74">&#39;apply_info_task_id&#39;</span>: None, u<span style="color:#e6db74">&#39;created_at&#39;</span>: u<span style="color:#e6db74">&#39;2013-09-12T20:15:06Z&#39;</span>,
+&gt; u<span style="color:#e6db74">&#39;default_info&#39;</span>: <span style="color:#f92672">{</span>u<span style="color:#e6db74">&#39;distributor&#39;</span>: <span style="color:#ae81ff">\[\]</span>, u<span style="color:#e6db74">&#39;system&#39;</span>: <span style="color:#ae81ff">\[\]</span><span style="color:#f92672">}</span>,
+&gt; u<span style="color:#e6db74">&#39;deletion_task_id&#39;</span>: None, u<span style="color:#e6db74">&#39;description&#39;</span>: u<span style="color:#e6db74">&#39;ACME_Corporation
+</span><span style="color:#e6db74">&gt; Organization&#39;</span>, u<span style="color:#e6db74">&#39;id&#39;</span>: 1, u<span style="color:#e6db74">&#39;label&#39;</span>: u<span style="color:#e6db74">&#39;ACME_Corporation&#39;</span>, u<span style="color:#e6db74">&#39;name&#39;</span>:
+&gt; u<span style="color:#e6db74">&#39;ACME_Corporation&#39;</span>, u<span style="color:#e6db74">&#39;owner_auto_attach_all_systems_task_id&#39;</span>: None,
+&gt; u<span style="color:#e6db74">&#39;service_level&#39;</span>: None, u<span style="color:#e6db74">&#39;service_levels&#39;</span>: <span style="color:#ae81ff">\[\]</span>, u<span style="color:#e6db74">&#39;updated_at&#39;</span>:
+&gt; u<span style="color:#e6db74">&#39;2013-09-12T20:15:06Z&#39;</span><span style="color:#f92672">}</span>
+</code></pre></div><p>Lastly, let&rsquo;s create a brand new organization:</p>
 <p> </p>
-<blockquote>
-<p>new_org = organization_api.create(name='New Org', label='new-org',
-description='Created via API') print new_org {u&rsquo;apply_info_task_id':
-None, u&rsquo;created_at': u'2013-09-12T21:48:55Z', u&rsquo;default_info':
-{u&rsquo;distributor': [], u&rsquo;system': []}, u&rsquo;deletion_task_id': None,
-u&rsquo;description': u&rsquo;Created via API', u&rsquo;id': 283, u&rsquo;label': u&rsquo;new-org',
-u&rsquo;name': u&rsquo;New Org', u&rsquo;owner_auto_attach_all_systems_task_id': None,
-u&rsquo;service_level': None, u&rsquo;service_levels': [], u&rsquo;updated_at':
-u'2013-09-12T21:48:55Z'}</p>
-</blockquote>
-<p>|</p>
-<p>As you can see, it is pretty straight forward to use python to create
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">&gt; new_org <span style="color:#f92672">=</span> organization_api.create<span style="color:#f92672">(</span>name<span style="color:#f92672">=</span><span style="color:#ae81ff">\&#39;</span>New Org<span style="color:#ae81ff">\&#39;</span>, label<span style="color:#f92672">=</span><span style="color:#ae81ff">\&#39;</span>new-org<span style="color:#ae81ff">\&#39;</span>,
+&gt; description<span style="color:#f92672">=</span><span style="color:#ae81ff">\&#39;</span>Created via API<span style="color:#ae81ff">\&#39;</span><span style="color:#f92672">)</span> print new_org <span style="color:#f92672">{</span>u<span style="color:#e6db74">&#39;apply_info_task_id&#39;</span>:
+&gt; None, u<span style="color:#e6db74">&#39;created_at&#39;</span>: u<span style="color:#e6db74">&#39;2013-09-12T21:48:55Z&#39;</span>, u<span style="color:#e6db74">&#39;default_info&#39;</span>:
+&gt; <span style="color:#f92672">{</span>u<span style="color:#e6db74">&#39;distributor&#39;</span>: <span style="color:#ae81ff">\[\]</span>, u<span style="color:#e6db74">&#39;system&#39;</span>: <span style="color:#ae81ff">\[\]</span><span style="color:#f92672">}</span>, u<span style="color:#e6db74">&#39;deletion_task_id&#39;</span>: None,
+&gt; u<span style="color:#e6db74">&#39;description&#39;</span>: u<span style="color:#e6db74">&#39;Created via API&#39;</span>, u<span style="color:#e6db74">&#39;id&#39;</span>: 283, u<span style="color:#e6db74">&#39;label&#39;</span>: u<span style="color:#e6db74">&#39;new-org&#39;</span>,
+&gt; u<span style="color:#e6db74">&#39;name&#39;</span>: u<span style="color:#e6db74">&#39;New Org&#39;</span>, u<span style="color:#e6db74">&#39;owner_auto_attach_all_systems_task_id&#39;</span>: None,
+&gt; u<span style="color:#e6db74">&#39;service_level&#39;</span>: None, u<span style="color:#e6db74">&#39;service_levels&#39;</span>: <span style="color:#ae81ff">\[\]</span>, u<span style="color:#e6db74">&#39;updated_at&#39;</span>:
+&gt; u<span style="color:#e6db74">&#39;2013-09-12T21:48:55Z&#39;</span><span style="color:#f92672">}</span>
+</code></pre></div><p>As you can see, it is pretty straight forward to use python to create
 some useful scripts to drive a Katello server, whether you want to
 populate it with a pre-defined set of data (e.g. default users, roles,
 permissions, organizations, content, etc) or to test core functionality
 as I do with <a href="https://github.com/omaciel/mangonel">Mangonel</a>, my pet
 project.</p>
-<p> </p>
 <p>Here&rsquo;s a <a href="https://gist.github.com/anonymous/71c0527841d30b80424b">Gist</a>
 of the code mentioned in this post, and let me know if this was useful
 to you.</p>

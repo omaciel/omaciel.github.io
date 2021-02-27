@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transifex on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/transifex/</link>
+    <description>Recent content in transifex on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Oct 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/transifex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transifex Appliance 1.0 (Proteus) Release</title>
+      <link>https://omaciel.github.io/posts/transifex-appliance-1-0-proteus-release-/</link>
+      <pubDate>Fri, 15 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/transifex-appliance-1-0-proteus-release-/</guid>
+      <description>A newer version of the Transifex Appliance has been released with all the latest, juicy bits! In fact, this release is the mother of all releases with so many new features and goodies that it would take me a while to jot them down here! A few impressive nuggets are:
+ Brand New Translation Storage Engine QT (TS) translation file format support Source language file tracking over HTTP Translation file metadata auto-updating Clone language Non-English Source Languages Lotte: Multiple Source Languages, Suggestions, Keyboard Shortcuts, Translation Memory Application Programmable Interface  Can you believe that Transifex has reached the 1.</description>
+    </item>
+    
+  </channel>
+</rss>

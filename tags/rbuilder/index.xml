@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rbuilder on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/rbuilder/</link>
+    <description>Recent content in rbuilder on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Nov 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/rbuilder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When Hard Work Pays Off: rBuilder 5.8 for Linux and Windows</title>
+      <link>https://omaciel.github.io/posts/when-hard-work-pays-off-rbuilder-5-8-for-linux-and-windo-/</link>
+      <pubDate>Tue, 30 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/when-hard-work-pays-off-rbuilder-5-8-for-linux-and-windo-/</guid>
+      <description>It&amp;rsquo;s been a while since I last wrote anything here, mainly because I have been working very hard on a very cool project for work that I can now finally talk about it. rPath, the place where I have been working for the last 4+ years has just announced the release of rBuilder 5.8, bringing &amp;ldquo;model-driven, version-controlled system automation deeper into the enterprise with active inventory management and support for Windows&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

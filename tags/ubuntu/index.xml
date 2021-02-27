@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ubuntu on Og Maciel&#39;s Journal</title>
+    <title>ubuntu on Og Maciel&#39;s Journal</title>
     <link>https://omaciel.github.io/tags/ubuntu/</link>
-    <description>Recent content in Ubuntu on Og Maciel&#39;s Journal</description>
+    <description>Recent content in ubuntu on Og Maciel&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Sep 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
@@ -241,6 +241,18 @@ A história do Ubuntero me lembra um pouco a história do BR-Linux, começando c
       
       <guid>https://omaciel.github.io/posts/castalio-podcast-rodrigo-belem-ubuntu-brasil-/</guid>
       <description>Olá pessoal e sejam mais uma vez muito bem-vindos a mais um novo episódio, este comemorando nosso primeiro ano no ar! Aproveitei a oportunidade então para dar o pontapé inicial em uma nova série, desta vez focada na criação do Ubuntu Brasil!!! Ame-a ou não, a distribuição Ubuntu teve uma história meteórica dentre os usuários de Linux brasileiros, e hoje em dia ainda continua liderando dentre as distribuições mais usadas no país.</description>
+    </item>
+    
+    <item>
+      <title>Ending Another Chapter</title>
+      <link>https://omaciel.github.io/posts/ending-another-chapter-/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/ending-another-chapter-/</guid>
+      <description>Woke up this morning to find the following email in my inbox:
+Renew membership of Og Maciel in Ubuntu Members
+It&amp;rsquo;s been a while since I last thought about this membership so this email had me thinking for a bit. Ubuntu is where everything started for me, and even though I have not seen eye to eye with Canonical, I harbor no ill feelings toward the distribution itself.
+So for the last 5 years I&amp;rsquo;ve been associated with the Ubuntu ecosystems and dedicated a large chunk of my time trying to get the distro properly translated into Brazilian Portuguese and doing a lot of advocating along the way.</description>
     </item>
     
   </channel>

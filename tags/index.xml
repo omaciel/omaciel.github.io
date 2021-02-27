@@ -881,7 +881,7 @@
     </item>
     
     <item>
-      <title>Ubuntu</title>
+      <title>ubuntu</title>
       <link>https://omaciel.github.io/tags/ubuntu/</link>
       <pubDate>Mon, 09 Sep 2013 00:00:00 +0000</pubDate>
       
@@ -1043,7 +1043,7 @@
     </item>
     
     <item>
-      <title>EC2</title>
+      <title>ec2</title>
       <link>https://omaciel.github.io/tags/ec2/</link>
       <pubDate>Fri, 30 Nov 2012 00:00:00 +0000</pubDate>
       
@@ -1322,11 +1322,56 @@
     </item>
     
     <item>
-      <title>castalio, podcast, yuri malheiros</title>
-      <link>https://omaciel.github.io/tags/castalio-podcast-yuri-malheiros/</link>
+      <title>gnome foundation</title>
+      <link>https://omaciel.github.io/tags/gnome-foundation/</link>
+      <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/gnome-foundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>irani de castro</title>
+      <link>https://omaciel.github.io/tags/irani-de-castro/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/irani-de-castro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yuri malheiros</title>
+      <link>https://omaciel.github.io/tags/yuri-malheiros/</link>
       <pubDate>Mon, 30 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/castalio-podcast-yuri-malheiros/</guid>
+      <guid>https://omaciel.github.io/tags/yuri-malheiros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book expo america</title>
+      <link>https://omaciel.github.io/tags/book-expo-america/</link>
+      <pubDate>Mon, 23 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/book-expo-america/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>django devkit appliance</title>
+      <link>https://omaciel.github.io/tags/django-devkit-appliance/</link>
+      <pubDate>Sat, 21 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/django-devkit-appliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gnome board of directors</title>
+      <link>https://omaciel.github.io/tags/gnome-board-of-directors/</link>
+      <pubDate>Wed, 11 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/gnome-board-of-directors/</guid>
       <description></description>
     </item>
     
@@ -1340,11 +1385,173 @@
     </item>
     
     <item>
-      <title>rpath, north carolina, chapel hill, weaver street market, conary</title>
-      <link>https://omaciel.github.io/tags/rpath-north-carolina-chapel-hill-weaver-street-market-conary/</link>
+      <title>foresight</title>
+      <link>https://omaciel.github.io/tags/foresight/</link>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/foresight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>packagekit</title>
+      <link>https://omaciel.github.io/tags/packagekit/</link>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/packagekit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>banshee</title>
+      <link>https://omaciel.github.io/tags/banshee/</link>
+      <pubDate>Wed, 06 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/banshee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chapel hill</title>
+      <link>https://omaciel.github.io/tags/chapel-hill/</link>
       <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://omaciel.github.io/tags/rpath-north-carolina-chapel-hill-weaver-street-market-conary/</guid>
+      <guid>https://omaciel.github.io/tags/chapel-hill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conary</title>
+      <link>https://omaciel.github.io/tags/conary/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/conary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>north carolina</title>
+      <link>https://omaciel.github.io/tags/north-carolina/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/north-carolina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>souschef</title>
+      <link>https://omaciel.github.io/tags/souschef/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/souschef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weaver street market</title>
+      <link>https://omaciel.github.io/tags/weaver-street-market/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/weaver-street-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>barrabin barrabash</title>
+      <link>https://omaciel.github.io/tags/barrabin-barrabash/</link>
+      <pubDate>Fri, 25 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/barrabin-barrabash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>creative commons</title>
+      <link>https://omaciel.github.io/tags/creative-commons/</link>
+      <pubDate>Fri, 11 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/creative-commons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dreamhost</title>
+      <link>https://omaciel.github.io/tags/dreamhost/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/dreamhost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>billreminder</title>
+      <link>https://omaciel.github.io/tags/billreminder/</link>
+      <pubDate>Fri, 31 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/billreminder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rbuilder</title>
+      <link>https://omaciel.github.io/tags/rbuilder/</link>
+      <pubDate>Tue, 30 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/rbuilder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>boston summit</title>
+      <link>https://omaciel.github.io/tags/boston-summit/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/boston-summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transifex</title>
+      <link>https://omaciel.github.io/tags/transifex/</link>
+      <pubDate>Fri, 15 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/transifex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canonical</title>
+      <link>https://omaciel.github.io/tags/canonical/</link>
+      <pubDate>Fri, 17 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/canonical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>django developer kit</title>
+      <link>https://omaciel.github.io/tags/django-developer-kit/</link>
+      <pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/django-developer-kit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brazil</title>
+      <link>https://omaciel.github.io/tags/brazil/</link>
+      <pubDate>Thu, 05 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/brazil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coffee</title>
+      <link>https://omaciel.github.io/tags/coffee/</link>
+      <pubDate>Tue, 29 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/tags/coffee/</guid>
       <description></description>
     </item>
     

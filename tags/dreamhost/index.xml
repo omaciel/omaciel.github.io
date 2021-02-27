@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dreamhost on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/dreamhost/</link>
+    <description>Recent content in dreamhost on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Jan 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/dreamhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disappointed With Dreamhost Private Server Service</title>
+      <link>https://omaciel.github.io/posts/disappointed-with-dreamhost-private-server-service-/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/disappointed-with-dreamhost-private-server-service-/</guid>
+      <description>This year I decided to do something I&amp;rsquo;ve wanted to do for a very long time: get my own private Linux server! A place where I could have total control (i.e. root access) and be able to install or run anything I wanted! Better yet, I wanted a conary managed system that could leverage all the packaging that I have already done for Foresight Linux and be dead simple to maintain!</description>
+    </item>
+    
+  </channel>
+</rss>

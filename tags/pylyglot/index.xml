@@ -18,5 +18,44 @@ The reasons for the long hiatus are too many to enumerate, but suffice to say th
 So, what&amp;rsquo;s new?</description>
     </item>
     
+    <item>
+      <title>Helping the Belarusian and Esperanto Translations</title>
+      <link>https://omaciel.github.io/posts/helping-the-belarusian-and-esperanto-translations-/</link>
+      <pubDate>Sun, 10 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/helping-the-belarusian-and-esperanto-translations-/</guid>
+      <description>Thanks to comments by booxter and Patrick Niedzielski, I have added support for 2 more languages to Pylyglot: Belarusian and Esperanto! So far I had been adding languages according to their translation percentage, starting from the top and slowly moving down the list, but it probably makes sense to add some of the languages that need a bit of help catching up with the other teams and provide them with a means to check their standardization.</description>
+    </item>
+    
+    <item>
+      <title>Pylyglot, Now With More Translations</title>
+      <link>https://omaciel.github.io/posts/pylyglot-now-with-more-translations-/</link>
+      <pubDate>Fri, 08 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/pylyglot-now-with-more-translations-/</guid>
+      <description>What a difference a day makes! Thanks to some feedback I got both here and in private, and thanks to a contributor with some extra free cycles at hand, Pylyglot got anotherÂ face liftÂ today.
+So what&amp;rsquo;s new? There are now 245 total packages and 3,165,335 translations from yesterday&amp;rsquo;s 61 packages and 954,884 translations! You can also now link to a query using the resulting url from your searches using the format language=FOO&amp;amp;query=BAR, where FOO is the language&amp;rsquo;s ISO code and BAR is the term you&amp;rsquo;re searching.</description>
+    </item>
+    
+    <item>
+      <title>Pylyglot, Now With More Languages</title>
+      <link>https://omaciel.github.io/posts/pylyglot-now-with-more-languages-/</link>
+      <pubDate>Thu, 07 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/pylyglot-now-with-more-languages-/</guid>
+      <description>Managed to update Pylyglot, my Django-based translations tool to include 22 new languages and the very latest GNOME 3.0 packages. Hope you guys find it useful!
+ Languages: 52 Packages: 61 Translations: 954,884  </description>
+    </item>
+    
+    <item>
+      <title>Pylyglot</title>
+      <link>https://omaciel.github.io/posts/pylyglot-/</link>
+      <pubDate>Sun, 26 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/pylyglot-/</guid>
+      <description>Been working on a pet project to help out with theÂ GNOME translations (as well as have a chance to learn more about Django) and the end product is now available at www.pylyglot.org. Basically, it is a database of all strings from all available GNOME packages parsed to (hopefully) help open source translators with their effort by providing suggestions based on existing translations.
+But wait, there&amp;rsquo;s more! Since the entire collection of GNOME packages is available for your perusal, you can check how a certain word was translated across all packages and use this information to standardize the translation for the entire project.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -13,8 +13,8 @@
       <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/emacs-rope-for-python-development-/</guid>
-      <description>*Disclaimer: This is more of a note for myself than a proper tutorial or howto, so I make no promises that this will work for you. The setup used through this post was a Mac OS laptop upgraded to the very latest version of the OS.*
-Ever since I started doing Python development using Emacs, I have unsuccessfully tried to configure `Rope &amp;lt;http://rope.sourceforge.net/&amp;gt;`__,&amp;quot;a python refactoring library&amp;quot;&amp;hellip; until last Friday. Turns out I wasn&amp;rsquo;t too far off the mark during the many iterations I went through to get it done, but the following post was tremendously helpful to me: http://www.</description>
+      <description>Disclaimer: This is more of a note for myself than a proper tutorial or howto, so I make no promises that this will work for you. The setup used through this post was a Mac OS laptop upgraded to the very latest version of the OS.
+Ever since I started doing Python development using Emacs, I have unsuccessfully tried to configure Rope, &amp;ldquo;a python refactoring library&amp;rdquo;&amp;hellip; until last Friday. Turns out I wasn&amp;rsquo;t too far off the mark during the many iterations I went through to get it done, but the following post was tremendously helpful to me: http://www.</description>
     </item>
     
   </channel>

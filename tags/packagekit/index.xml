@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>packagekit on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/packagekit/</link>
+    <description>Recent content in packagekit on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Apr 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/packagekit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PackageKit Progress on Foresight</title>
+      <link>https://omaciel.github.io/posts/packagekit-progress-on-foresight-/</link>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/packagekit-progress-on-foresight-/</guid>
+      <description>For a while Foresight Linux users had no graphical interface for managing their systems packages and/or updates, mainly because the development for the conary backend fell out of scope and our radar (this is a nicer way to say that we didn&amp;rsquo;t have someone to maintain it). But thanks to the work of zodman, jesse and others PackageKit is making its way back to our desktop.
+[caption id=&amp;ldquo;attachment_1395&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;296&amp;rdquo; caption=&amp;ldquo;Available updates&amp;rdquo;][/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

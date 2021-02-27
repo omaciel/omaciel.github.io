@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>billreminder on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/billreminder/</link>
+    <description>Recent content in billreminder on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Dec 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/billreminder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BillReminder &#34;Keep Their Heads Ringing&#34; Released</title>
+      <link>https://omaciel.github.io/posts/billreminder-e2-80-9ckeep-their-heads-ringing-e2-80-9d-/</link>
+      <pubDate>Fri, 31 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/billreminder-e2-80-9ckeep-their-heads-ringing-e2-80-9d-/</guid>
+      <description>Just in time before the new year, it is with great pleasure that I announce the release of BillReminder &amp;ldquo;Keep Their Heads Ringing&amp;quot; 0.4.0 after a 27-month hiatus! During this period I tried many different approaches and techniques to both improve the user interface as well as the overall experience. Many of the &amp;ldquo;core&amp;rdquo; changes were performed only to satisfy my own curiosity and experimentation with other technologies out there, but overall you should have a good time playing with it.</description>
+    </item>
+    
+  </channel>
+</rss>

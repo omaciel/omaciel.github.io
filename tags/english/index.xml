@@ -339,8 +339,7 @@ About 6 months ago the need to scratch this itch came back in full power, and th
       <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/podcast-igor-pires-soares-fedora-project-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_52&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;250&amp;rdquo; caption=&amp;ldquo;Igor Soares - Projeto Fedora&amp;rdquo;][/caption]
-I had a chance to interview Igor Pires Soares from the Fedora Project and chat about how he got started with translations, participating on several organizing committees and his travels around the world! He talks about getting lost in Chile, learning English and Spanish, the role his university played on his career, his top 5 books, movies and his interest in music, including a very special moment during a U2 show in São Paulo.</description>
+      <description>I had a chance to interview Igor Pires Soares from the Fedora Project and chat about how he got started with translations, participating on several organizing committees and his travels around the world! He talks about getting lost in Chile, learning English and Spanish, the role his university played on his career, his top 5 books, movies and his interest in music, including a very special moment during a U2 show in São Paulo.</description>
     </item>
     
     <item>
@@ -349,11 +348,10 @@ I had a chance to interview Igor Pires Soares from the Fedora Project and chat a
       <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/gnome-foundation-irc-meeting-june-15th-2011-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_379&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;IRC Meeting&amp;rdquo;][/caption]
-Howdy fellow GNOMErs!
+      <description>Howdy fellow GNOMErs!
 I&amp;rsquo;d like to invite you all to join us once again for another GNOME Foundation IRC Meeting!
  When: Wednesday, June 15th, from 14:00 to 15:00 UTC (your local time) Where: irc.gnome.org, #foundation
- Foundation IRC meetings are just that, meetings held on #foundation in irc.gimp.org to discuss current matters related to the GNOME Foundation. Any GNOME Foundation member or non member are welcome.</description>
+ Foundation IRC meetings are just that, meetings held on #foundation in irc.gimp.org to discuss current matters related to the GNOME Foundation. Any GNOME Foundation member or non member are welcome. As long as you contribute positively to the discussion you are welcome.</description>
     </item>
     
     <item>
@@ -362,8 +360,7 @@ I&amp;rsquo;d like to invite you all to join us once again for another GNOME Fou
       <pubDate>Fri, 27 May 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/20-years-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;Bufflehead by mikebaird&amp;rdquo;][/caption]
-Tomorrow marks the 20th year that I have been living in the United States. Not to use an old cliché, but it definitely feels like it wasn&amp;rsquo;t too long ago that I embarked on the greatest and most dramatic adventure of my life: at the young age of 16 (only a handful of weeks shy of my 17th birthday) I said goodbye to most of my friends back in the small town of Conceição da Barra, Brazil and got on a plane with my youngest sister bound to New York City.</description>
+      <description>Tomorrow marks the 20th year that I have been living in the United States. Not to use an old cliché, but it definitely feels like it wasn&amp;rsquo;t too long ago that I embarked on the greatest and most dramatic adventure of my life: at the young age of 16 (only a handful of weeks shy of my 17th birthday) I said goodbye to most of my friends back in the small town of Conceição da Barra, Brazil and got on a plane with my youngest sister bound to New York City.</description>
     </item>
     
     <item>
@@ -372,8 +369,7 @@ Tomorrow marks the 20th year that I have been living in the United States. Not t
       <pubDate>Mon, 23 May 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/book-expo-america-2011-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;173&amp;rdquo; caption=&amp;ldquo;BookExpo America&amp;rdquo;][/caption]
-Taking a day off tomorrow to fly to NYC with my oldest daughter so we can both attend this year&amp;rsquo;s Book Expo America (BEA) at the Javits Center. We&amp;rsquo;re both very excited about this chance of seeing so many books and the possibility of meeting some of the authors, such as Mo Willems! Unfortunately I&amp;rsquo;m going to miss meeting James Dashner as he&amp;rsquo;s scheduled to give out sample chapters of his upcoming book only on Wednesday.</description>
+      <description>Taking a day off tomorrow to fly to NYC with my oldest daughter so we can both attend this year&amp;rsquo;s Book Expo America (BEA) at the Javits Center. We&amp;rsquo;re both very excited about this chance of seeing so many books and the possibility of meeting some of the authors, such as Mo Willems! Unfortunately I&amp;rsquo;m going to miss meeting James Dashner as he&amp;rsquo;s scheduled to give out sample chapters of his upcoming book only on Wednesday.</description>
     </item>
     
     <item>
@@ -382,8 +378,7 @@ Taking a day off tomorrow to fly to NYC with my oldest daughter so we can both a
       <pubDate>Sat, 21 May 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/django-devkit-appliance-1-3-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_853&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Django&amp;rdquo;][/caption]
-It&amp;rsquo;s been a while since I pimped my Django Dev Kit Appliance, mostly because I have been really busy with work, projects and my kid&amp;rsquo;s end of the school year. Anyhow, I rebuilt the appliance to use the latest Django 1.3 release plus several other updated packages such as git and mercurial. I have also stopped building Amazon EC2 images and will from now on only provide ISOs and Raw Filesystem images.</description>
+      <description>It&amp;rsquo;s been a while since I pimped my Django Dev Kit Appliance, mostly because I have been really busy with work, projects and my kid&amp;rsquo;s end of the school year. Anyhow, I rebuilt the appliance to use the latest Django 1.3 release plus several other updated packages such as git and mercurial. I have also stopped building Amazon EC2 images and will from now on only provide ISOs and Raw Filesystem images.</description>
     </item>
     
     <item>
@@ -392,8 +387,7 @@ It&amp;rsquo;s been a while since I pimped my Django Dev Kit Appliance, mostly b
       <pubDate>Wed, 11 May 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/gnome-board-of-directors-elections-2011-/</guid>
-      <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;356&amp;rdquo; caption=&amp;ldquo;By Gwen&amp;rsquo;s River City Images&amp;rdquo;][/caption]
-I can&amp;rsquo;t believe it&amp;rsquo;s been this long already, but it is time for yet another Board of Directors Election! Having had the opportunity to serve on the Board for these last 12 months, I want to encourage anyone who have the time and interest to improve the GNOME project to run for one of the seven spots on the Board of Directors!</description>
+      <description>I can&amp;rsquo;t believe it&amp;rsquo;s been this long already, but it is time for yet another Board of Directors Election! Having had the opportunity to serve on the Board for these last 12 months, I want to encourage anyone who have the time and interest to improve the GNOME project to run for one of the seven spots on the Board of Directors! For more information on this, please read the official announcement here!</description>
     </item>
     
     <item>
@@ -402,8 +396,7 @@ I can&amp;rsquo;t believe it&amp;rsquo;s been this long already, but it is time 
       <pubDate>Fri, 29 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/last-but-not-least-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1407&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;225&amp;rdquo; caption=&amp;ldquo;Last But Not Least&amp;rdquo;][/caption]
-With all the blog posts, newsfeeds and social media channels abuzz with the latest and greatest releases these past 2 days I just wanted to take the time to add one more thank you note:
+      <description>With all the blog posts, newsfeeds and social media channels abuzz with the latest and greatest releases these past 2 days I just wanted to take the time to add one more thank you note:
 Thank You all developers, translators, document writers, graphic designers, bug trackers, release engineers and everyone else involved in working directly with the upstream projects and for making all of the moving pieces that compose a Linux distribution readily available for anyone to use!</description>
     </item>
     
@@ -423,18 +416,16 @@ Thank You all developers, translators, document writers, graphic designers, bug 
       <pubDate>Wed, 06 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/gnome-3-0-banshee-2-0-and-foresight-linux-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1388&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;200&amp;rdquo; caption=&amp;ldquo;GNOME 3.0&amp;rdquo;][/caption]
-First off, congratulations to everyone involved in the release of GNOME 3.0! In the past, my contributions were mostly related to translating applications to Brazilian Portuguese, but my role on that front was very minimal this time and consisted of a handful of translations and several commits of the awesome work done by others. Most of my contributions for 3.0 are related to the work I do for the GNOME Foundation Board of Directors, but I won&amp;rsquo;t bore you to tears!</description>
+      <description>First off, congratulations to everyone involved in the release of GNOME 3.0! In the past, my contributions were mostly related to translating applications to Brazilian Portuguese, but my role on that front was very minimal this time and consisted of a handful of translations and several commits of the awesome work done by others. Most of my contributions for 3.0 are related to the work I do for the GNOME Foundation Board of Directors, but I won&amp;rsquo;t bore you to tears!</description>
     </item>
     
     <item>
-      <title>Now That You\&#39;ve Found Love What Are You Gonna Do?</title>
+      <title>Now That You&#39;ve Found Love What Are You Gonna Do?</title>
       <link>https://omaciel.github.io/posts/now-that-youve-found-love-what-are-you-gonna-do-/</link>
       <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/now-that-youve-found-love-what-are-you-gonna-do-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1383&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Spotify and Hotot&amp;rdquo;][/caption]
-Now that you have downloaded and installed the latest Foresight Linux 2.5 release, here are a couple of things you may want to do:
+      <description>Now that you have downloaded and installed the latest Foresight Linux 2.5 release, here are a couple of things you may want to do:
   Update Your System: Since Foresight has a rolling release schedule, we already have updates for you, including and newer MPlayer with support for Blue-Ray!  Run sudo conary updateall
    Install Chromium web browser: Try this pretty cool web browser made by Google.</description>
     </item>
@@ -446,7 +437,6 @@ Now that you have downloaded and installed the latest Foresight Linux 2.5 releas
       
       <guid>https://omaciel.github.io/posts/foresight-linux-2-5-0-/</guid>
       <description>At last, after a long hiatus, I can shout out for the whole world to hear: Foresight Linux 2.5.0 is out and about! This is our first official release in almost 2 years (2.1.1 was released May 15th, 2009!!!) and it is filled to the brim with the very latest stable applications out there!
-[caption id=&amp;ldquo;attachment_1376&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Foresight Linux GNOME Edition&amp;rdquo;][/caption]
 A lot of work, sweat, and tears by a lot of different people went into getting this release out the door, and to all of you out there who stood by us through thick and thin, I thank you and salute you!</description>
     </item>
     
@@ -456,8 +446,7 @@ A lot of work, sweat, and tears by a lot of different people went into getting t
       <pubDate>Fri, 18 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/gnome-3-0-translations-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1368&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;179&amp;rdquo; caption=&amp;ldquo;Pylyglot&amp;rdquo;][/caption]
-Hey, are you feverishly working on the translation for the upcoming GNOME 3.0 release? Do you find yourself often wondering how a certain word was translated across the entire desktop applications? Well, I do and this is why I developed Pylyglot, a Django-driven localization tool that let&amp;rsquo;s you search for a word and see how it has been translated for a given language. The plan is to have fresh data straight from the GNOME git repositories every Monday for now, eventually switching to a more frequent update schedule.</description>
+      <description>Hey, are you feverishly working on the translation for the upcoming GNOME 3.0 release? Do you find yourself often wondering how a certain word was translated across the entire desktop applications? Well, I do and this is why I developed Pylyglot, a Django-driven localization tool that let&amp;rsquo;s you search for a word and see how it has been translated for a given language. The plan is to have fresh data straight from the GNOME git repositories every Monday for now, eventually switching to a more frequent update schedule.</description>
     </item>
     
     <item>
@@ -466,8 +455,7 @@ Hey, are you feverishly working on the translation for the upcoming GNOME 3.0 re
       <pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/git-in-the-trenches-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1353&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;Git In The Trenches&amp;rdquo;]|Git In The Trenches|[/caption]
-Git In The Trenches, or GITT is a pretty cool project by my friend Peter Savage, &amp;ldquo;designed to be a book that focusses on teaching people to use Git by associating with scenarios that are experienced by a fictional company called Tamagoyaki Inc. Through reading about their day to day lives, the reader will learn not only how to use Git, but why version control systems are important and how to implement them within an organisation.</description>
+      <description>Git In The Trenches, or GITT is a pretty cool project by my friend Peter Savage, &amp;ldquo;designed to be a book that focusses on teaching people to use Git by associating with scenarios that are experienced by a fictional company called Tamagoyaki Inc. Through reading about their day to day lives, the reader will learn not only how to use Git, but why version control systems are important and how to implement them within an organisation.</description>
     </item>
     
     <item>
@@ -476,8 +464,7 @@ Git In The Trenches, or GITT is a pretty cool project by my friend Peter Savage,
       <pubDate>Fri, 25 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/barrabin-barrabash-penal-process-/</guid>
-      <description>Barrabin Barrabash, the Great, yearns for his freedom and digs deep into his magic tricks to scape prison, in another one of my translations from the original by Karlisson Bezerra.
-[caption id=&amp;ldquo;attachment_1348&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;600&amp;rdquo; caption=&amp;ldquo;Barrabin Barrabash: Penal Process&amp;rdquo;][/caption]</description>
+      <description>Barrabin Barrabash, the Great, yearns for his freedom and digs deep into his magic tricks to scape prison, in another one of my translations from the original by Karlisson Bezerra.</description>
     </item>
     
     <item>
@@ -486,18 +473,16 @@ Git In The Trenches, or GITT is a pretty cool project by my friend Peter Savage,
       <pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/barrabin-barrabash-abra-unix-cadabra-/</guid>
-      <description>Barrabin Barrabash, the great is once again up to no good with his tricks in yet another one of my translations of Karlisson Bezerra&#39;s original work. Enjoy it and have a wonderful weekend!
-[caption id=&amp;ldquo;attachment_1333&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;600&amp;rdquo; caption=&amp;ldquo;Barrabin Barrabash: Abra Unix Cadabra&amp;rdquo;][/caption]</description>
+      <description>Barrabin Barrabash, the great is once again up to no good with his tricks in yet another one of my translations of Karlisson Bezerra&#39;s original work. Enjoy it and have a wonderful weekend!</description>
     </item>
     
     <item>
-      <title>Moving WordPress Blog to Amazon\&#39;s EC2</title>
+      <title>Moving WordPress Blog to Amazon&#39;s EC2</title>
       <link>https://omaciel.github.io/posts/moving-wordpress-blog-to-amazons-ec2-/</link>
       <pubDate>Wed, 16 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/moving-wordpress-blog-to-amazons-ec2-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1337&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;King Cloud&amp;rdquo;][/caption]
-You probably remember reading about my issues with running my WordPress-based blog on Dreamhost&#39;s environment, and how frustrated I was with the experience of using their Private Server services. The short version is that I eventually migrated my blog back to their shared hosting environment, turned off most of the plugins and cried myself to sleep.
+      <description>You probably remember reading about my issues with running my WordPress-based blog on Dreamhost&#39;s environment, and how frustrated I was with the experience of using their Private Server services. The short version is that I eventually migrated my blog back to their shared hosting environment, turned off most of the plugins and cried myself to sleep.
 The very next day, after reading (and replying to) the comments I received, one in particular caught my eye: Amazon&amp;rsquo;s Free Usage Tier offering new customers the following EC2 services each month for one year:</description>
     </item>
     
@@ -526,8 +511,7 @@ The very next day, after reading (and replying to) the comments I received, one 
       <pubDate>Thu, 10 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/book-review-stories-of-your-life-and-others-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1319&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;200&amp;rdquo; caption=&amp;ldquo;Stories of Your Life: and Others by Ted Chiang&amp;rdquo;][/caption]
- *Disclaimer: My book reviews are my own impressions from my daily readings and are by no means &amp;ldquo;sponsored&amp;rdquo; or &amp;ldquo;influenced&amp;rdquo; by any company, organization or individuals. I don&amp;rsquo;t even get money through any referral program, so rest assured that my review is not biased. If you do, however, want me to review a book for your company or organization, feel free to contact me via the comments section and we can work something out.</description>
+      <description>*Disclaimer: My book reviews are my own impressions from my daily readings and are by no means &amp;ldquo;sponsored&amp;rdquo; or &amp;ldquo;influenced&amp;rdquo; by any company, organization or individuals. I don&amp;rsquo;t even get money through any referral program, so rest assured that my review is not biased. If you do, however, want me to review a book for your company or organization, feel free to contact me via the comments section and we can work something out.</description>
     </item>
     
     <item>
@@ -536,8 +520,7 @@ The very next day, after reading (and replying to) the comments I received, one 
       <pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/book-review-emblem-divide-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1308&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;150&amp;rdquo; caption=&amp;ldquo;Emblem Divide&amp;rdquo;][/caption]
- *Disclaimer: My book reviews are my own impressions from my daily readings and are by no means &amp;ldquo;sponsored&amp;rdquo; or &amp;ldquo;influenced&amp;rdquo; by any company, organization or individuals. I don&amp;rsquo;t even get money through any referral program, so rest assured that my review is not biased. If you do, however, want me to review a book for your company or organization, feel free to contact me via the comments section and we can work something out.</description>
+      <description>*Disclaimer: My book reviews are my own impressions from my daily readings and are by no means &amp;ldquo;sponsored&amp;rdquo; or &amp;ldquo;influenced&amp;rdquo; by any company, organization or individuals. I don&amp;rsquo;t even get money through any referral program, so rest assured that my review is not biased. If you do, however, want me to review a book for your company or organization, feel free to contact me via the comments section and we can work something out.</description>
     </item>
     
     <item>
@@ -546,8 +529,7 @@ The very next day, after reading (and replying to) the comments I received, one 
       <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/book-review-mockingjay-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1297&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;231&amp;rdquo; caption=&amp;ldquo;Mockingjay&amp;rdquo;][/caption]
- *Disclaimer: My book reviews are my own impressions from my daily readings and are by no means &amp;ldquo;sponsored&amp;rdquo; or &amp;ldquo;influenced&amp;rdquo; by any company, organization or individuals. I don&amp;rsquo;t even get money through any referral program, so rest assured that my review is not biased. If you do, however, want me to review a book for your company or organization, feel free to contact me via the comments section and we can work something out.</description>
+      <description>*Disclaimer: My book reviews are my own impressions from my daily readings and are by no means &amp;ldquo;sponsored&amp;rdquo; or &amp;ldquo;influenced&amp;rdquo; by any company, organization or individuals. I don&amp;rsquo;t even get money through any referral program, so rest assured that my review is not biased. If you do, however, want me to review a book for your company or organization, feel free to contact me via the comments section and we can work something out.</description>
     </item>
     
     <item>
@@ -556,8 +538,7 @@ The very next day, after reading (and replying to) the comments I received, one 
       <pubDate>Wed, 19 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/book-review-catching-fire-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1288&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;201&amp;rdquo; caption=&amp;ldquo;Catching Fire&amp;rdquo;][/caption]
- *Disclaimer: My book reviews are my own impressions from my daily readings and are by no means &amp;ldquo;sponsored&amp;rdquo; or &amp;ldquo;influenced&amp;rdquo; by any company, organization or individuals. I don&amp;rsquo;t even get money through any referral program, so rest assured that my review is not biased. If you do, however, want me to review a book for your company or organization, feel free to contact me via the comments section and we can work something out.</description>
+      <description>*Disclaimer: My book reviews are my own impressions from my daily readings and are by no means &amp;ldquo;sponsored&amp;rdquo; or &amp;ldquo;influenced&amp;rdquo; by any company, organization or individuals. I don&amp;rsquo;t even get money through any referral program, so rest assured that my review is not biased. If you do, however, want me to review a book for your company or organization, feel free to contact me via the comments section and we can work something out.</description>
     </item>
     
     <item>
@@ -576,8 +557,7 @@ The very next day, after reading (and replying to) the comments I received, one 
       <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/book-review-the-hunger-games-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1279&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;212&amp;rdquo; caption=&amp;ldquo;The Hunger Games&amp;rdquo;][/caption]
- *Disclaimer: My book reviews are my own impressions from my daily readings and are by no means &amp;ldquo;sponsored&amp;rdquo; or &amp;ldquo;influenced&amp;rdquo; by any company, organization or individuals. I don&amp;rsquo;t even get money through any referral program, so rest assured that my review is not biased. If you do, however, want me to review a book for your company or organization, feel free to contact me via the comments section and we can work something out.</description>
+      <description>*Disclaimer: My book reviews are my own impressions from my daily readings and are by no means &amp;ldquo;sponsored&amp;rdquo; or &amp;ldquo;influenced&amp;rdquo; by any company, organization or individuals. I don&amp;rsquo;t even get money through any referral program, so rest assured that my review is not biased. If you do, however, want me to review a book for your company or organization, feel free to contact me via the comments section and we can work something out.</description>
     </item>
     
     <item>
@@ -586,8 +566,7 @@ The very next day, after reading (and replying to) the comments I received, one 
       <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/kindle-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1276&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;190&amp;rdquo; caption=&amp;ldquo;Kindle DX&amp;rdquo;][/caption]
-Over the holidays I got a second-hand Kindle DX from my sister. As I have been doing some serious reading these last couple of years, an EBook reader was something that both excited and scared me at the same time. Let me explain.
+      <description>Over the holidays I got a second-hand Kindle DX from my sister. As I have been doing some serious reading these last couple of years, an EBook reader was something that both excited and scared me at the same time. Let me explain.
 Being able to carry several books, often pretty thick and heavy, in one simple and light device has its advantages. Add to that the massive number of free EBooks and regular plain text books available on web sites such as the Internet Archive, Open Library, Project Gutenberg, and all of a sudden we&amp;rsquo;re talking about having your own private and portable library on the go!</description>
     </item>
     
@@ -607,8 +586,7 @@ My server logs, however, show a different picture with much higher requests and 
       <pubDate>Fri, 31 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/billreminder-e2-80-9ckeep-their-heads-ringing-e2-80-9d-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1268&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;BillReminder &amp;ldquo;Keep Their Heads Ringing&amp;rdquo; 0.4.0&amp;rdquo;][/caption]
-Just in time before the new year, it is with great pleasure that I announce the release of BillReminder &amp;ldquo;Keep Their Heads Ringing&amp;quot; 0.4.0 after a 27-month hiatus! During this period I tried many different approaches and techniques to both improve the user interface as well as the overall experience. Many of the &amp;ldquo;core&amp;rdquo; changes were performed only to satisfy my own curiosity and experimentation with other technologies out there, but overall you should have a good time playing with it.</description>
+      <description>Just in time before the new year, it is with great pleasure that I announce the release of BillReminder &amp;ldquo;Keep Their Heads Ringing&amp;quot; 0.4.0 after a 27-month hiatus! During this period I tried many different approaches and techniques to both improve the user interface as well as the overall experience. Many of the &amp;ldquo;core&amp;rdquo; changes were performed only to satisfy my own curiosity and experimentation with other technologies out there, but overall you should have a good time playing with it.</description>
     </item>
     
     <item>
@@ -617,10 +595,9 @@ Just in time before the new year, it is with great pleasure that I announce the 
       <pubDate>Thu, 16 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/looking-for-a-graphic-designer-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1261&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Foresight Linux&amp;rdquo;][/caption]
-The Foresight Linux team is looking for a good graphic designer to help them with a splash screen!
+      <description>The Foresight Linux team is looking for a good graphic designer to help them with a splash screen!
 **Foresight Linux,**a desktop operating system featuring an intuitive user interface and a showcase of the latest desktop software&amp;quot; is now gearing for a major release with all the latest and greatest applications out there!
-Would you like to see your art work distributed and displayed whenever someone boots Foresight Linux?</description>
+Would you like to see your art work distributed and displayed whenever someone boots Foresight Linux? If so, please drop me a line for more information!</description>
     </item>
     
     <item>
@@ -638,8 +615,8 @@ Would you like to see your art work distributed and displayed whenever someone b
       <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/the-thrilling-adventures-of-lovelace-and-babbage-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1252&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;235&amp;rdquo; caption=&amp;ldquo;Lovelace and Babbage Vs The Organist!&amp;quot;][/caption]
-Spent a good chunk of my free time reading all 9 (out of 10) parts of Lovelace and Babbage Vs The Organist this weekend! I don&amp;rsquo;t know where to begin to describe how incredibly awesome this comic is! The graphics, the clever writing and jokes, even the sometimes absurd plot twists all combine for delivering a fantastic, fun reading experience!</description>
+      <description>Spent a good chunk of my free time reading all 9 (out of 10) parts of Lovelace and Babbage Vs The Organist this weekend! I don&amp;rsquo;t know where to begin to describe how incredibly awesome this comic is! The graphics, the clever writing and jokes, even the sometimes absurd plot twists all combine for delivering a fantastic, fun reading experience!
+I highly recommend that you read at least a few episodes and allow yourself to wander around the many links and tidbits about Charles Babbage, Ada Lovelace, Quasiamicable Pair, musical instruments, math and many other items in the notes section!</description>
     </item>
     
     <item>
@@ -648,8 +625,7 @@ Spent a good chunk of my free time reading all 9 (out of 10) parts of Lovelace a
       <pubDate>Fri, 10 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/gnome-foundation-new-members-december-2010-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1248&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;240&amp;rdquo; caption=&amp;ldquo;Congratulations&amp;rdquo;][/caption]
-Just passing along the information sent by ?Andre Veri on behalf of the GNOME ?Membership Committee to announce our new members (in no particular order):
+      <description>Just passing along the information sent by Andre Veri on behalf of the GNOME Membership Committee to announce our new members (in no particular order):
  Zachary Goldberg (PyGi, Zhaan, Bug Filing, UPnP Hacking) Sebastian Dröge (GStreamer, Debian packaging) Sumana Harihareswara (Marketing, GNOME Journal, Empathy) Jelle de Jong (Bugreporting, Debian packaging, Marketing, Testing) Christer Edwards (Sysadmin Team) Pablo Castellano (Buoh maintainer, Bug fixing and Triaging for Seahorse and JHbuild) José Aliste (Gedit-plugins, Evince) Daniël van Eeden (Dutch Translations and GUADEC 2010) Francisco Diéguez Souto (Translation to Galician language, Coordination of Galician language) Jeremy Perry (GNOME Shell design)  Thank you all for the splendid work, dedication and support you have shown and welcome to the GNOME Foundation!</description>
     </item>
     
@@ -659,8 +635,7 @@ Just passing along the information sent by ?Andre Veri on behalf of the GNOME 
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/boston-summit-2010-day-2-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_715&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;213&amp;rdquo; caption=&amp;ldquo;GNOME Sponsored&amp;rdquo;][/caption]
-I got back from the Boston Summit around 22:00 Sunday evening and by the time I arrived home from the airport I was too tired to write up a blog post. Then Monday morning came and after all the meetings, work and side projects, I decided to spend some quality time with my kids, as I had not seen them since Friday evening.
+      <description>I got back from the Boston Summit around 22:00 Sunday evening and by the time I arrived home from the airport I was too tired to write up a blog post. Then Monday morning came and after all the meetings, work and side projects, I decided to spend some quality time with my kids, as I had not seen them since Friday evening.
 The second day was very busy and full of things to do and interesting discussions.</description>
     </item>
     
@@ -670,8 +645,7 @@ The second day was very busy and full of things to do and interesting discussion
       <pubDate>Sun, 07 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/boston-summit-2010-day-1-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_715&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;213&amp;rdquo; caption=&amp;ldquo;GNOME Sponsored&amp;rdquo;][/caption]
-Finally sat down to write down about my first day attending the Boston Summit 2010 but Paul [1] and Jason[1,2,3] already beat me to it. From my perspective, it was really nice to finally meet face to face with some of my fellow Board members and make new friends!
+      <description>Finally sat down to write down about my first day attending the Boston Summit 2010 but Paul [1] and Jason[1,2,3] already beat me to it. From my perspective, it was really nice to finally meet face to face with some of my fellow Board members and make new friends!
 I want to thank Novell for hosting us at their office for our Board meeting (there should be a picture of us posing in front of a Novell logo) and our gracious host.</description>
     </item>
     
@@ -681,9 +655,8 @@ I want to thank Novell for hosting us at their office for our Board meeting (the
       <pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/let-me-hear-your-voices-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1235&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;225&amp;rdquo; caption=&amp;ldquo;Speakup&amp;rdquo;][/caption]
-This weekend I&amp;rsquo;ll be attending my first Boston Summit, courtesy of theGNOME Travel Committee! It will also be my very first time meeting my fellow members of the GNOME Foundation Board of Directors, which makes me very excited!
-I wanted to ask you, readers of my blog, what kind of questions would you like me to ask on your behalf? Do you have any constructive comments or feedback for us?</description>
+      <description>This weekend I&amp;rsquo;ll be attending my first Boston Summit, courtesy of theGNOME Travel Committee! It will also be my very first time meeting my fellow members of the GNOME Foundation Board of Directors, which makes me very excited!
+I wanted to ask you, readers of my blog, what kind of questions would you like me to ask on your behalf? Do you have any constructive comments or feedback for us? What are the areas you feel that we should invest more of our resources on and which ones should we spend less?</description>
     </item>
     
     <item>
@@ -692,10 +665,10 @@ I wanted to ask you, readers of my blog, what kind of questions would you like m
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/ending-another-chapter-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1231&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;225&amp;rdquo; caption=&amp;ldquo;Farewell&amp;rdquo;]|Farewell|[/caption]
-Woke up this morning to find the following email in my inbox:
+      <description>Woke up this morning to find the following email in my inbox:
 Renew membership of Og Maciel in Ubuntu Members
-It&amp;rsquo;s been a while since I last thought about this membership so this email had me thinking for a bit. Ubuntu is where everything started for me, and even though I have not seen eye to eye with Canonical, I harbor no ill feelings toward the distribution itself.</description>
+It&amp;rsquo;s been a while since I last thought about this membership so this email had me thinking for a bit. Ubuntu is where everything started for me, and even though I have not seen eye to eye with Canonical, I harbor no ill feelings toward the distribution itself.
+So for the last 5 years I&amp;rsquo;ve been associated with the Ubuntu ecosystems and dedicated a large chunk of my time trying to get the distro properly translated into Brazilian Portuguese and doing a lot of advocating along the way.</description>
     </item>
     
     <item>
@@ -704,10 +677,9 @@ It&amp;rsquo;s been a while since I last thought about this membership so this e
       <pubDate>Fri, 29 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/are-you-planning-a-gnome-3-0-launch-party-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1227&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;115&amp;rdquo; caption=&amp;ldquo;GNOME&amp;rdquo;][/caption]
-In order to promote the GNOME 3.0 launch and spread the idea amongst the GNOME community members, I&amp;rsquo;m sharing the following message! Please translate it and share it with your friends and help us organize the biggest GNOME Launch ever!
+      <description>In order to promote the GNOME 3.0 launch and spread the idea amongst the GNOME community members, I&amp;rsquo;m sharing the following message! Please translate it and share it with your friends and help us organize the biggest GNOME Launch ever!
 Dear GNOME friends,
-The GNOME.Asia committee is working on making a big launch party (whichÂ includes a 5 days hackfest) to celebrate, promote and work on the GNOMEÂ 3.</description>
+The GNOME.Asia committee is working on making a big launch party (whichÂ includes a 5 days hackfest) to celebrate, promote and work on the GNOMEÂ 3.0 release as part of our effort to promote GNOME in Asia.</description>
     </item>
     
     <item>
@@ -716,9 +688,8 @@ The GNOME.Asia committee is working on making a big launch party (whichÂ inclu
       <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/boston-summit-2010-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_715&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;213&amp;rdquo; caption=&amp;ldquo;GNOME Sponsored&amp;rdquo;][/caption]
-ï»¿Iâ€™m also coming to theÂ **Boston** **Summit** for the first time! I&amp;rsquo;m looking forward to hanging out with my fellow Board members, meeting some of them for the very first time. I&amp;rsquo;m also looking forward to attending theÂ Snowy Hackfest and other sessions related to GNOME 3.0!
-Think you can join us? Take a look at theÂ GNOME Foundation blog for more.</description>
+      <description>I&amp;rsquo;m also coming to the Boston Summit for the first time! I&amp;rsquo;m looking forward to hanging out with my fellow Board members, meeting some of them for the very first time. I&amp;rsquo;m also looking forward to attending the Snowy Hackfest and other sessions related to GNOME 3.0!
+Think you can join us? Take a look at the GNOME Foundation blog for more.</description>
     </item>
     
     <item>
@@ -727,8 +698,7 @@ Think you can join us? Take a look at theÂ GNOME Foundation blog for more.</de
       <pubDate>Sun, 10 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/helping-the-belarusian-and-esperanto-translations-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1213&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;214&amp;rdquo; caption=&amp;ldquo;Two New Languages&amp;rdquo;][/caption]
-Thanks to comments by booxter and Patrick Niedzielski, I have added support for 2 more languages to Pylyglot: Belarusian and Esperanto! So far I had been adding languages according to their translation percentage, starting from the top and slowly moving down the list, but it probably makes sense to add some of the languages that need a bit of help catching up with the other teams and provide them with a means to check their standardization.</description>
+      <description>Thanks to comments by booxter and Patrick Niedzielski, I have added support for 2 more languages to Pylyglot: Belarusian and Esperanto! So far I had been adding languages according to their translation percentage, starting from the top and slowly moving down the list, but it probably makes sense to add some of the languages that need a bit of help catching up with the other teams and provide them with a means to check their standardization.</description>
     </item>
     
     <item>
@@ -737,8 +707,7 @@ Thanks to comments by booxter and Patrick Niedzielski, I have added support for 
       <pubDate>Fri, 08 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/pylyglot-now-with-more-translations-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1210&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;In Every Language&amp;rdquo;][/caption]
-What a difference a day makes! Thanks to some feedback I got both here and in private, and thanks to a contributor with some extra free cycles at hand, Pylyglot got anotherÂ face liftÂ today.
+      <description>What a difference a day makes! Thanks to some feedback I got both here and in private, and thanks to a contributor with some extra free cycles at hand, Pylyglot got anotherÂ face liftÂ today.
 So what&amp;rsquo;s new? There are now 245 total packages and 3,165,335 translations from yesterday&amp;rsquo;s 61 packages and 954,884 translations! You can also now link to a query using the resulting url from your searches using the format language=FOO&amp;amp;query=BAR, where FOO is the language&amp;rsquo;s ISO code and BAR is the term you&amp;rsquo;re searching.</description>
     </item>
     
@@ -748,9 +717,8 @@ So what&amp;rsquo;s new? There are now 245 total packages and 3,165,335 translat
       <pubDate>Thu, 07 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/pylyglot-now-with-more-languages-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1207&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Blooming Translations&amp;rdquo;][/caption]
-Managed to update Pylyglot, my Django-based translations tool to include 22 new languages and the very latest GNOME 3.0 packages. Hope you guys find it useful!
- ï»¿ï»¿Languages: 52 Packages: 61 Translations: 954,884  </description>
+      <description>Managed to update Pylyglot, my Django-based translations tool to include 22 new languages and the very latest GNOME 3.0 packages. Hope you guys find it useful!
+ Languages: 52 Packages: 61 Translations: 954,884  </description>
     </item>
     
     <item>
@@ -769,8 +737,7 @@ But wait, there&amp;rsquo;s more! Since the entire collection of GNOME packages 
       <pubDate>Fri, 17 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/disgusted-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1199&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Peeewww&amp;rdquo;][/caption]
-Disgusted</description>
+      <description>Disgusted</description>
     </item>
     
     <item>
@@ -779,8 +746,7 @@ Disgusted</description>
       <pubDate>Thu, 26 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/running-on-empty-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1185&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;240&amp;rdquo; caption=&amp;ldquo;Running on epty&amp;rdquo;][/caption]
-This post has been sitting in my Drafts folder for a while now, as I wasn&amp;rsquo;t sure when the right time would be to publish it. It is basically my personal reflection on the last 5 years I have worked doing translations for free and open source software (FOSS) and a few lessons I learned along the way. It is also a rant against those who took my labor for granted.</description>
+      <description>This post has been sitting in my Drafts folder for a while now, as I wasn&amp;rsquo;t sure when the right time would be to publish it. It is basically my personal reflection on the last 5 years I have worked doing translations for free and open source software (FOSS) and a few lessons I learned along the way. It is also a rant against those who took my labor for granted.</description>
     </item>
     
     <item>
@@ -789,8 +755,7 @@ This post has been sitting in my Drafts folder for a while now, as I wasn&amp;rs
       <pubDate>Wed, 11 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/book-review-python-3-object-oriented-programming-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1171&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;243&amp;rdquo; caption=&amp;ldquo;Python 3 Object Oriented Programming&amp;rdquo;][/caption]
-I can&amp;rsquo;t claim to have looked hard for a Python book on object oriented programming (OOP) but I was immediately attracted to the title of this book. Sure, you can find small tutorials here and there about some specific facet of OOP but I don&amp;rsquo;t recall ever reading something that covers designing public interfaces using abstraction, encapsulation, etc, etc with good and practical examples!</description>
+      <description>I can&amp;rsquo;t claim to have looked hard for a Python book on object oriented programming (OOP) but I was immediately attracted to the title of this book. Sure, you can find small tutorials here and there about some specific facet of OOP but I don&amp;rsquo;t recall ever reading something that covers designing public interfaces using abstraction, encapsulation, etc, etc with good and practical examples! If you have, please drop me a link in the comments.</description>
     </item>
     
     <item>
@@ -808,8 +773,7 @@ I can&amp;rsquo;t claim to have looked hard for a Python book on object oriented
       <pubDate>Tue, 29 Jun 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/more-coffee-noise-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1129&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;Coffee Cup&amp;rdquo;][/caption]
-A while back I wrote about how I first got hooked on coffee and received some really good comments and suggestions for new coffees to try. I was immediately attracted to one coffee in particular: Zoka! Don&amp;rsquo;t ask me what it was but there was something about the name that tickled my fancy. So I sent their customer service department an email and asked if they would send me a few samples.</description>
+      <description>A while back I wrote about how I first got hooked on coffee and received some really good comments and suggestions for new coffees to try. I was immediately attracted to one coffee in particular: Zoka! Don&amp;rsquo;t ask me what it was but there was something about the name that tickled my fancy. So I sent their customer service department an email and asked if they would send me a few samples.</description>
     </item>
     
     <item>
@@ -818,9 +782,8 @@ A while back I wrote about how I first got hooked on coffee and received some re
       <pubDate>Thu, 24 Jun 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/gnome-board-of-directors-first-meeting-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1152&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;First GNOME Board Meeting&amp;rdquo;][/caption]
-Today I attended my very first GNOME Board of Directors meeting. Though I won&amp;rsquo;t be able to vote on issues until July 1st, it was great to witness how the process works and be able to ask questions and receive answers directly from current and former board members.
-I must say that the entire meeting felt very streamlined and ran smoothly, partially because of people like Vincent, Brian, GermÃ¡n and Paul who seem to be on top of everything and juggling several balls at the same time!</description>
+      <description>Today I attended my very first GNOME Board of Directors meeting. Though I won&amp;rsquo;t be able to vote on issues until July 1st, it was great to witness how the process works and be able to ask questions and receive answers directly from current and former board members.
+I must say that the entire meeting felt very streamlined and ran smoothly, partially because of people like Vincent, Brian, German and Paul who seem to be on top of everything and juggling several balls at the same time!</description>
     </item>
     
     <item>
@@ -829,8 +792,7 @@ I must say that the entire meeting felt very streamlined and ran smoothly, parti
       <pubDate>Wed, 23 Jun 2010 00:00:00 +0000</pubDate>
       
       <guid>https://omaciel.github.io/posts/review-django-1-2-e-commerce-/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1094&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;243&amp;rdquo; caption=&amp;ldquo;Django 1.2 E-Commerce&amp;rdquo;][/caption]
-&amp;ldquo;Django 1.2 E-Commerce&amp;quot;Â starts with a very ambitious goal: design, develop and deploy a functional ecommerce web site for the fictional CranStore.com company. Sounds great, doesn&amp;rsquo;t it?
+      <description>&amp;ldquo;Django 1.2 E-Commerce&amp;rdquo; starts with a very ambitious goal: design, develop and deploy a functional ecommerce web site for the fictional CranStore.com company. Sounds great, doesn&amp;rsquo;t it?
 I started flipping through the usual introductory pages explaining what Django is and why use it for a project like this. It was all fairly brief which already led me to believe that knowledge of Django&amp;rsquo;s inner works and basic setup and configuration was required to follow along.</description>
     </item>
     

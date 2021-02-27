@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>creative commons on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/creative-commons/</link>
+    <description>Recent content in creative commons on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Feb 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/creative-commons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everything You Ever Wanted To Know About The Creative Commons Licenses But Was Afraid To Ask</title>
+      <link>https://omaciel.github.io/posts/everything-you-ever-wanted-to-know-about-the-creative-co-/</link>
+      <pubDate>Fri, 11 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/everything-you-ever-wanted-to-know-about-the-creative-co-/</guid>
+      <description>A while back my friend Karlisson Bezerra, author of the Brazilian comic (all using open source tools such as Inkscape, etc) Nerdson, created a pretty nifty story explaining how to use the Creative Commons license. The original strip was written in Brazilian Portuguese but someone took the time to do a quick translation into English (as the translator is not a native Brazilian Portuguese speaker, some things got lost in the translation, but the end result is still worth checking).</description>
+    </item>
+    
+  </channel>
+</rss>
