@@ -37,7 +37,7 @@ The package is available on Pypi (sadly the page is still not rendering correctl
       <guid>https://omaciel.github.io/posts/1170-fauxfactory-0-2-0/</guid>
       <description>Today I&#39;m releasing FauxFactory 0.2.0 with a new feature, a &amp;quot;Lorem Ipsum&amp;quot; generator. I confess that I did not look around for any existing implementation in python out there and just started writing code. My idea was to create a method that would:
 Return a &amp;quot;Lorem Ipsum&amp;quot; string if I passed no arguments:
-In [1]: from fauxfactory import FauxFactory In [2]: FauxFactory.generate_iplum() Out[2]: u&#39;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+In [1]: from fauxfactory import FauxFactory In [2]: FauxFactory.generate_iplum() Out[2]: u&amp;#39;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>

@@ -70,67 +70,67 @@ Ipsum&quot; generator. I confess that I did not look around for any existing
 implementation in python out there and just started writing code. My
 idea was to create a method that would:</p>
 <p>Return a &quot;Lorem Ipsum&quot; string if I passed no arguments:</p>
-<pre><code class="language-{.python}" data-lang="{.python}">In [1]: from fauxfactory import FauxFactory
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">In [<span style="color:#ae81ff">1</span>]: <span style="color:#f92672">from</span> fauxfactory <span style="color:#f92672">import</span> FauxFactory
 
-In [2]: FauxFactory.generate_iplum()
-Out[2]: u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+In [<span style="color:#ae81ff">2</span>]: FauxFactory<span style="color:#f92672">.</span>generate_iplum()
+Out[<span style="color:#ae81ff">2</span>]: <span style="color:#e6db74">u</span><span style="color:#e6db74">&#39;Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span>
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<span style="color:#f92672">.</span> Ut
 enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.'
-</code></pre><p>Return a single paragraph with a fixed number of words if I passed a
+ut aliquip ex ea commodo consequat<span style="color:#f92672">.</span> Duis aute irure dolor <span style="color:#f92672">in</span>
+reprehenderit <span style="color:#f92672">in</span> voluptate velit esse cillum dolore eu fugiat nulla
+pariatur<span style="color:#f92672">.</span> Excepteur sint occaecat cupidatat non proident, sunt <span style="color:#f92672">in</span>
+culpa qui officia deserunt mollit anim id est laborum<span style="color:#f92672">.</span><span style="color:#e6db74">&#39;</span>
+</code></pre></div><p>Return a single paragraph with a fixed number of words if I passed a
 numeric <strong>words=x</strong> argument. If <strong>words</strong> was a large number, the text
 would 'wrap around' as many times as needed:</p>
-<pre><code class="language-{.python}" data-lang="{.python}">In [3]: FauxFactory.generate_iplum(words=8)
-Out[3]: u'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">In [<span style="color:#ae81ff">3</span>]: FauxFactory<span style="color:#f92672">.</span>generate_iplum(words<span style="color:#f92672">=</span><span style="color:#ae81ff">8</span>)
+Out[<span style="color:#ae81ff">3</span>]: <span style="color:#e6db74">u</span><span style="color:#e6db74">&#39;Lorem ipsum dolor sit amet, consectetur adipisicing elit.&#39;</span>
 
-In [4]: FauxFactory.generate_iplum(words=80)
-Out[4]: u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+In [<span style="color:#ae81ff">4</span>]: FauxFactory<span style="color:#f92672">.</span>generate_iplum(words<span style="color:#f92672">=</span><span style="color:#ae81ff">80</span>)
+Out[<span style="color:#ae81ff">4</span>]: <span style="color:#e6db74">u</span><span style="color:#e6db74">&#39;Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span>
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<span style="color:#f92672">.</span> Ut
 enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.'
-</code></pre><p>If <strong>paragraphs=x</strong> was used, then a given number of paragraphs
+ut aliquip ex ea commodo consequat<span style="color:#f92672">.</span> Duis aute irure dolor <span style="color:#f92672">in</span>
+reprehenderit <span style="color:#f92672">in</span> voluptate velit esse cillum dolore eu fugiat nulla
+pariatur<span style="color:#f92672">.</span> Excepteur sint occaecat cupidatat non proident, sunt <span style="color:#f92672">in</span>
+culpa qui officia deserunt mollit anim id est laborum<span style="color:#f92672">.</span><span style="color:#e6db74">&#39;</span>
+</code></pre></div><p>If <strong>paragraphs=x</strong> was used, then a given number of paragraphs
 containing the entire &quot;Lorem Ipsum&quot; string is returned:</p>
-<pre><code class="language-{.python}" data-lang="{.python}">In [5]: FauxFactory.generate_iplum(paragraphs=1)
-Out[5]: u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">In [<span style="color:#ae81ff">5</span>]: FauxFactory<span style="color:#f92672">.</span>generate_iplum(paragraphs<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+Out[<span style="color:#ae81ff">5</span>]: <span style="color:#e6db74">u</span><span style="color:#e6db74">&#39;Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span>
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<span style="color:#f92672">.</span> Ut
 enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.'
+ut aliquip ex ea commodo consequat<span style="color:#f92672">.</span> Duis aute irure dolor <span style="color:#f92672">in</span>
+reprehenderit <span style="color:#f92672">in</span> voluptate velit esse cillum dolore eu fugiat nulla
+pariatur<span style="color:#f92672">.</span> Excepteur sint occaecat cupidatat non proident, sunt <span style="color:#f92672">in</span>
+culpa qui officia deserunt mollit anim id est laborum<span style="color:#f92672">.</span><span style="color:#e6db74">&#39;</span>
 
-In [6]: FauxFactory.generate_iplum(paragraphs=2)
-Out[6]: u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+In [<span style="color:#ae81ff">6</span>]: FauxFactory<span style="color:#f92672">.</span>generate_iplum(paragraphs<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>)
+Out[<span style="color:#ae81ff">6</span>]: <span style="color:#e6db74">u</span><span style="color:#e6db74">&#39;Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span>
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<span style="color:#f92672">.</span> Ut
 enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.\nLorem ipsum
+ut aliquip ex ea commodo consequat<span style="color:#f92672">.</span> Duis aute irure dolor <span style="color:#f92672">in</span>
+reprehenderit <span style="color:#f92672">in</span> voluptate velit esse cillum dolore eu fugiat nulla
+pariatur<span style="color:#f92672">.</span> Excepteur sint occaecat cupidatat non proident, sunt <span style="color:#f92672">in</span>
+culpa qui officia deserunt mollit anim id est laborum<span style="color:#f92672">.</span>\nLorem ipsum
 dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+incididunt ut labore et dolore magna aliqua<span style="color:#f92672">.</span> Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.'
-</code></pre><p>Finally, if both <strong>words</strong> and <strong>paragraphs</strong> are used, then a given
+commodo consequat<span style="color:#f92672">.</span> Duis aute irure dolor <span style="color:#f92672">in</span> reprehenderit <span style="color:#f92672">in</span> voluptate
+velit esse cillum dolore eu fugiat nulla pariatur<span style="color:#f92672">.</span> Excepteur sint
+occaecat cupidatat non proident, sunt <span style="color:#f92672">in</span> culpa qui officia deserunt
+mollit anim id est laborum<span style="color:#f92672">.</span><span style="color:#e6db74">&#39;</span>
+</code></pre></div><p>Finally, if both <strong>words</strong> and <strong>paragraphs</strong> are used, then a given
 number of paragraphs with the specified number of words is returned,
 with the text 'flowing' and 'wrapping around' as needed:</p>
-<pre><code class="language-{.python}" data-lang="{.python}">In [7]: FauxFactory.generate_iplum(paragraphs=1, words=7)
-Out[7]: u'Lorem ipsum dolor sit amet, consectetur adipisicing.'
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">In [<span style="color:#ae81ff">7</span>]: FauxFactory<span style="color:#f92672">.</span>generate_iplum(paragraphs<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>, words<span style="color:#f92672">=</span><span style="color:#ae81ff">7</span>)
+Out[<span style="color:#ae81ff">7</span>]: <span style="color:#e6db74">u</span><span style="color:#e6db74">&#39;Lorem ipsum dolor sit amet, consectetur adipisicing.&#39;</span>
 
-In [8]: FauxFactory.generate_iplum(paragraphs=3, words=7)
-Out[8]: u'Lorem ipsum dolor sit amet, consectetur adipisicing.\nElit,
-sed do eiusmod tempor incididunt ut.\nLabore et dolore magna aliqua.
-Ut enim.'
-</code></pre><p>The package is available on
+In [<span style="color:#ae81ff">8</span>]: FauxFactory<span style="color:#f92672">.</span>generate_iplum(paragraphs<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>, words<span style="color:#f92672">=</span><span style="color:#ae81ff">7</span>)
+Out[<span style="color:#ae81ff">8</span>]: <span style="color:#e6db74">u</span><span style="color:#e6db74">&#39;Lorem ipsum dolor sit amet, consectetur adipisicing.</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">Elit,</span>
+sed do eiusmod tempor incididunt ut<span style="color:#f92672">.</span>\nLabore et dolore magna aliqua<span style="color:#f92672">.</span>
+Ut enim<span style="color:#f92672">.</span><span style="color:#e6db74">&#39;</span>
+</code></pre></div><p>The package is available on
 <a href="https://pypi.python.org/pypi/fauxfactory/0.2.0">Pypi</a> (sadly the page
 is not rendering correctly... suggestions welcome) and can be installed
 via <strong>pip install fauxfactory</strong>.</p>

@@ -101,15 +101,13 @@ SystemGroupAPI</p>
 <p>Next, we establish a connection to the Katello server
 (<strong>qetello01.example.com</strong> in my case), using the default credentials of
 <strong>admin</strong>/<strong>admin</strong>:</p>
-<blockquote>
-<p>katello_server = server.KatelloServer(host='qetello01.example.com',
-path_prefix='/katello/', port=443)
-katello_server.set_auth_method(BasicAuthentication(username='admin',
-password='admin')) server.set_active_server(katello_server)</p>
-</blockquote>
-<p> </p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">&gt; katello_server <span style="color:#f92672">=</span> server.KatelloServer<span style="color:#f92672">(</span>host<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;qetello01.example.com&#39;</span>,
+&gt; path_prefix<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;/katello/&#39;</span>, port<span style="color:#f92672">=</span>443<span style="color:#f92672">)</span>
+&gt; katello_server.set_auth_method<span style="color:#f92672">(</span>BasicAuthentication<span style="color:#f92672">(</span>username<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;admin&#39;</span>,
+&gt; password<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;admin&#39;</span><span style="color:#f92672">))</span> server.set_active_server<span style="color:#f92672">(</span>katello_server<span style="color:#f92672">)</span>
+</code></pre></div><p> </p>
 <p>Let&rsquo;s now instantiate the Organization API object and use it to fetch
-the &ldquo;<strong>ACME_Corporation</strong>&quot; that gets automatically created for a
+the &ldquo;<strong>ACME_Corporation</strong>&rdquo; that gets automatically created for a
 default installation:</p>
 <p> </p>
 <blockquote>
