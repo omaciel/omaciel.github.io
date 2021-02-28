@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pet project on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/pet-project/</link>
+    <description>Recent content in pet project on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 May 2005 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/pet-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dragging My Carcass</title>
+      <link>https://omaciel.github.io/posts/dragging-my-carcass-/</link>
+      <pubDate>Fri, 13 May 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/dragging-my-carcass-/</guid>
+      <description>Been really busy attending the Project Management class these last 3 days. It&amp;rsquo;s been very interesting but there&amp;rsquo;s a lot of material and concepts to absorb. The end product of this is that I get home completely drained and just pass out! Been &amp;ldquo;running&amp;rdquo; off of a million cups of coffee and caffeinated snacks&amp;hellip; Still haven&amp;rsquo;t had a chance to play with Perforce and have 4 new books awaiting for me at home.</description>
+    </item>
+    
+    <item>
+      <title>State of RssReaderNET</title>
+      <link>https://omaciel.github.io/posts/state-of-rssreadernet-/</link>
+      <pubDate>Fri, 06 May 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/state-of-rssreadernet-/</guid>
+      <description>RssReaderNET - v0.0.2
+Originally uploaded by omaciel.
+Haven&amp;rsquo;t received any offers of help with my RssReader.NET application&amp;hellip; but it&amp;rsquo;s not like I was expecting offers anyhow. :) Yesterday and today I spent some time making some changes to the UI as well adding some new functionality. UI changes include:
+ Removed ComboBox control - Users will have to add new feeds via an interface. Switched ListView control for a TreeView control - Will allow for expansion/collapsing of feeds and increase visibility of available posts.</description>
+    </item>
+    
+    <item>
+      <title>Open Journal Idea</title>
+      <link>https://omaciel.github.io/posts/open-journal-idea-/</link>
+      <pubDate>Thu, 10 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/open-journal-idea-/</guid>
+      <description>It has been a long time since I last blogged on my other web site Linux Gnubbie. It was my first real &amp;ldquo;taste&amp;rdquo; of a real blown web site and up to the day I bought the domain I had relied on public (e.g. chock-full of banners and adds), free web site providers. Those really sucked specially because you were pretty much at the mercy of their regulations and forget about getting some type of remote access to work on your files.</description>
+    </item>
+    
+  </channel>
+</rss>

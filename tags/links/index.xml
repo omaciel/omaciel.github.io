@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>links on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/links/</link>
+    <description>Recent content in links on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Mar 2005 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogetarium</title>
+      <link>https://omaciel.github.io/posts/blogetarium-/</link>
+      <pubDate>Wed, 30 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/blogetarium-/</guid>
+      <description>A few new entries to my daily reading list:
+ Planet Perl Planet Gentoo Kernel Planet MAKE : Blog  </description>
+    </item>
+    
+    <item>
+      <title>Linkz</title>
+      <link>https://omaciel.github.io/posts/linkz-/</link>
+      <pubDate>Thu, 10 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/linkz-/</guid>
+      <description>Just added a few more links to some of my favorite sites, visited every single day, religiously! Where are Slashdot or OSNews you may ask? I have become extremelly disappointed with the quality and (lack of) variety of their articles. If you don&amp;rsquo;t feel like looking through the old list of links and try to figure out which ones are the new ones, here they are:
+ Planet Debian Planet Security Planet Ubuntu  Some bloggers subscribe to multiple aggregators but you should have a lot of good material to read during your morning hours.</description>
+    </item>
+    
+  </channel>
+</rss>

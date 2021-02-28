@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/coding/</link>
+    <description>Recent content in coding on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 May 2005 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>State of RssReaderNET</title>
+      <link>https://omaciel.github.io/posts/state-of-rssreadernet-/</link>
+      <pubDate>Fri, 06 May 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/state-of-rssreadernet-/</guid>
+      <description>RssReaderNET - v0.0.2
+Originally uploaded by omaciel.
+Haven&amp;rsquo;t received any offers of help with my RssReader.NET application&amp;hellip; but it&amp;rsquo;s not like I was expecting offers anyhow. :) Yesterday and today I spent some time making some changes to the UI as well adding some new functionality. UI changes include:
+ Removed ComboBox control - Users will have to add new feeds via an interface. Switched ListView control for a TreeView control - Will allow for expansion/collapsing of feeds and increase visibility of available posts.</description>
+    </item>
+    
+    <item>
+      <title>RssReader.NET</title>
+      <link>https://omaciel.github.io/posts/rssreadernet-/</link>
+      <pubDate>Mon, 02 May 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/rssreadernet-/</guid>
+      <description>Been spending some time using the RSS.NET library (&amp;quot;RSS.NET is an open-source .NET class library for RSS feeds. It provides a reusable object model for parsing and writing RSS feeds. It is fully compatible with RSS versions 0.90, 0.91, 0.92, and 2.0.1, implementing all constructs.&amp;quot; and decided to create my own Rss reader. It still has a long way to go but it is in a semi-usefull state. I know there&amp;rsquo;s a million rss readers out there but if anyone is interested in working on this with me just drop me a line.</description>
+    </item>
+    
+  </channel>
+</rss>

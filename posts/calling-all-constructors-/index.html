@@ -74,25 +74,26 @@ SuperBase(?) syntax and tried several combinations of <strong>this</strong> and
 <strong>base</strong> keywords. Nothing seemed to work&hellip; That&rsquo;s when I came across
 <a href="http://weblogs.asp.net/acampbell/archive/2005/02/02/365299.aspx">this</a>
 post which gave me the answer:</p>
-<p><code>public class PostList     {</code></p>
-<pre><code>private ArrayList m_Posts;
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csharp" data-lang="csharp"><span style="color:#66d9ef">public</span> <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">PostList</span>     {
 
-#region Constructor
+    <span style="color:#66d9ef">private</span> ArrayList m_Posts;
 
-public PostList()
-{
-    m_Posts = new ArrayList();
+    <span style="color:#75715e">#region Constructor
+</span><span style="color:#75715e"></span>
+    <span style="color:#66d9ef">public</span> PostList()
+    {
+        m_Posts = <span style="color:#66d9ef">new</span> ArrayList();
+    }
+
+    <span style="color:#66d9ef">public</span> PostList(XmlNode posts): <span style="color:#66d9ef">this</span>()
+    {
+        PopulatePosts(posts);
+    }
+
+    <span style="color:#75715e">#endregion
+</span><span style="color:#75715e"></span>
 }
-
-public PostList(XmlNode posts): this()
-{
-    PopulatePosts(posts);
-}
-
-#endregion
-</code></pre>
-<p>}</p>
-</article>
+</code></pre></div></article>
   
           
           <div class="mb-4 p-5">
@@ -102,6 +103,10 @@ public PostList(XmlNode posts): this()
                 
                 
                 <a href="/tags/english" class="btn btn-dark btn-rounded mb-2">english</a>
+                
+                <a href="/tags/random" class="btn btn-dark btn-rounded mb-2">random</a>
+                
+                <a href="/tags/csharp" class="btn btn-dark btn-rounded mb-2">csharp</a>
                 
                 
               </div>

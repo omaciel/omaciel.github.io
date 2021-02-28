@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meetup on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/meetup/</link>
+    <description>Recent content in meetup on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2005 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About MeetUp Change of Heart</title>
+      <link>https://omaciel.github.io/posts/about-meetup-change-of-heart-/</link>
+      <pubDate>Tue, 26 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/about-meetup-change-of-heart-/</guid>
+      <description>Recently MeetUp, a then free group organizing web service, has decided to charge registered groups for its services. A Meetup meeting organizer must now pay $19 a month to use their software. Having spent the last 8-9 months as the organizer for the Northern NJ Linux Meetup I&amp;rsquo;m somewhat saddened by the fact that this move will most definitely mean the end of the group. Averaging 3 members for ever meeting we&amp;rsquo;ve had so far (with the exception of the day I brought someone from Ubuntu Linux to gives us a talk&amp;hellip; that day we had 7 members!</description>
+    </item>
+    
+    <item>
+      <title>Mailing List Software</title>
+      <link>https://omaciel.github.io/posts/mailing-list-software-/</link>
+      <pubDate>Fri, 22 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/mailing-list-software-/</guid>
+      <description>Ever since MeetUp announced they would start charging groups money to use their free service, I started thinking of possible alternatives to keep the Northern NJ Linux Meetup group alive. I understand that everyone is entitled to make a living but I don&amp;rsquo;t agree with their decision of making this drastic change of heart without any warnings. I have spoken to some people and read some posts/comments online and came to the conclusion that the smaller groups will most likely vanish in the turmoil.</description>
+    </item>
+    
+    <item>
+      <title>Northern NJ Linux MeetUp - April 11th, 2005</title>
+      <link>https://omaciel.github.io/posts/northern-nj-linux-meetup-april-11th-2005-/</link>
+      <pubDate>Tue, 12 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/northern-nj-linux-meetup-april-11th-2005-/</guid>
+      <description>This month&amp;rsquo;s Northern NJ Linux MeetUp meeting had the highest attendance so far since I became the organizer: 7, including myself and our guest speaker Mako. He was kind enough to accept my invitation to visit and tell us about his work with Ubuntu and Debian Linux. I think everyone had a good time! Mako seems to be a really nice guy and was more than willing to answer our questions.</description>
+    </item>
+    
+    <item>
+      <title>Benjamin Mako Hill</title>
+      <link>https://omaciel.github.io/posts/benjamin-mako-hill-/</link>
+      <pubDate>Thu, 07 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/benjamin-mako-hill-/</guid>
+      <description>It&amp;rsquo;s official!!! I have arranged for Benjamin Mako Hill, Debian and Ubuntu Linux package maintaner/contributer, to attend our next Northern New Jersey Meetup meeting this Monday 11th, 2005! I have asked him to talk about Ubuntu Linux and also his involvement with Debian. This should be a very interesting meeting for everyone and I urge everyone to show up! Make sure to reserve your spot so I have a good idea of how many people will be present.</description>
+    </item>
+    
+    <item>
+      <title>Open Source Alliance - March 24th, 2005</title>
+      <link>https://omaciel.github.io/posts/open-source-alliance-march-24th-2005-/</link>
+      <pubDate>Mon, 28 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/open-source-alliance-march-24th-2005-/</guid>
+      <description>I completely forgot to mention about this last Thursday&amp;rsquo;s first Open Source Alliance meeting at Paramus&#39; Panera Bread. I arrived earlier than everybody else despite the really bad traffic on Route 4 West. The place was really crowded and I couldn&amp;rsquo;t set up my laptop at the &amp;ldquo;usual&amp;rdquo; place by the conference room. I ended up going to the couch by the front entrance. Armed with a hot cup of coffee I proceeded to get boot my laptop and get some internet going&amp;hellip; About 15 minutes later I realized something fishy was going on with the free wifi for I just could not get a working IP assigned.</description>
+    </item>
+    
+    <item>
+      <title>The Northern NJ Open Source Alliance</title>
+      <link>https://omaciel.github.io/posts/the-northern-nj-open-source-alliance-/</link>
+      <pubDate>Thu, 17 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/the-northern-nj-open-source-alliance-/</guid>
+      <description>Following up on a previous post, my good friend Steve Goguen has officially registered The Northern NJ Open Source Alliance. It will be an attempt to bring all the other &amp;ldquo;geeky&amp;rdquo; MeetUp groups from Northern New Jersey together into a an unified one. We should hear back soon from some of the other MeetUp organizers and work something out. I think the goal is to schedule all our individual meetings to coincide on the same dates.</description>
+    </item>
+    
+    <item>
+      <title>Linux Meetup - March 14, 2005</title>
+      <link>https://omaciel.github.io/posts/linux-meetup-march-14-2005-/</link>
+      <pubDate>Wed, 16 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/linux-meetup-march-14-2005-/</guid>
+      <description>This past Monday I hosted the monthly Northern New Jersey Linux Meetup at Panera Bread. It is the 7th meeting I have organized ever since taken over the group back in September 2004. I managed to get there earlier than usual and took advantage of the extra time to write down some ideas I had for a new pet project of mine and get some good coffee. One hour later some of the frequent attendees arrived.</description>
+    </item>
+    
+  </channel>
+</rss>

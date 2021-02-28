@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>csharp on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/csharp/</link>
+    <description>Recent content in csharp on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Mar 2005 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/csharp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calling All Constructors</title>
+      <link>https://omaciel.github.io/posts/calling-all-constructors-/</link>
+      <pubDate>Wed, 30 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/calling-all-constructors-/</guid>
+      <description>I wanted to change some code I had written last week so that an ::google(&amp;ldquo;overloaded constructor&amp;rdquo;, &amp;ldquo;overloaded constructor&amp;rdquo;):: would call the default constructor. This is usefull when you have to perform an initialization to a class member no matter what constructor is called during the class&#39; initialization. I faintly remembered Java&amp;rsquo;s Base and SuperBase(?) syntax and tried several combinations of this and base keywords. Nothing seemed to work&amp;hellip; That&amp;rsquo;s when I came across this post which gave me the answer:</description>
+    </item>
+    
+  </channel>
+</rss>

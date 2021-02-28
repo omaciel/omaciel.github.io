@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>perforce on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/perforce/</link>
+    <description>Recent content in perforce on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 May 2005 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/perforce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trying Out Perforce</title>
+      <link>https://omaciel.github.io/posts/trying-out-perforce-/</link>
+      <pubDate>Wed, 11 May 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/trying-out-perforce-/</guid>
+      <description>Tonight I want to take a quick break from playing WoW and install Perforce SCM System at home:
+ The Perforce SCM System features comprehensive software configuration management capabilities built around a scalable client/server architecture. Requiring only TCP/IP, developers can access the Perforce Server through a variety of Perforce clients (GUIs for several platforms, Web, or Command-Line). Perforce can be deployed quickly and easily, and requires minimal administration, even for large or distributed sites.</description>
+    </item>
+    
+  </channel>
+</rss>

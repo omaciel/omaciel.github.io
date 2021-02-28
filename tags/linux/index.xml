@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Og Maciel&#39;s Journal</title>
+    <link>https://omaciel.github.io/tags/linux/</link>
+    <description>Recent content in linux on Og Maciel&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jun 2005 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuba &#43; Linux = Cuba Libre</title>
+      <link>https://omaciel.github.io/posts/cuba-linux-cuba-libre-/</link>
+      <pubDate>Fri, 03 Jun 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/posts/cuba-linux-cuba-libre-/</guid>
+      <description>I completely missed this little nugget:
+ &amp;quot;Cuba will gradually switch to the open-source Linux operating system for its state computers, eliminating its exclusive use of Microsoft Windows, the government daily Juventud Rebelde reported&amp;quot;
+ If they succeed with this migration Cuba will become (I believe) the first nation to completely go Open Source! Maybe Brazil will be next???</description>
+    </item>
+    
+  </channel>
+</rss>
