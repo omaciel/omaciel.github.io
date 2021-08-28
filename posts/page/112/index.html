@@ -60,6 +60,17 @@
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
+                  <h6><a href="https://omaciel.github.io/posts/receita-para-encontrar-um-string-que-precisa-ser-traduzi-/">Receita para encontrar um string que precisa ser traduzido</a></h6>
+                  <strong class="text-gray-dark">Oct 11, 2006</strong>
+                </div>
+                <div class="d-block text-truncate">Alguem compartilhou um script que ajuda na hora de procurar o pacote que contem uma mensagem que precisa ser traduzida ou revisada. Crie um novo arquivo e cole o seguinte codigo:
+ #!/bin/bash string=&quot;^_:&quot; if [ &ldquo;$1&rdquo; != &quot;&quot; ] ; then string=$1 fi for i in /usr/share/locale-langpack/pt_BR/LC_MESSAGES/*.mo do if msgunfmt $i 2&gt; /dev/null | msggrep -T -e &ldquo;$string&rdquo; 2&gt;/dev/null | grep &ldquo;.&rdquo; ; then echo $i echo fi done</div>
+            </div>
+        </div>
+        
+        <div class="d-flex text-muted pt-3">
+            <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
+                <div class="d-flex justify-content-between">
                   <h6><a href="https://omaciel.github.io/posts/using-foresight-linux-week-1-/">Using Foresight Linux: Week 1</a></h6>
                   <strong class="text-gray-dark">Oct 11, 2006</strong>
                 </div>
@@ -122,18 +133,6 @@ Ubuntu Edgy:
  Ubuntu Dapper:
  deb http://people.ubuntu.com/~pitti/langpacks/daily/dapper-updates ./
  O legal disso e' para as pessoas que ajudam com as traducoes pelo Rosetta, que poderao ver suas sugestoes (se aprovadas a tempo) ja' efetuadas nos pacotes.</div>
-            </div>
-        </div>
-        
-        <div class="d-flex text-muted pt-3">
-            <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
-                <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/my-first-conary-package-/">My first conary package</a></h6>
-                  <strong class="text-gray-dark">Oct 05, 2006</strong>
-                </div>
-                <div class="d-block text-truncate">W00t!!! With the help (and lots of patience) from Ken, I was able to cook up my very first package using the Conary system! The package was the Drivel blogging tool and it has already been pushed up to rPath Contrib.
-Packaging for any conary-based system is as simple as writing up a recipe (for nostalgia, mine is included below) and &ldquo;cooking&rdquo; it with conary!
-class Drivel(AutoPackageRecipe): name = 'drivel' version = '2.</div>
             </div>
         </div>
         
