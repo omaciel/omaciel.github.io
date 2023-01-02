@@ -11,7 +11,7 @@
 <title>Books</title>
 
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
 
 
 
@@ -38,6 +38,11 @@
 <link href="/css/blog.css" rel="stylesheet"></head>
 
 <body class="bg-light">
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"></script>
+
     <div class="container"><header class="blog-header py-3">
     <div class="row flex-nowrap justify-content-between align-items-center">
       <div class="col-4 pt-1">
@@ -56,98 +61,104 @@
 <div class="row mb-2 justify-content-md-center">
     <div class="col-md-8 p-3">
         <div class="row no-gutters">
-            <p class="lead my-3">I wrote and self-published a few books.</p>
+            <p class="lead my-3">I have written a few books.</p>
         </div>
-        <div class="row no-gutters border rounded mb-4 shadow-sm">
-            <div class="col p-4">
-                <h4 class="mb-0">The Big Score</h4>
-                <div class="mb-1 text-muted">Oct 12, 2021</div>
-                <p>
-                    Friendships and alliances will be tested during a challenge to see who is the best car emblem thief
-                    in town. <a href="/thebigscore/">(More)</a>
-                </p><div class="row justify-content-center mb-2">
-    <div class="btn-group" role="group">
-        <button id="btnGroupDrop1" type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown"
-            aria-haspopup="true" aria-expanded="false">
-            Order it now
-        </button>
-        <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-            <a class="dropdown-item" href="https://www.barnesandnoble.com/w/the-big-score-og-maciel/1140049879"
-                target="_blank"><img
-                    src="https://assets-cdn.reedsy.com/discovery/packs/media/assets/stores/barnes-and-noble-de30be843ec71865ced193346f789372.jpg"><span>Buy
-                    on <span>Barnes &amp; Noble</span></span></a>
-            <a class="dropdown-item" href="https://www.amazon.com/dp/1736011340/" target="_blank"><img
-                    src="https://assets-cdn.reedsy.com/discovery/packs/media/assets/stores/amazon-b0d8088f131a1d18f58f122a27022420.png"><span>Buy
-                    on <span>Amazon</span></span></a>
-            <a class="dropdown-item" href="https://books.apple.com/us/book/the-big-score/id1582738034"
-                target="_blank"><img
-                    src="https://assets-cdn.reedsy.com/discovery/packs/media/assets/stores/apple-1c7dfa4703959c1b0b58d3827e1f989d.png"><span>Buy
-                    on <span>Apple Books</span></span>
-                Books</a>
-            <a class="dropdown-item" href="https://www.kobo.com/us/en/ebook/the-big-score-5/" target="_blank"><img
-                    src="https://assets-cdn.reedsy.com/discovery/packs/media/assets/stores/kobo-fc85751bb8738720f80f3c915134e3c7.jpg"><span>Buy
-                    on <span>Kobo</span></span></a>
-        </div>
+
+        <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home"
+                        type="button" role="tab" aria-controls="pills-home" aria-selected="true">English</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile"
+                        type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Português</button>
+            </li>
+        </ul>
+        <div class="tab-content" id="pills-tabContent">
+            <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab" tabindex="0"><div class="row no-gutters border rounded mb-4 shadow-sm">
+    <div class="col p-4">
+        <h4 class="mb-0">The Big Score</h4>
+        <div class="mb-1 text-muted">Oct 12, 2021</div>
+        <p>
+            Friendships and alliances will be tested during a challenge to see who is the best car emblem thief
+            in town.
+            <a href="https://www.amazon.com/dp/1736011340/" target="_blank">(More)</a>
+        </p>
     </div>
-</div></div>
-            <div class="col-auto p-2">
-                <img src="/images/bookcover3.jpg" class="img-thumbnail" width="150" height="200"
-                    alt="Software Quality Engineering" class="rounded">
-            </div>
-        </div>
-        <div class="row no-gutters border rounded mb-4 shadow-sm">
-            <div class="col p-4">
-                <h4 class="mb-0">I. C. Q.</h4>
-                <div class="mb-1 text-muted">Feb 09, 2021</div>
-                <p>
-                    Before there were dating apps, people met online on AOL and ICQ! <a href="/icq/">(More)</a>
-                </p><div class="row justify-content-center mb-2">
-    <div class="btn-group" role="group">
-        <button id="btnGroupDrop2" type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown"
-            aria-haspopup="true" aria-expanded="false">
-            Order it now
-        </button>
-        <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-            <a class="dropdown-item" href="https://www.barnesandnoble.com/w/icq-og-maciel/1138995218"
-                target="_blank"><img
-                    src="https://assets-cdn.reedsy.com/discovery/packs/media/assets/stores/barnes-and-noble-de30be843ec71865ced193346f789372.jpg"><span>Buy
-                    on <span>Barnes &amp; Noble</span></span></a>
-            <a class="dropdown-item" href="https://www.amazon.com/gp/product/B08THVG8YY/" target="_blank"><img
-                    src="https://assets-cdn.reedsy.com/discovery/packs/media/assets/stores/amazon-b0d8088f131a1d18f58f122a27022420.png"><span>Buy
-                    on <span>Amazon</span></span></a>
-        </div>
+    <div class="col-auto p-2">
+        <img src="/images/bookcover3.jpg" class="img-thumbnail" width="150" height="200"
+             alt="The Big Score" class="rounded">
     </div>
-</div></div>
-            <div class="col-auto p-2">
-                <img src="/images/bookcover2.jpeg" class="img-thumbnail" width="150" height="200"
-                    alt="Software Quality Engineering" class="rounded">
-            </div>
-        </div>
-        <div class="row no-gutters border rounded mb-4 shadow-sm">
-            <div class="col p-4">
-                <h4 class="mb-0">Software Quality Engineering</h4>
-                <div class="mb-1 text-muted">Mar 16, 2019</div>
-                <p>
-                    My personal journey to become a Software Quality Engineer.
-                </p><div class="row justify-content-center mb-2">
-    <div class="btn-group" role="group">
-        <button id="btnGroupDrop3" type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown"
-            aria-haspopup="true" aria-expanded="false">
-            Order it now
-        </button>
-        <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-            <a class="dropdown-item" href="https://www.amazon.com/gp/product/B09274CN22/" target="_blank">
-                <img
-                    src="https://assets-cdn.reedsy.com/discovery/packs/media/assets/stores/amazon-b0d8088f131a1d18f58f122a27022420.png"><span>Buy
-                    on <span>Amazon</span></span></a>
-        </div>
+</div>
+
+<div class="row no-gutters border rounded mb-4 shadow-sm">
+    <div class="col p-4">
+        <h4 class="mb-0">I. C. Q.</h4>
+        <div class="mb-1 text-muted">Feb 09, 2021</div>
+        <p>
+            Before there were dating apps, people met online on AOL and ICQ!
+            <a href="https://www.amazon.com/gp/product/B08THVG8YY/" target="_blank">(More)</a>
+        </p>
     </div>
-</div></div>
-            <div class="col-auto p-2">
-                <img src="/images/bookcover1.png" class="img-thumbnail" width="150" height="200"
-                    alt="Software Quality Engineering" class="rounded">
-            </div>
+    <div class="col-auto p-2">
+        <img src="/images/bookcover2.jpeg" class="img-thumbnail" width="150" height="200"
+             alt="I. C. Q." class="rounded">
+    </div>
+</div>
+
+
+<div class="row no-gutters border rounded mb-4 shadow-sm">
+    <div class="col p-4">
+        <h4 class="mb-0">Software Quality Engineering</h4>
+        <div class="mb-1 text-muted">Mar 16, 2019</div>
+        <p>
+            My personal journey to become a Software Quality Engineer.
+        </p>
+        <a href="https://www.amazon.com/gp/product/B09274CN22/" target="_blank">(More)</a>
+    </div>
+    <div class="col-auto p-2">
+        <img src="/images/bookcover1.png" class="img-thumbnail" width="150" height="200"
+             alt="Software Quality Engineering" class="rounded">
+    </div>
+</div>
+</div>
+            <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab" tabindex="0"><div class="row no-gutters border rounded mb-4 shadow-sm">
+    <div class="col p-4">
+        <h4 class="mb-0">O Grande Desafio</h4>
+        <div class="mb-1 text-muted">2022</div>
+        <p>
+            Neste livro rápido, engraçado e cativante, Og Maciel brilhantemente captura o fora da lei que vive
+            detrás de cada adolescente, além da sedução — e o ocasional coração partido — de se arriscar e
+            quebrar as regras.
+            <a href="https://www.amazon.com.br/gp/product/6589851948/" target="_blank">(Saiba mais)</a>
+        </p>
+    </div>
+    <div class="col-auto p-2">
+        <img src="/images/bookcover4.jpg" class="img-thumbnail" width="150" height="200"
+             alt="O Grande Desafio" class="rounded">
+    </div>
+</div>
+
+<div class="row no-gutters border rounded mb-4 shadow-sm">
+    <div class="col p-4">
+        <h4 class="mb-0">ICQ: Um romance de internet</h4>
+        <div class="mb-1 text-muted">2022</div>
+        <p>
+            Situado no mundo emergente da comunicação virtual dos anos 90, ICQ: Um romance de internet conta a
+            história de amor de Auggie e Clarissa, que se conhecem por acaso em um bate-papo online e
+            rapidamente se envolvem romanticamente.
+            <a href="https://www.editorainverso.com.br/pagina-de-produto/icq-um-romance-de-internet"
+               target="_blank">(Saiba mais)</a>
+        </p>
+    </div>
+    <div class="col-auto p-2">
+        <img src="/images/bookcover5.jpg" class="img-thumbnail" width="150" height="200"
+             alt="ICQ: Um romance de internet" class="rounded">
+    </div>
+</div>
+</div>
         </div>
+
     </div>
 </div>
     
