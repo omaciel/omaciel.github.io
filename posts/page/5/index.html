@@ -54,6 +54,7 @@
       <div class="col-4 d-flex justify-content-end">
         <div class="col-4 pt-1">
             <a class="text-muted" href="/books">Books</a>
+            <a class="text-muted" href="/projects">Projects</a>
         </div>
       </div>
     </div>
@@ -65,74 +66,110 @@
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/anuncio-final-do-planeta-gnu-linux-brasil-/">ANÚNCIO: Final do Planeta GNU/Linux Brasil</a></h6>
-                  <strong class="text-gray-dark">Sep 09, 2013</strong>
+                  <h6><a href="https://omaciel.github.io/posts/castalio-podcast-julian-fernandes-ubuntu-br-sc-/">Castálio Podcast: Julian Fernandes: Ubuntu BR SC</a></h6>
+                  <strong class="text-gray-dark">Dec 03, 2012</strong>
                 </div>
-                <div class="d-block text-truncate">Em 2008, depois de algumas discussões sobre o tipo de conteúdo que meu blog estava gerando em alguns agregadores nacionais, eu tomei a decisāo de criar meu próprio agregador com o seguinte objetivo:
-&ldquo;O Planeta GNU/Linux* nasceu da minha necessidade de querer ler blogs de pessoas relacionadas ao movimento Brasileiro de software livre, mas sem a censura bitolada que outros agregadores de blogs usam para filtrar o conteúdo que é publicado.</div>
+                <div class="d-block text-truncate">Demorou mais chegou!!! Devido a problemas pessoais eu infelizmente fiquei um pouco sem tempo para agendar as minhas entrevistas, mas te garanto que foi super difícil para mim deixar de publicar a cada 2 semanas. Mas nada como um pouco de tempo para colocar a vida de novo nos trilhos, e eu quero agradecer a todos que me enviaram mensagems de apoio aqui, por e-mail e pelas várias redes sociais que uso!</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/castalio-podcast-enrico-nicoletto-e-rafael-/">Castálio Podcast - Enrico Nicoletto e Rafael Ferreira: Projeto GNOME</a></h6>
-                  <strong class="text-gray-dark">Sep 03, 2013</strong>
+                  <h6><a href="https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-follow-/">Extending the default EC2 root partition: Follow up</a></h6>
+                  <strong class="text-gray-dark">Nov 30, 2012</strong>
                 </div>
-                <div class="d-block text-truncate">Depois de vários meses sem &ldquo;fora do ar&rdquo;, tenho o grande prazer em trazer mais um episódio sobre o projeto GNOME! Desta vez convidei o Enrico Nicoletto e *Rafael Ferreira* para conversar sobre o processo de traduçōes, que mais uma vez promete entregar mais uma versão completamente traduzida para o nosso bom português!
-A entrevista aconteceu &ldquo;na estrada&rdquo; quando eu estava voltando de viagem, e acabei gravando o episódio de um hotel lá em Richmond no estado da Virgínia.</div>
+                <div class="d-block text-truncate">Just wanted to follow up on my previous post in regards to how to resize the root partition of an EC2 instance. Turns out that, once you&rsquo;ve edited the root partition while in the launch panel, you can then perform the resize command right away, as soon as the instance is up and running and you have ssh&rsquo;ed to it.
+ [root@ip-aa-bb-cc-dd ~]# resize2fs /dev/xvde1
+ This is definitely better than what I thought one had to do to get a bigger root partition.</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/populating-a-katello-instance-using-the-cli-/">Populating a Katello instance using the CLI</a></h6>
-                  <strong class="text-gray-dark">Jun 04, 2013</strong>
+                  <h6><a href="https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-for-an-/">Extending the default EC2 root partition for an instance</a></h6>
+                  <strong class="text-gray-dark">Nov 28, 2012</strong>
                 </div>
-                <div class="d-block text-truncate">Lately I have been asked a lot about my previous script to automatically populate a Katello server instance with real data (hi reyc!) I wrote that a while back and though it still does contain some helpful commands, I figured it was about time I updated it. Well, it took me longer than I expected to find some time and clean it up, but I think I can now show you a brand new script which also includes the extra feature of downloading a manifest file directly from Red Hat's portal and importing it as part of the process.</div>
+                <div class="d-block text-truncate">Today I was playing with EC2, trying to launch a RHEL 6.3 instance so that I could then install the latest version of Katello and beat a bit on it&hellip; just for fun, you know? Using the EC2 Management Console web interface I used the &ldquo;classical&rdquo; wizard to select all the components I wanted for a m1.large instance, making sure to edit the default 7.5 GB root partition they give you so that I could have more space available to synchronize content&hellip; but when the instance finally came up I realized that my disk space was still showing the default value:</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/adventures-in-the-music-streaming-world-/">Adventures in the Music Streaming World</a></h6>
-                  <strong class="text-gray-dark">Apr 23, 2013</strong>
+                  <h6><a href="https://omaciel.github.io/posts/tough-times-/">Tough Times</a></h6>
+                  <strong class="text-gray-dark">Oct 30, 2012</strong>
                 </div>
-                <div class="d-block text-truncate">These last couple of years have brought (along with some new wrinkles and occasional grey hairs) some interesting changes on how I manage and maintain my &ldquo;digital belongings&rdquo;. For a long while I used to worry about backing up and storing in a safe place all the files, photos, books, movies and music I&rsquo;ve collected through the years. I have also managed to collect a variety of different external USB hard drives to keep up with this digital sprawl, where for each iteration the next device would increase in size and sometimes in speed compared to the current one.</div>
+                <div class="d-block text-truncate">These last few days have been rough for my family due to a very unfortunate event. About 10 weeks ago my wife and I learned that she was pregnant, something that we both wanted very much since our last child was born in 2007. So for the last 10 weeks we have been taking all the necessary steps to prepare our daughters, our house and our work schedules to welcome another child into our family.</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/another-concert-for-my-oldest-kid-the-best-part-/">Another Concert For My Oldest Kid The Best Part</a></h6>
-                  <strong class="text-gray-dark">Mar 28, 2013</strong>
+                  <h6><a href="https://omaciel.github.io/posts/castalio-podcast-carlos-brando-e-rafael-rosa-fu-/">Castálio Podcast: Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 1</a></h6>
+                  <strong class="text-gray-dark">Oct 01, 2012</strong>
                 </div>
-                <div class="d-block text-truncate">Another concert for my oldest kid. The best part: she really likes to play the violin; it is not something we pushed her to do.</div>
+                <div class="d-block text-truncate">Olá pessoal e sejam muito bem vindos ao primeiro episódio de outubro! Desta vez eu tive a oportunidade de conversar pelo Google Hangout com o Carlos Brando e *Rafael Rosa Fu* do **GrokPodcast**! Foi super divertido conversar com eles, e o bate-papo foi tão bom que eu decidi dividir a entrevista em duas partes para ficar mais conveninente para vocês escutarem.
+Nesta primeira parte conversamos sobre como que a idéia de criar o podcast surgiu em um barzinho em São Paulo, quando o Brando e Rafael conversavam com o Fábio Akita depois de um RubyConf.</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/perks-of-being-a-polyglot-/">Perks of being a polyglot</a></h6>
-                  <strong class="text-gray-dark">Mar 28, 2013</strong>
+                  <h6><a href="https://omaciel.github.io/posts/castalio-podcast-licio-fonseca-google-/">Castálio Podcast: Licio Fonseca - Google</a></h6>
+                  <strong class="text-gray-dark">Sep 17, 2012</strong>
                 </div>
-                <div class="d-block text-truncate">￼
-Yesterday I had one of those &ldquo;once in a a lifetime&rdquo; opportunities, thanks to my wife who dragged me to a presentation hosted by the University of North Carolina. The presentation by Dr. Eduardo Torres Cuevas, titled &ldquo;Preserving Cuba&rsquo;s Cultural Heritage in the 21st Century&rdquo; attracted a small gathering, apparently mostly made up of UNC staff and students who are currently enrolled in one of their languages courses. I wasn&rsquo;t really sure what to expect from it, but being the supportive husband that I am, I signed off from work a bit earlier and together with our 2 kids we drove to the main campus.</div>
+                <div class="d-block text-truncate">Nesta última quinta-feira tive o prazer em entrevistar o Licio Fonseca da *Google! Eu e o Licio nos conhecemos nos saudosos tempos do Ubuntu Brasil, mas não conversávamos desde 2006 se não me engano. Desde então muita coisa aconteceu, e hoje ele trabalha na Google, fazendo toda a manutenção e administração da infra estrutura de toda a América do Sul*!
+Durante nosso bate-papo, conversamos sobre o que ele faz por lá, sobre o seu dia a dia, como que conseguiu este trabalho, e sobre o processo de entrevistas e seleção para trabalhar na Google.</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/castalio-podcast-everaldo-canuto-toca-do-canuto-/">Castálio Podcast: Everaldo Canuto: Toca do Canuto</a></h6>
-                  <strong class="text-gray-dark">Mar 19, 2013</strong>
+                  <h6><a href="https://omaciel.github.io/posts/castalio-podcast-bruno-goncalves-biglinux-/">Castálio Podcast: Bruno Gonçalves - BigLinux</a></h6>
+                  <strong class="text-gray-dark">Sep 04, 2012</strong>
                 </div>
-                <div class="d-block text-truncate">Eu conheci o Everaldo em uma tarde super calorenta durante a abertura do evento GUADEC nas *Ilhas Canárias*. O mais interessante foi que não demorou mais que um dia para que nossa amizade se tornasse igual aquelas amizades que fazemos quando criança&hellip; aquelas pessoas que não importa o tempo ou a distância, você sempre fica feliz de encontrar e bater um papo!
-O Everaldo teve uma das oportunidades que eu sempre sonhei em ter: trabalhar lado a lado com o Miguel de Icaza, um dos fundadores do Projeto GNOME, figura quase que mitológica do mundo do software livre e hoje empresário com várias companhias de sucesso em seu histórico!</div>
+                <div class="d-block text-truncate">Na semana passada eu tive o grande prazer e honra de participar do Opencast em um episódio onde discutimos várias coisas relacionadas à distribuições Linux! Por coincidência, meu amigo Vladimir Melo tinha me recomendando entrevistar uma pessoa que por muito tempo tinha criado e mantido uma distribuição nacional, e recentemente decidiu parar o projeto!
+Neste último episódio então tive o grande prazer de conversar com o Bruno Gonçalves, criador e mantenedor do BigLinux!</div>
+            </div>
+        </div>
+        
+        <div class="d-flex text-muted pt-3">
+            <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
+                <div class="d-flex justify-content-between">
+                  <h6><a href="https://omaciel.github.io/posts/error-uninitialized-constant-heroku-api-/">Error: uninitialized constant Heroku::API (NameError)</a></h6>
+                  <strong class="text-gray-dark">Aug 23, 2012</strong>
+                </div>
+                <div class="d-block text-truncate">Got stuck with this error on Fedora 17 while trying to get a project onto Heroku:
+ Error: uninitialized constant Heroku::API (NameError)
+ After some quick back and forth with the Heroku guys I finally got it fixed:
+ $ rvm uninstall 1.9.3 $ rvm reset $ sudo yum reinstall openssl openssl-devel $ rvm install 1.9.3 $ rvm use 1.9.3 &mdash;default $ heroku login
+ Hope this helps someone else :)</div>
+            </div>
+        </div>
+        
+        <div class="d-flex text-muted pt-3">
+            <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
+                <div class="d-flex justify-content-between">
+                  <h6><a href="https://omaciel.github.io/posts/castalio-podcast-felipe-borges-google-summer-of-/">Castálio Podcast: Felipe Borges: Google Summer of Code</a></h6>
+                  <strong class="text-gray-dark">Aug 19, 2012</strong>
+                </div>
+                <div class="d-block text-truncate">Finalzinho do verão americano e no ar já se sente um pouco a vinda do outono e a volta às aulas. Nada melhor então que bater um papo com o Felipe Borges que está participando do Google Summer of Code pelo projeto GNOME!
+Durante estes últimos meses o Felipe tem trabalhado no GNOME Documents, adicionando suporte para administrar e visualizar arquivos em dispositivos removíveis, e tendo como mentor o italiano Cosimo Cecchi.</div>
+            </div>
+        </div>
+        
+        <div class="d-flex text-muted pt-3">
+            <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
+                <div class="d-flex justify-content-between">
+                  <h6><a href="https://omaciel.github.io/posts/castalio-podcast-episodio-43-hoje-a-noite-/">Castálio Podcast: Episódio 43 hoje a noite!</a></h6>
+                  <strong class="text-gray-dark">Aug 17, 2012</strong>
+                </div>
+                <div class="d-block text-truncate">Hoje vou gravar o episódio 43 do Castálio Podcast que será transmitido ao vivo pelo Youtube lá pelas 19:00 horário do Brasil. O entrevistado será o Felipe Borges que está participando do Google Summer of Code pelo Projeto GNOME. O link do vídeo será anunciado mais tarde e se você quizer participar com perguntas, basta acompanhar o podcast pelo Twitter!</div>
             </div>
         </div>
         
@@ -169,13 +206,13 @@ O Everaldo teve uma das oportunidades que eu sempre sonhei em ter: trabalhar lad
     <span aria-hidden="true">&nbsp;&hellip;&nbsp;</span>
   </li>
   <li class="page-item">
-    <a class="page-link" href="/posts/page/171/">171</a>
+    <a class="page-link" href="/posts/page/120/">120</a>
   </li>
   <li class="page-item">
     <a href="/posts/page/6/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
   </li>
   <li class="page-item">
-    <a href="/posts/page/171/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    <a href="/posts/page/120/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
   </li>
 </ul>
 

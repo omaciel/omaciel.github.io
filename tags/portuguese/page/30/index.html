@@ -54,6 +54,7 @@
       <div class="col-4 d-flex justify-content-end">
         <div class="col-4 pt-1">
             <a class="text-muted" href="/books">Books</a>
+            <a class="text-muted" href="/projects">Projects</a>
         </div>
       </div>
     </div>
@@ -65,78 +66,111 @@
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/smorgersboard-brasileiro-/">Smorgersboard Brasileiro</a></h6>
-                  <strong class="text-gray-dark">Jun 01, 2007</strong>
+                  <h6><a href="https://omaciel.github.io/posts/receita-para-encontrar-um-string-que-precisa-ser-traduzi-/">Receita para encontrar um string que precisa ser traduzido</a></h6>
+                  <strong class="text-gray-dark">Oct 11, 2006</strong>
                 </div>
-                <div class="d-block text-truncate">Algumas novidades do mundo de software livre Brasileiro:
- Foi lanÃ§ado na calada da noite o GNOME 2.18.2, com algumas melhorias e vÃ¡rias atualizaÃ§Ãµes nas traduÃ§Ãµes brasileiras, graÃ§as Ã colaboraÃ§Ã£o das equipes do Ubuntu e GNOME. Ã‰ realmente uma pena que nÃ£o houve um anÃºncio oficial&hellip; Foi tambÃ©m lanÃ§ado a nova versÃ£o do Foresight Linux e Fedora 7, todas duas contando com vÃ¡rias novidades e participaÃ§Ã£o ativa de suas respectivas comunidades brasileiras!</div>
+                <div class="d-block text-truncate">Alguem compartilhou um script que ajuda na hora de procurar o pacote que contem uma mensagem que precisa ser traduzida ou revisada. Crie um novo arquivo e cole o seguinte codigo:
+ #!/bin/bash string=&quot;^_:&quot; if [ &ldquo;$1&rdquo; != &quot;&quot; ] ; then string=$1 fi for i in /usr/share/locale-langpack/pt_BR/LC_MESSAGES/*.mo do if msgunfmt $i 2&gt; /dev/null | msggrep -T -e &ldquo;$string&rdquo; 2&gt;/dev/null | grep &ldquo;.&rdquo; ; then echo $i echo fi done</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/foresight-linux-13-lancado-/">Foresight Linux 1.3 lanÃ§ado!</a></h6>
-                  <strong class="text-gray-dark">May 31, 2007</strong>
+                  <h6><a href="https://omaciel.github.io/posts/bug-no-rosetta-/">Bug no Rosetta</a></h6>
+                  <strong class="text-gray-dark">Oct 09, 2006</strong>
                 </div>
-                <div class="d-block text-truncate">Gostaria de parabenizar a equipe do Foresight Linux pelo lanÃ§amento da versÃ£o 1.3, sincronizada para ser lanÃ§ada junto com o lanÃ§amento do GNOME 2.18.2!!!
-Algumas das novidades sÃ£o:
-GNOME: Este foi o terceiro lanÃ§amento do Foresight Linux com o GNOME 2.18 (depois de 2.18.0 &amp; 2.18.1), e contÃ©m melhorias e pequenos ajustes.
-Desktop Search: Com Beagle 0.2.17 e configurado para o Foresight Linux, continuamos com nossa meta de melhorar a sua habilidade de pesquisar por toda sua Ã¡rea de trabalho.</div>
+                <div class="d-block text-truncate">Meu amigo Ricardo Cropalato me alertou sobre um bug muito importante no sistema Rosetta de traducoes. Aparentemente, uma vez que um membro de uma equipe e' &ldquo;desativado&rdquo; por qualquer motivo, o mesmo nao consegue mais re-ingressar. O Ricardo, por exemplo, tinha sido afastado recentemente da equipe de tradutores por estar afastado por muito tempo. Quando ele recebeu nosso email avisando da &ldquo;desativacao&rdquo; e tentou re-ingressar, recebeu uma mensagem do Launchpad dizendo que ele nao podia mais fazer parte da equipe, dando a impressao que ele tinha sido &ldquo;banido.</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/openbox-33995-preview-lancado-/">Openbox 3.3.995 preview lanÃ§ado</a></h6>
-                  <strong class="text-gray-dark">May 30, 2007</strong>
+                  <h6><a href="https://omaciel.github.io/posts/como-ajudar-com-as-traducoes-do-ubuntu-exemplo-no-147-/">Como ajudar com as traduÃ§Ãµes do Ubuntu - Exemplo No. 147</a></h6>
+                  <strong class="text-gray-dark">Oct 08, 2006</strong>
                 </div>
-                <div class="d-block text-truncate">Para aqueles que estÃ£o acompanhando os lanÃ§amentos do Openbox em preparaÃ§Ã£o para a versÃ£o final 3.4, foi lanÃ§ada hoje pela manhÃ£ a versÃ£o 3.3.995. O registro de modificaÃ§Ãµes pode ser encontrado aqui. Mais uma vez, pacotes jÃ¡ estÃ£o disponÃ­veis para Ubuntu Feisty, Debian Etch, Arch Linux, Slackware, e Foresight.</div>
+                <div class="d-block text-truncate">Nome: Roger
+Caro Og, leio sempre o Planeta Ubuntu e tenho a dizer que se nÃ£o fossem vocÃªs meu primeiro entusiasmo com o Ubuntu teria se arrefecido em pouco tempo. Sem delongas, queria sugerir uma pequena mudanÃ§a no Synaptic, no texto de uma tela na verdade. LÃ¡ estÃ¡ escrito â€œas MUNDAÃ‡ASâ€? estÃ£o sendo aplicadas. Como mudar as mundaÃ§as para MUDANÃ‡AS?
+Nome: Alex Rocha
+A string mencionada faz parte do pacote Synaptic.</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/revista-linux-/">Revista Linux</a></h6>
-                  <strong class="text-gray-dark">May 30, 2007</strong>
+                  <h6><a href="https://omaciel.github.io/posts/sobre-as-regras-de-ingressao-a-equipe-de-tradutores-/">Sobre as regras de ingressÃ£o Ã  equipe de tradutores</a></h6>
+                  <strong class="text-gray-dark">Oct 08, 2006</strong>
                 </div>
-                <div class="d-block text-truncate">Saiu o terceiro exemplar da Revista Linux! Os assuntos desta ediÃ§Ã£o incluem:
- ExtraÃ§Ã£o de Ã¡udio para MP3 GravaÃ§Ã£o de DVDs e conversÃ£o para XVID Download de vÃ­deos Flash e conversÃ£o para outros formatos TelevisÃ£o no Linux e efeitos psicadÃ©licos em tempo real EdiÃ§Ã£o de etiquetas ID3 Funcionamento de um CODEC de Ã¡udio GNU PG e criptografia em clientes de e-mail InstalaÃ§Ã£o do CMS Mambo RestauraÃ§Ã£o do GRUB com o Super Grub Disk Entrevista com Zeev Suraski Entrevista com Rui Ribeiro Jogos: Eve Online e Tremulous  Se eu fosse fazer uma critica construtiva, seria pedir para eliminar seÃ§Ãµes como a seÃ§Ã£o de piadas sobre loiras no Kernel Pan!</div>
+                <div class="d-block text-truncate">Este post Ã© direcionado Ã todas as pessoas que criticaram as minhas decisÃµes de como organizar e administrar a equipe de tradutores brasileiros do Ubuntu. As crÃ­ticas vieram de uma forma bem covarde, usando a lista de discussÃµes como forma de criar um tsunami dentro da comunidade. Em momento nenhum eu fui procurado em privado por estes indivÃ­duos, e muitos deles mostraram o seu interesse verdadeiro (de criar desordem e bagunÃ§a) ao publicar os meus emails endereÃ§ados Ã eles em pÃºblico.</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/usando-o-obmenu-/">Usando o OBMenu</a></h6>
-                  <strong class="text-gray-dark">May 26, 2007</strong>
+                  <h6><a href="https://omaciel.github.io/posts/como-se-tornar-mais-popular-/">Como se tornar mais popular</a></h6>
+                  <strong class="text-gray-dark">Oct 07, 2006</strong>
                 </div>
-                <div class="d-block text-truncate">Para os usuarios do Openbox que nao gostam de modificar seu menu pela linha de comando, ou usando um editor de texto, experimentem o OBMenu.
-
-Por falar em Openbox, ontem foi lancada a versao 3.3.994!</div>
+                <div class="d-block text-truncate">Recebi um comentÃ¡rio muito importante em meu Ãºltimo post sobre como manter o Ubuntu atualizado com as traduÃ§Ãµes. O comentÃ¡rio foi do Leandro Martinez, que gentilmente me mostrou que nosso trabalho de divulgaÃ§Ã£o sobre a documentaÃ§Ã£o em portuguÃªs ainda estÃ¡ longe do que desejamos&hellip; Como eu trabalho junto Ã Equipe de DocumentaÃ§Ã£o do Ubuntu Brasil, sei que temos documentos de altÃ­ssimo nÃ­vel, mas sem uma divulgaÃ§Ã£o nÃ£o vamos conseguir passar esta informaÃ§Ã£o para nossos amigos da comunidade.</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/meus-comandos-mais-usados-/">Meus comandos mais usados?</a></h6>
-                  <strong class="text-gray-dark">May 24, 2007</strong>
+                  <h6><a href="https://omaciel.github.io/posts/mantendo-seu-ubuntu-edgy-atualizado-em-portugues-/">Mantendo seu Ubuntu Edgy atualizado em portugues</a></h6>
+                  <strong class="text-gray-dark">Oct 06, 2006</strong>
                 </div>
-                <div class="d-block text-truncate">Respondendo indiretamente a pergunta do Walter Cruz, segue a lista dos 10 comandos mais usados por mim no trabalho:
- 162 vim 123 cd 120 exit 82 ls 63 hg 53 python 51 sudo 39 svn 29 cvc 26 conary  </div>
+                <div class="d-block text-truncate">So' um lembrete para os usuarios que nao querem ficar contando com o sistema de atualizacoes do Ubuntu para manter seu sistema com as mais novas traducoes em portugues. E' so' adicionar a linha abaixo em seu sources.list e esperar as atualizacoes semanais.
+Ubuntu Edgy:
+ deb http://people.ubuntu.com/~pitti/langpacks/daily/edgy ./
+ Ubuntu Dapper:
+ deb http://people.ubuntu.com/~pitti/langpacks/daily/dapper-updates ./
+ O legal disso e' para as pessoas que ajudam com as traducoes pelo Rosetta, que poderao ver suas sugestoes (se aprovadas a tempo) ja' efetuadas nos pacotes.</div>
             </div>
         </div>
         
         <div class="d-flex text-muted pt-3">
             <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
                 <div class="d-flex justify-content-between">
-                  <h6><a href="https://omaciel.github.io/posts/cidadao-americano-/">CidadÃ£o Americano</a></h6>
-                  <strong class="text-gray-dark">May 23, 2007</strong>
+                  <h6><a href="https://omaciel.github.io/posts/ubuntu-wallpaper-/">Ubuntu Wallpaper</a></h6>
+                  <strong class="text-gray-dark">Sep 20, 2006</strong>
                 </div>
-                <div class="d-block text-truncate">Ã‰ com muito orgulho que venho anunciar hoje que eu me tornei um cidadÃ£o dos Estados Unidos! HÃ¡ 16 anos meus pais largaram ou venderam tudo que possuiam e vieram para a AmÃ©rica, com o objetivo de providenciar uma vida melhor para minhas irmÃ£s e eu. A jornada comeÃ§ou como a de muitos outros imigrantes em NYC. Com apenas o dinheiro que arrecadaram com a venda de seus bens e um conhecimento bÃ¡sico de inglÃªs, meus pais imediatamente adotaram o estilo Americano de vida.</div>
+                <div class="d-block text-truncate">Algumas pessoas me pediram para disponibilizar o wallpaper do meu ÃƒÂºltimo post sobre E17&hellip;Ã‚Â EntÃƒÂ£o, aproveitem&hellip;Ã‚Â ;)</div>
+            </div>
+        </div>
+        
+        <div class="d-flex text-muted pt-3">
+            <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
+                <div class="d-flex justify-content-between">
+                  <h6><a href="https://omaciel.github.io/posts/nj-nc-nj-nc-/">NJ -\&gt; NC -\&gt; NJ -\&gt; NC</a></h6>
+                  <strong class="text-gray-dark">Sep 18, 2006</strong>
+                </div>
+                <div class="d-block text-truncate">&quot;Rodando mais que azeitona em boca de bangela!&quot;
+Cheguei em New Jersey de North Carolina no sabado perto das 21:25 e em menos de 24 horas ja' comprei minha passagem de retorno!Ã‚Â Infelizmente nao pude evitar que 2 entrevistas em estados diferentes acontecem em datas tao proximas:
+ Dia 19 de setembro:Ã‚Â Entrevista em Hackensack, NJ `as 14:00 Dia 19 de setembro:Ã‚Â Voo 1109 para Raleigh, NC `as 21:25 (chegando la' `as 23:10) Dia 20 de setembro:Ã‚Â Entrevista em RTP, NC `as 09:00 Dia 22 de setembro:Ã‚Â Resultado da minha entrevista em Duke University na semana passada  Ainda vou tentar agendar mais algumas entrevistas ou almocos a partir do dia 20 para aproveitar que estarei em North Carolina.</div>
+            </div>
+        </div>
+        
+        <div class="d-flex text-muted pt-3">
+            <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
+                <div class="d-flex justify-content-between">
+                  <h6><a href="https://omaciel.github.io/posts/instalando-o-enlightenment-17-no-ubuntu-/">Instalando o Enlightenment 17 no Ubuntu</a></h6>
+                  <strong class="text-gray-dark">Sep 17, 2006</strong>
+                </div>
+                <div class="d-block text-truncate">Uma receitazinha para nao perder o costume. :) Eu sempre estive interessado em experimentar o Enlightenment DR17, um gerenciado de janelas famoso por ser bem elegante e conter bastante efeitos graficos. O problema e' que a versao atual, DR16, esta' demorando muito para ser empacotada e liberada com os recursos que a versao em desenvolvimento, DR17, oferece. Semana passada, conversando com o Julio Valsesia pelo IRC, ele me passou um repositorio que ja' possui os pacotes do DR17 para o Dapper e Edgy.</div>
+            </div>
+        </div>
+        
+        <div class="d-flex text-muted pt-3">
+            <div class="pb-3 mb-0 small lh-sm border-bottom w-100">
+                <div class="d-flex justify-content-between">
+                  <h6><a href="https://omaciel.github.io/posts/se-correr-o-bicho-pega-/">Se correr o bicho pega\...</a></h6>
+                  <strong class="text-gray-dark">Sep 15, 2006</strong>
+                </div>
+                <div class="d-block text-truncate">Cheguei em North Carolina na terÃƒÂ§a-feira pela manhÃƒÂ£ e fui apanhado por minha irmÃƒÂ£.Ã‚Â Assim que saimos do aeroporto, fomos rumo ÃƒÂ cidade de Durham onde fica o campus da Duke University.Ã‚Â A viagem foi bem curta e sem muitas dificuldades descobri o prÃƒÂ©dio onde eu teria uma entrevista na quarta-feira pela manhÃƒÂ£.Ã‚Â O resto do dia fiquei andando pelo campus da Universidade de North Carolina (UNC) esperando por minha irmÃƒÂ£ terminar suas classes.</div>
             </div>
         </div>
         
@@ -176,13 +210,13 @@ Por falar em Openbox, ontem foi lancada a versao 3.3.994!</div>
     <span aria-hidden="true">&nbsp;&hellip;&nbsp;</span>
   </li>
   <li class="page-item">
-    <a class="page-link" href="/tags/portuguese/page/59/">59</a>
+    <a class="page-link" href="/tags/portuguese/page/41/">41</a>
   </li>
   <li class="page-item">
     <a href="/tags/portuguese/page/31/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
   </li>
   <li class="page-item">
-    <a href="/tags/portuguese/page/59/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    <a href="/tags/portuguese/page/41/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
   </li>
 </ul>
 
