@@ -6,7 +6,16 @@
     <description>Recent content on Og Maciel&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 17:03:29 -0500</lastBuildDate><atom:link href="https://omaciel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sprint Planning Calculator</title>
+      <link>https://omaciel.github.io/projects/sprint-calculator/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://omaciel.github.io/projects/sprint-calculator/</guid>
+      <description>.calculator-container { font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, &#39;Helvetica Neue&#39;, Arial, sans-serif; margin: 20px auto; max-width: 1200px; background: #fff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); padding: 30px; } .calculator-header { text-align: center; margin-bottom: 40px; } .calculator-header h1 { margin: 0 0 10px 0; color: #333; font-size: 2.5rem; font-weight: 300; } .calculator-header .date { color: #666; font-size: 0.9rem; } .two-column-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin-bottom: 40px; } .</description>
+    </item>
+    
     <item>
       <title>Hello 2023</title>
       <link>https://omaciel.github.io/posts/hello-2023/</link>
