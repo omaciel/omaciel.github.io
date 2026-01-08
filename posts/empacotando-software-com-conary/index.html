@@ -1,0 +1,84 @@
+<!doctype html><html lang=en><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{--accent-color:#FF4D4D;--font-size:1.1rem}</style><title>Empacotando software com Conary</title><meta name=description content="Muitas pessoas jÃ¡ tinham me pedido para escrever um pequeno tutorial sobre como empacotar software para o Foresight Linux. Para quem ainda nÃ£o conhece o …"><meta name=keywords content='blog,technology,books,reading,software engineering,quality engineering,rpath'><meta property="og:url" content="http://localhost:1313/posts/empacotando-software-com-conary/"><meta property="og:type" content="website"><meta property="og:title" content="Empacotando software com Conary"><meta property="og:description" content="Muitas pessoas jÃ¡ tinham me pedido para escrever um pequeno tutorial sobre como empacotar software para o Foresight Linux. Para quem ainda nÃ£o conhece o …"><meta property="og:image" content="http://localhost:1313/images/cartoon_avatar.png"><meta property="og:image:secure_url" content="http://localhost:1313/images/cartoon_avatar.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:title content="Empacotando software com Conary"><meta name=twitter:description content="Muitas pessoas jÃ¡ tinham me pedido para escrever um pequeno tutorial sobre como empacotar software para o Foresight Linux. Para quem ainda nÃ£o conhece o …"><meta property="twitter:domain" content="http://localhost:1313/posts/empacotando-software-com-conary/"><meta property="twitter:url" content="http://localhost:1313/posts/empacotando-software-com-conary/"><meta name=twitter:image content="http://localhost:1313/images/cartoon_avatar.png"><link rel=canonical href=http://localhost:1313/posts/empacotando-software-com-conary/><link rel=stylesheet type=text/css href=/css/normalize.min.css media=print><link rel=stylesheet type=text/css href=/css/main.min.css><link id=dark-theme rel=stylesheet href=/css/dark.min.css><script src=/js/bundle.min.7136b4abac7b277aba8bc933917f4602d39a5c44f5590be687244bc86ef4f162.js integrity="sha256-cTa0q6x7J3q6i8kzkX9GAtOaXET1WQvmhyRLyG708WI="></script><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><link rel=icon href=/favicon.ico><link rel="shortcut icon" href=/favicon.ico><link rel=apple-touch-icon href=/images/ogmaciel.jpg></head><body><script>setThemeByUserPref()</script><header class=header><nav class=header-nav><div class=avatar><a href=http://localhost:1313/><img src=/images/cartoon_avatar.png alt="Og Maciel"></a></div><div class=nav-title><a class=nav-brand href=http://localhost:1313/>Og Maciel's Journal</a></div><div class=nav-links><div class=nav-link><a href=http://localhost:1313/ aria-label><span data-feather=home></span> Home</a></div><div class=nav-link><a href=http://localhost:1313/books/ aria-label><span data-feather=book-open></span> Books</a></div><div class=nav-link><a href=http://localhost:1313/posts/ aria-label><span data-feather=book></span> Posts</a></div><div class=nav-link><a href=http://localhost:1313/projects/ aria-label=projects><span data-feather=code></span> Projects</a></div><div class=nav-link><a href=http://localhost:1313/tags/ aria-label><span data-feather=tag></span> Tags</a></div><div class=nav-link><a href=http://localhost:1313/about/ aria-label><span data-feather=user></span> About</a></div><div class=nav-link><a href=http://localhost:1313/index.xml aria-label=rss><span data-feather=rss></span></a></div><span class=nav-icons-divider></span><div class="nav-link dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a aria-hidden=true role=switch><span class=theme-toggle-icon data-feather=moon></span></a></div><div class=nav-link id=hamburger-menu-toggle><span class="sr-only hamburger-menu-toggle-screen-reader-target">menu</span>
+<a aria-checked=false aria-labelledby=hamburger-menu-toggle id=hamburger-menu-toggle-target role=switch><span data-feather=menu></span></a></div><ul class="nav-hamburger-list visibility-hidden"><li class=nav-item><a href=http://localhost:1313/><span data-feather=home></span> Home</a></li><li class=nav-item><a href=http://localhost:1313/books/><span data-feather=book-open></span> Books</a></li><li class=nav-item><a href=http://localhost:1313/posts/><span data-feather=book></span> Posts</a></li><li class=nav-item><a href=http://localhost:1313/projects/><span data-feather=code></span> Projects</a></li><li class=nav-item><a href=http://localhost:1313/tags/><span data-feather=tag></span> Tags</a></li><li class=nav-item><a href=http://localhost:1313/about/><span data-feather=user></span> About</a></li><li class=nav-item><a href=http://localhost:1313/index.xml><span data-feather=rss></span></a></li><li class="nav-item dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a role=switch><span class=theme-toggle-icon data-feather=moon></span></a></li></ul></div></nav></header><main id=content><div class="post container"><div class=post-header-section><h1>Empacotando software com Conary</h1><small role=doc-subtitle></small><p class=post-date>April 26, 2007</p><ul class=post-tags><li class=post-tag><a href=http://localhost:1313/tags/rpath>rpath</a></li></ul></div><div class=post-content><p>Muitas pessoas jÃ¡ tinham me pedido para escrever um pequeno tutorial
+sobre como empacotar software para o <a href=http://www.foresightlinux.org/pt/>Foresight
+Linux</a>. Para quem ainda nÃ£o conhece
+o sistema de gerenciamento de pacotes
+<a href=http://wiki.rpath.com/wiki/Conary>Conary</a>, uma forma de descrevÃª-lo
+seria comparÃ¡-lo com um sistema de controle de versÃµes e gerenciamento
+de pacotes. Isso quer dizer que vocÃª tem um controle sobre as
+modificaÃ§Ãµes do cÃ³digo no mesmo estilo do CVS ou SVN, e qualquer
+modificaÃ§Ã£o feita pelo mantenedor do cÃ³digo original Ã© implementado
+em seu pacote em fragmentos, equivalentes Ã s linhas que foram
+adicionadas ou modificadas.</p><p>Agora que estou lendo o parÃ¡grafo acima, notei que a explicaÃ§Ã£o nÃ£o
+foi muito bem feita. Quem sabe um exemplo mais simples ajudaria a causa?</p><p>Imagine entÃ£o que vocÃª instalou seu programa preferido de ler fontes
+de notÃ­cias RSS. Beleza! Vamos entÃ£o imaginar que amanhÃ£ o
+desenvolvidor/mantenedor deste programa descobre um erro, e rapidamente
+modifica <strong>uma linha</strong> de seu cÃ³digo para consertar este bug. Note a
+Ãªnfase em <strong>uma linha</strong>. Eu, como desenvolvidor do Foresight empacoto
+esta versÃ£o e a habilito em nossos repositÃ³rios para consumo geral.
+Quando um usuÃ¡rio atualizar seu sistema, ele estarÃ¡ baixando o
+equivalente Ã  aquela <strong>uma linha</strong> de cÃ³digo&mldr; e sÃ³! Em qualquer
+outro sistema de empacotamento, vocÃª tem de baixar o cÃ³digo
+(compilado) do programa inteiro para atualizar, mas o Conary te permite
+atualizar somente a diferenÃ§a (diff)!</p><p>Bem, vamos entÃ£o imaginar que vocÃª estÃ¡ preparado para empacotar algo
+usando o Conary. Existem alguns passos importantes que sÃ£o necessÃ¡rios
+antes de vocÃª poder empacotar, mas vou deixar estes detalhes para um
+prÃ³ximo artigo. Por agora, vou usar o meu prÃ³prio programa,
+<a href=http://billreminder.sourceforge.net/>BillReminder</a>, como exemplo.</p><p>BillReminder Ã© um cÃ³digo escrito em python e pygtk, atualmente
+hospedado no SourceForge.net. A versÃ£o atual disponibilizada para
+download Ã© a versÃ£o 0.1.1. O motivo porque estou mencionando isso
+ficarÃ¡ mais claro em alguns segundos.</p><p>Para empacotar qualquer coisa com o Conary, tudo que vocÃª precisa fazer
+Ã© criar um arquivo com instruÃ§Ãµes sobre onde e como conseguir o
+cÃ³digo fonte, entre outras coisas. Este arquivo, conhecido pelas
+pessoas acostumados com o Conary como &ldquo;recipe&rdquo;, ou &ldquo;receita&rdquo; em
+portuguÃªs, possui uma sintaxe bem &ldquo;pythÃ´nica&rdquo;, simples e clara. Segue
+abaixo minha pequena receita:</p><blockquote><p>class BillReminder(PackageRecipe): name = &lsquo;billreminder&rsquo; version =
+&lsquo;0.1.1&rsquo; buildRequires = [] def setup(r):
+r.addArchive(&lsquo;mirror://sourceforge/%(name)s/&rsquo;) r.PythonSetup()</p></blockquote><p>Este modelo de receita Ã© bem bÃ¡sico, especial para empacotar programas
+escritos em python. Note as informaÃ§Ãµes bÃ¡sicas, como nome, versÃ£o,
+e localizaÃ§Ã£o do cÃ³digo fonte. Devido ao seu &ldquo;sabor&rdquo; de python,
+podemos utilizar de expansÃ£o de variÃ¡veis para criar um URL dinÃ¢mico.
+a linha</p><blockquote><p>r.addArchive(&lsquo;mirror://sourceforge/%(name)s/&rsquo;)</p></blockquote><p>entÃ£o Ã© &ldquo;traduzida&rdquo; para: baixe a fonte em algum mirror do
+sourceforge.net, e procure pelo programa %(name)s, ou seja,
+billreminder. O sistema conary consegue &ldquo;adivinhar&rdquo; de forma lÃ³gica
+qual o pacote fonte para baixar, utilizando o nome e a versÃ£o para
+distinguir de qualquer outro programa ou versÃ£o disponÃ­vel no mesmo
+local. Se vocÃª fosse entÃ£o empacotar outro programa que tambÃ©m
+estivesse hospedado no Sourceforge.net, bastaria vocÃª modificar a
+variÃ¡vel &ldquo;name&rdquo; e &ldquo;version&rdquo;. Caso o cÃ³digo fonte estivesse em um outro
+servidor (sem mirrors), vocÃª modificaria o URL.</p><blockquote><p>r.addArchive(&rsquo;<a href=http://%5Bservidor%5D/%25(name)s/>http://[servidor]/%(name)s/</a>&rsquo;)</p></blockquote><p>Depois de fazer e salvar nossa receita como billreminder.recipe (o final
+do nome do arquivo tem de ser .recipe), Ã© hora de &ldquo;cozinharmos&rdquo;.
+Geralmente, vocÃª &ldquo;cozinha&rdquo; sua receita 2 vezes. Na primeira vez, o
+sistema conary irÃ¡ baixar o cÃ³digo fonte, compilÃ¡-lo, e completamente
+(e automaticamente) nos informar sobre todas as dependÃªncias
+necessÃ¡rias para empacotar o programa. Rodando o comando:</p><blockquote><p>cvc cook billreminder.recipe</p></blockquote><p>nos devolve, entre muitas linhas de saÃ­da, a seguinte lista de
+dependÃªncias:</p><blockquote><p>'python-setuptools:python', 'dbus-python:python',
+'desktop-file-utils:runtime', 'notify-python:python',
+'pygobject:python', 'pygtk:python', 'python-sqlite:python'</p></blockquote><p>Ou seja, estes sÃ£o os nomes dos pacotes e componentes requeridos pelo
+BillReminder. Editamos mais uma vez nossa &ldquo;receita&rdquo;, adicionando as
+dependÃªncias na variÃ¡vel &ldquo;buildRequires&rdquo;.</p><blockquote><p>class BillReminder(PackageRecipe): name = &lsquo;billreminder&rsquo; version =
+&lsquo;0.1.1&rsquo; buildRequires = [&lsquo;python-setuptools:python&rsquo;,
+&lsquo;dbus-python:python&rsquo;, &lsquo;desktop-file-utils:runtime&rsquo;,
+&rsquo;notify-python:python&rsquo;, &lsquo;pygobject:python&rsquo;, &lsquo;pygtk:python&rsquo;,
+&lsquo;python-sqlite:python&rsquo;] def setup(r):
+r.addArchive(&lsquo;mirror://sourceforge/%(name)s/&rsquo;) r.PythonSetup()</p></blockquote><p>e cozinhamos mais uma vez com o mesmo comando anterior. Depois de mais
+alguns minutos, um arquivo contendo o programa compilado e todos os
+arquivos por ele usado serÃ¡ gerado. O nome deste arquivo Ã© geralmente
+formado pelo nome do programa, billreminder, e a versÃ£o, 0.1.1,
+separados por um hÃ­fen, e terminando com um &ldquo;.css&rdquo;. Para instalar o
+programa, basta agora usar o conary.</p><p>sudo conary update billreminder-0.1.1.css</p><p>e pronto! Como eu tinha mencionado antes, existem algumas coisas que eu
+nÃ£o mencionei aqui, coisas que te ajudam a disponibilizar este pacote
+em um repositÃ³rio para que outros possam consumÃ­-lo. Prometo que vou
+detalhar estes detalhes em um prÃ³ximo artigo, mas sÃ³ para terminar o
+processo, uma vez que seu pacote esteja em um repositÃ³rio, outras
+pessoas poderÃ£o instalÃ¡-lo usando somente o nome do pacote (sem a
+versÃ£o e o .css).</p><p>Uma outra coisa muito interessante do conary, Ã© o novo recurso de
+&ldquo;cozinhar&rdquo; cÃ³digo diretamente de um repositÃ³rio SVN, CVS, ou
+Mercurial. Este recurso foi lanÃ§ado ainda ontem (conary versÃ£o 1.1.23)
+e eu jÃ¡ tenho planos de empacotar o BillReminder desta forma.</p><p>Bem, espero nÃ£o ter sido muito tÃ©cnico ou vago neste artigo. Ainda
+estou aprendendo sobre o conary, e pretendo descrever em meu blog mais
+detalhes desta fascinante tecnologia!</p></div><div class=prev-next></div><svg id="btt-button" class="arrow-logo" height="1em" viewBox="0 0 384 512" onclick="scrollToTop()" title="Go to top"><path d="M177 159.7l136 136c9.4 9.4 9.4 24.6.0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9.0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9.0L7 329.7c-9.4-9.4-9.4-24.6.0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z"/></svg>
+<script>let backToTopButton=document.getElementById("btt-button");window.onscroll=function(){scrollFunction()};function scrollFunction(){document.body.scrollTop>20||document.documentElement.scrollTop>20?backToTopButton.style.display="block":backToTopButton.style.display="none"}function scrollToTop(){window.scrollTo(0,0)}</script></div></main><footer class=footer><span>&copy; 2007 Og Maciel © 2005-2025</span>
+<span>Made with &#10084;&#65039; using <a target=_blank href=https://github.com/gokarna-theme/gokarna-hugo>Gokarna</a></span></footer></body></html>

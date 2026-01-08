@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eclipse on Og Maciel's Journal</title><link>http://localhost:1313/tags/eclipse/</link><description>Recent content in Eclipse on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 16 May 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/eclipse/index.xml" rel="self" type="application/rss+xml"/><item><title>Setting up Vim for Clojure development notes</title><link>http://localhost:1313/posts/setting-up-vim-for-clojure-development-notes/</link><pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/setting-up-vim-for-clojure-development-notes/</guid><description>&lt;p&gt;Started the process of getting jiggy with &lt;a href="http://clojure.org/"&gt;Clojure&lt;/a&gt;
+at work and didn&amp;rsquo;t like the idea of using &lt;strong&gt;Eclipse&lt;/strong&gt; for my day to day
+work&amp;hellip; so I started looking at how to make &lt;strong&gt;vim&lt;/strong&gt; and &lt;strong&gt;clojure&lt;/strong&gt; get
+along and came across a great &lt;a href="http://writequit.org/blog/?p=386"&gt;post&lt;/a&gt;!
+Here are the distilled notes plus minor tweaks to get anyone out there
+trying to do the same thing going:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Download &lt;strong&gt;VimClojure&lt;/strong&gt;
+(&lt;a href="http://www.vim.org/scripts/script.php?script_id=2501"&gt;http://www.vim.org/scripts/script.php?script_id=2501&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Download &lt;strong&gt;VimSlime&lt;/strong&gt; (&lt;a href="https://github.com/jpalardy/vim-slime"&gt;https://github.com/jpalardy/vim-slime&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Extract these files into your &lt;strong&gt;~/.vim&lt;/strong&gt; folder&lt;/li&gt;
+&lt;li&gt;Add the following lines to &lt;strong&gt;~/.vimrc&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&amp;quot; Settings for VimClojure&lt;/li&gt;
+&lt;li&gt;let vimclojure#HighlightBuiltins = 1&lt;/li&gt;
+&lt;li&gt;let vimclojure#ParenRainbow = 1&lt;/li&gt;
+&lt;li&gt;&amp;quot; Send entire file to repl&lt;/li&gt;
+&lt;li&gt;nmap &amp;lt;C-m&amp;gt; ggVG&amp;lt;C-c&amp;gt;&amp;lt;C-c&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Start a repl session inside screen:
+&lt;ul&gt;
+&lt;li&gt;screen -S clojure&lt;/li&gt;
+&lt;li&gt;lein repl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Open a clojure file with vim and highlight the method you want to
+evaluate&lt;/li&gt;
+&lt;li&gt;Press ctrl + c twice
+&lt;ul&gt;
+&lt;li&gt;For session name prompt, enter &amp;lsquo;clojure&amp;rsquo; which is the name of
+the screen session&lt;/li&gt;
+&lt;li&gt;For window name prompt, accept the default number displayed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The selected code should be evaluated in the screen session&lt;/li&gt;
+&lt;li&gt;Press ctrl + c, v to get prompt again&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src="http://dl.dropbox.com/u/102224/vim_clojure.png" alt="Vim and Clojure sitting on a
+tree"&gt;&lt;/p&gt;</description></item></channel></rss>

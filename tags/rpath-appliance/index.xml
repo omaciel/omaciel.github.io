@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rpath, Appliance on Og Maciel's Journal</title><link>http://localhost:1313/tags/rpath-appliance/</link><description>Recent content in Rpath, Appliance on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2006 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rpath-appliance/index.xml" rel="self" type="application/rss+xml"/><item><title>Pastebin as a Linux Appliance</title><link>http://localhost:1313/posts/pastebin-as-a-linux-appliance/</link><pubDate>Mon, 11 Dec 2006 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/pastebin-as-a-linux-appliance/</guid><description>&lt;p&gt;My co-worker &lt;a href="http://blogs.conary.com/index.php/elliot"&gt;Elliot Peele&lt;/a&gt;
+just released the &lt;a href="http://www.rpath.org/rbuilder/project/pastebin/release?id=5225"&gt;Pastebin
+Appliance&lt;/a&gt;
+using &lt;a href="http://www.rpath.com/rbuilder/"&gt;rBuilder Online&lt;/a&gt; and
+&lt;a href="http://wiki.rpath.com/wiki/Conary"&gt;conary&lt;/a&gt;. This is actually pretty
+cool and it will be extremely useful for those who want to have the
+features of a pastebin but don&amp;rsquo;t want to roll up their sleeves and
+install all the necessary pieces from scratch. You could even have it
+running on vmware and use it as such!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m sure that in a not so distant future people will really take
+advantage of virtualization and Linux appliances. It will be like having
+a computer system where the operating system is irrelevant and people
+will be able to pop in/out whatever features they want in the same
+manner one changes drill bits while doing some work in the house. Need a
+MythTV-like system? Pop the right appliance in and off you go! Need a
+robust [Oracle | MySQL | Postgres] database server? You get the
+gist. ;)&lt;/p&gt;</description></item><item><title>Usando Linux como eletrodomesticos</title><link>http://localhost:1313/posts/usando-linux-como-eletrodomesticos/</link><pubDate>Mon, 11 Dec 2006 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/usando-linux-como-eletrodomesticos/</guid><description>&lt;p&gt;Hoje um dos meus amigos no trabalho
+&lt;a href="http://www.rpath.org/rbuilder/project/login-appliance/release?id=5224"&gt;anunciou&lt;/a&gt;
+o lancamento de um Linux Appliance (a traducao literal seria
+eletrodomestico) com o Pastebin. Mas o que e&amp;rsquo; um Linux Appliance? Este
+foi um termo cunhado por minha &lt;a href="http://www.rpath.org/"&gt;companhia&lt;/a&gt; (tenho
+quase certeza sobre isso) para descrever a habilidade de criar
+instalacoes de software usando Linux, sem as complicacoes que existem
+para instalar e configurar um novo sistema. O mecanismo funciona mais ou
+menos assim:&lt;/p&gt;</description></item></channel></rss>

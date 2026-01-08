@@ -1,0 +1,167 @@
+<!doctype html><html lang=en><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{--accent-color:#FF4D4D;--font-size:1.1rem}</style><title>Splitting WordPress Export File with ChoppedPress</title><meta name=description content="
+You&rsquo;re all probably tired of hearing me talking about my script to split the XML-like file that WordPress generates when you use the Export feature. …"><meta name=keywords content='blog,technology,books,reading,software engineering,quality engineering,english,lxml,python,optparse,wordpress'><meta property="og:url" content="http://localhost:1313/posts/splitting-wordpress-export-file-with-choppedpress/"><meta property="og:type" content="website"><meta property="og:title" content="Splitting WordPress Export File with ChoppedPress"><meta property="og:description" content="
+You&rsquo;re all probably tired of hearing me talking about my script to split the XML-like file that WordPress generates when you use the Export feature. …"><meta property="og:image" content="http://localhost:1313/images/cartoon_avatar.png"><meta property="og:image:secure_url" content="http://localhost:1313/images/cartoon_avatar.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:title content="Splitting WordPress Export File with ChoppedPress"><meta name=twitter:description content="
+You&rsquo;re all probably tired of hearing me talking about my script to split the XML-like file that WordPress generates when you use the Export feature. …"><meta property="twitter:domain" content="http://localhost:1313/posts/splitting-wordpress-export-file-with-choppedpress/"><meta property="twitter:url" content="http://localhost:1313/posts/splitting-wordpress-export-file-with-choppedpress/"><meta name=twitter:image content="http://localhost:1313/images/cartoon_avatar.png"><link rel=canonical href=http://localhost:1313/posts/splitting-wordpress-export-file-with-choppedpress/><link rel=stylesheet type=text/css href=/css/normalize.min.css media=print><link rel=stylesheet type=text/css href=/css/main.min.css><link id=dark-theme rel=stylesheet href=/css/dark.min.css><script src=/js/bundle.min.7136b4abac7b277aba8bc933917f4602d39a5c44f5590be687244bc86ef4f162.js integrity="sha256-cTa0q6x7J3q6i8kzkX9GAtOaXET1WQvmhyRLyG708WI="></script><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><link rel=icon href=/favicon.ico><link rel="shortcut icon" href=/favicon.ico><link rel=apple-touch-icon href=/images/ogmaciel.jpg></head><body><script>setThemeByUserPref()</script><header class=header><nav class=header-nav><div class=avatar><a href=http://localhost:1313/><img src=/images/cartoon_avatar.png alt="Og Maciel"></a></div><div class=nav-title><a class=nav-brand href=http://localhost:1313/>Og Maciel's Journal</a></div><div class=nav-links><div class=nav-link><a href=http://localhost:1313/ aria-label><span data-feather=home></span> Home</a></div><div class=nav-link><a href=http://localhost:1313/books/ aria-label><span data-feather=book-open></span> Books</a></div><div class=nav-link><a href=http://localhost:1313/posts/ aria-label><span data-feather=book></span> Posts</a></div><div class=nav-link><a href=http://localhost:1313/projects/ aria-label=projects><span data-feather=code></span> Projects</a></div><div class=nav-link><a href=http://localhost:1313/tags/ aria-label><span data-feather=tag></span> Tags</a></div><div class=nav-link><a href=http://localhost:1313/about/ aria-label><span data-feather=user></span> About</a></div><div class=nav-link><a href=http://localhost:1313/index.xml aria-label=rss><span data-feather=rss></span></a></div><span class=nav-icons-divider></span><div class="nav-link dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a aria-hidden=true role=switch><span class=theme-toggle-icon data-feather=moon></span></a></div><div class=nav-link id=hamburger-menu-toggle><span class="sr-only hamburger-menu-toggle-screen-reader-target">menu</span>
+<a aria-checked=false aria-labelledby=hamburger-menu-toggle id=hamburger-menu-toggle-target role=switch><span data-feather=menu></span></a></div><ul class="nav-hamburger-list visibility-hidden"><li class=nav-item><a href=http://localhost:1313/><span data-feather=home></span> Home</a></li><li class=nav-item><a href=http://localhost:1313/books/><span data-feather=book-open></span> Books</a></li><li class=nav-item><a href=http://localhost:1313/posts/><span data-feather=book></span> Posts</a></li><li class=nav-item><a href=http://localhost:1313/projects/><span data-feather=code></span> Projects</a></li><li class=nav-item><a href=http://localhost:1313/tags/><span data-feather=tag></span> Tags</a></li><li class=nav-item><a href=http://localhost:1313/about/><span data-feather=user></span> About</a></li><li class=nav-item><a href=http://localhost:1313/index.xml><span data-feather=rss></span></a></li><li class="nav-item dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a role=switch><span class=theme-toggle-icon data-feather=moon></span></a></li></ul></div></nav></header><main id=content><div class="post container"><div class=post-header-section><h1>Splitting WordPress Export File with ChoppedPress</h1><small role=doc-subtitle></small><p class=post-date>April 29, 2010</p><ul class=post-tags><li class=post-tag><a href=http://localhost:1313/tags/english-lxml-python-optparse-wordpress>english, lxml, python, optparse, wordpress</a></li></ul></div><div class=post-content><p><a href=http://www.flickr.com/photos/802/85806375/><img src=http://bit.ly/aFbsJG alt="Four Views of a Book Press by
+802"></a></p><p>You&rsquo;re all probably tired of hearing me talking about my script to split
+the XML-like file that <strong>WordPress</strong> generates when you use the
+<strong>Export</strong> feature. Tonight I have finally added the final touches to it
+and can now share it here with you.</p><p>If you don&rsquo;t remember, I wrote it because my good friend <strong>Evandro</strong>
+from <a href=http://www.quartoestudio.com/en/>QuartoEstudio.com</a> is always
+getting asked by some of his clients to migrate an existing web blog to
+a new host/domain and hands him a tarball containing the exported
+content of a <strong>WordPress</strong> blog in <strong>XML</strong> format. The problem resides
+on the issue that some web hosting providers will limit how big a file
+can be uploaded via a POST method, and depending on how big this XML
+file is, you may have to manually break it into smaller files first.</p><p>Along the way I learned a bit more about
+<a href=http://bit.ly/amtEtM>OptParse</a>, <a href=http://codespeak.net/lxml/>LXML</a> and
+<a href=http://www.crummy.com/software/BeautifulSoup/>Beautiful Soup</a>, so the
+entire experience was very productive and fun. In the end, I solved my
+issue by simple using the <strong>*strip_cdata=False</strong>* argument to the
+<strong>XMLParser</strong> class. Got to love when the solution is that simple!</p><p>So, without further ado, I present you
+<strong>ChoppedPress</strong>(<a href=https://bitbucket.org/omaciel/playground/raw/2e2a4cef1bac/choppedpress>download</a>)!
+In the next few days (or weeks, depending on what my schedule looks
+like) I will make it more robust and add more error handling, etc. In
+the meantime, I hope you will find it useful.</p><pre tabindex=0><code># -*- coding: utf-8 -*-
+
+&#34;&#34;&#34;
+Copyright (c) 2010, Og Maciel 
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted
+provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice, this list of
+      conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright notice, this list
+      of conditions and the following disclaimer in the documentation and/or other materials
+      provided with the distribution.
+    * Neither the name of the Og Maciel nor the names of its contributors may be used to
+      endorse or promote products derived from this software without specific prior written
+      permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+â€œAS ISâ€ AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+&#34;&#34;&#34;
+
+import os
+import sys
+
+try:
+    from lxml import etree
+except ImportError:
+    print &#34;Please install lxml and try again: http://codespeak.net/lxml/&#34;
+    sys.exit(-1)
+
+from optparse import OptionParser
+
+# This is the default xml tag for wordpress
+WP_TAG = &#34;/rss/channel/item&#34;
+OUTFILE = &#34;outfile&#34;
+CHUNKSIZE = 2
+TMPFILE = &#34;/tmp/template.xml&#34;
+
+# Function found on ActiveState Code
+# Licensed under the PSF license
+# http://code.activestate.com/recipes/425397-split-a-list-into-roughly-equal-sized-pieces/
+def split_seq(seq, size):
+    newseq = []
+    splitsize = 1.0/size*len(seq)
+    for i in range(size):
+            newseq.append(seq[int(round(i*splitsize)):int(round((i+1)*splitsize))])
+
+    return newseq
+
+def chopit(xmlfile, outfile=OUTFILE, xmltag=WP_TAG, chunksize=CHUNKSIZE):
+    parser = etree.XMLParser(resolve_entities=False, encoding=&#34;utf-8&#34;, strip_cdata=False)
+    doc = etree.parse(xmlfile, parser)
+
+    matches = doc.xpath(xmltag)
+    print &#34;Found %s blog posts!&#34; % len(matches)
+    matcheslist = split_seq(matches, chunksize)
+
+    channel = doc.getroot().find(&#39;channel&#39;)
+
+    # Create an empty wordpress xml file
+    for e in matches:
+        channel.remove(e)
+    doc.write(TMPFILE, encoding=&#34;utf-8&#34;, method=&#34;xml&#34;, pretty_print=True)
+
+    # Now, create smaller wordpress xml files
+    ctr = len(matcheslist)
+    print &#34;Breaking WordPress XML into %s smaller files.&#34; % ctr
+    for entities in matcheslist:
+        doc = etree.parse(TMPFILE)
+        channel = doc.getroot().find(&#39;channel&#39;)
+        for entity in entities:
+            channel.append(entity)
+
+        output = &#39;%s%03d.xml&#39; % (outfile, ctr)
+        doc.write(output, encoding=&#39;utf-8&#39;, method=&#34;xml&#34;, pretty_print=True)
+        print &#34; - File %s has %s posts.&#34; % (output, len(entities))
+        ctr -= 1
+    print &#34;Done!&#34;
+
+def main():
+
+    description = &#34;ChoppedPress lets you split the WordPress XML export file &#34; 
+    &#34;into smaller files that can be used to import your posts, comments, tags&#34; 
+    &#34; and categories into a new WordPress installation.&#34;
+
+    usage = &#34;Usage:  %prog  [[] [] []]&#34;
+    epilog = &#34;Constructive comments and feedback can be sent to ogmaciel at gnome dot org.&#34;
+    version = &#34;%prog version 0.1&#34;
+
+    parser = OptionParser(usage=usage, description=description, epilog=epilog, version=version)
+    parser.add_option(&#39;-i&#39;, &#39;--infile&#39;, dest=&#39;infile&#39;, metavar=&#39;&#39;, help=&#39;The XML file generated by WordPress&#39;)
+    parser.add_option(&#39;-o&#39;, &#39;--outfile&#39;, dest=&#39;outfile&#39;, default=&#39;out&#39;, metavar=&#39;&#39;, help=&#39;The name for the smaller XML files. [default: %default]&#39;)
+    parser.add_option(&#39;-t&#39;, &#39;--tag&#39;, dest=&#39;tag&#39;, default=&#39;/rss/channel/item&#39;, help=&#39;The XML tag that represents your data. [default: %default]&#39;)
+    parser.add_option(&#39;-n&#39;, &#39;--number&#39;, dest=&#39;number&#39;, default=2, type=int, help=&#39;How many new files should be generated. [default: %default]&#39;)
+
+    # Verify arguments
+    (opts, args) = parser.parse_args()
+
+    if not opts.infile:
+        parser.print_help()
+        sys.exit(-1)
+
+    chopit(opts.infile, opts.outfile, opts.tag, opts.number)
+
+if __name__ == &#34;__main__&#34;:
+    main()
+</code></pre><p>The usage should be pretty straight forward too:</p><pre tabindex=0><code>$ python choppedpress
+Usage:  choppedpress  &lt;INFILE&gt; [[&lt;OUTFILE&gt;] [&lt;TAG&gt;] [&lt;NUMBER&gt;]]
+
+ChoppedPress lets you split the WordPress XML export file into smaller files
+that can be used to import your posts, comments, tags and categories into a
+new WordPress installation.
+
+Options:
+  --version             show program&#39;s version number and exit
+  -h, --help            show this help message and exit
+  -i , --infile=
+                        The XML file generated by WordPress
+  -o , --outfile=
+                        The name for the smaller XML files. [default: out]
+  -t TAG, --tag=TAG     The XML tag that represents your data. [default:
+                        /rss/channel/item]
+  -n NUMBER, --number=NUMBER
+                        How many new files should be generated. [default: 2]
+
+Constructive comments and feedback can be sent to ogmaciel at gnome dot org.
+</code></pre><p>If you have any constructive comment or suggestion, please drop me a
+line or comment here.</p></div><div class=prev-next></div><svg id="btt-button" class="arrow-logo" height="1em" viewBox="0 0 384 512" onclick="scrollToTop()" title="Go to top"><path d="M177 159.7l136 136c9.4 9.4 9.4 24.6.0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9.0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9.0L7 329.7c-9.4-9.4-9.4-24.6.0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z"/></svg>
+<script>let backToTopButton=document.getElementById("btt-button");window.onscroll=function(){scrollFunction()};function scrollFunction(){document.body.scrollTop>20||document.documentElement.scrollTop>20?backToTopButton.style.display="block":backToTopButton.style.display="none"}function scrollToTop(){window.scrollTo(0,0)}</script></div></main><footer class=footer><span>&copy; 2010 Og Maciel © 2005-2025</span>
+<span>Made with &#10084;&#65039; using <a target=_blank href=https://github.com/gokarna-theme/gokarna-hugo>Gokarna</a></span></footer></body></html>

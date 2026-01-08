@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Csharp on Og Maciel's Journal</title><link>http://localhost:1313/tags/csharp/</link><description>Recent content in Csharp on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 30 Mar 2005 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/csharp/index.xml" rel="self" type="application/rss+xml"/><item><title>Calling All Constructors</title><link>http://localhost:1313/posts/calling-all-constructors/</link><pubDate>Wed, 30 Mar 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/calling-all-constructors/</guid><description>&lt;p&gt;I wanted to change some code I had written last week so that an
+::google(&amp;ldquo;overloaded constructor&amp;rdquo;, &amp;ldquo;overloaded constructor&amp;rdquo;):: would
+call the default constructor. This is usefull when you have to perform
+an initialization to a class member no matter what constructor is called
+during the class&amp;rsquo; initialization. I faintly remembered Java&amp;rsquo;s Base and
+SuperBase(?) syntax and tried several combinations of &lt;strong&gt;this&lt;/strong&gt; and
+&lt;strong&gt;base&lt;/strong&gt; keywords. Nothing seemed to work&amp;hellip; That&amp;rsquo;s when I came across
+&lt;a href="http://weblogs.asp.net/acampbell/archive/2005/02/02/365299.aspx"&gt;this&lt;/a&gt;
+post which gave me the answer:&lt;/p&gt;</description></item></channel></rss>

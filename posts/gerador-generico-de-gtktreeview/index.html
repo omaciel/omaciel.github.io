@@ -1,0 +1,301 @@
+<!doctype html><html lang=en><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{--accent-color:#FF4D4D;--font-size:1.1rem}</style><title>Gerador GenÃ©rico de Gtk.TreeView</title><meta name=description content="Muitas pessoas jÃ¡ me pediram para publicar meu cÃ³digo que tenta facilitar o processo de criar e usar um Gtk.TreeView (veja este post). A verdade Ã© que minha …"><meta name=keywords content='blog,technology,books,reading,software engineering,quality engineering,portuguese'><meta property="og:url" content="http://localhost:1313/posts/gerador-generico-de-gtktreeview/"><meta property="og:type" content="website"><meta property="og:title" content="Gerador GenÃ©rico de Gtk.TreeView"><meta property="og:description" content="Muitas pessoas jÃ¡ me pediram para publicar meu cÃ³digo que tenta facilitar o processo de criar e usar um Gtk.TreeView (veja este post). A verdade Ã© que minha …"><meta property="og:image" content="http://localhost:1313/images/cartoon_avatar.png"><meta property="og:image:secure_url" content="http://localhost:1313/images/cartoon_avatar.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:title content="Gerador GenÃ©rico de Gtk.TreeView"><meta name=twitter:description content="Muitas pessoas jÃ¡ me pediram para publicar meu cÃ³digo que tenta facilitar o processo de criar e usar um Gtk.TreeView (veja este post). A verdade Ã© que minha …"><meta property="twitter:domain" content="http://localhost:1313/posts/gerador-generico-de-gtktreeview/"><meta property="twitter:url" content="http://localhost:1313/posts/gerador-generico-de-gtktreeview/"><meta name=twitter:image content="http://localhost:1313/images/cartoon_avatar.png"><link rel=canonical href=http://localhost:1313/posts/gerador-generico-de-gtktreeview/><link rel=stylesheet type=text/css href=/css/normalize.min.css media=print><link rel=stylesheet type=text/css href=/css/main.min.css><link id=dark-theme rel=stylesheet href=/css/dark.min.css><script src=/js/bundle.min.7136b4abac7b277aba8bc933917f4602d39a5c44f5590be687244bc86ef4f162.js integrity="sha256-cTa0q6x7J3q6i8kzkX9GAtOaXET1WQvmhyRLyG708WI="></script><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><link rel=icon href=/favicon.ico><link rel="shortcut icon" href=/favicon.ico><link rel=apple-touch-icon href=/images/ogmaciel.jpg></head><body><script>setThemeByUserPref()</script><header class=header><nav class=header-nav><div class=avatar><a href=http://localhost:1313/><img src=/images/cartoon_avatar.png alt="Og Maciel"></a></div><div class=nav-title><a class=nav-brand href=http://localhost:1313/>Og Maciel's Journal</a></div><div class=nav-links><div class=nav-link><a href=http://localhost:1313/ aria-label><span data-feather=home></span> Home</a></div><div class=nav-link><a href=http://localhost:1313/books/ aria-label><span data-feather=book-open></span> Books</a></div><div class=nav-link><a href=http://localhost:1313/posts/ aria-label><span data-feather=book></span> Posts</a></div><div class=nav-link><a href=http://localhost:1313/projects/ aria-label=projects><span data-feather=code></span> Projects</a></div><div class=nav-link><a href=http://localhost:1313/tags/ aria-label><span data-feather=tag></span> Tags</a></div><div class=nav-link><a href=http://localhost:1313/about/ aria-label><span data-feather=user></span> About</a></div><div class=nav-link><a href=http://localhost:1313/index.xml aria-label=rss><span data-feather=rss></span></a></div><span class=nav-icons-divider></span><div class="nav-link dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a aria-hidden=true role=switch><span class=theme-toggle-icon data-feather=moon></span></a></div><div class=nav-link id=hamburger-menu-toggle><span class="sr-only hamburger-menu-toggle-screen-reader-target">menu</span>
+<a aria-checked=false aria-labelledby=hamburger-menu-toggle id=hamburger-menu-toggle-target role=switch><span data-feather=menu></span></a></div><ul class="nav-hamburger-list visibility-hidden"><li class=nav-item><a href=http://localhost:1313/><span data-feather=home></span> Home</a></li><li class=nav-item><a href=http://localhost:1313/books/><span data-feather=book-open></span> Books</a></li><li class=nav-item><a href=http://localhost:1313/posts/><span data-feather=book></span> Posts</a></li><li class=nav-item><a href=http://localhost:1313/projects/><span data-feather=code></span> Projects</a></li><li class=nav-item><a href=http://localhost:1313/tags/><span data-feather=tag></span> Tags</a></li><li class=nav-item><a href=http://localhost:1313/about/><span data-feather=user></span> About</a></li><li class=nav-item><a href=http://localhost:1313/index.xml><span data-feather=rss></span></a></li><li class="nav-item dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a role=switch><span class=theme-toggle-icon data-feather=moon></span></a></li></ul></div></nav></header><main id=content><div class="post container"><div class=post-header-section><h1>Gerador GenÃ©rico de Gtk.TreeView</h1><small role=doc-subtitle></small><p class=post-date>June 16, 2007</p><ul class=post-tags><li class=post-tag><a href=http://localhost:1313/tags/portuguese>portuguese</a></li></ul></div><div class=post-content><p>Muitas pessoas jÃ¡ me pediram para publicar meu cÃ³digo que tenta
+facilitar o processo de criar e usar um Gtk.TreeView (veja
+<a href="http://blog.ogmaciel.com/?p=291">este</a> post). A verdade Ã© que minha
+vida anda meio que de cabeÃ§a para baixo nestas Ãºltimas 5-6 semanas, e
+eu nÃ£o tive tempo de trabalhar neste cÃ³digo. Mas eu ainda acho que
+isso pode ser Ãºtil a alguÃ©m, mesmo que como uma ferramente de
+aprendizagem. O cÃ³digo serÃ¡ publicado em alguns repositÃ³rios ainda
+hoje, mas enquanto isso, vocÃª pode copiÃ¡-lo aqui mesmo (continue lendo
+este post). Estou tambÃ©m incluindo uma classe derivada como um exemplo
+de como usar essa classe genÃ©rica.</p><p><strong>genericlistview.py</strong></p><pre tabindex=0><code>&#34;&#34;&#34;
+Copyright (c) 2007, Og Maciel 
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted
+provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice, this list of
+      conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright notice, this list
+      of conditions and the following disclaimer in the documentation and/or other materials
+      provided with the distribution.
+    * Neither the name of the Og Maciel nor the names of its contributors may be used to
+      endorse or promote products derived from this software without specific prior written
+      permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+&#34;AS IS&#34; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+&#34;&#34;&#34;
+
+# -*- coding: utf-8 -*-
+
+import gtk
+import gobject
+
+class GenericListView(gtk.TreeView):
+    &#34;&#34;&#34;
+    This class represent a generic ListView
+    &#34;&#34;&#34;
+
+    def __init__ (self, columns=None):
+        &#34;&#34;&#34;
+        Constructor
+
+        @type columns: dictionary
+        @param columns: Dictionary containing ordered list of the columns to be displayed,
+            with the index as its key, followed by a list containing the column
+            title, and gtk.CellRenderer type.
+            Ex: columns = {0: [None, gtk.CellRendererToggle()]}
+        @rtype: None
+        @return: None.
+        &#34;&#34;&#34;
+        # Call the super class
+        gtk.TreeView.__init__ (self)
+
+        # If columns were passed, use them.  Else, columns from derived class.
+        if columns:
+            self.columns = columns
+
+        #self.set_fixed_height_mode(True)
+
+        # Setup the list
+        self._setupListView(self.columns)
+
+    def _setupListView(self, columns):
+        &#34;&#34;&#34;
+        Initializes the ListView object by dynamically creating a ListStore
+        and adding necessary columns based on the @columns parameter.
+
+        @type columns: dictionary
+        @param columns: Dictionary containing ordered list of the columns to be displayed,
+            with the index as its key, followed by a list containing the column
+            title, gtk.CellRenderer type, and custom function.
+            Ex: columns = {0: [None, gtk.CellRendererToggle(), myfunction]}
+        @rtype: None
+        @return: None.
+        &#34;&#34;&#34;
+        # Temporary containers for datatypes and treeviewcolumns
+        dataTypes = []
+        treeViewColumns = []
+        # Extract information from dictionary value
+        for key, value in columns.items():
+            # Column title
+            title = value[0]
+            # Column gtk.CellRenderer
+            cellrenderer = value[1]
+
+            # Get data type
+            dataType = self._getColumnInfo(cellrenderer)
+            # Get gtk.TreeViewColumn
+            tvColumn = self._getTreeViewColumn(title, cellrenderer, key)
+            # Add to temporary datatype and treeviewcolumns containers
+            dataTypes.append(dataType)
+            treeViewColumns.append(tvColumn)
+
+        # Defines the TreeStore
+        #self.listStore = gtk.ListStore(*dataTypes)
+        self.listStore = gtk.TreeStore(*dataTypes)
+        # Associates the listStore to the ListView object
+        self.set_model(self.listStore)
+
+        # Add columns to the List
+        for column in treeViewColumns:
+            self.append_column(column)
+
+        # If TRUE, hint to the theme engine to draw rows in alternating colors.
+        self.set_rules_hint(True)
+
+    def _getTreeViewColumn(self, title, type, index):
+        &#34;&#34;&#34;
+        Returns a gtk.TreeViewColumn with the title, gtk.CellRenderer,
+        and attributes based on the title and CellRendererType passed.
+
+        @type title: string
+        @param title: String containing text to display as column header.
+        @type type: gtk.CellRenderer
+        @param type: gtk.CellRenderer to associate with column.
+        @type index: integer
+        @param index: This is the location where the new gtk.TreeViewColumn will obtain its data.
+        @rtype: gtk.TreeViewColumn
+        @return: Returns a gtk.TreeViewColumn with the title, gtk.CellRenderer,
+            and attributes based on the title and CellRendererType passed.
+        &#34;&#34;&#34;
+        if isinstance(type, gtk.CellRendererToggle):
+            tvcolumn = gtk.TreeViewColumn(title, type, active=index)
+        elif isinstance(type, gtk.CellRendererPixbuf):
+            tvcolumn = gtk.TreeViewColumn(title, type, pixbuf=index)
+        else:
+            tvcolumn = gtk.TreeViewColumn(title, type, text=index)
+
+        tvcolumn.set_resizable(True)
+        tvcolumn.set_clickable(True)
+
+        return tvcolumn
+
+    def _getColumnInfo(self, value):
+        &#34;&#34;&#34;
+        Return the data type to be used when building a gtk.ListStore.
+
+        @type value: gtk.CellRenderer
+        @param value: The gtk.CellRenderer associated with column.
+        @rtype: GObject
+        @return: Returns a tuple containing the data type (GObject).
+        &#34;&#34;&#34;
+        if isinstance(value, gtk.CellRendererToggle):
+            value.connect (&#34;toggled&#34;, self.toggled_item)
+            type = gobject.TYPE_BOOLEAN
+        elif isinstance(value, gtk.CellRendererText):
+            type = gobject.TYPE_STRING
+        elif isinstance(value, gtk.CellRendererPixbuf):
+            type = gtk.gdk.Pixbuf
+        else:
+            type = gobject.TYPE_NONE
+
+        return type
+
+    # Events
+    # TODO: Remove this from here and move it to the inherited class.
+    def toggled_item(self, cell, path):
+        &#34;&#34;&#34;
+        Toggles CellRendererToggle on/off.
+
+        @type : integer
+        @param : .
+        @rtype: list
+        @return: .
+        &#34;&#34;&#34;
+        self.listStore[path][0] = not self.listStore[path][0]
+
+    # Control Procedures
+    def add(self, value, parent=None):
+        &#34;&#34;&#34;
+        Add an item to the internal liststore
+
+        @type value: list
+        @param value: List containing the data to add to the internal liststore.
+        @type parent: gtk.TreeIter
+        @param parent: Parent node or None.
+        @rtype: gtk.TreeIter
+        @return: A gtk.TreeIter pointing at the new row.
+        &#34;&#34;&#34;
+        return self.listStore.append(parent, value)
+
+    def addList(self, values, parent=None):
+        &#34;&#34;&#34;
+        Add multiple itens to the internal liststore
+
+        @type values: list
+        @param values: List of lists containing the data to add to the internal liststore.
+        @type parent: gtk.TreeIter
+        @param parent: Parent node or None.
+        @rtype: None
+        @return: None.
+        &#34;&#34;&#34;
+        # Removes the model so the addition is quicker
+        self.set_model(None)
+        # Freezes list so to cancel refresh event
+        self.freeze_child_notify()
+
+        for value in values:
+            self.listStore.append(parent, value)
+
+        # set model back
+        self.set_model(self.listStore)
+        # Unfreeze the list
+        self.thaw_child_notify()
+
+    def remove(self):
+        &#34;&#34;&#34;
+        Remove the selected row
+
+        @rtype: None
+        @return: None.
+        &#34;&#34;&#34;
+        #http://eccentric.cx/misc/pygtk/pygtkfaq.html#13.8
+        selection = self.get_selection()
+        model, iter = selection.get_selected()
+        if iter:
+          path = model.get_path(iter)
+          model.remove(iter)
+          # now that we removed the selection, play nice with
+          # the user and select the next item
+          selection.select_path(path)
+
+          # well, if there was no selection that meant the user
+          # removed the last entry, so we try to select the
+          # last item
+          if not selection.path_is_selected(path):
+             row = path[0]-1
+             # test case for empty lists
+             if row &gt;= 0:
+                selection.select_path((row,))
+
+    def getSelectedRow(self):
+        &#34;&#34;&#34;
+        Get the entire selected row.
+
+        @rtype: list
+        @return: Returns a list containing the data from the selected row.
+        &#34;&#34;&#34;
+        selection = self.get_selection()
+        model, paths = selection.get_selected_rows()
+
+        # Returns first selected row
+        return paths[0]
+
+    def getSelectedItem(self, index):
+        &#34;&#34;&#34;
+        Return the indexed item from the selected row.
+
+        @type index: integer
+        @param index: Index of the column item to return.
+        @rtype: str
+        @return: Returns the value for the cell in the selected row.
+        &#34;&#34;&#34;
+        selection = self.get_selection()
+        model, iter, = selection.get_selected()
+        return  self.store.get_value(iter, index)
+
+    def getCount(self):
+        &#34;&#34;&#34;
+        Returns the number of itens in the list.
+
+        @rtype: int
+        @return: Returns the number of itens in the list.
+        &#34;&#34;&#34;
+
+        return len(self.listStore)
+</code></pre><p>E a classe derivada:</p><p><strong>derivedclass.py</strong></p><pre tabindex=0><code># -*- coding: utf-8 -*-
+
+import gtk
+from genericlistview import GenericListView
+
+class BillListView(GenericListView):
+    &#34;&#34;&#34;
+    This class represents a ListView for bills.
+    &#34;&#34;&#34;
+
+    # This dictionary represents the columns displayed by the listview.
+    # It is indexed by the order you want them to be displayed, followed
+    # by the column title and cellrenderer type.
+    columns = {
+        0: [None, gtk.CellRendererPixbuf()],
+        1: [&#39;Payee&#39;, gtk.CellRendererText()],
+        2: [&#39;Amount Due&#39;, gtk.CellRendererText()],
+        3: [&#39;Due Date&#39;, gtk.CellRendererText()]
+</code></pre></div><div class=prev-next></div><svg id="btt-button" class="arrow-logo" height="1em" viewBox="0 0 384 512" onclick="scrollToTop()" title="Go to top"><path d="M177 159.7l136 136c9.4 9.4 9.4 24.6.0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9.0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9.0L7 329.7c-9.4-9.4-9.4-24.6.0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z"/></svg>
+<script>let backToTopButton=document.getElementById("btt-button");window.onscroll=function(){scrollFunction()};function scrollFunction(){document.body.scrollTop>20||document.documentElement.scrollTop>20?backToTopButton.style.display="block":backToTopButton.style.display="none"}function scrollToTop(){window.scrollTo(0,0)}</script></div></main><footer class=footer><span>&copy; 2007 Og Maciel © 2005-2025</span>
+<span>Made with &#10084;&#65039; using <a target=_blank href=https://github.com/gokarna-theme/gokarna-hugo>Gokarna</a></span></footer></body></html>

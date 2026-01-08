@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rpath, Conary on Og Maciel's Journal</title><link>http://localhost:1313/tags/rpath-conary/</link><description>Recent content in Rpath, Conary on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2006 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rpath-conary/index.xml" rel="self" type="application/rss+xml"/><item><title>My first conary package</title><link>http://localhost:1313/posts/my-first-conary-package/</link><pubDate>Thu, 05 Oct 2006 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/my-first-conary-package/</guid><description>&lt;p&gt;W00t!!! With the help (and lots of patience) from
+&lt;a href="http://ken.vandine.org/"&gt;Ken&lt;/a&gt;, I was able to cook up my very first
+package using the &lt;a href="http://wiki.rpath.com/wiki/Conary:Concepts"&gt;Conary&lt;/a&gt;
+system! The package was the &lt;a href="http://www.dropline.net/drivel/"&gt;Drivel&lt;/a&gt;
+blogging tool and it has already been pushed up to rPath Contrib.&lt;/p&gt;
+&lt;p&gt;Packaging for any conary-based system is as simple as writing up a
+recipe (for nostalgia, mine is included below) and &amp;ldquo;cooking&amp;rdquo; it with
+conary!&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;class Drivel(AutoPackageRecipe):
+ name = 'drivel'
+ version = '2.0.3'
+ buildRequires = ['GConf:devel', 'GConf:runtime', 'ORBit2:devel', 'aspell:devel', 'atk:devel', 'cairo:devel', 'curl:devel', 'dbus-glib:devel', 'dbus:devel', 'desktop-file-utils:runtime', 'e2fsprogs:devel', 'expat:devel', 'fontconfig:devel', 'freetype:devel', 'gettext:runtime', 'glib:devel', 'gnome-keyring:devel', 'gnome-vfs:devel', 'gtk:devel', 'gtk:runtime', 'gtksourceview:devel', 'gtkspell:devel', 'krb5:devel', 'libICE:devel', 'libSM:devel', 'libX11:devel', 'libXrender:devel', 'libart_lgpl:devel', 'libbonobo:devel', 'libbonoboui:devel', 'libglade:devel', 'libgnome:devel', 'libgnomecanvas:devel', 'libgnomeprint:devel', 'libgnomeui:devel', 'libpng:devel', 'libxml2:devel', 'openssl:devel', 'pango:devel', 'perl:runtime', 'pkgconfig:devel', 'popt:devel', 'scrollkeeper:runtime', 'shared-mime-info:runtime', 'zlib:devel']
+
+ def unpack(r):
+ r.addArchive('mirror://sourceforge/%(name)s/')
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Anyone interested in learning about Conary and how to package stuff,
+sign up for a free account at &lt;a href="http://www.rpath.com/rbuilder/"&gt;rBuilder&lt;/a&gt;
+and check out the documentation.&lt;/p&gt;</description></item></channel></rss>

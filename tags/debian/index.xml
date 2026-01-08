@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Debian on Og Maciel's Journal</title><link>http://localhost:1313/tags/debian/</link><description>Recent content in Debian on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2005 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/debian/index.xml" rel="self" type="application/rss+xml"/><item><title>Good Debian Server Setup HOWTO</title><link>http://localhost:1313/posts/good-debian-server-setup-howto/</link><pubDate>Fri, 03 Jun 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/good-debian-server-setup-howto/</guid><description>&lt;p&gt;Earlier this year &lt;a href="http://www.osnews.com"&gt;OSNews&lt;/a&gt; published my
+&lt;a href="http://www.ogmaciel.com/?page_id=101"&gt;article&lt;/a&gt; titled &lt;em&gt;&amp;quot;Installing
+Debian Linux For The Faint Of Heart.&amp;quot;&lt;/em&gt; Today I came across &lt;a href="http://www.harrysufehmi.com/phpwiki/index.php/SettingUpLinuxServer"&gt;another
+article&lt;/a&gt;
+dealing with the same subject. Now, I know people have hammered these
+types of articles to death in the net but this one sounded worth the
+risk of mentioning. For one thing, it covers hardening your bare-bones
+&lt;a href="http://www.debian.org"&gt;Debian&lt;/a&gt; server which, IMHO should be worth
+looking at no matter what.&lt;/p&gt;</description></item></channel></rss>

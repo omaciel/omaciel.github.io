@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gnome on Og Maciel's Journal</title><link>http://localhost:1313/tags/gnome/</link><description>Recent content in Gnome on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/gnome/index.xml" rel="self" type="application/rss+xml"/><item><title>Emacs + Rope for Python Development</title><link>http://localhost:1313/posts/emacs-rope-for-python-development/</link><pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/emacs-rope-for-python-development/</guid><description>&lt;p&gt;&lt;img src="https://farm3.staticflickr.com/2875/11294955694_5450819b65_z_d.jpg" alt="screenshot"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This is more of a note for myself than a proper
+tutorial or howto, so I make no promises that this will work for you.
+The setup used through this post was a Mac OS laptop upgraded to the
+very latest version of the OS.&lt;/p&gt;
+&lt;p&gt;Ever since I started doing &lt;strong&gt;Python&lt;/strong&gt; development using &lt;strong&gt;Emacs&lt;/strong&gt;, I
+have unsuccessfully tried to configure &lt;a href="http://rope.sourceforge.net/"&gt;Rope&lt;/a&gt;, &amp;ldquo;a python refactoring library&amp;rdquo;&amp;hellip; until last Friday. Turns out I wasn&amp;rsquo;t too far off the mark
+during the many iterations I went through to get it done, but the
+following post was tremendously helpful to
+me: &lt;a href="http://www.saltycrane.com/blog/2010/05/my-emacs-python-environment/"&gt;http://www.saltycrane.com/blog/2010/05/my-emacs-python-environment/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>GNOME 3.0, Banshee 2.0 and Foresight Linux</title><link>http://localhost:1313/posts/gnome-3-0-banshee-2-0-and-foresight-linux/</link><pubDate>Wed, 06 Apr 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/gnome-3-0-banshee-2-0-and-foresight-linux/</guid><description>&lt;p&gt;First off, congratulations to everyone involved in the release of &lt;a href="http://www.gnome.org/news/2011/04/gnome-3-0-has-arrived/"&gt;GNOME
+3.0&lt;/a&gt;! In the
+past, my contributions were mostly related to translating applications
+to &lt;a href="http://l10n.gnome.org/languages/pt_BR/"&gt;Brazilian Portuguese&lt;/a&gt;, but
+my role on that front was very minimal this time and consisted of a
+handful of translations and several commits of the awesome work done by
+others. Most of my contributions for 3.0 are related to the work I do
+for the &lt;strong&gt;GNOME Foundation Board of Directors&lt;/strong&gt;, but I won&amp;rsquo;t bore you to
+tears!&lt;/p&gt;</description></item><item><title>GNOME 3.0 Translations</title><link>http://localhost:1313/posts/gnome-3-0-translations/</link><pubDate>Fri, 18 Mar 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/gnome-3-0-translations/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2011/03/logo-179x119.jpg" alt="Pylyglot"&gt;&lt;/p&gt;
+&lt;p&gt;Hey, are you feverishly working on the &lt;strong&gt;translation&lt;/strong&gt; for the upcoming
+&lt;strong&gt;GNOME 3.0&lt;/strong&gt; release? Do you find yourself often wondering how a
+certain word was translated across the entire desktop applications?
+Well, I do and this is why I developed
+&lt;a href="http://www.pylyglot.org"&gt;Pylyglot&lt;/a&gt;, a &lt;strong&gt;Django&lt;/strong&gt;-driven localization
+tool that let&amp;rsquo;s you search for a word and see how it has been translated
+for a given language. The plan is to have fresh data straight from the
+GNOME &lt;strong&gt;git&lt;/strong&gt; repositories every Monday for now, eventually switching to
+a more frequent update schedule.&lt;/p&gt;</description></item><item><title>Boston Summit 2010: Day 2</title><link>http://localhost:1313/posts/boston-summit-2010-day-2/</link><pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/boston-summit-2010-day-2/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2009/06/sponsored-badge-simple.png" alt="GNOME Sponsored"&gt;&lt;/p&gt;
+&lt;p&gt;I got back from the &lt;strong&gt;Boston Summit&lt;/strong&gt; around 22:00 Sunday evening and by
+the time I arrived home from the airport I was too tired to write up a
+blog post. Then Monday morning came and after all the meetings, work and
+side projects, I decided to spend some quality time with my kids, as I
+had not seen them since Friday evening.&lt;/p&gt;
+&lt;p&gt;The second day was very busy and full of things to do and interesting
+discussions. So much so that I barely had time to do some of the things
+I had on my plate from the &lt;strong&gt;Friends of GNOME&lt;/strong&gt; session on Saturday. It
+was worthy though, as the conversations in and out of the sessions were,
+in my humble opinion, the best part of it all! The level of camaradaries
+that takes place during these types of events is something that it is
+hard to explain. Where else could you get a bunch of strangers who share
+a single common goal (&lt;strong&gt;make GNOME kick ass!&lt;/strong&gt;) and are very passionate
+about what they do to give up their weekend to discuss and plan the
+future of an open source project? My only regret was to have missed the
+&lt;strong&gt;Beer Summit&lt;/strong&gt;, which from &lt;strong&gt;Jason&lt;/strong&gt;'s
+&lt;a href="http://picasaweb.google.com/112619769298041222140/GNOMESummit2010?authkey=Gv1sRgCI-wzYfckq-IRg&amp;amp;feat=directlink"&gt;pictures&lt;/a&gt;,
+looked to have been pretty cool!&lt;/p&gt;</description></item><item><title>Boston Summit 2010: Day 1</title><link>http://localhost:1313/posts/boston-summit-2010-day-1/</link><pubDate>Sun, 07 Nov 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/boston-summit-2010-day-1/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2009/06/sponsored-badge-simple.png" alt="GNOME Sponsored"&gt;&lt;/p&gt;
+&lt;p&gt;Finally sat down to write down about my first day attending the &lt;strong&gt;Boston
+Summit 2010&lt;/strong&gt; but Paul
+[&lt;a href="http://www.paulcutler.org/blog/?p=1505&amp;amp;utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed:+pcutler+(Paul+Cutler's+Blog)"&gt;1&lt;/a&gt;]
+and
+Jason[&lt;a href="http://jasondclinton.livejournal.com/80742.html"&gt;1&lt;/a&gt;,&lt;a href="http://jasondclinton.livejournal.com/81622.html"&gt;2&lt;/a&gt;,&lt;a href="http://jasondclinton.livejournal.com/81055.html"&gt;3&lt;/a&gt;]
+already beat me to it. From my perspective, it was really nice to
+finally meet face to face with some of my fellow Board members and make
+new friends!&lt;/p&gt;
+&lt;p&gt;I want to thank &lt;strong&gt;Novell&lt;/strong&gt; for hosting us at their office for our Board
+meeting (there should be a picture of us posing in front of a Novell
+logo) and our gracious host. Also, everyone involved in organizing the
+Summit and making sure things worked smoothly!&lt;/p&gt;</description></item><item><title>Let Me Hear Your Voices</title><link>http://localhost:1313/posts/let-me-hear-your-voices/</link><pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/let-me-hear-your-voices/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/11/2848828560_6d36a3fbeb-225x300.jpg" alt="Speakup"&gt;&lt;/p&gt;
+&lt;p&gt;This weekend I&amp;rsquo;ll be attending my first &lt;a href="http://live.gnome.org/Boston2010"&gt;Boston Summit&lt;/a&gt;, courtesy of the&lt;a href="http://live.gnome.org/Travel"&gt;GNOME Travel Committee&lt;/a&gt;! It will also be my very first time meeting my fellow members of the &lt;strong&gt;GNOME Foundation Board of
+Directors&lt;/strong&gt;, which makes me very excited!&lt;/p&gt;
+&lt;p&gt;I wanted to ask you, readers of my blog, what kind of questions would
+you like me to ask on your behalf? Do you have any constructive comments
+or feedback for us? What are the areas you feel that we should invest
+more of our resources on and which ones should we spend less?&lt;/p&gt;</description></item><item><title>Are You Planning a GNOME 3.0 Launch Party?</title><link>http://localhost:1313/posts/are-you-planning-a-gnome-3-0-launch-party/</link><pubDate>Fri, 29 Oct 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/are-you-planning-a-gnome-3-0-launch-party/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/10/GnomeBrandBook-VerticalOrientation.png" alt="GNOME"&gt;&lt;/p&gt;
+&lt;p&gt;In order to promote the &lt;strong&gt;GNOME 3.0&lt;/strong&gt; launch and spread the idea amongst
+the GNOME community members, I&amp;rsquo;m sharing the following message! Please
+&lt;strong&gt;translate&lt;/strong&gt; it and &lt;strong&gt;share&lt;/strong&gt; it with your friends and help us organize
+the biggest GNOME Launch ever!&lt;/p&gt;
+&lt;p&gt;Dear GNOME friends,&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;GNOME.Asia&lt;/strong&gt; committee is working on making a big launch party
+(whichÂ includes a &lt;strong&gt;5 days hackfest&lt;/strong&gt;) to celebrate, promote and work
+on the GNOMEÂ 3.0 release as part of our effort to promote GNOME in
+Asia. Potential venues are in &lt;strong&gt;India, Indonesia or Hong Kong&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Boston Summit 2010</title><link>http://localhost:1313/posts/boston-summit-2010/</link><pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/boston-summit-2010/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2009/06/sponsored-badge-simple.png" alt="GNOME Sponsored"&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m also coming to the &lt;a href="http://live.gnome.org/Boston2010"&gt;Boston Summit&lt;/a&gt; for the first time!
+I&amp;rsquo;m looking forward to hanging out with my fellow Board members, meeting
+some of them for the very first time. I&amp;rsquo;m also looking forward to
+attending the &lt;a href="http://live.gnome.org/Hackfests/Snowy"&gt;Snowy Hackfest&lt;/a&gt;
+and other sessions related to &lt;strong&gt;GNOME 3.0&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;Think you can join us? Take a look at the &lt;a href="http://blogs.gnome.org/foundation/2010/10/19/boston-summit-is-coming/"&gt;GNOME Foundation blog for more&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Gnome Developer Hat Required</title><link>http://localhost:1313/posts/gnome-developer-hat-required/</link><pubDate>Thu, 14 Apr 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/gnome-developer-hat-required/</guid><description>&lt;p&gt;&lt;a href="http://www.flickr.com/photos/25563799@N00/9415432/"&gt;&lt;img src="http://photos7.flickr.com/9415432_93e09d5b82_m.jpg" alt="image0"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/25563799@N00/9415432/"&gt;cowboy_hats_20050411&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally uploaded by
+&lt;a href="http://www.flickr.com/people/25563799@N00/"&gt;omaciel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When not cranking out code for the &lt;a href="http://www.gnome.org"&gt;Gnome&lt;/a&gt; or
+&lt;a href="http://www.mono-project.com"&gt;Mono&lt;/a&gt; projects, these guys like to do what
+every normal Open Source developer does when they have some free time:
+Hang out at the &lt;a href="http://www.ok-corral.com/"&gt;OK Corral&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>The Crystal Ship</title><link>http://localhost:1313/posts/the-crystal-ship/</link><pubDate>Tue, 29 Mar 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/the-crystal-ship/</guid><description>&lt;p&gt;Just as promised, here&amp;rsquo;s my screenie of netapplet and gnome-blog running
+on my laptop!&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/25563799@N00/7746318/"&gt;&lt;img src="http://photos5.flickr.com/7746318_61da79a4f8.jpg" alt="Some cool
+apps"&gt;&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

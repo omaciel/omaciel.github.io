@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rpath, Raa, Aptoncd on Og Maciel's Journal</title><link>http://localhost:1313/tags/rpath-raa-aptoncd/</link><description>Recent content in Rpath, Raa, Aptoncd on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 08 Dec 2006 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rpath-raa-aptoncd/index.xml" rel="self" type="application/rss+xml"/><item><title>rPath Appliance Agent 1.0.9 in the wild!</title><link>http://localhost:1313/posts/rpath-appliance-agent-109-in-the-wild/</link><pubDate>Fri, 08 Dec 2006 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/rpath-appliance-agent-109-in-the-wild/</guid><description>&lt;p&gt;Today we have released &lt;a href="http://wiki.rpath.com/wiki/rPath_Appliance_Agent"&gt;rPath Appliance
+Agent&lt;/a&gt; (rAA) version
+1.0.9!!! I&amp;rsquo;m very excited about this since it has 2 new features that I
+worked on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A new plugin for setting the time, date and timezone, and
+configuring the Network Time Protocol (NTP).&lt;/li&gt;
+&lt;li&gt;The rAA user password is now salted to provide additional security.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A long time ago I experienced the joy of seeing a program I had
+developed and open sourced pick up over 30000 downloads on
+downloads.com. But if you exclude my participation in the early stages
+on the &lt;a href="http://aptoncd.sourceforge.net/develop.html#people"&gt;AptOnCD&lt;/a&gt;
+project, I have exclusively developed applications for internal use only
+ever since.&lt;/p&gt;</description></item></channel></rss>

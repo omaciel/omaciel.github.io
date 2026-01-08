@@ -1,0 +1,99 @@
+<!doctype html><html lang=en><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{--accent-color:#FF4D4D;--font-size:1.1rem}</style><title>Servidor de músicas Bailout MT-Daapd</title><meta name=description content="No finalzinho do ano passado eu passei alguns dias trabalhando para configurar um servidor de músicas bem simples para usar em casa. Como eu estou sempre …"><meta name=keywords content='blog,technology,books,reading,software engineering,quality engineering,rpath'><meta property="og:url" content="http://localhost:1313/posts/servidor-de-musicas-bailout-mt-daapd/"><meta property="og:type" content="website"><meta property="og:title" content="Servidor de músicas Bailout MT-Daapd"><meta property="og:description" content="No finalzinho do ano passado eu passei alguns dias trabalhando para configurar um servidor de músicas bem simples para usar em casa. Como eu estou sempre …"><meta property="og:image" content="http://localhost:1313/images/cartoon_avatar.png"><meta property="og:image:secure_url" content="http://localhost:1313/images/cartoon_avatar.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:title content="Servidor de músicas Bailout MT-Daapd"><meta name=twitter:description content="No finalzinho do ano passado eu passei alguns dias trabalhando para configurar um servidor de músicas bem simples para usar em casa. Como eu estou sempre …"><meta property="twitter:domain" content="http://localhost:1313/posts/servidor-de-musicas-bailout-mt-daapd/"><meta property="twitter:url" content="http://localhost:1313/posts/servidor-de-musicas-bailout-mt-daapd/"><meta name=twitter:image content="http://localhost:1313/images/cartoon_avatar.png"><link rel=canonical href=http://localhost:1313/posts/servidor-de-musicas-bailout-mt-daapd/><link rel=stylesheet type=text/css href=/css/normalize.min.css media=print><link rel=stylesheet type=text/css href=/css/main.min.css><link id=dark-theme rel=stylesheet href=/css/dark.min.css><script src=/js/bundle.min.7136b4abac7b277aba8bc933917f4602d39a5c44f5590be687244bc86ef4f162.js integrity="sha256-cTa0q6x7J3q6i8kzkX9GAtOaXET1WQvmhyRLyG708WI="></script><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><link rel=icon href=/favicon.ico><link rel="shortcut icon" href=/favicon.ico><link rel=apple-touch-icon href=/images/ogmaciel.jpg></head><body><script>setThemeByUserPref()</script><header class=header><nav class=header-nav><div class=avatar><a href=http://localhost:1313/><img src=/images/cartoon_avatar.png alt="Og Maciel"></a></div><div class=nav-title><a class=nav-brand href=http://localhost:1313/>Og Maciel's Journal</a></div><div class=nav-links><div class=nav-link><a href=http://localhost:1313/ aria-label><span data-feather=home></span> Home</a></div><div class=nav-link><a href=http://localhost:1313/books/ aria-label><span data-feather=book-open></span> Books</a></div><div class=nav-link><a href=http://localhost:1313/posts/ aria-label><span data-feather=book></span> Posts</a></div><div class=nav-link><a href=http://localhost:1313/projects/ aria-label=projects><span data-feather=code></span> Projects</a></div><div class=nav-link><a href=http://localhost:1313/tags/ aria-label><span data-feather=tag></span> Tags</a></div><div class=nav-link><a href=http://localhost:1313/about/ aria-label><span data-feather=user></span> About</a></div><div class=nav-link><a href=http://localhost:1313/index.xml aria-label=rss><span data-feather=rss></span></a></div><span class=nav-icons-divider></span><div class="nav-link dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a aria-hidden=true role=switch><span class=theme-toggle-icon data-feather=moon></span></a></div><div class=nav-link id=hamburger-menu-toggle><span class="sr-only hamburger-menu-toggle-screen-reader-target">menu</span>
+<a aria-checked=false aria-labelledby=hamburger-menu-toggle id=hamburger-menu-toggle-target role=switch><span data-feather=menu></span></a></div><ul class="nav-hamburger-list visibility-hidden"><li class=nav-item><a href=http://localhost:1313/><span data-feather=home></span> Home</a></li><li class=nav-item><a href=http://localhost:1313/books/><span data-feather=book-open></span> Books</a></li><li class=nav-item><a href=http://localhost:1313/posts/><span data-feather=book></span> Posts</a></li><li class=nav-item><a href=http://localhost:1313/projects/><span data-feather=code></span> Projects</a></li><li class=nav-item><a href=http://localhost:1313/tags/><span data-feather=tag></span> Tags</a></li><li class=nav-item><a href=http://localhost:1313/about/><span data-feather=user></span> About</a></li><li class=nav-item><a href=http://localhost:1313/index.xml><span data-feather=rss></span></a></li><li class="nav-item dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a role=switch><span class=theme-toggle-icon data-feather=moon></span></a></li></ul></div></nav></header><main id=content><div class="post container"><div class=post-header-section><h1>Servidor de músicas Bailout MT-Daapd</h1><small role=doc-subtitle></small><p class=post-date>January 2, 2009</p><ul class=post-tags><li class=post-tag><a href=http://localhost:1313/tags/rpath>rpath</a></li></ul></div><div class=post-content><p>No finalzinho do ano passado eu passei alguns dias trabalhando para
+configurar um servidor de músicas bem simples para usar em casa. Como eu
+estou sempre fazendo algo maluco no meu desktop/laptop que eventualmente
+sempre me leva a re-instalar o meu sistema operacional, eu estou
+constantemente movendo meus arquivos de música entre computadores e
+discos externos. Quando você tem uma coleção de tamanho considerado,
+este exercício se torna um pé no saco. Foi por isso que tive a idéia de
+criar um servidor de músicas usando o  mt-daapd como minha ferramente
+principal. O mt-daapd é tão fácil de usar que eu imediatamente comecei o
+meu projeto.</p><p>O primeiro passo foi criar um novo produto (leia projeto) no site
+<a href=http://www.rpath.org>rBuilder Online</a>. Depois de pensar por uns 2
+minutos decidi chamá-lo <a href=http://bailout.rpath.org>Bailout</a>, algo como
+que a fiança que se paga para sair da prisão, já que eu precisava de
+algo para me liberar dos meus problemas de armazenamento e
+compartilhamento de músicas.</p><p>O próximo passo foi então escolher quais componentes adicionar ao meu
+produto. Como o rBuilder me permite começar com Just Enough Operating
+System (ou JEOS, o que quer dizer que somente os componentes essenciais
+para um sistema operacional serão usados), eu continuei configurando meu
+produto, escolhendo o sistema operacional <strong>rPath Linux 2</strong> (minhas
+outras opções eram <strong>Ubuntu Hardy</strong> e <strong>CentOS</strong>) e escolhendo a dedo
+outros componentes que eu gostaria de disponibilizar em uma instalação
+padrão. Acabei escolhendo os serviços smb, nfs e openssh para
+conectividade, assim como o vim (caramba, se vou conectar por ssh neste
+sistema para fazer qualquer configuração manual, então preciso do meu
+editor de texto preferido). Tudo isso foi feito usando uma interface web
+do rBuilder e até então tudo foi feito usando apenas o mouse e clicando
+nas opções.</p><p>Agora sim chegou a hora da atração principal: o mt-daapd. Como este
+componente não estava disponível no repositório padrão onde escolhi
+todos os outros componentes, chegou a hora de tomar algumas decisões
+importantes. O rBuilder permite o empacotamento de software pela
+interface gráfica usando pacotes <strong>RPM</strong>, <strong>DEB</strong> ou tarballs binários,
+mas optei por experimentar uma nova ferramente de empacotamento chamada
+<strong>rbuild</strong> (não confundir com o rBuilder Online) para aqueles que como
+eu, curtem usar a linha de comando e já conhecem um pouco mais sobre o
+sistema de gerenciamento de pacotes <strong>conary</strong>, tecnologia desenvolvida
+aqui onde trabalho e coração do rBuilder. Não vou entrar em detalhes
+sobre como empacotei o mt-daapd usando o rbuild mas eu recomendo a
+leitura dos
+<a href=http://blogs.conary.com/index.php/mkj/2008/08/29/simplifying_assumptions>posts</a>
+(todos em inglês) escritos pelo Michael Johnson para aprender mais sobre
+esta ferramenta.</p><p>Passados mais alguns minutos e o meu produto estava com todos os
+componentes prontos. Com mais alguns cliques na interface iniciei o
+processo de criação de uma imagen de instalação no formato ISO e VMWare,
+permitindo que qualquer pessoa possa experimentar o Bailout em um
+sistema virtual ou instalá-lo de verdade. Eu poderia ter escolhido
+outros formatos para distribuir o meu produto como imagens para o
+<strong>Amazon EC2</strong>, <strong>Citrix</strong>, ou <strong>Xen</strong> mas eu ainda posso editar minhas
+preferências e adicionar estas opções mais tarde.</p><p>Uma vez minhas 2 imagens estavam finalizadas, chegou a hora de
+testá-las. Escolhi gravar um CD com a imagem ISO e instalei o Bailout em
+um computador que estava coletando poeira no closet do meu quarto. O
+instalador é baseado no anaconda, usado pela Red Hat e Fedora entre
+outras distribuições, e super fácil de usar. Depois que o processo
+(super rápido) de instalação acabou e de um rápido reboot, me deparei
+com um terminal todo preto e com instruções para me conectar ao sistema
+de gerenciamento do produto, apontando meu navegador de web para um
+endereço local IP. E lá fui eu.</p><p><a href=http://www.flickr.com/photos/ogmaciel/3087612648/><img src=http://farm4.static.flickr.com/3227/3087612648_23a5164936.jpg alt="Appliance
+Management"></a></p><p>Caso você decida brincar com o Bailout você verá na seção de downloads
+algumas instruções sobre qual o nome de usuário e senha padrão do
+sistema de gerenciamento, mas para aqueles que se esqueceram de ler
+isso, use <strong>admin</strong> e <strong>password</strong> para conectar. Não se preoculpe com a
+senha super fácil de quebrar&mldr; você vai mudá-la no próximo passo.</p><p><a href=http://www.flickr.com/photos/ogmaciel/3086775491/><img src=http://farm4.static.flickr.com/3218/3086775491_bb6ee9acd6.jpg alt="Wizard: Setup a
+password"></a></p><p>A primeira vez que você conecta no Bailout, você será requisitado a
+mudar sua senha. Certifique-se que a nova senha é algo seguro já que com
+ela você será capaz de administrar seu servidor de músicas.</p><p>O próximo (opcional) passo é configurar como você gostaria de ser
+notificado sobre as atividades do seu servidor como também sobre
+atualizações disponíveis para o seu sistema. Como eu gosto de receber
+estes tipos de notificações, adicionei a informação necessária e
+continuei com o wizard (dica: Caso você não queira completar este passo,
+clique no botão <strong>save</strong>).</p><p><a href=http://www.flickr.com/photos/ogmaciel/3087612788/><img src=http://farm4.static.flickr.com/3228/3087612788_1e44136a71.jpg alt="Wizard: Setup a password for
+root"></a></p><p>Finalmente, escolha uma senha segura para o usuário root do sistema.</p><p><a href=http://www.flickr.com/photos/ogmaciel/3086776079/><img src=http://farm4.static.flickr.com/3050/3086776079_e03069c47b.jpg alt="Landing
+page"></a></p><p>E pronto! Seja bem-vindo ao seu servidor de músicas! O sistema de
+administração web possui várias outras funções que te permite efetuar
+tarefas como atualizar, fazer backups&mldr;</p><p><a href=http://www.flickr.com/photos/ogmaciel/3086776183/><img src=http://farm4.static.flickr.com/3198/3086776183_1b03d6363d.jpg alt="Managing running
+services"></a></p><p>&mldr; gerenciar serviços, configurar a rede&mldr;</p><p><a href=http://www.flickr.com/photos/ogmaciel/3086776791/><img src=http://farm4.static.flickr.com/3033/3086776791_7100cd5479.jpg alt="System
+Information"></a></p><p>&mldr; checar o status do sistema e até mesmo restaurar o sistema de volta
+a um estado anterior.</p><p><a href=http://www.flickr.com/photos/ogmaciel/3087613296/><img src=http://farm4.static.flickr.com/3077/3087613296_2f78daff21.jpg alt="MT-Daapd service web
+page"></a></p><p>Agora podemos apontar o nosso navegador web para o mesmo endereço do
+sistema de administração web, mudando a porta para 3689 e usando
+<strong>admin</strong>/<strong>mt-daapd</strong> como credenciais para conectar no sistema de
+gerenciamento web do mt-daapd. Você deve também ver um novo
+compartilhamento de músicas aparecer no seu reprodutor de mídia favorito
+(assumindo que o servidor Bailout e o sistema onde o reprodutor de
+músicas estão na mesma rede).</p><p><a href=http://www.flickr.com/photos/ogmaciel/3086941341/><img src=http://farm4.static.flickr.com/3038/3086941341_6586e3754d.jpg alt="Banshee using a mt-daapd music
+share"></a></p><p>Por enquanto o servidor é configurado para usar o diretório /mnt/mp3
+como armazenamento de mídia e não está configurado para varrer seu
+conteúdo automaticamente, mas isso e outras opções podem ser modificadas
+conectando por ssh no servidor e editando manualmente o arquivo
+/etc/mt-daapd.conf. Uma versão mais recente (mas ainda em
+desenvolvimento) do mt-daapd, batizado de FireFly, permite que todas
+estas configurações sejam feitas pela interface web. Com certeza terei
+este versão atualizado em breve para que fique ainda mais fácil
+configurar o servidor de músicas. Obviamente, se você quer me dar uma
+mão, é só entrar em contato comigo.</p><p>Então aproveite o começo de um novo ano e faça o download do servidor de
+músicas <a href=http://bailout.rpath.org>Bailout</a> hoje!</p></div><div class=prev-next></div><svg id="btt-button" class="arrow-logo" height="1em" viewBox="0 0 384 512" onclick="scrollToTop()" title="Go to top"><path d="M177 159.7l136 136c9.4 9.4 9.4 24.6.0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9.0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9.0L7 329.7c-9.4-9.4-9.4-24.6.0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z"/></svg>
+<script>let backToTopButton=document.getElementById("btt-button");window.onscroll=function(){scrollFunction()};function scrollFunction(){document.body.scrollTop>20||document.documentElement.scrollTop>20?backToTopButton.style.display="block":backToTopButton.style.display="none"}function scrollToTop(){window.scrollTo(0,0)}</script></div></main><footer class=footer><span>&copy; 2009 Og Maciel © 2005-2025</span>
+<span>Made with &#10084;&#65039; using <a target=_blank href=https://github.com/gokarna-theme/gokarna-hugo>Gokarna</a></span></footer></body></html>

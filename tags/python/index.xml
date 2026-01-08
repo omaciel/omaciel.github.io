@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Og Maciel's Journal</title><link>http://localhost:1313/tags/python/</link><description>Recent content in Python on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 30 Jun 2014 19:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>FauxFactory 0.3.0</title><link>http://localhost:1313/posts/1173-fauxfactory-0-3-0/</link><pubDate>Mon, 30 Jun 2014 19:00:00 +0000</pubDate><guid>http://localhost:1313/posts/1173-fauxfactory-0-3-0/</guid><description>&lt;p&gt;Took some time from my vacation and released &lt;strong&gt;FauxFactory 0.3.0&lt;/strong&gt; to
+make it &lt;strong&gt;Python 3&lt;/strong&gt; compatible and to add a new &lt;strong&gt;generate_utf8&lt;/strong&gt;
+method (plus some nice tweaks and code clean up).&lt;/p&gt;
+&lt;p&gt;As always, the package is available on
+&lt;a href="https://pypi.python.org/pypi/fauxfactory/"&gt;Pypi&lt;/a&gt; and can be installed
+via &lt;strong&gt;pip install fauxfactory&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;If you have any constructive feedback, suggestions, or file a bug report
+or feature request, please use the
+&lt;a href="https://github.com/omaciel/fauxfactory"&gt;Github&lt;/a&gt; page.&lt;/p&gt;</description></item><item><title>FauxFactory 0.2.1</title><link>http://localhost:1313/posts/1171-brown-paper-bag-release/</link><pubDate>Fri, 09 May 2014 17:00:00 +0000</pubDate><guid>http://localhost:1313/posts/1171-brown-paper-bag-release/</guid><description>&lt;p&gt;&lt;img src="https://farm4.staticflickr.com/3373/3204502310_f8025dbd75_m.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Short on its heels, today I'm releasing &lt;strong&gt;FauxFactory 0.2.1&lt;/strong&gt; to fix a
+&lt;a href="http://catb.org/jargon/html/B/brown-paper-bag-bug.html"&gt;brown paper bag
+bug&lt;/a&gt; I
+encountered last night before going to bed.&lt;/p&gt;
+&lt;p&gt;Basically, the new &amp;quot;Lorem Ipsum&amp;quot; generator was not honoring the
+&lt;strong&gt;words&lt;/strong&gt; parameter if you asked for a string longer than 70 characters.
+I have fixed the issue as well as added a new test to make sure that the
+generator does the right thing.&lt;/p&gt;
+&lt;p&gt;The package is available on
+&lt;a href="https://pypi.python.org/pypi/fauxfactory/0.2.0"&gt;Pypi&lt;/a&gt; (sadly the page
+is &lt;strong&gt;still&lt;/strong&gt; not rendering correctly... suggestions welcome) and can be
+installed via &lt;strong&gt;pip install fauxfactory&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>FauxFactory 0.2.0</title><link>http://localhost:1313/posts/1170-fauxfactory-0-2-0/</link><pubDate>Thu, 08 May 2014 19:12:00 +0000</pubDate><guid>http://localhost:1313/posts/1170-fauxfactory-0-2-0/</guid><description>&lt;p&gt;Today I'm releasing &lt;strong&gt;FauxFactory 0.2.0&lt;/strong&gt; with a new feature, a &amp;quot;Lorem
+Ipsum&amp;quot; generator. I confess that I did not look around for any existing
+implementation in python out there and just started writing code. My
+idea was to create a method that would:&lt;/p&gt;
+&lt;p&gt;Return a &amp;quot;Lorem Ipsum&amp;quot; string if I passed no arguments:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;In [&lt;span style="color:#ae81ff"&gt;1&lt;/span&gt;]: &lt;span style="color:#f92672"&gt;from&lt;/span&gt; fauxfactory &lt;span style="color:#f92672"&gt;import&lt;/span&gt; FauxFactory
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;In [&lt;span style="color:#ae81ff"&gt;2&lt;/span&gt;]: FauxFactory&lt;span style="color:#f92672"&gt;.&lt;/span&gt;generate_iplum()
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Out[&lt;span style="color:#ae81ff"&gt;2&lt;/span&gt;]: &lt;span style="color:#e6db74"&gt;u&lt;/span&gt;&lt;span style="color:#e6db74"&gt;&amp;#39;Lorem ipsum dolor sit amet, consectetur adipisicing elit,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;span style="color:#f92672"&gt;.&lt;/span&gt; Ut
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;ut aliquip ex ea commodo consequat&lt;span style="color:#f92672"&gt;.&lt;/span&gt; Duis aute irure dolor &lt;span style="color:#f92672"&gt;in&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;reprehenderit &lt;span style="color:#f92672"&gt;in&lt;/span&gt; voluptate velit esse cillum dolore eu fugiat nulla
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pariatur&lt;span style="color:#f92672"&gt;.&lt;/span&gt; Excepteur sint occaecat cupidatat non proident, sunt &lt;span style="color:#f92672"&gt;in&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;culpa qui officia deserunt mollit anim id est laborum&lt;span style="color:#f92672"&gt;.&lt;/span&gt;&lt;span style="color:#e6db74"&gt;&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Return a single paragraph with a fixed number of words if I passed a
+numeric &lt;strong&gt;words=x&lt;/strong&gt; argument. If &lt;strong&gt;words&lt;/strong&gt; was a large number, the text
+would 'wrap around' as many times as needed:&lt;/p&gt;</description></item><item><title>Hiring is Tough!</title><link>http://localhost:1313/posts/1169-hiring-is-tough/</link><pubDate>Thu, 01 May 2014 18:05:45 +0000</pubDate><guid>http://localhost:1313/posts/1169-hiring-is-tough/</guid><description>&lt;p&gt;So I've been trying to hire two python developers to join my automation
+team here at &lt;a href="http://www.redhat.com"&gt;Red Hat&lt;/a&gt; since last &lt;strong&gt;November,
+2013&lt;/strong&gt;... and believe it or not, so far I've had absolutely zero
+success in finding good, strong, with real world experience candidates
+in North Carolina! I either find really smart people, who do have
+relevant backgrounds or could 'hit the ground running' but are way out
+of my current budget, or they lack real world experience and fall into
+more of an entry level position.&lt;/p&gt;</description></item><item><title>Emacs + Rope for Python Development</title><link>http://localhost:1313/posts/emacs-rope-for-python-development/</link><pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/emacs-rope-for-python-development/</guid><description>&lt;p&gt;&lt;img src="https://farm3.staticflickr.com/2875/11294955694_5450819b65_z_d.jpg" alt="screenshot"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This is more of a note for myself than a proper
+tutorial or howto, so I make no promises that this will work for you.
+The setup used through this post was a Mac OS laptop upgraded to the
+very latest version of the OS.&lt;/p&gt;
+&lt;p&gt;Ever since I started doing &lt;strong&gt;Python&lt;/strong&gt; development using &lt;strong&gt;Emacs&lt;/strong&gt;, I
+have unsuccessfully tried to configure &lt;a href="http://rope.sourceforge.net/"&gt;Rope&lt;/a&gt;, &amp;ldquo;a python refactoring library&amp;rdquo;&amp;hellip; until last Friday. Turns out I wasn&amp;rsquo;t too far off the mark
+during the many iterations I went through to get it done, but the
+following post was tremendously helpful to
+me: &lt;a href="http://www.saltycrane.com/blog/2010/05/my-emacs-python-environment/"&gt;http://www.saltycrane.com/blog/2010/05/my-emacs-python-environment/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Using Python to Control Katello</title><link>http://localhost:1313/posts/using-python-to-control-katello/</link><pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/using-python-to-control-katello/</guid><description>&lt;p&gt;&lt;img src="http://bit.ly/14Q0fhi" alt="Emacs editor with python code"&gt;&lt;/p&gt;
+&lt;p&gt;I usually like to use python to script my day to day tests against
+&lt;a href="http://www.katello.org/"&gt;Katello&lt;/a&gt; (you may have seen some of my
+&lt;a href="http://ogmaciel.tumblr.com/post/52170839167/populating-a-katello-instance-using-the-cli"&gt;previous&lt;/a&gt;
+&lt;a href="http://ogmaciel.tumblr.com/post/29571582261/script-to-populate-a-katello-instance-with-valid-data"&gt;posts&lt;/a&gt;
+about using the Katello CLI for the same purpose) and I figured I&amp;rsquo;d
+start showing some basic examples for anyone else out there who may be
+interested.&lt;/p&gt;
+&lt;p&gt;Assuming you have already installed and configured your Katello instance
+(learn how to do this
+&lt;a href="https://fedorahosted.org/katello/wiki/Install"&gt;here&lt;/a&gt;) with the default
+configurations, we now have a few options to proceed:&lt;/p&gt;</description></item><item><title>PyCarolinas 2012</title><link>http://localhost:1313/posts/pycarolinas-2012/</link><pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/pycarolinas-2012/</guid><description>&lt;p&gt;I&amp;rsquo;ve seen the (yet unpublished draft) schedule and it looks great!&lt;/p&gt;
+&lt;h1 id="when"&gt;WHEN:&lt;/h1&gt;
+&lt;p&gt;|
+| October 20-21, 2012&lt;/p&gt;
+&lt;h1 id="where"&gt;WHERE:&lt;/h1&gt;
+&lt;p&gt;|
+| Kerr Hall
+| UNC School of Pharmacy
+| Chapel Hill, NC&lt;/p&gt;</description></item><item><title>How to import WordPress XML files</title><link>http://localhost:1313/posts/how-to-import-wordpress-xml-files/</link><pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/how-to-import-wordpress-xml-files/</guid><description>&lt;p&gt;&amp;hellip; or, how I brought an old python code back from the dead!&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://media.tumblr.com/tumblr_m2y9r6Wdw31r7yex1.png" alt="image0"&gt;&lt;/p&gt;
+&lt;p&gt;Inspired by &lt;strong&gt;Kenneth Reitz&lt;/strong&gt;'s recent
+&lt;a href="http://kennethreitz.com/repository-structure-and-python.html"&gt;post&lt;/a&gt; and
+spurred by recent events, I decided to turn an old python code I wrote a
+while back into something that can be (hopefully) easier to get to than
+by sheer luck.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m talking about
+&lt;a href="http://omaciel.github.com/choppedpress/"&gt;ChoppedPress&lt;/a&gt;, my script that
+let&amp;rsquo;s you split &lt;strong&gt;WordPress&lt;/strong&gt; exported &lt;strong&gt;XML files&lt;/strong&gt; into smaller files
+that can be easily imported into new WordPress installations. I&amp;rsquo;m sure
+that some of you have experienced the frustration of not being able to
+import this xml file due to size upload constraints on your host
+providers&amp;hellip; One of my close friends who provides mostly support for
+WordPress gave me the idea a while back and that is how the script came
+about. Little did I know that &lt;a href="http://snarfed.org/pyblosxom2wxr"&gt;other&lt;/a&gt;
+&lt;a href="http://blog.ivandemarino.me/2010/10/12/From-Wordpress-to-Bloggart"&gt;people&lt;/a&gt;
+have find it useful too, specially for migrating &lt;strong&gt;away&lt;/strong&gt; from
+WordPress! As a matter of fact, I too used it when I moved to
+&lt;strong&gt;Tumblr&lt;/strong&gt;, but that another story.&lt;/p&gt;</description></item></channel></rss>

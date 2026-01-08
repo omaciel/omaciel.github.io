@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Django Developer Kit on Og Maciel's Journal</title><link>http://localhost:1313/tags/django-developer-kit/</link><description>Recent content in Django Developer Kit on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 15 Sep 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/django-developer-kit/index.xml" rel="self" type="application/rss+xml"/><item><title>Announcing: Foresight based Django Developer Kit Appliance RC1</title><link>http://localhost:1313/posts/announcing-foresight-based-django-developer-kit-applianc/</link><pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/announcing-foresight-based-django-developer-kit-applianc/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/09/Screenshot-QEMU-300x225.png" alt="Foresight Linux based Django Developer Kit Appliance"&gt;&lt;/p&gt;
+&lt;p&gt;If you remember one of my last &lt;a href="http://www.ogmaciel.com/?p=1187"&gt;posts&lt;/a&gt;,
+I wanted to eventually migrate my &lt;a href="http://bit.ly/byzBLV"&gt;Django Developer Kit
+Appliance&lt;/a&gt; to use &lt;a href="http://foresightlinux.org"&gt;Foresight Linux&lt;/a&gt; as the underlying operating system&amp;hellip; and I am proud to announce that I have made huge strides toward this
+goal!&lt;/p&gt;
+&lt;p&gt;Thanks to the guidance of some fellow &lt;a href="http://www.rpath.com"&gt;rPathians&lt;/a&gt;,
+I managed to get an almost ready for production &lt;strong&gt;Django 1.2.3 +
+PostgreSQL 8.4 + Python 2.6.2&lt;/strong&gt; and &lt;strong&gt;lots&lt;/strong&gt; of &lt;strong&gt;Django modules&lt;/strong&gt; and
+&lt;strong&gt;latest versions&lt;/strong&gt; for &lt;strong&gt;Git, Mercurial, Bzr&lt;/strong&gt;, and &lt;strong&gt;Subversion&lt;/strong&gt;
+ready to be used!&lt;/p&gt;</description></item><item><title>Django Devel Kit Appliance 1.2.3</title><link>http://localhost:1313/posts/django-devel-kit-appliance-1-2-3/</link><pubDate>Sat, 11 Sep 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/django-devel-kit-appliance-1-2-3/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/09/508647245_178fc7941d-300x199.jpg" alt="Oops!"&gt;&lt;/p&gt;
+&lt;p&gt;No, this is not a repeat from yesterday&amp;rsquo;s post. Turns out there was
+another &lt;a href="http://www.djangoproject.com/weblog/2010/sep/10/123/"&gt;security release&lt;/a&gt; for
+&lt;strong&gt;Django&lt;/strong&gt; yesterday (thanks &lt;strong&gt;Zygmunt&lt;/strong&gt; for the heads up), so here&amp;rsquo;s
+the release of &lt;a href="http://bit.ly/byzBLV"&gt;Django Developer Kit Appliance 1.2.3&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As always, choose from the following image types:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Amazon EC2 AMI Large (&lt;strong&gt;ami-ba996cd3&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;Amazon EC2 AMI Small (&lt;strong&gt;ami-a0996cc9&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rpath.org/downloadImage?fileId=42099&amp;amp;urlType=0"&gt;ISO
+x86&lt;/a&gt;
+(SHA1 11811571ee8f8f2a0d7778c9e4275060de73f271)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rpath.org/downloadImage?fileId=42109&amp;amp;urlType=0"&gt;ISO
+x86_64&lt;/a&gt;
+(SHA1 065b1c5dfa410cffeec9950d577cddd15f369bad)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rpath.org/downloadImage?fileId=42102&amp;amp;urlType=0"&gt;Raw Filesystem
+x86&lt;/a&gt;
+(SHA1 141427d7c84449ccc7eacbee7d527b8ba6f7ca48)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rpath.org/downloadImage?fileId=42105&amp;amp;urlType=0"&gt;Raw Filesystem
+x86_64&lt;/a&gt;
+(SHA1 482ecbbd2c177e3fdc33b18dc0ee65c83d681956)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rpath.org/downloadImage?fileId=42106&amp;amp;urlType=0"&gt;VMware ESX
+x86&lt;/a&gt;
+(SHA1 10757fd1f0ec119fe236f3402bf38dfde25cb40a)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rpath.org/downloadImage?fileId=42108&amp;amp;urlType=0"&gt;VMware ESX x86 OVF
+1.0&lt;/a&gt;
+(SHA1 7c535f1514a969118f08f4bdf9c9559b492c72d6)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rpath.org/downloadImage?fileId=42114&amp;amp;urlType=0"&gt;VMware ESX
+x86_64&lt;/a&gt;
+(SHA1 a710d469e74124f2988591362b6943cee9589e46)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rpath.org/downloadImage?fileId=42116&amp;amp;urlType=0"&gt;VMware ESX x86_64 OVF
+1.0&lt;/a&gt;
+(SHA1 c7a11c380f2d5e0cfc96220cbfe81a88876eb201)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rpath.org/downloadImage?fileId=42104&amp;amp;urlType=0"&gt;VMware Desktop
+x86&lt;/a&gt;
+(SHA1 29eb739b88d90a172815c2274aafb0b1ffe4228a)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rpath.org/downloadImage?fileId=42113&amp;amp;urlType=0"&gt;VMware Desktop
+x86_64&lt;/a&gt;
+(SHA1 f3ba1c95fc04260bf60ad3fef8552eda6be5f12d)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Remember that the appliance comes with its own management system that
+can be accessed by pointing your browser to
+&lt;strong&gt;https://YOUR-APPLIANCE-IP:8003&lt;/strong&gt; and logging in as the &lt;strong&gt;admin&lt;/strong&gt; user
+(the default password the first time you boot your appliance is
+&lt;strong&gt;password&lt;/strong&gt;, but you will immediately be asked to change it during the
+1-step setup wizard). From there you can also &lt;strong&gt;configure backups&lt;/strong&gt;,
+&lt;strong&gt;updates&lt;/strong&gt;, and &lt;strong&gt;manage system services&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Django Developer Kit Appliance 1.2.2</title><link>http://localhost:1313/posts/django-developer-kit-appliance-1-2-2/</link><pubDate>Fri, 10 Sep 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/django-developer-kit-appliance-1-2-2/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/09/foresightpony-300x230.png" alt="Foresight Django Pony"&gt;&lt;/p&gt;
+&lt;p&gt;Today I&amp;rsquo;m releasing my &lt;a href="http://bit.ly/byzBLV"&gt;Django Developer Kit Appliance 1.2.2&lt;/a&gt; due to the recent &lt;a href="http://www.djangoproject.com/weblog/2010/sep/08/security-release/"&gt;security release&lt;/a&gt;
+of &lt;strong&gt;Django 1.2.2&lt;/strong&gt;. Other than a newer version of Django, you&amp;rsquo;ll also
+get newer versions of several packages already included by default in
+the appliance.&lt;/p&gt;
+&lt;p&gt;I have been working hard (time permitting, off course) on migrating the
+appliance to a slim &lt;a href="http://www.foresightlinux.org"&gt;Foresight Linux&lt;/a&gt;
+base in order to upgrade the underlying python &lt;strong&gt;from 2.4 to latest
+2.6.x&lt;/strong&gt;, plus other goodies such as a newer kernel and the very latest
+versions of your favorite versioning control systems! This will also
+mean that I won&amp;rsquo;t have to maintain several packages on different places
+and will be able to leverage of the work being done on &lt;strong&gt;Foresight&lt;/strong&gt;!&lt;/p&gt;</description></item></channel></rss>

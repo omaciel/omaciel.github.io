@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pet Project on Og Maciel's Journal</title><link>http://localhost:1313/tags/pet-project/</link><description>Recent content in Pet Project on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2005 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pet-project/index.xml" rel="self" type="application/rss+xml"/><item><title>Dragging My Carcass</title><link>http://localhost:1313/posts/dragging-my-carcass/</link><pubDate>Fri, 13 May 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/dragging-my-carcass/</guid><description>&lt;p&gt;Been really busy attending the Project Management class these last 3
+days. It&amp;rsquo;s been very interesting but there&amp;rsquo;s a lot of material and
+concepts to absorb. The end product of this is that I get home
+completely drained and just pass out! Been &amp;ldquo;running&amp;rdquo; off of a million
+cups of coffee and caffeinated snacks&amp;hellip; Still haven&amp;rsquo;t had a chance to
+play with Perforce and have 4 new books awaiting for me at home. Hope to
+be able to do some hacking over the weekend since my new toy/hobby
+application (RssReader.NET) has been neglected for some time now&amp;hellip; Damn
+it!!! Class started&amp;hellip;&lt;/p&gt;</description></item><item><title>State of RssReaderNET</title><link>http://localhost:1313/posts/state-of-rssreadernet/</link><pubDate>Fri, 06 May 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/state-of-rssreadernet/</guid><description>&lt;p&gt;&lt;a href="http://www.flickr.com/photos/25563799@N00/12678075/"&gt;&lt;img src="http://photos11.flickr.com/12678075_cbf9730de9_m.jpg" alt="image0"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/25563799@N00/12678075/"&gt;RssReaderNET -
+v0.0.2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally uploaded by
+&lt;a href="http://www.flickr.com/people/25563799@N00/"&gt;omaciel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Haven&amp;rsquo;t received any offers of help with my RssReader.NET application&amp;hellip;
+but it&amp;rsquo;s not like I was expecting offers anyhow. :) Yesterday and today
+I spent some time making some changes to the UI as well adding some new
+functionality. UI changes include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed ComboBox control - Users will have to add new feeds via an
+interface.&lt;/li&gt;
+&lt;li&gt;Switched ListView control for a TreeView control - Will allow for
+expansion/collapsing of feeds and increase visibility of available
+posts.&lt;/li&gt;
+&lt;li&gt;Added a few buttons - These will disappear and are being used for
+testing purpose only.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;New functionality include:&lt;/p&gt;</description></item><item><title>Open Journal Idea</title><link>http://localhost:1313/posts/open-journal-idea/</link><pubDate>Thu, 10 Mar 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/open-journal-idea/</guid><description>&lt;p&gt;It has been a long time since I last blogged on my other web site &lt;a href="http://www.linuxgnubbie.com"&gt;Linux
+Gnubbie&lt;/a&gt;. It was my first real &amp;ldquo;taste&amp;rdquo; of a
+real blown web site and up to the day I bought the domain I had relied
+on public (e.g. chock-full of banners and adds), free web site
+providers. Those really sucked specially because you were pretty much at
+the mercy of their regulations and forget about getting some type of
+remote access to work on your files. You&amp;rsquo;d better have either Front Page
+(and hope the provider supported Front Page extensions) or know how to
+FTP. &lt;a href="http://www.linuxgnubbie.com"&gt;Linux Gnubbie&lt;/a&gt; started out as my way
+to give something back to the Linux and Open Source community. I&amp;rsquo;d spend
+hours every day scouring the web for usefull tid-bits and add them to
+the site so that Open Source enthusiasts could have a central
+repositiory for information and &amp;ldquo;geek news.&amp;rdquo; Some time along the way the
+blog bug bit me hard and I chose to register another domain for my
+personal nonsense ideas and thoughts and that is when &lt;a href="http://www.ogmaciel.com"&gt;Journal of an
+Open Sourcee&lt;/a&gt; was born. Several months into
+this duo-existance I found myself struggling to support 2 sites and get
+work done at my daytime job. Unfortunately &lt;a href="http://www.linuxgnubbie.com"&gt;Linux
+Gnubbie&lt;/a&gt; was the one that suffered the most
+since &lt;a href="http://www.ogmaciel.com"&gt;Journal of an Open Sourcee&lt;/a&gt; doesn&amp;rsquo;t
+require much time from me. I was pondering the idea of just dumping the
+domain for &lt;a href="http://www.linuxgnubbie.com"&gt;Linux Gnubbie&lt;/a&gt; but I just can&amp;rsquo;t
+get myself to pull the plug on it. So I had this major epiphany while
+driving to work: why don&amp;rsquo;t I turn the web site into a &lt;strong&gt;public&lt;/strong&gt;
+blogging site for enthusiasts as myself??? What better way to give back
+than provide those who can&amp;rsquo;t afford to own their own domain a place
+where they can contribute to the community? I&amp;rsquo;d be the administrator for
+the site obviously, &amp;ldquo;droping in&amp;rdquo; as often as possible to make sure
+things are running smoothly. So there it is&amp;hellip; Those &lt;strong&gt;seriously
+interested and dedicated&lt;/strong&gt; individuals can contact me via email (og dot
+maciel at gmail dot com). Once I have a good list of authors I&amp;rsquo;ll
+re-build the site and create the proper accounts.&lt;/p&gt;</description></item></channel></rss>

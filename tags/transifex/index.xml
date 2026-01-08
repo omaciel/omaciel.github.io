@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Transifex on Og Maciel's Journal</title><link>http://localhost:1313/tags/transifex/</link><description>Recent content in Transifex on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/transifex/index.xml" rel="self" type="application/rss+xml"/><item><title>Transifex Appliance 1.0 (Proteus) Release</title><link>http://localhost:1313/posts/transifex-appliance-1-0-proteus-release/</link><pubDate>Fri, 15 Oct 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/transifex-appliance-1-0-proteus-release/</guid><description>&lt;p&gt;&lt;a href="http://bit.ly/Transifex"&gt;&lt;img src="http://bit.ly/TxLogo" alt="Transifex"&gt;&lt;/a&gt;A newer
+version of the &lt;a href="http://bit.ly/Transifex"&gt;Transifex Appliance&lt;/a&gt; has been
+released with all the &lt;a href="http://help.transifex.net/technical/releases/1.0.html"&gt;latest, juicy
+bits&lt;/a&gt;! In fact,
+this release is the &lt;strong&gt;mother of all releases&lt;/strong&gt; with so many new features
+and goodies that it would take me a while to jot them down here! A few
+impressive nuggets are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brand New Translation Storage Engine&lt;/li&gt;
+&lt;li&gt;QT (TS) translation file format support&lt;/li&gt;
+&lt;li&gt;Source language file tracking over HTTP&lt;/li&gt;
+&lt;li&gt;Translation file metadata auto-updating&lt;/li&gt;
+&lt;li&gt;Clone language&lt;/li&gt;
+&lt;li&gt;Non-English Source Languages&lt;/li&gt;
+&lt;li&gt;Lotte: Multiple Source Languages, Suggestions, Keyboard Shortcuts,
+Translation Memory&lt;/li&gt;
+&lt;li&gt;Application Programmable Interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Can you believe that &lt;a href="http://transifex.org"&gt;Transifex&lt;/a&gt; has reached the
+&lt;strong&gt;1.0 mark&lt;/strong&gt;???&lt;/p&gt;</description></item></channel></rss>

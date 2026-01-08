@@ -1,0 +1,68 @@
+<!doctype html><html lang=en><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{--accent-color:#FF4D4D;--font-size:1.1rem}</style><title>GNOME Developer Kit, follow up</title><meta name=description content="Just wanted to update everyone who showed interest in the new release of GNOME Developer Kit I announced yesterday. Based on some preliminary statistics I …"><meta name=keywords content='blog,technology,books,reading,software engineering,quality engineering,rpath'><meta property="og:url" content="http://localhost:1313/posts/gnome-developer-kit-follow-up/"><meta property="og:type" content="website"><meta property="og:title" content="GNOME Developer Kit, follow up"><meta property="og:description" content="Just wanted to update everyone who showed interest in the new release of GNOME Developer Kit I announced yesterday. Based on some preliminary statistics I …"><meta property="og:image" content="http://localhost:1313/images/cartoon_avatar.png"><meta property="og:image:secure_url" content="http://localhost:1313/images/cartoon_avatar.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:title content="GNOME Developer Kit, follow up"><meta name=twitter:description content="Just wanted to update everyone who showed interest in the new release of GNOME Developer Kit I announced yesterday. Based on some preliminary statistics I …"><meta property="twitter:domain" content="http://localhost:1313/posts/gnome-developer-kit-follow-up/"><meta property="twitter:url" content="http://localhost:1313/posts/gnome-developer-kit-follow-up/"><meta name=twitter:image content="http://localhost:1313/images/cartoon_avatar.png"><link rel=canonical href=http://localhost:1313/posts/gnome-developer-kit-follow-up/><link rel=stylesheet type=text/css href=/css/normalize.min.css media=print><link rel=stylesheet type=text/css href=/css/main.min.css><link id=dark-theme rel=stylesheet href=/css/dark.min.css><script src=/js/bundle.min.7136b4abac7b277aba8bc933917f4602d39a5c44f5590be687244bc86ef4f162.js integrity="sha256-cTa0q6x7J3q6i8kzkX9GAtOaXET1WQvmhyRLyG708WI="></script><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><link rel=icon href=/favicon.ico><link rel="shortcut icon" href=/favicon.ico><link rel=apple-touch-icon href=/images/ogmaciel.jpg></head><body><script>setThemeByUserPref()</script><header class=header><nav class=header-nav><div class=avatar><a href=http://localhost:1313/><img src=/images/cartoon_avatar.png alt="Og Maciel"></a></div><div class=nav-title><a class=nav-brand href=http://localhost:1313/>Og Maciel's Journal</a></div><div class=nav-links><div class=nav-link><a href=http://localhost:1313/ aria-label><span data-feather=home></span> Home</a></div><div class=nav-link><a href=http://localhost:1313/books/ aria-label><span data-feather=book-open></span> Books</a></div><div class=nav-link><a href=http://localhost:1313/posts/ aria-label><span data-feather=book></span> Posts</a></div><div class=nav-link><a href=http://localhost:1313/projects/ aria-label=projects><span data-feather=code></span> Projects</a></div><div class=nav-link><a href=http://localhost:1313/tags/ aria-label><span data-feather=tag></span> Tags</a></div><div class=nav-link><a href=http://localhost:1313/about/ aria-label><span data-feather=user></span> About</a></div><div class=nav-link><a href=http://localhost:1313/index.xml aria-label=rss><span data-feather=rss></span></a></div><span class=nav-icons-divider></span><div class="nav-link dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a aria-hidden=true role=switch><span class=theme-toggle-icon data-feather=moon></span></a></div><div class=nav-link id=hamburger-menu-toggle><span class="sr-only hamburger-menu-toggle-screen-reader-target">menu</span>
+<a aria-checked=false aria-labelledby=hamburger-menu-toggle id=hamburger-menu-toggle-target role=switch><span data-feather=menu></span></a></div><ul class="nav-hamburger-list visibility-hidden"><li class=nav-item><a href=http://localhost:1313/><span data-feather=home></span> Home</a></li><li class=nav-item><a href=http://localhost:1313/books/><span data-feather=book-open></span> Books</a></li><li class=nav-item><a href=http://localhost:1313/posts/><span data-feather=book></span> Posts</a></li><li class=nav-item><a href=http://localhost:1313/projects/><span data-feather=code></span> Projects</a></li><li class=nav-item><a href=http://localhost:1313/tags/><span data-feather=tag></span> Tags</a></li><li class=nav-item><a href=http://localhost:1313/about/><span data-feather=user></span> About</a></li><li class=nav-item><a href=http://localhost:1313/index.xml><span data-feather=rss></span></a></li><li class="nav-item dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a role=switch><span class=theme-toggle-icon data-feather=moon></span></a></li></ul></div></nav></header><main id=content><div class="post container"><div class=post-header-section><h1>GNOME Developer Kit, follow up</h1><small role=doc-subtitle></small><p class=post-date>March 10, 2010</p><ul class=post-tags><li class=post-tag><a href=http://localhost:1313/tags/rpath>rpath</a></li></ul></div><div class=post-content><p>Just wanted to update everyone who showed interest in the new release of
+<a href=http://bit.ly;GNOMEDevKit>GNOME Developer Kit</a> I announced yesterday.
+Based on some <strong>preliminary statistics</strong> I collected in the (less than)
+last 24 hours, it seems that the <strong>VMware</strong> image type got the most
+download, followed closely by the <strong>installable ISO</strong> format. I guess
+that was due to <strong>VirtualBox</strong> being able to use *.vmdk files and some
+people opting for the free virtualization tool.</p><p>Here are the preliminary results so far:</p><ol><li>VMware image: <strong>42</strong> downloads</li><li>Installable ISO: <strong>26</strong> downloads</li><li>RAW filesystem image: <strong>17</strong> downloads</li></ol><p>[caption id=&ldquo;attachment_825&rdquo; align=&ldquo;aligncenter&rdquo; width=&ldquo;300&rdquo;
+caption=&ldquo;About GNOME 2.29.92&rdquo;]<a href=http://www.ogmaciel.com/wp-content/uploads/2010/03/Screenshot.png><img src=http://www.ogmaciel.com/wp-content/uploads/2010/03/Screenshot-300x187.png alt="About GNOME
+2.29.92"></a>[/caption]</p><p>Due to the number of downloads and and comments I received, I felt that
+I should provide with some background on how to install/remove packages
+and update your system using the conary package management system. So
+here you go:</p><p>The package management system behind the <a href=http://bit.ly;GNOMEDevKit>GNOME Developer
+Kit</a> is called
+<a href=http://docs.rpath.com/conary/Conaryopedia/index.html>conary</a> and is
+considered by many as the next generation package management system when
+compared to some of the popular options out there. One of the reasons
+behind this claim is the fact that your entire system is actually
+completely maintained in a versioned state, and conary is always &ldquo;aware&rdquo;
+of what is installed on your system and what files and dependencies make
+up the entire &ldquo;set&rdquo;. This allows for some pretty nifty operations such
+as rolling back to a specific state of your system.</p><p>In order to check for new updates for your system, open a terminal and
+run the command <strong>sudo conary updateall</strong>. conary will then check for
+updates and prompt you to accept the update or not. Please keep in mind
+that the first time you run conary for the first time, you will
+experience a delay as your entire system gets analyzed in preparation
+for the changes that are to take place. All subsequent actions performed
+will be much faster, I promise. If after a while you don&rsquo;t feel like
+waiting for the prompt, add <strong>&mdash;no-interactive</strong> to the update command
+to have your system updated automatically.</p><p>Now, let&rsquo;s just say that you decided to install something new, such as
+<strong>Banshee</strong>. Easy, just run <strong>sudo conary update banshee</strong> (remember to
+add &mdash;no-interactive for no-hands updates) and voilÃ¡!</p><p>Want to know what was actually installed on your system? <strong>conary q
+banshee</strong> will tell you what version of banshee was installed. How about
+what files were installed? <strong>conary q &mdash;ls banshee</strong> will give you a
+list of all the files that were installed and <strong>conary q &mdash;lsl
+banshee</strong> will give you the long list with file permissions and modes.</p><p>Changed your mind and want to remove banshee from your system? <strong>sudo
+conary erase banshee</strong> will take care of that. Want to actually roll
+your system back to the state it was before you installed banshee
+instead? <strong>sudo conary rollback 1</strong> will rollback your system exactly
+one transaction. Want to go further back? Just increase that number to
+represent how many transactions to roll back. Want to rollback but don&rsquo;t
+remember what point in time you want to go? <strong>sudo conary rblist</strong> will
+display a list of all transactions and what was changed. Note that each
+transaction is preceded by the letter &ldquo;<strong>r</strong>&rdquo;, so if you want to
+rollback to the point <strong>r.15</strong>, then use <strong>sudo conary rollback r.15</strong>
+(and don&rsquo;t forget that &ldquo;r&rdquo; or you&rsquo;ll rollback exactly 15 transactions
+instead).</p><p>How about searching for a package? If it is something that it is already
+installed on your system, then <strong>conary q [package name]</strong> will give
+you the information you want. If the package is not installed on your
+system yet, then <strong>conary rq [package name]</strong> is what you need, though
+since conary does not yet make use of metadata, you&rsquo;ll need to know the
+exact name of what you&rsquo;re looking for. Now, let&rsquo;s say you want to find
+out what package provides the command <strong>/sbin/service</strong>? Use <strong>conary q
+&mdash;path /sbin/service</strong> to find out that
+<strong>initscripts:runtime=8.81.2-0.11-1</strong> is responsible for providing it
+(use rq if you want to search the remote repository).</p><p>Well, I think this is enough to get you going. You&rsquo;ll probably want to
+install Flash and media codecs to enjoy browsing some sites and
+listening to your media, so let&rsquo;s apply what we&rsquo;ve learned so far and
+run: sudo conary update flashplayer group-codecs</p><p>If you&rsquo;ve stayed with me until now, you may want to read up on <a href=http://docs.rpath.com/conary/Conaryopedia/index.html>what
+else conary can
+do</a> or even
+consider <a href=http://wiki.foresightlinux.org/display/~jesse/Gnome+Developer+Kit>packaging for GNOME Developer
+Kit</a>.
+Your help will be greatly appreciated!</p></div><div class=prev-next></div><svg id="btt-button" class="arrow-logo" height="1em" viewBox="0 0 384 512" onclick="scrollToTop()" title="Go to top"><path d="M177 159.7l136 136c9.4 9.4 9.4 24.6.0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9.0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9.0L7 329.7c-9.4-9.4-9.4-24.6.0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z"/></svg>
+<script>let backToTopButton=document.getElementById("btt-button");window.onscroll=function(){scrollFunction()};function scrollFunction(){document.body.scrollTop>20||document.documentElement.scrollTop>20?backToTopButton.style.display="block":backToTopButton.style.display="none"}function scrollToTop(){window.scrollTo(0,0)}</script></div></main><footer class=footer><span>&copy; 2010 Og Maciel © 2005-2025</span>
+<span>Made with &#10084;&#65039; using <a target=_blank href=https://github.com/gokarna-theme/gokarna-hugo>Gokarna</a></span></footer></body></html>

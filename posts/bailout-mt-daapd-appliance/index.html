@@ -1,0 +1,92 @@
+<!doctype html><html lang=en><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{--accent-color:#FF4D4D;--font-size:1.1rem}</style><title>Bailout MT-Daapd Appliance</title><meta name=description content="For the past few days I&rsquo;ve been working on setting up a minimalistic music server for home. As I am always doing some crazy things to my desktop/laptop …"><meta name=keywords content='blog,technology,books,reading,software engineering,quality engineering,rpath'><meta property="og:url" content="http://localhost:1313/posts/bailout-mt-daapd-appliance/"><meta property="og:type" content="website"><meta property="og:title" content="Bailout MT-Daapd Appliance"><meta property="og:description" content="For the past few days I&rsquo;ve been working on setting up a minimalistic music server for home. As I am always doing some crazy things to my desktop/laptop …"><meta property="og:image" content="http://localhost:1313/images/cartoon_avatar.png"><meta property="og:image:secure_url" content="http://localhost:1313/images/cartoon_avatar.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:title content="Bailout MT-Daapd Appliance"><meta name=twitter:description content="For the past few days I&rsquo;ve been working on setting up a minimalistic music server for home. As I am always doing some crazy things to my desktop/laptop …"><meta property="twitter:domain" content="http://localhost:1313/posts/bailout-mt-daapd-appliance/"><meta property="twitter:url" content="http://localhost:1313/posts/bailout-mt-daapd-appliance/"><meta name=twitter:image content="http://localhost:1313/images/cartoon_avatar.png"><link rel=canonical href=http://localhost:1313/posts/bailout-mt-daapd-appliance/><link rel=stylesheet type=text/css href=/css/normalize.min.css media=print><link rel=stylesheet type=text/css href=/css/main.min.css><link id=dark-theme rel=stylesheet href=/css/dark.min.css><script src=/js/bundle.min.7136b4abac7b277aba8bc933917f4602d39a5c44f5590be687244bc86ef4f162.js integrity="sha256-cTa0q6x7J3q6i8kzkX9GAtOaXET1WQvmhyRLyG708WI="></script><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><link rel=icon href=/favicon.ico><link rel="shortcut icon" href=/favicon.ico><link rel=apple-touch-icon href=/images/ogmaciel.jpg></head><body><script>setThemeByUserPref()</script><header class=header><nav class=header-nav><div class=avatar><a href=http://localhost:1313/><img src=/images/cartoon_avatar.png alt="Og Maciel"></a></div><div class=nav-title><a class=nav-brand href=http://localhost:1313/>Og Maciel's Journal</a></div><div class=nav-links><div class=nav-link><a href=http://localhost:1313/ aria-label><span data-feather=home></span> Home</a></div><div class=nav-link><a href=http://localhost:1313/books/ aria-label><span data-feather=book-open></span> Books</a></div><div class=nav-link><a href=http://localhost:1313/posts/ aria-label><span data-feather=book></span> Posts</a></div><div class=nav-link><a href=http://localhost:1313/projects/ aria-label=projects><span data-feather=code></span> Projects</a></div><div class=nav-link><a href=http://localhost:1313/tags/ aria-label><span data-feather=tag></span> Tags</a></div><div class=nav-link><a href=http://localhost:1313/about/ aria-label><span data-feather=user></span> About</a></div><div class=nav-link><a href=http://localhost:1313/index.xml aria-label=rss><span data-feather=rss></span></a></div><span class=nav-icons-divider></span><div class="nav-link dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a aria-hidden=true role=switch><span class=theme-toggle-icon data-feather=moon></span></a></div><div class=nav-link id=hamburger-menu-toggle><span class="sr-only hamburger-menu-toggle-screen-reader-target">menu</span>
+<a aria-checked=false aria-labelledby=hamburger-menu-toggle id=hamburger-menu-toggle-target role=switch><span data-feather=menu></span></a></div><ul class="nav-hamburger-list visibility-hidden"><li class=nav-item><a href=http://localhost:1313/><span data-feather=home></span> Home</a></li><li class=nav-item><a href=http://localhost:1313/books/><span data-feather=book-open></span> Books</a></li><li class=nav-item><a href=http://localhost:1313/posts/><span data-feather=book></span> Posts</a></li><li class=nav-item><a href=http://localhost:1313/projects/><span data-feather=code></span> Projects</a></li><li class=nav-item><a href=http://localhost:1313/tags/><span data-feather=tag></span> Tags</a></li><li class=nav-item><a href=http://localhost:1313/about/><span data-feather=user></span> About</a></li><li class=nav-item><a href=http://localhost:1313/index.xml><span data-feather=rss></span></a></li><li class="nav-item dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a role=switch><span class=theme-toggle-icon data-feather=moon></span></a></li></ul></div></nav></header><main id=content><div class="post container"><div class=post-header-section><h1>Bailout MT-Daapd Appliance</h1><small role=doc-subtitle></small><p class=post-date>December 6, 2008</p><ul class=post-tags><li class=post-tag><a href=http://localhost:1313/tags/rpath>rpath</a></li></ul></div><div class=post-content><p>For the past few days I&rsquo;ve been working on setting up a minimalistic
+music server for home. As I am always doing some crazy things to my
+desktop/laptop that eventually leads me to re-install my operating
+system, I find myself constantly moving music files between computers
+and external media. When you have a decent sized music library, this
+excercise starts to become a major pain. That&rsquo;s how I came up with the
+idea of creating a media server using mt-daapd as my tool of choice.
+mt-daapd is so easy to use that I wasted no time and got started right
+away.</p><p>The first step was to register a new product (think project) in
+<a href=http://www.rpath.org>rBuilder Online</a>. After spending less than 2
+minutes thinking up a name I decided to call it
+<a href=http://bailout.rpath.org>Bailout</a>, as I needed something to bail me
+out of my music sharing issues (though I&rsquo;d like some of the bailout
+money that our goverment is giving out these days).</p><p>The next step was to pick and choose what bits I wanted to add to my
+appliance. since rBuilder allows you to start with Just Enough Operating
+System (or JEOS for short) components, I proceeded to defining the
+configuration of my product, choosing the rPath Linux 2 operating system
+(other choices were Ubuntu Hardy and CentOS) and cherry picked some
+other components I wanted to make available out of the box. They were
+smb, nfs and openssh for some choices of connectivity, as well as vim
+(hey, if I want to ssh into the box and do some manual tweaks I got to
+have my favorite text editor). This is all done via the web interface in
+rBuilder and up until now I basically clicked my way through.</p><p>Now it was time to add the main attraction of the show: mt-daapd. This
+component was not available to me from the default software repository
+and it was time for me to make some important decisions. rBuilder allows
+you to package software via the web interface using RPMs, DEBs or binary
+tarballs but I opted for trying out a brand new building tool called
+rbuild (not to confuse with rBuilder) for those who like to tinker with
+the command line and already know a bit about the conary package
+management system. I will not go into details on how I packaged mt-daapd
+using rbuild but I highly recommend the blog
+<a href=http://blogs.conary.com/index.php/mkj/2008/08/29/simplifying_assumptions>posts</a>
+written by Michael Johnson for more details about this powerful tool.</p><p>Fast forward a few more minutes and my appliance was all ready to go. A
+few more clicks and I kicked off the build of an installable ISO and a
+VMWare image for this first &ldquo;batch&rdquo;. I could have chosen other formats
+of delivering my appliance, such as Amazon EC2, Citrix, or Xen but I
+still have time to go back and edit my product definitions later.</p><p>Once my 2 images were available, it was time to smoke test it. I chose
+to burn a CD using the installable ISO image and used it to install the
+Bailout appliance to an older computer I have under my desk. The
+installer is anaconda-based and it is pretty trivial to follow. After
+the (very quick) installation process and a quick reboot I was face to
+face with a blank terminal console and instructions to log on to the
+appliance&rsquo;s management system by pointing a browser to a local IP
+address. and so I did.</p><p><a href=http://www.flickr.com/photos/ogmaciel/3087612648/><img src=http://farm4.static.flickr.com/3227/3087612648_23a5164936.jpg alt="Appliance
+Management"></a></p><p>If you decide to play with the Bailout appliance you&rsquo;ll see in the
+download section some instructions about the default credentials for the
+web based management system, but for those who may have skipped reading
+the text I put together, you should login using <strong>admin</strong> as your user
+and <strong>password</strong> as your&mldr; err, password. Don&rsquo;t worry, you&rsquo;ll change
+this in the very next step.</p><p><a href=http://www.flickr.com/photos/ogmaciel/3086775491/><img src=http://farm4.static.flickr.com/3218/3086775491_bb6ee9acd6.jpg alt="Wizard: Setup a
+password"></a></p><p>The first time you login to the appliance, you&rsquo;ll be prompted to set a
+new password for the web management user&rsquo;s account. Make sure you choose
+something secure as this user is reponsible for the management and
+maintenance of your appliance.</p><p>The next (optional) step is to set up how you&rsquo;d like to be notified
+about your appliance&rsquo;s activities as well as about future updates. As I
+want to be informed of updates for this appliance, I entered the
+information necessary and proceeded with the wizard (hint: if you want
+to skip this step, just click on the save button).</p><p><a href=http://www.flickr.com/photos/ogmaciel/3087612788/><img src=http://farm4.static.flickr.com/3228/3087612788_1e44136a71.jpg alt="Wizard: Setup a password for
+root"></a></p><p>Finally, pick a secure password for the root account of your appliance.
+Needless to say, this is a very important step in the setup of any
+GNU/Linux system.</p><p><a href=http://www.flickr.com/photos/ogmaciel/3086776079/><img src=http://farm4.static.flickr.com/3050/3086776079_e03069c47b.jpg alt="Landing
+page"></a></p><p>And that is it! Welcome to your your brand new appliance! The web based
+management system has several options that will allow you to perform
+many tasks on your appliance, such as updates, backups&mldr;</p><p><a href=http://www.flickr.com/photos/ogmaciel/3086776183/><img src=http://farm4.static.flickr.com/3198/3086776183_1b03d6363d.jpg alt="Managing running
+services"></a></p><p>&mldr; manage services, configure the network&mldr;</p><p><a href=http://www.flickr.com/photos/ogmaciel/3086776791/><img src=http://farm4.static.flickr.com/3033/3086776791_7100cd5479.jpg alt="System
+Information"></a></p><p>&mldr; check the overall status and restore your system to a previous
+stage.</p><p><a href=http://www.flickr.com/photos/ogmaciel/3087613296/><img src=http://farm4.static.flickr.com/3077/3087613296_2f78daff21.jpg alt="MT-Daapd service web
+page"></a></p><p>Now you can point your browser to the same address of your web
+management system, changing the port to 3689 and using
+<strong>admin</strong>/<strong>mt-daapd</strong> as credentials to log in to the web management
+page for mt-daap. You should also be able to see a new music share show
+up in your media player of choice (assuming that the Bailout appliance
+and the system where the media player is running are in the same
+network).</p><p><a href=http://www.flickr.com/photos/ogmaciel/3086941341/><img src=http://farm4.static.flickr.com/3038/3086941341_6586e3754d.jpg alt="Banshee using a mt-daapd music
+share"></a></p><p>Right now the appliance is configured to use /mnt/mp3 as its media
+folder and is not configured to scan it automatically, but this and
+other settings can be changed by connecting to the appliance (ssh) and
+manually tweaking the /etc/mt-daapd.conf file. Since the web management
+system has a rich documented API and allows for the creation of custom
+plugins, I will most likely create a plugin that will allow you to do
+this from the web in the days to come. I also want to play with
+<a href=http://sourceforge.net/projects/ushare>ushare</a> and uPnp to share more
+than just music files and also allow for sharing with other devices such
+as a XBox or a Nokia N810 tablet, but only time will tell when I&rsquo;ll get
+to it. Obviously, if you want to lend a helping hand, just get in touch
+with me.</p><p>So go out and download a copy of the <a href=http://bailout.rpath.org>Bailout</a>
+appliance today! So far is has proven to be very useful to me!</p></div><div class=prev-next></div><svg id="btt-button" class="arrow-logo" height="1em" viewBox="0 0 384 512" onclick="scrollToTop()" title="Go to top"><path d="M177 159.7l136 136c9.4 9.4 9.4 24.6.0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9.0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9.0L7 329.7c-9.4-9.4-9.4-24.6.0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z"/></svg>
+<script>let backToTopButton=document.getElementById("btt-button");window.onscroll=function(){scrollFunction()};function scrollFunction(){document.body.scrollTop>20||document.documentElement.scrollTop>20?backToTopButton.style.display="block":backToTopButton.style.display="none"}function scrollToTop(){window.scrollTo(0,0)}</script></div></main><footer class=footer><span>&copy; 2008 Og Maciel © 2005-2025</span>
+<span>Made with &#10084;&#65039; using <a target=_blank href=https://github.com/gokarna-theme/gokarna-hugo>Gokarna</a></span></footer></body></html>

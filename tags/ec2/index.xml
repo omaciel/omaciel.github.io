@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>EC2 on Og Maciel's Journal</title><link>http://localhost:1313/tags/ec2/</link><description>Recent content in EC2 on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 30 Nov 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ec2/index.xml" rel="self" type="application/rss+xml"/><item><title>Extending the default EC2 root partition: Follow up</title><link>http://localhost:1313/posts/extending-the-default-ec2-root-partition-follow/</link><pubDate>Fri, 30 Nov 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/extending-the-default-ec2-root-partition-follow/</guid><description>&lt;p&gt;&lt;img src="https://lh4.googleusercontent.com/-_FwLIhjJu1s/ULaGxX9ch7I/AAAAAAACppg/KR_KZG-hLfM/s400/Screenshot%2520from%25202012-11-28%252015%253A15%253A38.png" alt="EC2
+wizard"&gt;&lt;/p&gt;
+&lt;p&gt;Just wanted to follow up on my previous
+&lt;a href="http://ogmaciel.tumblr.com/post/36760809108/extending-the-default-ec2-root-partition-for-an"&gt;post&lt;/a&gt;
+in regards to how to resize the root partition of an EC2 instance. Turns
+out that, once you&amp;rsquo;ve edited the root partition while in the launch
+panel, you can then perform the resize command right away, as soon as
+the instance is up and running and you have ssh&amp;rsquo;ed to it.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[&lt;a href="mailto:root@ip-aa-bb-cc-dd"&gt;root@ip-aa-bb-cc-dd&lt;/a&gt; ~]# resize2fs /dev/xvde1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is definitely better than what I thought one had to do to get a
+bigger root partition.&lt;/p&gt;</description></item><item><title>Extending the default EC2 root partition for an instance</title><link>http://localhost:1313/posts/extending-the-default-ec2-root-partition-for-an/</link><pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/extending-the-default-ec2-root-partition-for-an/</guid><description>&lt;p&gt;&lt;img src="https://lh4.googleusercontent.com/-_FwLIhjJu1s/ULaGxX9ch7I/AAAAAAACppg/KR_KZG-hLfM/s400/Screenshot%2520from%25202012-11-28%252015%253A15%253A38.png" alt="EC2
+wizard"&gt;&lt;/p&gt;
+&lt;p&gt;Today I was playing with &lt;strong&gt;EC2&lt;/strong&gt;, trying to launch a &lt;strong&gt;RHEL 6.3&lt;/strong&gt;
+instance so that I could then install the latest version of
+&lt;a href="http://katello.org"&gt;Katello&lt;/a&gt; and beat a bit on it&amp;hellip; just for fun, you
+know? Using the &lt;a href="https://console.aws.amazon.com/ec2"&gt;EC2 Management
+Console&lt;/a&gt; web interface I used the
+&amp;ldquo;classical&amp;rdquo; wizard to select all the components I wanted for a
+&lt;strong&gt;m1.large&lt;/strong&gt; instance, making sure to edit the default &lt;strong&gt;7.5 GB&lt;/strong&gt; root
+partition they give you so that I could have more space available to
+synchronize content&amp;hellip; but when the instance finally came up I realized
+that my disk space was still showing the default value:&lt;/p&gt;</description></item><item><title>Moving WordPress Blog to Amazon's EC2</title><link>http://localhost:1313/posts/moving-wordpress-blog-to-amazons-ec2/</link><pubDate>Wed, 16 Feb 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/moving-wordpress-blog-to-amazons-ec2/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2011/02/704056791_63f1e492d8.jpg" alt="King Cloud"&gt;&lt;/p&gt;
+&lt;p&gt;You probably remember &lt;a href="http://www.ogmaciel.com/?p=1303"&gt;reading&lt;/a&gt; about
+my issues with running my &lt;strong&gt;WordPress&lt;/strong&gt;-based blog on &lt;strong&gt;Dreamhost&lt;/strong&gt;'s
+environment, and how frustrated I was with the experience of using their
+&lt;strong&gt;Private Server&lt;/strong&gt; services. The short version is that I eventually
+migrated my blog back to their shared hosting environment, turned
+off most of the plugins and cried myself to sleep.&lt;/p&gt;
+&lt;p&gt;The very next day, after reading (and replying to) the comments I
+received, one in particular caught my eye: &lt;strong&gt;Amazon&amp;rsquo;s Free Usage Tier&lt;/strong&gt;
+offering new customers the following &lt;strong&gt;EC2&lt;/strong&gt; services each month for one
+year:&lt;/p&gt;</description></item></channel></rss>

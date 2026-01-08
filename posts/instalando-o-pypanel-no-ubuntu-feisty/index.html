@@ -1,0 +1,65 @@
+<!doctype html><html lang=en><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{--accent-color:#FF4D4D;--font-size:1.1rem}</style><title>Instalando o PyPanel no Ubuntu Feisty</title><meta name=description content="Acabei de instalar o Ubuntu Feisty Herd 3 (versao ainda em desenvolvimento; apesar de estar rodando redondinho aqui, recomendo que nao atualizem ate&rsquo; a …"><meta name=keywords content='blog,technology,books,reading,software engineering,quality engineering,portuguese'><meta property="og:url" content="http://localhost:1313/posts/instalando-o-pypanel-no-ubuntu-feisty/"><meta property="og:type" content="website"><meta property="og:title" content="Instalando o PyPanel no Ubuntu Feisty"><meta property="og:description" content="Acabei de instalar o Ubuntu Feisty Herd 3 (versao ainda em desenvolvimento; apesar de estar rodando redondinho aqui, recomendo que nao atualizem ate&rsquo; a …"><meta property="og:image" content="http://localhost:1313/images/cartoon_avatar.png"><meta property="og:image:secure_url" content="http://localhost:1313/images/cartoon_avatar.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:title content="Instalando o PyPanel no Ubuntu Feisty"><meta name=twitter:description content="Acabei de instalar o Ubuntu Feisty Herd 3 (versao ainda em desenvolvimento; apesar de estar rodando redondinho aqui, recomendo que nao atualizem ate&rsquo; a …"><meta property="twitter:domain" content="http://localhost:1313/posts/instalando-o-pypanel-no-ubuntu-feisty/"><meta property="twitter:url" content="http://localhost:1313/posts/instalando-o-pypanel-no-ubuntu-feisty/"><meta name=twitter:image content="http://localhost:1313/images/cartoon_avatar.png"><link rel=canonical href=http://localhost:1313/posts/instalando-o-pypanel-no-ubuntu-feisty/><link rel=stylesheet type=text/css href=/css/normalize.min.css media=print><link rel=stylesheet type=text/css href=/css/main.min.css><link id=dark-theme rel=stylesheet href=/css/dark.min.css><script src=/js/bundle.min.7136b4abac7b277aba8bc933917f4602d39a5c44f5590be687244bc86ef4f162.js integrity="sha256-cTa0q6x7J3q6i8kzkX9GAtOaXET1WQvmhyRLyG708WI="></script><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><link rel=icon href=/favicon.ico><link rel="shortcut icon" href=/favicon.ico><link rel=apple-touch-icon href=/images/ogmaciel.jpg></head><body><script>setThemeByUserPref()</script><header class=header><nav class=header-nav><div class=avatar><a href=http://localhost:1313/><img src=/images/cartoon_avatar.png alt="Og Maciel"></a></div><div class=nav-title><a class=nav-brand href=http://localhost:1313/>Og Maciel's Journal</a></div><div class=nav-links><div class=nav-link><a href=http://localhost:1313/ aria-label><span data-feather=home></span> Home</a></div><div class=nav-link><a href=http://localhost:1313/books/ aria-label><span data-feather=book-open></span> Books</a></div><div class=nav-link><a href=http://localhost:1313/posts/ aria-label><span data-feather=book></span> Posts</a></div><div class=nav-link><a href=http://localhost:1313/projects/ aria-label=projects><span data-feather=code></span> Projects</a></div><div class=nav-link><a href=http://localhost:1313/tags/ aria-label><span data-feather=tag></span> Tags</a></div><div class=nav-link><a href=http://localhost:1313/about/ aria-label><span data-feather=user></span> About</a></div><div class=nav-link><a href=http://localhost:1313/index.xml aria-label=rss><span data-feather=rss></span></a></div><span class=nav-icons-divider></span><div class="nav-link dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a aria-hidden=true role=switch><span class=theme-toggle-icon data-feather=moon></span></a></div><div class=nav-link id=hamburger-menu-toggle><span class="sr-only hamburger-menu-toggle-screen-reader-target">menu</span>
+<a aria-checked=false aria-labelledby=hamburger-menu-toggle id=hamburger-menu-toggle-target role=switch><span data-feather=menu></span></a></div><ul class="nav-hamburger-list visibility-hidden"><li class=nav-item><a href=http://localhost:1313/><span data-feather=home></span> Home</a></li><li class=nav-item><a href=http://localhost:1313/books/><span data-feather=book-open></span> Books</a></li><li class=nav-item><a href=http://localhost:1313/posts/><span data-feather=book></span> Posts</a></li><li class=nav-item><a href=http://localhost:1313/projects/><span data-feather=code></span> Projects</a></li><li class=nav-item><a href=http://localhost:1313/tags/><span data-feather=tag></span> Tags</a></li><li class=nav-item><a href=http://localhost:1313/about/><span data-feather=user></span> About</a></li><li class=nav-item><a href=http://localhost:1313/index.xml><span data-feather=rss></span></a></li><li class="nav-item dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a role=switch><span class=theme-toggle-icon data-feather=moon></span></a></li></ul></div></nav></header><main id=content><div class="post container"><div class=post-header-section><h1>Instalando o PyPanel no Ubuntu Feisty</h1><small role=doc-subtitle></small><p class=post-date>February 10, 2007</p><ul class=post-tags><li class=post-tag><a href=http://localhost:1313/tags/portuguese>portuguese</a></li></ul></div><div class=post-content><p>Acabei de instalar o Ubuntu Feisty Herd 3 (versao ainda em
+desenvolvimento; apesar de estar rodando redondinho aqui, recomendo que
+nao atualizem ate&rsquo; a versao final ser lancada oficialmente) no meu
+computador, e ja&rsquo; de imediato instalei o
+<a href=http://icculus.org/openbox/>OpenBox</a>.Â  Para quem gosta de um
+gerenciador de janelas bem &ldquo;leve&rdquo; e sem frescuras, eu realmente
+recomendo.</p><p>Mas como eu geralmente tenho 10 desktops virtuais, e uso programas que
+enviam notificacoes (por exemplo, quando alguem te manda uma mensagem de
+chat, mas voce esta&rsquo; em outro terminal checando emails), sinto a
+necessidade de ter uma area de notificacao para estes programas.Â  De
+todos os paineis (leia barra) que eu conheco, o
+<a href=http://pypanel.sourceforge.net/>PyPanel</a> e&rsquo; o que mais me agrada.Â 
+Porem, faze-lo funcionar no Ubuntu nao e&rsquo; uma coisa muito direta, e
+requere um pouco de &ldquo;hacking&rdquo;.Â  Existem varias fontes de informacao na
+net, algumas indicando que voce remova os programas instalados pelo
+gerenciador de pacotes (synaptic ou aptitude), e compile voce mesmo a
+fonte.Â  Mas desta vez decidi dar uma colher de cha&rsquo; para o aptitude, e
+decidi averiguar mais a fundo.</p><p>Logo depois de adicionar os repositorios universe e multiverse aos meus
+repositorios (<a href=http://wiki.ubuntu-br.org/GerenciamentoDePacotes>saiba
+como</a>), e depois de
+instalar o driver do nVidia (<a href=http://wiki.ubuntu-br.org/InstalandoNvidia>saiba
+como</a>), instalei os
+seguintes programas:</p><ul><li>libimlib2</li><li>libimlib2-dev</li><li>openbox</li><li>openbox-themes</li><li>pypanel</li></ul><p>O legal de instalar o openbox-themes e&rsquo; que &ldquo;ganhei&rdquo; o
+<a href=http://tr.openmonkey.com/pages/obconf/>obconf</a> de bonus! ;)Â  O obconf
+te permite modificar temas, entre outras coisas, do OpenBox.</p><p>Sai entao do Gnome e escolhi o OpenBox como minha sessao padrao.Â 
+Digitei minha senha na tela de log in e&mldr; pronto!Â  Na fracao de 1
+segundo (fracao <strong>MESMO</strong>!) eu ja&rsquo; estava rodando o OpenBox!</p><p>Depois vou adicionar mais detalhes sobre como modificar o OpenBox para
+obter um sistema mais personalizado, como adicionar um papel de fundo,
+atalhos de teclado, etc.Â  Mas o pypanel e&rsquo; a bola da vez.</p><p>Executando pelo console o pypanel me mostrou o seguinte erro:</p><blockquote><p><a href=mailto:omaciel@gorgonzola>omaciel@gorgonzola</a>:~$ pypanel Traceback (most recent call last):
+File &ldquo;/usr/bin/pypanel&rdquo;, line 893, in &lt;module> from Xlib import X,
+display, error, Xatom, Xutil File
+&ldquo;/var/lib/python-support/python2.5/Xlib/display.py&rdquo;, line 30, in
+&lt;module> import protocol.display File
+&ldquo;/var/lib/python-support/python2.5/Xlib/protocol/display.py&rdquo;, line 751
+SyntaxError: Non-ASCII character &lsquo;xf6&rsquo; in file
+/var/lib/python-support/python2.5/Xlib/protocol/display.py on line
+750, but no encoding declared; see
+<a href=http://www.python.org/peps/pep-0263.html>http://www.python.org/peps/pep-0263.html</a> for details</p></blockquote><p>A palavra chave para mim foi o &ldquo;Non-ASCII character na linha 750.Â 
+Abrindo o arquivo
+/var/lib/python-support/python2.5/Xlib/protocol/display.py e checando a
+linha 750 me mostrou o seguinte:</p><blockquote><p># Bug reported by Ilpo NyyssÃ¶nen</p></blockquote><p>O problema esta&rsquo; na letra <strong>Ã¶</strong>.Â  Como eu estava com pressa,
+simplesmente mudei a letra para um o &ldquo;normal&rdquo;, salvei o arquivo, e
+executei novamente o pypanel:</p><blockquote><p><a href=mailto:omaciel@gorgonzola>omaciel@gorgonzola</a>:~$ Traceback (most recent call last): File
+&ldquo;/usr/bin/pypanel&rdquo;, line 957, in &lt;module> PyPanel(display.Display())
+File &ldquo;/var/lib/python-support/python2.5/Xlib/display.py&rdquo;, line 80, in
+__init__ self.display = _BaseDisplay(display) File
+&ldquo;/var/lib/python-support/python2.5/Xlib/display.py&rdquo;, line 67, in
+__init__ apply(protocol.display.Display.__init__, (self, ) +
+args, keys) File
+&ldquo;/var/lib/python-support/python2.5/Xlib/protocol/display.py&rdquo;, line
+123, in __init__ self.default_screen = min(self.default_screen,
+len(self.info.roots) - 1) File
+&ldquo;/var/lib/python-support/python2.5/Xlib/protocol/rq.py&rdquo;, line 1371, in
+__getattr__ raise AttributeError(attr) AttributeError: roots</p></blockquote><p>Caramba!!!Â  Foi ai&rsquo; que me lembrei de ter visto ha&rsquo; algum tempo uma
+mensagem na net falando de um problema de tamanho de buffer neste mesmo
+arquivo, mas do python2.5.Â  Me lembrei que o tamanho reservado estava
+como 2048, mas precisava ser o dobro, 4096.Â  Mais uma vez abri o mesmo
+arquivo e procurei pelo numero 2048, e encontrei a linha abaixo:</p><blockquote><p>recv = self.socket.recv(2048)</p></blockquote><p>Como havia dito acima, editei esta linha, substituindo 2048 por 4096,
+salvei o arquivo, e finalmente consegui executar o pypanel.</p><p><a href=http://farm1.static.flickr.com/163/385691397_00104ffd4e_b.jpg><img src=http://farm1.static.flickr.com/163/385691397_00104ffd4e.jpg alt=openbox></a></p><p>Nao podia faltar um screenshot da primeira vez usando a combinacao
+Ubuntu Feisty + Openbox + Pypanel.Â  Logo, logo sai mais noticias&mldr; ;)</p></div><div class=prev-next></div><svg id="btt-button" class="arrow-logo" height="1em" viewBox="0 0 384 512" onclick="scrollToTop()" title="Go to top"><path d="M177 159.7l136 136c9.4 9.4 9.4 24.6.0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9.0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9.0L7 329.7c-9.4-9.4-9.4-24.6.0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z"/></svg>
+<script>let backToTopButton=document.getElementById("btt-button");window.onscroll=function(){scrollFunction()};function scrollFunction(){document.body.scrollTop>20||document.documentElement.scrollTop>20?backToTopButton.style.display="block":backToTopButton.style.display="none"}function scrollToTop(){window.scrollTo(0,0)}</script></div></main><footer class=footer><span>&copy; 2007 Og Maciel © 2005-2025</span>
+<span>Made with &#10084;&#65039; using <a target=_blank href=https://github.com/gokarna-theme/gokarna-hugo>Gokarna</a></span></footer></body></html>

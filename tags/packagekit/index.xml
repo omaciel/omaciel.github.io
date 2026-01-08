@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Packagekit on Og Maciel's Journal</title><link>http://localhost:1313/tags/packagekit/</link><description>Recent content in Packagekit on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 13 Apr 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/packagekit/index.xml" rel="self" type="application/rss+xml"/><item><title>PackageKit Progress on Foresight</title><link>http://localhost:1313/posts/packagekit-progress-on-foresight/</link><pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/packagekit-progress-on-foresight/</guid><description>&lt;p&gt;For a while &lt;a href="http://foresightlinux.org"&gt;Foresight Linux&lt;/a&gt; users had no
+graphical interface for managing their systems packages and/or updates,
+mainly because the development for the &lt;strong&gt;conary backend&lt;/strong&gt; fell out of
+scope and our radar (this is a nicer way to say that we didn&amp;rsquo;t have
+someone to maintain it). But thanks to the work of &lt;strong&gt;zodman&lt;/strong&gt;, &lt;strong&gt;jesse&lt;/strong&gt;
+and others &lt;a href="http://www.packagekit.org/"&gt;PackageKit&lt;/a&gt; is making its way
+back to our desktop.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1395&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;296&amp;rdquo;
+caption=&amp;ldquo;Available updates&amp;rdquo;]&lt;a href="http://www.ogmaciel.com/wp-content/uploads/2011/04/Screenshot-39.png"&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2011/04/Screenshot-39.png" alt="Available
+updates"&gt;&lt;/a&gt;[/caption]&lt;/p&gt;</description></item></channel></rss>

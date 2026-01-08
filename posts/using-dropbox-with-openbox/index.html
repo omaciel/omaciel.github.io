@@ -1,0 +1,78 @@
+<!doctype html><html lang=en><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{--accent-color:#FF4D4D;--font-size:1.1rem}</style><title>Using Dropbox with Openbox</title><meta name=description content="I&rsquo;ve been a GNU/Linux user for quite some time now, but it wasn&rsquo;t until 2 years ago that I became a fulltime user. Being a .NET and Oracle developer …"><meta name=keywords content='blog,technology,books,reading,software engineering,quality engineering,english'><meta property="og:url" content="http://localhost:1313/posts/using-dropbox-with-openbox/"><meta property="og:type" content="website"><meta property="og:title" content="Using Dropbox with Openbox"><meta property="og:description" content="I&rsquo;ve been a GNU/Linux user for quite some time now, but it wasn&rsquo;t until 2 years ago that I became a fulltime user. Being a .NET and Oracle developer …"><meta property="og:image" content="http://localhost:1313/images/cartoon_avatar.png"><meta property="og:image:secure_url" content="http://localhost:1313/images/cartoon_avatar.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:title content="Using Dropbox with Openbox"><meta name=twitter:description content="I&rsquo;ve been a GNU/Linux user for quite some time now, but it wasn&rsquo;t until 2 years ago that I became a fulltime user. Being a .NET and Oracle developer …"><meta property="twitter:domain" content="http://localhost:1313/posts/using-dropbox-with-openbox/"><meta property="twitter:url" content="http://localhost:1313/posts/using-dropbox-with-openbox/"><meta name=twitter:image content="http://localhost:1313/images/cartoon_avatar.png"><link rel=canonical href=http://localhost:1313/posts/using-dropbox-with-openbox/><link rel=stylesheet type=text/css href=/css/normalize.min.css media=print><link rel=stylesheet type=text/css href=/css/main.min.css><link id=dark-theme rel=stylesheet href=/css/dark.min.css><script src=/js/bundle.min.7136b4abac7b277aba8bc933917f4602d39a5c44f5590be687244bc86ef4f162.js integrity="sha256-cTa0q6x7J3q6i8kzkX9GAtOaXET1WQvmhyRLyG708WI="></script><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><link rel=icon href=/favicon.ico><link rel="shortcut icon" href=/favicon.ico><link rel=apple-touch-icon href=/images/ogmaciel.jpg></head><body><script>setThemeByUserPref()</script><header class=header><nav class=header-nav><div class=avatar><a href=http://localhost:1313/><img src=/images/cartoon_avatar.png alt="Og Maciel"></a></div><div class=nav-title><a class=nav-brand href=http://localhost:1313/>Og Maciel's Journal</a></div><div class=nav-links><div class=nav-link><a href=http://localhost:1313/ aria-label><span data-feather=home></span> Home</a></div><div class=nav-link><a href=http://localhost:1313/books/ aria-label><span data-feather=book-open></span> Books</a></div><div class=nav-link><a href=http://localhost:1313/posts/ aria-label><span data-feather=book></span> Posts</a></div><div class=nav-link><a href=http://localhost:1313/projects/ aria-label=projects><span data-feather=code></span> Projects</a></div><div class=nav-link><a href=http://localhost:1313/tags/ aria-label><span data-feather=tag></span> Tags</a></div><div class=nav-link><a href=http://localhost:1313/about/ aria-label><span data-feather=user></span> About</a></div><div class=nav-link><a href=http://localhost:1313/index.xml aria-label=rss><span data-feather=rss></span></a></div><span class=nav-icons-divider></span><div class="nav-link dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a aria-hidden=true role=switch><span class=theme-toggle-icon data-feather=moon></span></a></div><div class=nav-link id=hamburger-menu-toggle><span class="sr-only hamburger-menu-toggle-screen-reader-target">menu</span>
+<a aria-checked=false aria-labelledby=hamburger-menu-toggle id=hamburger-menu-toggle-target role=switch><span data-feather=menu></span></a></div><ul class="nav-hamburger-list visibility-hidden"><li class=nav-item><a href=http://localhost:1313/><span data-feather=home></span> Home</a></li><li class=nav-item><a href=http://localhost:1313/books/><span data-feather=book-open></span> Books</a></li><li class=nav-item><a href=http://localhost:1313/posts/><span data-feather=book></span> Posts</a></li><li class=nav-item><a href=http://localhost:1313/projects/><span data-feather=code></span> Projects</a></li><li class=nav-item><a href=http://localhost:1313/tags/><span data-feather=tag></span> Tags</a></li><li class=nav-item><a href=http://localhost:1313/about/><span data-feather=user></span> About</a></li><li class=nav-item><a href=http://localhost:1313/index.xml><span data-feather=rss></span></a></li><li class="nav-item dark-theme-toggle"><span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+<a role=switch><span class=theme-toggle-icon data-feather=moon></span></a></li></ul></div></nav></header><main id=content><div class="post container"><div class=post-header-section><h1>Using Dropbox with Openbox</h1><small role=doc-subtitle></small><p class=post-date>October 23, 2008</p><ul class=post-tags><li class=post-tag><a href=http://localhost:1313/tags/english>english</a></li></ul></div><div class=post-content><p>I&rsquo;ve been a GNU/Linux user for quite some time now, but it wasn&rsquo;t until
+2 years ago that I became a fulltime user. Being a .NET and Oracle
+developer by day working for the Department of Education of NYC, I had a
+standard developer environment at my desk and nothing else. That means
+that I could not install anything else on my system, due to some
+extremelly archaic policies put in place by the employer (I couldn&rsquo;t
+even search for information online and was told I should do it from home
+and bring the results to work the next day!!!), but that&rsquo;s material for
+a different post.</p><p>The one way I work around the limitations was by using some of those
+<a href=http://portableapps.com/>portable applications</a> that can run off a
+thumbdrive, and for 2 years I was an avid user of Portable Firefox. I
+also used to save some of my code in that same thumbdrive so that I
+could work on it from home after hours (yeah, no remote access either).
+After a while, keeping bookmarks, code and files in sync between my
+Windows system at work and my GNU/Linux system at home became a chore
+and just down painfull.</p><p>Fast foward the movie and you&rsquo;ll find me now at a different employer
+(heck, a different state too!) where I get to use open source all the
+time! If I thought I knew a thing of two about using and configuring
+systems and applications, I learned quickly that I had a lot to learn! I
+quit using graphical text editors (no offense to gedit) and became an
+avid vim user, traded my Firefox and Winamp for Epiphany and Rhythmbox,
+and was able to go back to using one of my all time favorite windows
+manager: <a href=http://icculus.org/openbox/index.php/Main_Page>Openbox</a>.
+Don&rsquo;t get me wrong, I have absolutely nothing against other windows
+managers, but it is Openbox that has always tickled me the right way
+since my Gentoo days.</p><p>So there I was, a happy open source user learning tons of new stuff and
+doing some pretty cool work, but&mldr; since I was given a work laptop, I
+still had issues with synching files between my home and work systems.
+Yeah, yeah, there were some tools out there and obviously I could now
+(or write my own) scripts to help out but that was still painful! I
+wanted something that worked without a lot of work out of the box with
+seamless synchronization, always on and easy to use. The day
+<a href=http://www.getdropbox.com/>Dropbox</a> for GNU/Linux was announced was
+the day I stopped carrying a thumbdrive!</p><p>Since I&rsquo;m not trying to pimp Dropbox, suffice to say that:</p><blockquote><ul><li>Dropbox is the easiest way to share and store your files online.</li><li>No complicated interfaces to learn. Dropbox runs in the background
+on your desktop.</li><li>Sync your files automatically to your computers and the web.</li><li>Sign in and access your files from any browser or mobile device.</li><li>Sharing files with your friends and family is just two clicks
+away.</li></ul></blockquote><p>Sounds interesting, doesn&rsquo;t it? Well, there&rsquo;s more! The free account
+offers you 2GB of storage on Amazon&rsquo;s S3 systems, and all of your files
+are transferred over SSL and encrypted with AES-256 and stored as a
+delta sync of the previous state. Can you say &ldquo;versioning control&rdquo;?</p><p><img src=https://www.getdropbox.com/static/images/tour3b.png alt=Dropbox></p><p>Well, there is a downside to this whole thing though, as it turns out
+that Dropbox claims that it integrates really well with Nautilus, which
+pretty much locks out non-GNOME users&mldr; or does it?</p><p>The other night I was complaining about this same issue to a good friend
+when he suggested, &ldquo;why don&rsquo;t you see if the daemon is running and doing
+its thing without Nautilus?&rdquo; So I switched over to Openbox and&mldr; no
+Dropbox! I pushed on and <code>ps aux | grep drop</code> told me that the dropboxd
+&ldquo;daemon&rdquo; was started from my <code>$HOME/.dropbox-dist/</code> directory. I quickly
+added a <code>"~/.dropbox-dist/dropboxd &"</code> line to my
+<code>$HOME/.config/openbox/autostart.sh</code> file, restarted Openbox and&mldr; it
+worked! I didn&rsquo;t get the nice little tray icon in my pypanel, but it
+worked as I made changes to a file and saw the information about the
+changes I made appear in my dropbox home page! Ohhh, the
+possibilities!!!</p><p>The first thing I did was to create a dotfiles directory inside of the
+newly created <code>$HOME/Dropbox</code> directory, and moved all my dot files
+(.vimrc, .bashrc, etc) there. I then created symbolic links in their
+places so that my dotfiles were all links to the files in the
+<code>$HOME/Dropbox/dotfiles</code> as such:</p><blockquote><p>$HOME/.vimrc -> Dropbox/dotfiles/.vimrc $HOME/.bashrc ->
+Dropbox/dotfiles/.bashrc</p></blockquote><p>I also added all of my $HOME/.config/openbox directory and replaced it
+with a symlink to garantee that my Openbox environment, menus and
+customizations would be available to me, as well as my $HOME/.ssh and
+$HOME/.gnupg directories. Are you drooling yet?</p><p>The next day I went to work (I rarely open my work laptop at home) and
+installed Dropbox followed by creating those same symlinks as my home
+system, and that was it! My work system was an exact mirror of my home
+system, and best of all, every time I make any changes to any of those
+files, they get automatically synchronized and made available to both
+systems!</p><p><a href=http://www.flickr.com/photos/ogmaciel/2948601731/><img src=http://farm4.static.flickr.com/3003/2948601731_c75de0fd08.jpg alt="Openbox with Dropbox (not seen) makes for a great
+system"></a></p><p>In conclusion, Openbox with Dropbox is really a great combination for
+anyone looking for a light and powerful windows manager with an easy to
+use automatic backup/synchronization system! I highly recommend it! A
+couple of things that I&rsquo;d like to see happening with future versions of
+Dropbox is a standardization of the location for the dropboxd daemon and
+official support for any type of file manager. Also, an easy way to
+revert changes to a file (remember that they are all versioned) without
+having to overwrite them would be nice&mldr; Keep up the good work and I
+look forward to any new feature you may add in the future releases! :)</p></div><div class=prev-next></div><svg id="btt-button" class="arrow-logo" height="1em" viewBox="0 0 384 512" onclick="scrollToTop()" title="Go to top"><path d="M177 159.7l136 136c9.4 9.4 9.4 24.6.0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9.0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9.0L7 329.7c-9.4-9.4-9.4-24.6.0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z"/></svg>
+<script>let backToTopButton=document.getElementById("btt-button");window.onscroll=function(){scrollFunction()};function scrollFunction(){document.body.scrollTop>20||document.documentElement.scrollTop>20?backToTopButton.style.display="block":backToTopButton.style.display="none"}function scrollToTop(){window.scrollTo(0,0)}</script></div></main><footer class=footer><span>&copy; 2008 Og Maciel © 2005-2025</span>
+<span>Made with &#10084;&#65039; using <a target=_blank href=https://github.com/gokarna-theme/gokarna-hugo>Gokarna</a></span></footer></body></html>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>English, Lxml, Python, Optparse, Wordpress on Og Maciel's Journal</title><link>http://localhost:1313/tags/english-lxml-python-optparse-wordpress/</link><description>Recent content in English, Lxml, Python, Optparse, Wordpress on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/english-lxml-python-optparse-wordpress/index.xml" rel="self" type="application/rss+xml"/><item><title>Splitting WordPress Export File with ChoppedPress</title><link>http://localhost:1313/posts/splitting-wordpress-export-file-with-choppedpress/</link><pubDate>Thu, 29 Apr 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/splitting-wordpress-export-file-with-choppedpress/</guid><description>&lt;p&gt;&lt;a href="http://www.flickr.com/photos/802/85806375/"&gt;&lt;img src="http://bit.ly/aFbsJG" alt="Four Views of a Book Press by
+802"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;re all probably tired of hearing me talking about my script to split
+the XML-like file that &lt;strong&gt;WordPress&lt;/strong&gt; generates when you use the
+&lt;strong&gt;Export&lt;/strong&gt; feature. Tonight I have finally added the final touches to it
+and can now share it here with you.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t remember, I wrote it because my good friend &lt;strong&gt;Evandro&lt;/strong&gt;
+from &lt;a href="http://www.quartoestudio.com/en/"&gt;QuartoEstudio.com&lt;/a&gt; is always
+getting asked by some of his clients to migrate an existing web blog to
+a new host/domain and hands him a tarball containing the exported
+content of a &lt;strong&gt;WordPress&lt;/strong&gt; blog in &lt;strong&gt;XML&lt;/strong&gt; format. The problem resides
+on the issue that some web hosting providers will limit how big a file
+can be uploaded via a POST method, and depending on how big this XML
+file is, you may have to manually break it into smaller files first.&lt;/p&gt;</description></item></channel></rss>

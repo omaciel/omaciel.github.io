@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coding on Og Maciel's Journal</title><link>http://localhost:1313/tags/coding/</link><description>Recent content in Coding on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2005 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/coding/index.xml" rel="self" type="application/rss+xml"/><item><title>State of RssReaderNET</title><link>http://localhost:1313/posts/state-of-rssreadernet/</link><pubDate>Fri, 06 May 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/state-of-rssreadernet/</guid><description>&lt;p&gt;&lt;a href="http://www.flickr.com/photos/25563799@N00/12678075/"&gt;&lt;img src="http://photos11.flickr.com/12678075_cbf9730de9_m.jpg" alt="image0"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/25563799@N00/12678075/"&gt;RssReaderNET -
+v0.0.2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally uploaded by
+&lt;a href="http://www.flickr.com/people/25563799@N00/"&gt;omaciel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Haven&amp;rsquo;t received any offers of help with my RssReader.NET application&amp;hellip;
+but it&amp;rsquo;s not like I was expecting offers anyhow. :) Yesterday and today
+I spent some time making some changes to the UI as well adding some new
+functionality. UI changes include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed ComboBox control - Users will have to add new feeds via an
+interface.&lt;/li&gt;
+&lt;li&gt;Switched ListView control for a TreeView control - Will allow for
+expansion/collapsing of feeds and increase visibility of available
+posts.&lt;/li&gt;
+&lt;li&gt;Added a few buttons - These will disappear and are being used for
+testing purpose only.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;New functionality include:&lt;/p&gt;</description></item><item><title>RssReader.NET</title><link>http://localhost:1313/posts/rssreadernet/</link><pubDate>Mon, 02 May 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/rssreadernet/</guid><description>&lt;p&gt;Been spending some time using the &lt;a href="http://www.rssdotnet.com/"&gt;RSS.NET&lt;/a&gt;
+library (&lt;em&gt;&amp;quot;RSS.NET is an open-source .NET class library for RSS feeds.
+It provides a reusable object model for parsing and writing RSS feeds.
+It is fully compatible with RSS versions 0.90, 0.91, 0.92, and 2.0.1,
+implementing all constructs.&amp;quot;&lt;/em&gt; and decided to create my own Rss reader.
+It still has a long way to go but it is in a semi-usefull state. I know
+there&amp;rsquo;s a million rss readers out there but if anyone is interested in
+working on this with me just drop me a line.&lt;/p&gt;</description></item></channel></rss>

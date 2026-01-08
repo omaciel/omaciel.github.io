@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Github on Og Maciel's Journal</title><link>http://localhost:1313/tags/github/</link><description>Recent content in Github on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 23 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml"/><item><title>How to import WordPress XML files</title><link>http://localhost:1313/posts/how-to-import-wordpress-xml-files/</link><pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/how-to-import-wordpress-xml-files/</guid><description>&lt;p&gt;&amp;hellip; or, how I brought an old python code back from the dead!&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://media.tumblr.com/tumblr_m2y9r6Wdw31r7yex1.png" alt="image0"&gt;&lt;/p&gt;
+&lt;p&gt;Inspired by &lt;strong&gt;Kenneth Reitz&lt;/strong&gt;'s recent
+&lt;a href="http://kennethreitz.com/repository-structure-and-python.html"&gt;post&lt;/a&gt; and
+spurred by recent events, I decided to turn an old python code I wrote a
+while back into something that can be (hopefully) easier to get to than
+by sheer luck.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m talking about
+&lt;a href="http://omaciel.github.com/choppedpress/"&gt;ChoppedPress&lt;/a&gt;, my script that
+let&amp;rsquo;s you split &lt;strong&gt;WordPress&lt;/strong&gt; exported &lt;strong&gt;XML files&lt;/strong&gt; into smaller files
+that can be easily imported into new WordPress installations. I&amp;rsquo;m sure
+that some of you have experienced the frustration of not being able to
+import this xml file due to size upload constraints on your host
+providers&amp;hellip; One of my close friends who provides mostly support for
+WordPress gave me the idea a while back and that is how the script came
+about. Little did I know that &lt;a href="http://snarfed.org/pyblosxom2wxr"&gt;other&lt;/a&gt;
+&lt;a href="http://blog.ivandemarino.me/2010/10/12/From-Wordpress-to-Bloggart"&gt;people&lt;/a&gt;
+have find it useful too, specially for migrating &lt;strong&gt;away&lt;/strong&gt; from
+WordPress! As a matter of fact, I too used it when I moved to
+&lt;strong&gt;Tumblr&lt;/strong&gt;, but that another story.&lt;/p&gt;</description></item></channel></rss>
