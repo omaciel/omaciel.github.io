@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qe on Og Maciel's Journal</title><link>http://localhost:1313/tags/qe/</link><description>Recent content in Qe on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/qe/index.xml" rel="self" type="application/rss+xml"/><item><title>Just What Is A Quality Engineer? Part 2</title><link>http://localhost:1313/posts/1186-what-is-a-quality-engineer-part-2/</link><pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/1186-what-is-a-quality-engineer-part-2/</guid><description>&lt;p&gt;&lt;img src="http://localhost:1313/images/batman-is-qe.jpeg" alt="Picture of Batman"&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qe on Og Maciel's Journal</title><link>https://omaciel.github.io/tags/qe/</link><description>Recent content in Qe on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/qe/index.xml" rel="self" type="application/rss+xml"/><item><title>Just What Is A Quality Engineer? Part 2</title><link>https://omaciel.github.io/posts/1186-what-is-a-quality-engineer-part-2/</link><pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/1186-what-is-a-quality-engineer-part-2/</guid><description>&lt;p&gt;&lt;img src="https://omaciel.github.io/images/batman-is-qe.jpeg" alt="Picture of Batman"&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;a href="https://omaciel.github.io/just-what-is-a-quality-engineer-part-1.html"&gt;last
 time&lt;/a&gt;
 I wrote about &lt;strong&gt;Quality Engineering&lt;/strong&gt;, I mentioned that some of the
@@ -13,7 +13,7 @@ something to do with testing...&lt;/li&gt;
 &lt;li&gt;Engineering is usually identified with skills related to writing
 code and designing algorithms, usually by a developer and not by QA&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;A quick search on Google shows the following results:&lt;/p&gt;</description></item><item><title>Just What Is A Quality Engineer? Part 1</title><link>http://localhost:1313/posts/1185-what-is-a-quality-engineer-part-1/</link><pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/1185-what-is-a-quality-engineer-part-1/</guid><description>&lt;p&gt;&lt;img src="http://localhost:1313/images/batman-is-qe.jpeg" alt="Picture of Batman"&gt;&lt;/p&gt;
+&lt;p&gt;A quick search on Google shows the following results:&lt;/p&gt;</description></item><item><title>Just What Is A Quality Engineer? Part 1</title><link>https://omaciel.github.io/posts/1185-what-is-a-quality-engineer-part-1/</link><pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/1185-what-is-a-quality-engineer-part-1/</guid><description>&lt;p&gt;&lt;img src="https://omaciel.github.io/images/batman-is-qe.jpeg" alt="Picture of Batman"&gt;&lt;/p&gt;
 &lt;p&gt;Whenever I meet someone for the first time, after we get past the
 initial niceties typically involved when you meet someone for the first
 time, eventually the conversation shifts to work and what one does for a
@@ -36,7 +36,7 @@ professional trade organization! The following are my own definitions
 and conclusions, none of which were pulled out of thin air, but backed
 by (so far) 10 years of experience working on the field of delivering
 quality products. If there are formal definitions out there, and they
-match with my own, it is by pure coincidence.&lt;/p&gt;</description></item><item><title>FauxFactory 0.3.0</title><link>http://localhost:1313/posts/1173-fauxfactory-0-3-0/</link><pubDate>Mon, 30 Jun 2014 19:00:00 +0000</pubDate><guid>http://localhost:1313/posts/1173-fauxfactory-0-3-0/</guid><description>&lt;p&gt;Took some time from my vacation and released &lt;strong&gt;FauxFactory 0.3.0&lt;/strong&gt; to
+match with my own, it is by pure coincidence.&lt;/p&gt;</description></item><item><title>FauxFactory 0.3.0</title><link>https://omaciel.github.io/posts/1173-fauxfactory-0-3-0/</link><pubDate>Mon, 30 Jun 2014 19:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/1173-fauxfactory-0-3-0/</guid><description>&lt;p&gt;Took some time from my vacation and released &lt;strong&gt;FauxFactory 0.3.0&lt;/strong&gt; to
 make it &lt;strong&gt;Python 3&lt;/strong&gt; compatible and to add a new &lt;strong&gt;generate_utf8&lt;/strong&gt;
 method (plus some nice tweaks and code clean up).&lt;/p&gt;
 &lt;p&gt;As always, the package is available on
@@ -44,7 +44,7 @@ method (plus some nice tweaks and code clean up).&lt;/p&gt;
 via &lt;strong&gt;pip install fauxfactory&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;If you have any constructive feedback, suggestions, or file a bug report
 or feature request, please use the
-&lt;a href="https://github.com/omaciel/fauxfactory"&gt;Github&lt;/a&gt; page.&lt;/p&gt;</description></item><item><title>FauxFactory 0.2.1</title><link>http://localhost:1313/posts/1171-brown-paper-bag-release/</link><pubDate>Fri, 09 May 2014 17:00:00 +0000</pubDate><guid>http://localhost:1313/posts/1171-brown-paper-bag-release/</guid><description>&lt;p&gt;&lt;img src="https://farm4.staticflickr.com/3373/3204502310_f8025dbd75_m.jpg" alt=""&gt;&lt;/p&gt;
+&lt;a href="https://github.com/omaciel/fauxfactory"&gt;Github&lt;/a&gt; page.&lt;/p&gt;</description></item><item><title>FauxFactory 0.2.1</title><link>https://omaciel.github.io/posts/1171-brown-paper-bag-release/</link><pubDate>Fri, 09 May 2014 17:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/1171-brown-paper-bag-release/</guid><description>&lt;p&gt;&lt;img src="https://farm4.staticflickr.com/3373/3204502310_f8025dbd75_m.jpg" alt=""&gt;&lt;/p&gt;
 &lt;p&gt;Short on its heels, today I'm releasing &lt;strong&gt;FauxFactory 0.2.1&lt;/strong&gt; to fix a
 &lt;a href="http://catb.org/jargon/html/B/brown-paper-bag-bug.html"&gt;brown paper bag
 bug&lt;/a&gt; I
@@ -56,7 +56,7 @@ generator does the right thing.&lt;/p&gt;
 &lt;p&gt;The package is available on
 &lt;a href="https://pypi.python.org/pypi/fauxfactory/0.2.0"&gt;Pypi&lt;/a&gt; (sadly the page
 is &lt;strong&gt;still&lt;/strong&gt; not rendering correctly... suggestions welcome) and can be
-installed via &lt;strong&gt;pip install fauxfactory&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>FauxFactory 0.2.0</title><link>http://localhost:1313/posts/1170-fauxfactory-0-2-0/</link><pubDate>Thu, 08 May 2014 19:12:00 +0000</pubDate><guid>http://localhost:1313/posts/1170-fauxfactory-0-2-0/</guid><description>&lt;p&gt;Today I'm releasing &lt;strong&gt;FauxFactory 0.2.0&lt;/strong&gt; with a new feature, a &amp;quot;Lorem
+installed via &lt;strong&gt;pip install fauxfactory&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>FauxFactory 0.2.0</title><link>https://omaciel.github.io/posts/1170-fauxfactory-0-2-0/</link><pubDate>Thu, 08 May 2014 19:12:00 +0000</pubDate><guid>https://omaciel.github.io/posts/1170-fauxfactory-0-2-0/</guid><description>&lt;p&gt;Today I'm releasing &lt;strong&gt;FauxFactory 0.2.0&lt;/strong&gt; with a new feature, a &amp;quot;Lorem
 Ipsum&amp;quot; generator. I confess that I did not look around for any existing
 implementation in python out there and just started writing code. My
 idea was to create a method that would:&lt;/p&gt;

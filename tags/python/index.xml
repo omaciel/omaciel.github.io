@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Og Maciel's Journal</title><link>http://localhost:1313/tags/python/</link><description>Recent content in Python on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 30 Jun 2014 19:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>FauxFactory 0.3.0</title><link>http://localhost:1313/posts/1173-fauxfactory-0-3-0/</link><pubDate>Mon, 30 Jun 2014 19:00:00 +0000</pubDate><guid>http://localhost:1313/posts/1173-fauxfactory-0-3-0/</guid><description>&lt;p&gt;Took some time from my vacation and released &lt;strong&gt;FauxFactory 0.3.0&lt;/strong&gt; to
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Og Maciel's Journal</title><link>https://omaciel.github.io/tags/python/</link><description>Recent content in Python on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 30 Jun 2014 19:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>FauxFactory 0.3.0</title><link>https://omaciel.github.io/posts/1173-fauxfactory-0-3-0/</link><pubDate>Mon, 30 Jun 2014 19:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/1173-fauxfactory-0-3-0/</guid><description>&lt;p&gt;Took some time from my vacation and released &lt;strong&gt;FauxFactory 0.3.0&lt;/strong&gt; to
 make it &lt;strong&gt;Python 3&lt;/strong&gt; compatible and to add a new &lt;strong&gt;generate_utf8&lt;/strong&gt;
 method (plus some nice tweaks and code clean up).&lt;/p&gt;
 &lt;p&gt;As always, the package is available on
@@ -6,7 +6,7 @@ method (plus some nice tweaks and code clean up).&lt;/p&gt;
 via &lt;strong&gt;pip install fauxfactory&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;If you have any constructive feedback, suggestions, or file a bug report
 or feature request, please use the
-&lt;a href="https://github.com/omaciel/fauxfactory"&gt;Github&lt;/a&gt; page.&lt;/p&gt;</description></item><item><title>FauxFactory 0.2.1</title><link>http://localhost:1313/posts/1171-brown-paper-bag-release/</link><pubDate>Fri, 09 May 2014 17:00:00 +0000</pubDate><guid>http://localhost:1313/posts/1171-brown-paper-bag-release/</guid><description>&lt;p&gt;&lt;img src="https://farm4.staticflickr.com/3373/3204502310_f8025dbd75_m.jpg" alt=""&gt;&lt;/p&gt;
+&lt;a href="https://github.com/omaciel/fauxfactory"&gt;Github&lt;/a&gt; page.&lt;/p&gt;</description></item><item><title>FauxFactory 0.2.1</title><link>https://omaciel.github.io/posts/1171-brown-paper-bag-release/</link><pubDate>Fri, 09 May 2014 17:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/1171-brown-paper-bag-release/</guid><description>&lt;p&gt;&lt;img src="https://farm4.staticflickr.com/3373/3204502310_f8025dbd75_m.jpg" alt=""&gt;&lt;/p&gt;
 &lt;p&gt;Short on its heels, today I'm releasing &lt;strong&gt;FauxFactory 0.2.1&lt;/strong&gt; to fix a
 &lt;a href="http://catb.org/jargon/html/B/brown-paper-bag-bug.html"&gt;brown paper bag
 bug&lt;/a&gt; I
@@ -18,7 +18,7 @@ generator does the right thing.&lt;/p&gt;
 &lt;p&gt;The package is available on
 &lt;a href="https://pypi.python.org/pypi/fauxfactory/0.2.0"&gt;Pypi&lt;/a&gt; (sadly the page
 is &lt;strong&gt;still&lt;/strong&gt; not rendering correctly... suggestions welcome) and can be
-installed via &lt;strong&gt;pip install fauxfactory&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>FauxFactory 0.2.0</title><link>http://localhost:1313/posts/1170-fauxfactory-0-2-0/</link><pubDate>Thu, 08 May 2014 19:12:00 +0000</pubDate><guid>http://localhost:1313/posts/1170-fauxfactory-0-2-0/</guid><description>&lt;p&gt;Today I'm releasing &lt;strong&gt;FauxFactory 0.2.0&lt;/strong&gt; with a new feature, a &amp;quot;Lorem
+installed via &lt;strong&gt;pip install fauxfactory&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>FauxFactory 0.2.0</title><link>https://omaciel.github.io/posts/1170-fauxfactory-0-2-0/</link><pubDate>Thu, 08 May 2014 19:12:00 +0000</pubDate><guid>https://omaciel.github.io/posts/1170-fauxfactory-0-2-0/</guid><description>&lt;p&gt;Today I'm releasing &lt;strong&gt;FauxFactory 0.2.0&lt;/strong&gt; with a new feature, a &amp;quot;Lorem
 Ipsum&amp;quot; generator. I confess that I did not look around for any existing
 implementation in python out there and just started writing code. My
 idea was to create a method that would:&lt;/p&gt;
@@ -35,14 +35,14 @@ idea was to create a method that would:&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;culpa qui officia deserunt mollit anim id est laborum&lt;span style="color:#f92672"&gt;.&lt;/span&gt;&lt;span style="color:#e6db74"&gt;&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Return a single paragraph with a fixed number of words if I passed a
 numeric &lt;strong&gt;words=x&lt;/strong&gt; argument. If &lt;strong&gt;words&lt;/strong&gt; was a large number, the text
-would 'wrap around' as many times as needed:&lt;/p&gt;</description></item><item><title>Hiring is Tough!</title><link>http://localhost:1313/posts/1169-hiring-is-tough/</link><pubDate>Thu, 01 May 2014 18:05:45 +0000</pubDate><guid>http://localhost:1313/posts/1169-hiring-is-tough/</guid><description>&lt;p&gt;So I've been trying to hire two python developers to join my automation
+would 'wrap around' as many times as needed:&lt;/p&gt;</description></item><item><title>Hiring is Tough!</title><link>https://omaciel.github.io/posts/1169-hiring-is-tough/</link><pubDate>Thu, 01 May 2014 18:05:45 +0000</pubDate><guid>https://omaciel.github.io/posts/1169-hiring-is-tough/</guid><description>&lt;p&gt;So I've been trying to hire two python developers to join my automation
 team here at &lt;a href="http://www.redhat.com"&gt;Red Hat&lt;/a&gt; since last &lt;strong&gt;November,
 2013&lt;/strong&gt;... and believe it or not, so far I've had absolutely zero
 success in finding good, strong, with real world experience candidates
 in North Carolina! I either find really smart people, who do have
 relevant backgrounds or could 'hit the ground running' but are way out
 of my current budget, or they lack real world experience and fall into
-more of an entry level position.&lt;/p&gt;</description></item><item><title>Emacs + Rope for Python Development</title><link>http://localhost:1313/posts/emacs-rope-for-python-development/</link><pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/emacs-rope-for-python-development/</guid><description>&lt;p&gt;&lt;img src="https://farm3.staticflickr.com/2875/11294955694_5450819b65_z_d.jpg" alt="screenshot"&gt;&lt;/p&gt;
+more of an entry level position.&lt;/p&gt;</description></item><item><title>Emacs + Rope for Python Development</title><link>https://omaciel.github.io/posts/emacs-rope-for-python-development/</link><pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/emacs-rope-for-python-development/</guid><description>&lt;p&gt;&lt;img src="https://farm3.staticflickr.com/2875/11294955694_5450819b65_z_d.jpg" alt="screenshot"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This is more of a note for myself than a proper
 tutorial or howto, so I make no promises that this will work for you.
 The setup used through this post was a Mac OS laptop upgraded to the
@@ -51,7 +51,7 @@ very latest version of the OS.&lt;/p&gt;
 have unsuccessfully tried to configure &lt;a href="http://rope.sourceforge.net/"&gt;Rope&lt;/a&gt;, &amp;ldquo;a python refactoring library&amp;rdquo;&amp;hellip; until last Friday. Turns out I wasn&amp;rsquo;t too far off the mark
 during the many iterations I went through to get it done, but the
 following post was tremendously helpful to
-me: &lt;a href="http://www.saltycrane.com/blog/2010/05/my-emacs-python-environment/"&gt;http://www.saltycrane.com/blog/2010/05/my-emacs-python-environment/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Using Python to Control Katello</title><link>http://localhost:1313/posts/using-python-to-control-katello/</link><pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/using-python-to-control-katello/</guid><description>&lt;p&gt;&lt;img src="http://bit.ly/14Q0fhi" alt="Emacs editor with python code"&gt;&lt;/p&gt;
+me: &lt;a href="http://www.saltycrane.com/blog/2010/05/my-emacs-python-environment/"&gt;http://www.saltycrane.com/blog/2010/05/my-emacs-python-environment/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Using Python to Control Katello</title><link>https://omaciel.github.io/posts/using-python-to-control-katello/</link><pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/using-python-to-control-katello/</guid><description>&lt;p&gt;&lt;img src="http://bit.ly/14Q0fhi" alt="Emacs editor with python code"&gt;&lt;/p&gt;
 &lt;p&gt;I usually like to use python to script my day to day tests against
 &lt;a href="http://www.katello.org/"&gt;Katello&lt;/a&gt; (you may have seen some of my
 &lt;a href="http://ogmaciel.tumblr.com/post/52170839167/populating-a-katello-instance-using-the-cli"&gt;previous&lt;/a&gt;
@@ -62,7 +62,7 @@ interested.&lt;/p&gt;
 &lt;p&gt;Assuming you have already installed and configured your Katello instance
 (learn how to do this
 &lt;a href="https://fedorahosted.org/katello/wiki/Install"&gt;here&lt;/a&gt;) with the default
-configurations, we now have a few options to proceed:&lt;/p&gt;</description></item><item><title>PyCarolinas 2012</title><link>http://localhost:1313/posts/pycarolinas-2012/</link><pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/pycarolinas-2012/</guid><description>&lt;p&gt;I&amp;rsquo;ve seen the (yet unpublished draft) schedule and it looks great!&lt;/p&gt;
+configurations, we now have a few options to proceed:&lt;/p&gt;</description></item><item><title>PyCarolinas 2012</title><link>https://omaciel.github.io/posts/pycarolinas-2012/</link><pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/pycarolinas-2012/</guid><description>&lt;p&gt;I&amp;rsquo;ve seen the (yet unpublished draft) schedule and it looks great!&lt;/p&gt;
 &lt;h1 id="when"&gt;WHEN:&lt;/h1&gt;
 &lt;p&gt;|
 | October 20-21, 2012&lt;/p&gt;
@@ -70,7 +70,7 @@ configurations, we now have a few options to proceed:&lt;/p&gt;</description></i
 &lt;p&gt;|
 | Kerr Hall
 | UNC School of Pharmacy
-| Chapel Hill, NC&lt;/p&gt;</description></item><item><title>How to import WordPress XML files</title><link>http://localhost:1313/posts/how-to-import-wordpress-xml-files/</link><pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/how-to-import-wordpress-xml-files/</guid><description>&lt;p&gt;&amp;hellip; or, how I brought an old python code back from the dead!&lt;/p&gt;
+| Chapel Hill, NC&lt;/p&gt;</description></item><item><title>How to import WordPress XML files</title><link>https://omaciel.github.io/posts/how-to-import-wordpress-xml-files/</link><pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/how-to-import-wordpress-xml-files/</guid><description>&lt;p&gt;&amp;hellip; or, how I brought an old python code back from the dead!&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://media.tumblr.com/tumblr_m2y9r6Wdw31r7yex1.png" alt="image0"&gt;&lt;/p&gt;
 &lt;p&gt;Inspired by &lt;strong&gt;Kenneth Reitz&lt;/strong&gt;'s recent
 &lt;a href="http://kennethreitz.com/repository-structure-and-python.html"&gt;post&lt;/a&gt; and

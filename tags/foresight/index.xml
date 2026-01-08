@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Foresight on Og Maciel's Journal</title><link>http://localhost:1313/tags/foresight/</link><description>Recent content in Foresight on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 13 Apr 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/foresight/index.xml" rel="self" type="application/rss+xml"/><item><title>PackageKit Progress on Foresight</title><link>http://localhost:1313/posts/packagekit-progress-on-foresight/</link><pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/packagekit-progress-on-foresight/</guid><description>&lt;p&gt;For a while &lt;a href="http://foresightlinux.org"&gt;Foresight Linux&lt;/a&gt; users had no
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Foresight on Og Maciel's Journal</title><link>https://omaciel.github.io/tags/foresight/</link><description>Recent content in Foresight on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 13 Apr 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/foresight/index.xml" rel="self" type="application/rss+xml"/><item><title>PackageKit Progress on Foresight</title><link>https://omaciel.github.io/posts/packagekit-progress-on-foresight/</link><pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/packagekit-progress-on-foresight/</guid><description>&lt;p&gt;For a while &lt;a href="http://foresightlinux.org"&gt;Foresight Linux&lt;/a&gt; users had no
 graphical interface for managing their systems packages and/or updates,
 mainly because the development for the &lt;strong&gt;conary backend&lt;/strong&gt; fell out of
 scope and our radar (this is a nicer way to say that we didn&amp;rsquo;t have
@@ -7,7 +7,7 @@ and others &lt;a href="http://www.packagekit.org/"&gt;PackageKit&lt;/a&gt; is ma
 back to our desktop.&lt;/p&gt;
 &lt;p&gt;[caption id=&amp;ldquo;attachment_1395&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;296&amp;rdquo;
 caption=&amp;ldquo;Available updates&amp;rdquo;]&lt;a href="http://www.ogmaciel.com/wp-content/uploads/2011/04/Screenshot-39.png"&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2011/04/Screenshot-39.png" alt="Available
-updates"&gt;&lt;/a&gt;[/caption]&lt;/p&gt;</description></item><item><title>GNOME 3.0, Banshee 2.0 and Foresight Linux</title><link>http://localhost:1313/posts/gnome-3-0-banshee-2-0-and-foresight-linux/</link><pubDate>Wed, 06 Apr 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/gnome-3-0-banshee-2-0-and-foresight-linux/</guid><description>&lt;p&gt;First off, congratulations to everyone involved in the release of &lt;a href="http://www.gnome.org/news/2011/04/gnome-3-0-has-arrived/"&gt;GNOME
+updates"&gt;&lt;/a&gt;[/caption]&lt;/p&gt;</description></item><item><title>GNOME 3.0, Banshee 2.0 and Foresight Linux</title><link>https://omaciel.github.io/posts/gnome-3-0-banshee-2-0-and-foresight-linux/</link><pubDate>Wed, 06 Apr 2011 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/gnome-3-0-banshee-2-0-and-foresight-linux/</guid><description>&lt;p&gt;First off, congratulations to everyone involved in the release of &lt;a href="http://www.gnome.org/news/2011/04/gnome-3-0-has-arrived/"&gt;GNOME
 3.0&lt;/a&gt;! In the
 past, my contributions were mostly related to translating applications
 to &lt;a href="http://l10n.gnome.org/languages/pt_BR/"&gt;Brazilian Portuguese&lt;/a&gt;, but
@@ -15,7 +15,7 @@ my role on that front was very minimal this time and consisted of a
 handful of translations and several commits of the awesome work done by
 others. Most of my contributions for 3.0 are related to the work I do
 for the &lt;strong&gt;GNOME Foundation Board of Directors&lt;/strong&gt;, but I won&amp;rsquo;t bore you to
-tears!&lt;/p&gt;</description></item><item><title>Now That You've Found Love What Are You Gonna Do?</title><link>http://localhost:1313/posts/now-that-youve-found-love-what-are-you-gonna-do/</link><pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/now-that-youve-found-love-what-are-you-gonna-do/</guid><description>&lt;p&gt;Now that you have downloaded and installed the latest &lt;a href="http://www.foresightlinux.org/release/announcing-foresight-linux-2-5-0/"&gt;Foresight Linux
+tears!&lt;/p&gt;</description></item><item><title>Now That You've Found Love What Are You Gonna Do?</title><link>https://omaciel.github.io/posts/now-that-youve-found-love-what-are-you-gonna-do/</link><pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/now-that-youve-found-love-what-are-you-gonna-do/</guid><description>&lt;p&gt;Now that you have downloaded and installed the latest &lt;a href="http://www.foresightlinux.org/release/announcing-foresight-linux-2-5-0/"&gt;Foresight Linux
 2.5
 release&lt;/a&gt;,
 here are a couple of things you may want to do:&lt;/p&gt;
@@ -25,14 +25,13 @@ here are a couple of things you may want to do:&lt;/p&gt;
 schedule, we already have updates for you, including and newer
 &lt;strong&gt;MPlayer&lt;/strong&gt; with support for &lt;strong&gt;Blue-Ray&lt;/strong&gt;! &lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Run &lt;em&gt;sudo conary updateall&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Run &lt;em&gt;sudo conary updateall&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Install Chromium web browser&lt;/strong&gt;: Try this pretty cool web browser
 made by &lt;strong&gt;Google&lt;/strong&gt;. Got a &lt;strong&gt;gMail&lt;/strong&gt; account? Take advantage of the
 bookmarks and password synchronization feature and have it all
-seamlessly integrated!&lt;/p&gt;</description></item><item><title>Foresight Linux 2.5.0!</title><link>http://localhost:1313/posts/foresight-linux-2-5-0/</link><pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/foresight-linux-2-5-0/</guid><description>&lt;p&gt;At last, after a long hiatus, I can shout out for the whole world to
+seamlessly integrated!&lt;/p&gt;</description></item><item><title>Foresight Linux 2.5.0!</title><link>https://omaciel.github.io/posts/foresight-linux-2-5-0/</link><pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/foresight-linux-2-5-0/</guid><description>&lt;p&gt;At last, after a long hiatus, I can shout out for the whole world to
 hear: &lt;a href="http://wp.me/pEMZT-bN"&gt;Foresight Linux 2.5.0&lt;/a&gt; is out and about!
 This is our first official release in almost 2 years
 (&lt;a href="http://distrowatch.com/5480"&gt;2.1.1&lt;/a&gt; was released May 15th, 2009!!!)
@@ -45,7 +44,7 @@ by us through thick and thin, I thank you and salute you! Foresight
 Linux was the &lt;strong&gt;first Linux distribution to have a rolling release
 schedule&lt;/strong&gt; and bring all the coolest new applications to your desktop!
 Expect to hear a lot from us from now on&amp;hellip; &lt;strong&gt;Because your distro should
-be cool&lt;/strong&gt;!&lt;/p&gt;</description></item><item><title>Foresight Linux 2.5.0 Release Candidate Galore!</title><link>http://localhost:1313/posts/foresight-linux-2-5-0-release-candidate-galore/</link><pubDate>Wed, 09 Mar 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/foresight-linux-2-5-0-release-candidate-galore/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2011/03/Screenshot-5.png" alt="Foresight Linux 2.5.0 RC"&gt;&lt;/p&gt;
+be cool&lt;/strong&gt;!&lt;/p&gt;</description></item><item><title>Foresight Linux 2.5.0 Release Candidate Galore!</title><link>https://omaciel.github.io/posts/foresight-linux-2-5-0-release-candidate-galore/</link><pubDate>Wed, 09 Mar 2011 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/foresight-linux-2-5-0-release-candidate-galore/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2011/03/Screenshot-5.png" alt="Foresight Linux 2.5.0 RC"&gt;&lt;/p&gt;
 &lt;p&gt;It is with great pleasure that I announce the release of &lt;strong&gt;Foresight
 2.5.0 RC!&lt;/strong&gt; This time, we have updated images for &lt;strong&gt;GNOME&lt;/strong&gt;, &lt;strong&gt;Xfce&lt;/strong&gt;
 and &lt;strong&gt;KDE&lt;/strong&gt;! Things are shaping up quite nicely and thanks to all the
@@ -55,7 +54,7 @@ images pretty soon!&lt;/p&gt;
 user interface and a showcase of the latest desktop software, this new
 release brings you the latest &lt;strong&gt;GNOME 2.32&lt;/strong&gt;, &lt;strong&gt;KDE 4.6.0&lt;/strong&gt;, &lt;strong&gt;Xfce
 4.8&lt;/strong&gt;, a newer &lt;strong&gt;Linux kernel 2.6.35.11&lt;/strong&gt;, &lt;strong&gt;Xorg-Server 1.8&lt;/strong&gt;, &lt;strong&gt;Conary
-2.2.13&lt;/strong&gt; and a ton of updated applications!&lt;/p&gt;</description></item><item><title>Announcing Foresight Linux 2.5.0 ALPHA 2 GNOME Edition</title><link>http://localhost:1313/posts/announcing-foresight-linux-2-5-0-alpha-2-gnome-edition/</link><pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/announcing-foresight-linux-2-5-0-alpha-2-gnome-edition/</guid><description>&lt;p&gt;Who said that lightening doesn&amp;rsquo;t strike twice on the same spot? I&amp;rsquo;m
+2.2.13&lt;/strong&gt; and a ton of updated applications!&lt;/p&gt;</description></item><item><title>Announcing Foresight Linux 2.5.0 ALPHA 2 GNOME Edition</title><link>https://omaciel.github.io/posts/announcing-foresight-linux-2-5-0-alpha-2-gnome-edition/</link><pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/announcing-foresight-linux-2-5-0-alpha-2-gnome-edition/</guid><description>&lt;p&gt;Who said that lightening doesn&amp;rsquo;t strike twice on the same spot? I&amp;rsquo;m
 proud to announce the release of &lt;strong&gt;Foresight Linux 2.5.0 ALPHA 2 GNOME
 Edition&lt;/strong&gt;!&lt;/p&gt;
 &lt;p&gt;Once again, this alpha release is from our &lt;strong&gt;QA branch&lt;/strong&gt;, and is
@@ -63,7 +62,7 @@ intended mostly to receive feedback on brand new installs from
 end-users, specially in relation to the overall behavior of &lt;strong&gt;X.org&lt;/strong&gt; on
 first boot! Obviously, if you&amp;rsquo;re already running Foresight Linux 2.5.0
 ALPHA1, simply update your system from the command line: &lt;strong&gt;*sudo conary
-updateall&lt;/strong&gt;*&lt;/p&gt;</description></item><item><title>Because Your Distro Should Be Cool!</title><link>http://localhost:1313/posts/because-your-distro-should-be-cool/</link><pubDate>Mon, 24 Jan 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/because-your-distro-should-be-cool/</guid><description>&lt;p&gt;It is with my &lt;strong&gt;Community Manager&lt;/strong&gt; hat and as a &lt;strong&gt;Linux enthusiast&lt;/strong&gt;
+updateall&lt;/strong&gt;*&lt;/p&gt;</description></item><item><title>Because Your Distro Should Be Cool!</title><link>https://omaciel.github.io/posts/because-your-distro-should-be-cool/</link><pubDate>Mon, 24 Jan 2011 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/because-your-distro-should-be-cool/</guid><description>&lt;p&gt;It is with my &lt;strong&gt;Community Manager&lt;/strong&gt; hat and as a &lt;strong&gt;Linux enthusiast&lt;/strong&gt;
 that I bring you this post about the &lt;a href="http://www.foresightlinux.org"&gt;Foresight Linux&lt;/a&gt; distribution, literally born and
 brewed where I work and filled to the brim with the technology developed
 at &lt;strong&gt;rPath&lt;/strong&gt;. However, this is not yet another article about yet another
@@ -79,7 +78,7 @@ For a while Foresight was indeed a &lt;strong&gt;trail blazer&lt;/strong&gt; and
 get the latest and coolest applications or features for Linux, that&amp;rsquo;s
 where you&amp;rsquo;d go! But nowadays I feel that a lot of the popular
 distributions are pretty much shipping the same set of things plus or
-minus a feature here or there.&lt;/p&gt;</description></item><item><title>Announcing Foresight Linux 2.5.0 ALPHA 1 GNOME Edition</title><link>http://localhost:1313/posts/announcing-foresight-linux-2-5-0-alpha-1-gnome-edition/</link><pubDate>Mon, 17 Jan 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/announcing-foresight-linux-2-5-0-alpha-1-gnome-edition/</guid><description>&lt;p&gt;After a very, very, very long time I can finally announce another
+minus a feature here or there.&lt;/p&gt;</description></item><item><title>Announcing Foresight Linux 2.5.0 ALPHA 1 GNOME Edition</title><link>https://omaciel.github.io/posts/announcing-foresight-linux-2-5-0-alpha-1-gnome-edition/</link><pubDate>Mon, 17 Jan 2011 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/announcing-foresight-linux-2-5-0-alpha-1-gnome-edition/</guid><description>&lt;p&gt;After a very, very, very long time I can finally announce another
 &lt;a href="http://wp.me/pEMZT-ao"&gt;Foresight Linux release&lt;/a&gt;! We have gone through a
 lot of changes and it took us a while to rebuild our
 developer/maintainer/user base, but here we are! The goal is to go back
@@ -88,7 +87,7 @@ greatest mix of GNOME and applications!&lt;/p&gt;
 &lt;p&gt;[caption id=&amp;ldquo;attachment_1284&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;
 caption=&amp;ldquo;Localized (Swedish) screenshot of Foresight
 Linux&amp;rdquo;]&lt;a href="http://www.ogmaciel.com/wp-content/uploads/2011/01/FL-desktop-2.png"&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2011/01/FL-desktop-2-300x187.png" alt="Foresight
-Linux"&gt;&lt;/a&gt;[/caption]&lt;/p&gt;</description></item><item><title>Looking For a Graphic Designer</title><link>http://localhost:1313/posts/looking-for-a-graphic-designer/</link><pubDate>Thu, 16 Dec 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/looking-for-a-graphic-designer/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/12/FL.logo_.a4-300x45.png" alt="Foresight Linux"&gt;&lt;/p&gt;
+Linux"&gt;&lt;/a&gt;[/caption]&lt;/p&gt;</description></item><item><title>Looking For a Graphic Designer</title><link>https://omaciel.github.io/posts/looking-for-a-graphic-designer/</link><pubDate>Thu, 16 Dec 2010 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/looking-for-a-graphic-designer/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/12/FL.logo_.a4-300x45.png" alt="Foresight Linux"&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;a href="http://www.foresightlinux.org"&gt;Foresight Linux&lt;/a&gt; team is looking for
 a good &lt;strong&gt;graphic designer&lt;/strong&gt; to help them with a &lt;strong&gt;splash screen&lt;/strong&gt;!&lt;/p&gt;
 &lt;p&gt;**Foresight Linux,**a desktop operating system featuring an intuitive
@@ -97,7 +96,7 @@ gearing for a major release with all the latest and greatest
 applications out there!&lt;/p&gt;
 &lt;p&gt;Would you like to see your art work distributed and displayed whenever
 someone boots &lt;strong&gt;Foresight Linux&lt;/strong&gt;? If so, please drop me a line for more
-information!&lt;/p&gt;</description></item><item><title>Announcing: Foresight based Django Developer Kit Appliance RC1</title><link>http://localhost:1313/posts/announcing-foresight-based-django-developer-kit-applianc/</link><pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/announcing-foresight-based-django-developer-kit-applianc/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/09/Screenshot-QEMU-300x225.png" alt="Foresight Linux based Django Developer Kit Appliance"&gt;&lt;/p&gt;
+information!&lt;/p&gt;</description></item><item><title>Announcing: Foresight based Django Developer Kit Appliance RC1</title><link>https://omaciel.github.io/posts/announcing-foresight-based-django-developer-kit-applianc/</link><pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/announcing-foresight-based-django-developer-kit-applianc/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/09/Screenshot-QEMU-300x225.png" alt="Foresight Linux based Django Developer Kit Appliance"&gt;&lt;/p&gt;
 &lt;p&gt;If you remember one of my last &lt;a href="http://www.ogmaciel.com/?p=1187"&gt;posts&lt;/a&gt;,
 I wanted to eventually migrate my &lt;a href="http://bit.ly/byzBLV"&gt;Django Developer Kit
 Appliance&lt;/a&gt; to use &lt;a href="http://foresightlinux.org"&gt;Foresight Linux&lt;/a&gt; as the underlying operating system&amp;hellip; and I am proud to announce that I have made huge strides toward this
@@ -106,7 +105,7 @@ goal!&lt;/p&gt;
 I managed to get an almost ready for production &lt;strong&gt;Django 1.2.3 +
 PostgreSQL 8.4 + Python 2.6.2&lt;/strong&gt; and &lt;strong&gt;lots&lt;/strong&gt; of &lt;strong&gt;Django modules&lt;/strong&gt; and
 &lt;strong&gt;latest versions&lt;/strong&gt; for &lt;strong&gt;Git, Mercurial, Bzr&lt;/strong&gt;, and &lt;strong&gt;Subversion&lt;/strong&gt;
-ready to be used!&lt;/p&gt;</description></item><item><title>Django Devel Kit Appliance 1.2.3</title><link>http://localhost:1313/posts/django-devel-kit-appliance-1-2-3/</link><pubDate>Sat, 11 Sep 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/django-devel-kit-appliance-1-2-3/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/09/508647245_178fc7941d-300x199.jpg" alt="Oops!"&gt;&lt;/p&gt;
+ready to be used!&lt;/p&gt;</description></item><item><title>Django Devel Kit Appliance 1.2.3</title><link>https://omaciel.github.io/posts/django-devel-kit-appliance-1-2-3/</link><pubDate>Sat, 11 Sep 2010 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/django-devel-kit-appliance-1-2-3/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/09/508647245_178fc7941d-300x199.jpg" alt="Oops!"&gt;&lt;/p&gt;
 &lt;p&gt;No, this is not a repeat from yesterday&amp;rsquo;s post. Turns out there was
 another &lt;a href="http://www.djangoproject.com/weblog/2010/sep/10/123/"&gt;security release&lt;/a&gt; for
 &lt;strong&gt;Django&lt;/strong&gt; yesterday (thanks &lt;strong&gt;Zygmunt&lt;/strong&gt; for the heads up), so here&amp;rsquo;s

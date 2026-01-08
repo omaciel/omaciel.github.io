@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pylyglot on Og Maciel's Journal</title><link>http://localhost:1313/tags/pylyglot/</link><description>Recent content in Pylyglot on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 17 Aug 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pylyglot/index.xml" rel="self" type="application/rss+xml"/><item><title>Pylyglot: Open Source Translation Search</title><link>http://localhost:1313/posts/pylyglot-open-source-translation-search/</link><pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/pylyglot-open-source-translation-search/</guid><description>&lt;p&gt;It&amp;rsquo;s been a while since I wrote about
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pylyglot on Og Maciel's Journal</title><link>https://omaciel.github.io/tags/pylyglot/</link><description>Recent content in Pylyglot on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 17 Aug 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/pylyglot/index.xml" rel="self" type="application/rss+xml"/><item><title>Pylyglot: Open Source Translation Search</title><link>https://omaciel.github.io/posts/pylyglot-open-source-translation-search/</link><pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/pylyglot-open-source-translation-search/</guid><description>&lt;p&gt;It&amp;rsquo;s been a while since I wrote about
 &lt;a href="http://www.pylyglot.org"&gt;Pylyglot&lt;/a&gt;, my translation searching tool that
 I use whenever I translate open source applications. Have not heard
 about Pylyglot? Read the &lt;a href="http://pylyglot.org/about"&gt;About&lt;/a&gt; page for
@@ -7,7 +7,7 @@ more info!&lt;/p&gt;
 to say that the project is very much alive and I intend to keep updating
 the translations database as often as possible.&lt;/p&gt;
 &lt;p&gt;So, what&amp;rsquo;s new? For starters, there&amp;rsquo;s a new and fancy language selector
-that let&amp;rsquo;s you also search for a language as you type:&lt;/p&gt;</description></item><item><title>Helping the Belarusian and Esperanto Translations</title><link>http://localhost:1313/posts/helping-the-belarusian-and-esperanto-translations/</link><pubDate>Sun, 10 Oct 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/helping-the-belarusian-and-esperanto-translations/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/10/2397379457_f8345ee812-214x300.jpg" alt="Two New Languages"&gt;&lt;/p&gt;
+that let&amp;rsquo;s you also search for a language as you type:&lt;/p&gt;</description></item><item><title>Helping the Belarusian and Esperanto Translations</title><link>https://omaciel.github.io/posts/helping-the-belarusian-and-esperanto-translations/</link><pubDate>Sun, 10 Oct 2010 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/helping-the-belarusian-and-esperanto-translations/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/10/2397379457_f8345ee812-214x300.jpg" alt="Two New Languages"&gt;&lt;/p&gt;
 &lt;p&gt;Thanks to comments by &lt;strong&gt;booxter&lt;/strong&gt; and &lt;a href="http://freesoftwarehacker.blogspot.com/"&gt;Patrick Niedzielski&lt;/a&gt;, I have added
 support for 2 more languages to &lt;a href="http://pylyglot.org"&gt;Pylyglot&lt;/a&gt;:
 &lt;strong&gt;Belarusian&lt;/strong&gt; and &lt;strong&gt;Esperanto&lt;/strong&gt;! So far I had been adding languages
@@ -17,7 +17,7 @@ the languages that need a bit of help catching up with the other teams
 and provide them with a means to check their standardization. So I&amp;rsquo;m
 glad to welcome these two new &amp;ldquo;members&amp;rdquo; and kindly ask anyone who speaks
 either one of these languages to lend a helping hand with their
-translation by contacting their respective GNOME team coordinators:&lt;/p&gt;</description></item><item><title>Pylyglot, Now With More Translations</title><link>http://localhost:1313/posts/pylyglot-now-with-more-translations/</link><pubDate>Fri, 08 Oct 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/pylyglot-now-with-more-translations/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/10/2476125646_c16090b3bd-300x228.jpg" alt="In Every Language"&gt;&lt;/p&gt;
+translation by contacting their respective GNOME team coordinators:&lt;/p&gt;</description></item><item><title>Pylyglot, Now With More Translations</title><link>https://omaciel.github.io/posts/pylyglot-now-with-more-translations/</link><pubDate>Fri, 08 Oct 2010 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/pylyglot-now-with-more-translations/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/10/2476125646_c16090b3bd-300x228.jpg" alt="In Every Language"&gt;&lt;/p&gt;
 &lt;p&gt;What a difference a day makes! Thanks to some feedback I got both here
 and in private, and thanks to a contributor with some extra free cycles
 at hand, &lt;a href="http://pylyglot.org"&gt;Pylyglot&lt;/a&gt; got anotherÂ face liftÂ today.&lt;/p&gt;
@@ -26,7 +26,7 @@ translations&lt;/strong&gt; from yesterday&amp;rsquo;s &lt;strong&gt;61 packages
 translations&lt;/strong&gt;! You can also now link to a query using the resulting url
 from your searches using the format language=FOO&amp;amp;query=BAR, where
 &lt;strong&gt;FOO&lt;/strong&gt; is the language&amp;rsquo;s ISO code and &lt;strong&gt;BAR&lt;/strong&gt; is the term you&amp;rsquo;re
-searching.&lt;/p&gt;</description></item><item><title>Pylyglot, Now With More Languages</title><link>http://localhost:1313/posts/pylyglot-now-with-more-languages/</link><pubDate>Thu, 07 Oct 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/pylyglot-now-with-more-languages/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/10/2459439697_4f383f7212-300x199.jpg" alt="Blooming Translations"&gt;&lt;/p&gt;
+searching.&lt;/p&gt;</description></item><item><title>Pylyglot, Now With More Languages</title><link>https://omaciel.github.io/posts/pylyglot-now-with-more-languages/</link><pubDate>Thu, 07 Oct 2010 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/pylyglot-now-with-more-languages/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2010/10/2459439697_4f383f7212-300x199.jpg" alt="Blooming Translations"&gt;&lt;/p&gt;
 &lt;p&gt;Managed to update &lt;a href="http://pylyglot.org"&gt;Pylyglot&lt;/a&gt;, my &lt;strong&gt;Django&lt;/strong&gt;-based
 translations tool to include &lt;strong&gt;22 new languages&lt;/strong&gt; and the very latest
 &lt;strong&gt;GNOME 3.0&lt;/strong&gt; packages. Hope you guys find it useful!&lt;/p&gt;
@@ -34,7 +34,7 @@ translations tool to include &lt;strong&gt;22 new languages&lt;/strong&gt; and t
 &lt;li&gt;Languages: 52&lt;/li&gt;
 &lt;li&gt;Packages: 61&lt;/li&gt;
 &lt;li&gt;Translations: 954,884&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Pylyglot</title><link>http://localhost:1313/posts/pylyglot/</link><pubDate>Sun, 26 Sep 2010 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/pylyglot/</guid><description>&lt;p&gt;Been working on a pet project to help out with theÂ &lt;strong&gt;GNOME&lt;/strong&gt;
+&lt;/ul&gt;</description></item><item><title>Pylyglot</title><link>https://omaciel.github.io/posts/pylyglot/</link><pubDate>Sun, 26 Sep 2010 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/pylyglot/</guid><description>&lt;p&gt;Been working on a pet project to help out with theÂ &lt;strong&gt;GNOME&lt;/strong&gt;
 translations (as well as have a chance to learn more about &lt;strong&gt;Django&lt;/strong&gt;)
 and the end product is now available at
 &lt;a href="http://pylyglot.org/"&gt;www.pylyglot.org&lt;/a&gt;. Basically, it is a database of

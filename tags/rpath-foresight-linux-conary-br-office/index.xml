@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rpath, Foresight Linux, Conary, Br-Office on Og Maciel's Journal</title><link>http://localhost:1313/tags/rpath-foresight-linux-conary-br-office/</link><description>Recent content in Rpath, Foresight Linux, Conary, Br-Office on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2006 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rpath-foresight-linux-conary-br-office/index.xml" rel="self" type="application/rss+xml"/><item><title>BR-Office empacotado para o Foresight Linux</title><link>http://localhost:1313/posts/br-office-packaged-for-foresight-linux/</link><pubDate>Fri, 13 Oct 2006 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/br-office-packaged-for-foresight-linux/</guid><description>&lt;p&gt;Aproveitei o dia hoje para empacotar o
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rpath, Foresight Linux, Conary, Br-Office on Og Maciel's Journal</title><link>https://omaciel.github.io/tags/rpath-foresight-linux-conary-br-office/</link><description>Recent content in Rpath, Foresight Linux, Conary, Br-Office on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2006 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/rpath-foresight-linux-conary-br-office/index.xml" rel="self" type="application/rss+xml"/><item><title>BR-Office empacotado para o Foresight Linux</title><link>https://omaciel.github.io/posts/br-office-packaged-for-foresight-linux/</link><pubDate>Fri, 13 Oct 2006 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/br-office-packaged-for-foresight-linux/</guid><description>&lt;p&gt;Aproveitei o dia hoje para empacotar o
 &lt;a href="http://openoffice.org.br/"&gt;Br-Office&lt;/a&gt; para o &lt;a href="http://www.foresightlinux.com/"&gt;Foresight
 Linux&lt;/a&gt;!!! Como podem ver, esta&amp;rsquo; rodando
 &amp;ldquo;redondinho&amp;rdquo;! :) No processo de empacota-lo, acabei descobrindo um
@@ -8,7 +8,6 @@ no repositorio oficial, voces poderao usufruir do Br-Office tambem.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://static.flickr.com/92/268734323_fc5248714f_b.jpg"&gt;&lt;img src="http://static.flickr.com/92/268734323_fc5248714f.jpg" alt="image0"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Para instala-lo:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;sudo conary update broffice.org&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;sudo conary update broffice.org&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Caso voce ainda tenha a versao oficial do OpenOffice instalado, nao se
 esqueca de remove-lo:&lt;/p&gt;</description></item></channel></rss>

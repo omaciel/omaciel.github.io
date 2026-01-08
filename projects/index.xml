@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Og Maciel's Journal</title><link>http://localhost:1313/projects/</link><description>Recent content in Projects on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Capacitator</title><link>http://localhost:1313/projects/capacitator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/capacitator/</guid><description>&lt;h2 id="capacitator"&gt;Capacitator&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Og Maciel's Journal</title><link>https://omaciel.github.io/projects/</link><description>Recent content in Projects on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://omaciel.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Capacitator</title><link>https://omaciel.github.io/projects/capacitator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/projects/capacitator/</guid><description>&lt;h2 id="capacitator"&gt;Capacitator&lt;/h2&gt;
 &lt;p&gt;Helps Agile teams calculate their sprint capacity by considering working days, team size, and reserved capacity.&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://localhost:1313/images/capacitator.png" alt="Capacitator Screenshot"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://omaciel.github.io/images/capacitator.png" alt="Capacitator Screenshot"&gt;&lt;/p&gt;
 &lt;h3 id="features"&gt;Features&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Sprint capacity calculation&lt;/li&gt;
@@ -18,9 +18,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://omaciel.github.io/capacitator/"&gt;Live Demo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/omaciel/capacitator"&gt;View on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Owlify</title><link>http://localhost:1313/projects/owlify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/owlify/</guid><description>&lt;h2 id="owlify"&gt;Owlify&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>Owlify</title><link>https://omaciel.github.io/projects/owlify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/projects/owlify/</guid><description>&lt;h2 id="owlify"&gt;Owlify&lt;/h2&gt;
 &lt;p&gt;Command-line tool that simplifies fetching and formatting of JIRA issue data for reporting and visualization.&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://localhost:1313/images/owlify.png" alt="Owlify Screenshot"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://omaciel.github.io/images/owlify.png" alt="Owlify Screenshot"&gt;&lt;/p&gt;
 &lt;h3 id="features"&gt;Features&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Fetch JIRA issues via command line&lt;/li&gt;
@@ -39,9 +39,9 @@
 &lt;h3 id="links"&gt;Links&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/omaciel/owlify"&gt;View on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Potentializer</title><link>http://localhost:1313/projects/potentializer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/potentializer/</guid><description>&lt;h2 id="potentializer"&gt;Potentializer&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>Potentializer</title><link>https://omaciel.github.io/projects/potentializer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/projects/potentializer/</guid><description>&lt;h2 id="potentializer"&gt;Potentializer&lt;/h2&gt;
 &lt;p&gt;HTML-based talent management tool that allows managers to categorize team members across a 9-box grid.&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://localhost:1313/images/potentializer.png" alt="Potentializer Screenshot"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://omaciel.github.io/images/potentializer.png" alt="Potentializer Screenshot"&gt;&lt;/p&gt;
 &lt;h3 id="features"&gt;Features&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Interactive 9-box grid interface&lt;/li&gt;

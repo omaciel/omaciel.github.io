@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Article on Og Maciel's Journal</title><link>http://localhost:1313/tags/article/</link><description>Recent content in Article on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2005 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/article/index.xml" rel="self" type="application/rss+xml"/><item><title>Good Debian Server Setup HOWTO</title><link>http://localhost:1313/posts/good-debian-server-setup-howto/</link><pubDate>Fri, 03 Jun 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/good-debian-server-setup-howto/</guid><description>&lt;p&gt;Earlier this year &lt;a href="http://www.osnews.com"&gt;OSNews&lt;/a&gt; published my
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Article on Og Maciel's Journal</title><link>https://omaciel.github.io/tags/article/</link><description>Recent content in Article on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2005 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/article/index.xml" rel="self" type="application/rss+xml"/><item><title>Good Debian Server Setup HOWTO</title><link>https://omaciel.github.io/posts/good-debian-server-setup-howto/</link><pubDate>Fri, 03 Jun 2005 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/good-debian-server-setup-howto/</guid><description>&lt;p&gt;Earlier this year &lt;a href="http://www.osnews.com"&gt;OSNews&lt;/a&gt; published my
 &lt;a href="http://www.ogmaciel.com/?page_id=101"&gt;article&lt;/a&gt; titled &lt;em&gt;&amp;quot;Installing
 Debian Linux For The Faint Of Heart.&amp;quot;&lt;/em&gt; Today I came across &lt;a href="http://www.harrysufehmi.com/phpwiki/index.php/SettingUpLinuxServer"&gt;another
 article&lt;/a&gt;
@@ -6,7 +6,7 @@ dealing with the same subject. Now, I know people have hammered these
 types of articles to death in the net but this one sounded worth the
 risk of mentioning. For one thing, it covers hardening your bare-bones
 &lt;a href="http://www.debian.org"&gt;Debian&lt;/a&gt; server which, IMHO should be worth
-looking at no matter what.&lt;/p&gt;</description></item><item><title>Of Whidbey, Orcas, and Hawaii</title><link>http://localhost:1313/posts/of-whidbey-orcas-and-hawaii/</link><pubDate>Wed, 25 May 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/of-whidbey-orcas-and-hawaii/</guid><description>&lt;p&gt;With the upcoming release of Whidbey (Visual Studio 2005) scheduled for
+looking at no matter what.&lt;/p&gt;</description></item><item><title>Of Whidbey, Orcas, and Hawaii</title><link>https://omaciel.github.io/posts/of-whidbey-orcas-and-hawaii/</link><pubDate>Wed, 25 May 2005 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/of-whidbey-orcas-and-hawaii/</guid><description>&lt;p&gt;With the upcoming release of Whidbey (Visual Studio 2005) scheduled for
 some time this Summer, Microsoft has already been busy working on the
 next 2 versions: Orca and Hawaii. &lt;em&gt;&amp;quot;Microsoft officials said that while
 Whidbey will help developers target the upcoming Longhorn operating
@@ -14,7 +14,7 @@ system, Orcas will be the version of the tool set that will enable
 developers to ride what the company calls the Longhorn wave and tap the
 new features of the operating system. Hawaii will come shortly after
 Orcas to provide even more Longhorn-specific functionality and more.&amp;quot;&lt;/em&gt;
-(&lt;a href="http://www.eweek.com/article2/0,1759,1815855,00.asp"&gt;eWeek.com&lt;/a&gt;)&lt;/p&gt;</description></item><item><title>15 things you can do with RSS</title><link>http://localhost:1313/posts/15-things-you-can-do-with-rss/</link><pubDate>Sun, 08 May 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/15-things-you-can-do-with-rss/</guid><description>&lt;p&gt;I didn&amp;rsquo;t know you could do all of these with rss!!! Wow!!! Read the
+(&lt;a href="http://www.eweek.com/article2/0,1759,1815855,00.asp"&gt;eWeek.com&lt;/a&gt;)&lt;/p&gt;</description></item><item><title>15 things you can do with RSS</title><link>https://omaciel.github.io/posts/15-things-you-can-do-with-rss/</link><pubDate>Sun, 08 May 2005 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/15-things-you-can-do-with-rss/</guid><description>&lt;p&gt;I didn&amp;rsquo;t know you could do all of these with rss!!! Wow!!! Read the
 original post &lt;a href="http://timyang.com/comments.php?id=630_0_1_0_C"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;dl&gt;
 &lt;dt&gt;Get the news as it happens from multiple news sources&lt;/dt&gt;
@@ -24,7 +24,7 @@ sources (and nearly every major paper and TV news network has RSS
 feeds today). But now there are even feeds that aggregate other
 feeds. The new &lt;a href="http://rssmix.com/"&gt;RSSmix.com&lt;/a&gt; lets you combine all
 the news source RSS feeds into one single feed so you get news as it
-happens.&lt;/p&gt;</description></item><item><title>A (Not) Hacker's Tale</title><link>http://localhost:1313/posts/a-not-hackers-tale/</link><pubDate>Mon, 25 Apr 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/a-not-hackers-tale/</guid><description>&lt;p&gt;This is just too &lt;a href="http://www.jellyslab.com/~bteo/hacker.htm"&gt;funny&lt;/a&gt;!!!
+happens.&lt;/p&gt;</description></item><item><title>A (Not) Hacker's Tale</title><link>https://omaciel.github.io/posts/a-not-hackers-tale/</link><pubDate>Mon, 25 Apr 2005 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/a-not-hackers-tale/</guid><description>&lt;p&gt;This is just too &lt;a href="http://www.jellyslab.com/~bteo/hacker.htm"&gt;funny&lt;/a&gt;!!!
 Not sure if it really happened or not but my professional experience has
 proven me wrong many times before! Hehehe&amp;hellip; Read on&amp;hellip;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Something nice I read on &lt;a href="https://www.stophiphop.de"&gt;www.stophiphop.de&lt;/a&gt; (got pointed there by a
@@ -35,7 +35,7 @@ comment on &lt;a href="https://www.macguardians.de"&gt;www.macguardians.de&lt;/a
 `www.macguardians.de &amp;lt;http://www.macguardians.de&amp;gt;`__) is this nice
 story of a hacker:
 &lt;a href="http://www.beast.mos-worlds.de/modules/new...php?storyid=184"&gt;http://www.beast.mos-worlds.de/modules/new...php?storyid=184&lt;/a&gt; (site might
-be down, quite a lot of people are reading this).&lt;/em&gt;&lt;/p&gt;</description></item><item><title>El Robot</title><link>http://localhost:1313/posts/el-robot/</link><pubDate>Wed, 30 Mar 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/el-robot/</guid><description>&lt;p&gt;My sister had told me about
+be down, quite a lot of people are reading this).&lt;/em&gt;&lt;/p&gt;</description></item><item><title>El Robot</title><link>https://omaciel.github.io/posts/el-robot/</link><pubDate>Wed, 30 Mar 2005 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/el-robot/</guid><description>&lt;p&gt;My sister had told me about
 &lt;a href="http://www.wired.com/wired/archive/13.04/robot.html"&gt;this&lt;/a&gt; when she
 called to wish us a happy Easter. She was very excited about it and
 thought I&amp;rsquo;d feel the same. For those of you who don&amp;rsquo;t read any &amp;ldquo;geek
@@ -63,7 +63,7 @@ from the &amp;quot;Americans&amp;quot;) noticed that we &lt;strong&gt;all&lt;/st
 the tests and were waaaay ahead of everybody else. He was so astonished
 that he said to a guy sitting next to me: &amp;ldquo;I don&amp;rsquo;t care what &lt;em&gt;they&lt;/em&gt; say
 about you&amp;hellip; I think you&amp;rsquo;re all very smart!&amp;rdquo; To this day I still wonder
-what &amp;ldquo;&lt;em&gt;they&lt;/em&gt;&amp;quot; thought of &amp;quot;&lt;em&gt;us&lt;/em&gt;&amp;rdquo;!!!&lt;/p&gt;</description></item><item><title>Olé, Olé</title><link>http://localhost:1313/posts/ole-ole/</link><pubDate>Tue, 29 Mar 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/ole-ole/</guid><description>&lt;p&gt;An interesting
+what &amp;ldquo;&lt;em&gt;they&lt;/em&gt;&amp;quot; thought of &amp;quot;&lt;em&gt;us&lt;/em&gt;&amp;rdquo;!!!&lt;/p&gt;</description></item><item><title>Olé, Olé</title><link>https://omaciel.github.io/posts/ole-ole/</link><pubDate>Tue, 29 Mar 2005 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/ole-ole/</guid><description>&lt;p&gt;An interesting
 &lt;a href="http://www.nytimes.com/2005/03/29/technology/29computer.html"&gt;read&lt;/a&gt;
 (sorry&amp;hellip; free registration required) about Brazil&amp;rsquo;s involvement with
 the Open Source movement. It seems that &lt;strong&gt;Linux&lt;/strong&gt; has joined &lt;strong&gt;Soccer&lt;/strong&gt;

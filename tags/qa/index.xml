@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>QA on Og Maciel's Journal</title><link>http://localhost:1313/tags/qa/</link><description>Recent content in QA on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/qa/index.xml" rel="self" type="application/rss+xml"/><item><title>Just What Is A Quality Engineer? Part 2</title><link>http://localhost:1313/posts/1186-what-is-a-quality-engineer-part-2/</link><pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/1186-what-is-a-quality-engineer-part-2/</guid><description>&lt;p&gt;&lt;img src="http://localhost:1313/images/batman-is-qe.jpeg" alt="Picture of Batman"&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qa on Og Maciel's Journal</title><link>https://omaciel.github.io/tags/qa/</link><description>Recent content in Qa on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/qa/index.xml" rel="self" type="application/rss+xml"/><item><title>Just What Is A Quality Engineer? Part 2</title><link>https://omaciel.github.io/posts/1186-what-is-a-quality-engineer-part-2/</link><pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/1186-what-is-a-quality-engineer-part-2/</guid><description>&lt;p&gt;&lt;img src="https://omaciel.github.io/images/batman-is-qe.jpeg" alt="Picture of Batman"&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;a href="https://omaciel.github.io/just-what-is-a-quality-engineer-part-1.html"&gt;last
 time&lt;/a&gt;
 I wrote about &lt;strong&gt;Quality Engineering&lt;/strong&gt;, I mentioned that some of the
@@ -13,7 +13,7 @@ something to do with testing...&lt;/li&gt;
 &lt;li&gt;Engineering is usually identified with skills related to writing
 code and designing algorithms, usually by a developer and not by QA&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;A quick search on Google shows the following results:&lt;/p&gt;</description></item><item><title>Just What Is A Quality Engineer? Part 1</title><link>http://localhost:1313/posts/1185-what-is-a-quality-engineer-part-1/</link><pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/1185-what-is-a-quality-engineer-part-1/</guid><description>&lt;p&gt;&lt;img src="http://localhost:1313/images/batman-is-qe.jpeg" alt="Picture of Batman"&gt;&lt;/p&gt;
+&lt;p&gt;A quick search on Google shows the following results:&lt;/p&gt;</description></item><item><title>Just What Is A Quality Engineer? Part 1</title><link>https://omaciel.github.io/posts/1185-what-is-a-quality-engineer-part-1/</link><pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/1185-what-is-a-quality-engineer-part-1/</guid><description>&lt;p&gt;&lt;img src="https://omaciel.github.io/images/batman-is-qe.jpeg" alt="Picture of Batman"&gt;&lt;/p&gt;
 &lt;p&gt;Whenever I meet someone for the first time, after we get past the
 initial niceties typically involved when you meet someone for the first
 time, eventually the conversation shifts to work and what one does for a
@@ -36,7 +36,7 @@ professional trade organization! The following are my own definitions
 and conclusions, none of which were pulled out of thin air, but backed
 by (so far) 10 years of experience working on the field of delivering
 quality products. If there are formal definitions out there, and they
-match with my own, it is by pure coincidence.&lt;/p&gt;</description></item><item><title>Red Hat: 366 days later (and counting)</title><link>http://localhost:1313/posts/red-hat-366-days-later-and-counting/</link><pubDate>Wed, 05 Dec 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/red-hat-366-days-later-and-counting/</guid><description>&lt;p&gt;&lt;img src="https://dl.dropbox.com/u/102224/PhotoGrid_1354710144242.jpg" alt="Red Hat 1
+match with my own, it is by pure coincidence.&lt;/p&gt;</description></item><item><title>Red Hat: 366 days later (and counting)</title><link>https://omaciel.github.io/posts/red-hat-366-days-later-and-counting/</link><pubDate>Wed, 05 Dec 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/red-hat-366-days-later-and-counting/</guid><description>&lt;p&gt;&lt;img src="https://dl.dropbox.com/u/102224/PhotoGrid_1354710144242.jpg" alt="Red Hat 1
 year"&gt;&lt;/p&gt;
 &lt;p&gt;Woke up to the following email this morning:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -44,8 +44,7 @@ year"&gt;&lt;/p&gt;
 &lt;p&gt;Congratulations on your one-year anniversary with Red Hat! Thank you
 for your commitment and work over the past year. We hope that it has
 been everything you expected it to be and look forward to celebrating
-your future success with the company.&lt;/p&gt;
-&lt;/blockquote&gt;
+your future success with the company.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Time sure flies when you&amp;rsquo;re having too much fun! I can&amp;rsquo;t believe it&amp;rsquo;s
 been one whole year since I joined &lt;a href="http://www.redhat.com/"&gt;Red Hat&lt;/a&gt; as
 a &lt;strong&gt;Senior QA Engineer&lt;/strong&gt; to work on their

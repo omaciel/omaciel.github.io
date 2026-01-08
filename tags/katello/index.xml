@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Katello on Og Maciel's Journal</title><link>http://localhost:1313/tags/katello/</link><description>Recent content in Katello on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/katello/index.xml" rel="self" type="application/rss+xml"/><item><title>Using Python to Control Katello</title><link>http://localhost:1313/posts/using-python-to-control-katello/</link><pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/using-python-to-control-katello/</guid><description>&lt;p&gt;&lt;img src="http://bit.ly/14Q0fhi" alt="Emacs editor with python code"&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Katello on Og Maciel's Journal</title><link>https://omaciel.github.io/tags/katello/</link><description>Recent content in Katello on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/katello/index.xml" rel="self" type="application/rss+xml"/><item><title>Using Python to Control Katello</title><link>https://omaciel.github.io/posts/using-python-to-control-katello/</link><pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/using-python-to-control-katello/</guid><description>&lt;p&gt;&lt;img src="http://bit.ly/14Q0fhi" alt="Emacs editor with python code"&gt;&lt;/p&gt;
 &lt;p&gt;I usually like to use python to script my day to day tests against
 &lt;a href="http://www.katello.org/"&gt;Katello&lt;/a&gt; (you may have seen some of my
 &lt;a href="http://ogmaciel.tumblr.com/post/52170839167/populating-a-katello-instance-using-the-cli"&gt;previous&lt;/a&gt;
@@ -9,7 +9,7 @@ interested.&lt;/p&gt;
 &lt;p&gt;Assuming you have already installed and configured your Katello instance
 (learn how to do this
 &lt;a href="https://fedorahosted.org/katello/wiki/Install"&gt;here&lt;/a&gt;) with the default
-configurations, we now have a few options to proceed:&lt;/p&gt;</description></item><item><title>Populating a Katello instance using the CLI</title><link>http://localhost:1313/posts/populating-a-katello-instance-using-the-cli/</link><pubDate>Tue, 04 Jun 2013 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/populating-a-katello-instance-using-the-cli/</guid><description>&lt;p&gt;Lately I have been asked a lot about my previous
+configurations, we now have a few options to proceed:&lt;/p&gt;</description></item><item><title>Populating a Katello instance using the CLI</title><link>https://omaciel.github.io/posts/populating-a-katello-instance-using-the-cli/</link><pubDate>Tue, 04 Jun 2013 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/populating-a-katello-instance-using-the-cli/</guid><description>&lt;p&gt;Lately I have been asked a lot about my previous
 &lt;a href="http://bit.ly/13jSmSx"&gt;script&lt;/a&gt; to automatically populate a
 &lt;a href="http://www.katello.org/"&gt;Katello&lt;/a&gt; server instance with real data (hi
 &lt;strong&gt;reyc&lt;/strong&gt;!) I wrote that a while back and though it still does contain
@@ -17,7 +17,7 @@ some helpful commands, I figured it was about time I updated it. Well,
 it took me longer than I expected to find some time and clean it up, but
 I think I can now show you a brand new script which also includes the
 extra feature of downloading a manifest file directly from &lt;strong&gt;Red
-Hat&lt;/strong&gt;'s portal and importing it as part of the process.&lt;/p&gt;</description></item><item><title>Extending the default EC2 root partition for an instance</title><link>http://localhost:1313/posts/extending-the-default-ec2-root-partition-for-an/</link><pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/extending-the-default-ec2-root-partition-for-an/</guid><description>&lt;p&gt;&lt;img src="https://lh4.googleusercontent.com/-_FwLIhjJu1s/ULaGxX9ch7I/AAAAAAACppg/KR_KZG-hLfM/s400/Screenshot%2520from%25202012-11-28%252015%253A15%253A38.png" alt="EC2
+Hat&lt;/strong&gt;'s portal and importing it as part of the process.&lt;/p&gt;</description></item><item><title>Extending the default EC2 root partition for an instance</title><link>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-for-an/</link><pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-for-an/</guid><description>&lt;p&gt;&lt;img src="https://lh4.googleusercontent.com/-_FwLIhjJu1s/ULaGxX9ch7I/AAAAAAACppg/KR_KZG-hLfM/s400/Screenshot%2520from%25202012-11-28%252015%253A15%253A38.png" alt="EC2
 wizard"&gt;&lt;/p&gt;
 &lt;p&gt;Today I was playing with &lt;strong&gt;EC2&lt;/strong&gt;, trying to launch a &lt;strong&gt;RHEL 6.3&lt;/strong&gt;
 instance so that I could then install the latest version of
@@ -28,7 +28,7 @@ Console&lt;/a&gt; web interface I used the
 &lt;strong&gt;m1.large&lt;/strong&gt; instance, making sure to edit the default &lt;strong&gt;7.5 GB&lt;/strong&gt; root
 partition they give you so that I could have more space available to
 synchronize content&amp;hellip; but when the instance finally came up I realized
-that my disk space was still showing the default value:&lt;/p&gt;</description></item><item><title>Script to populate a Katello instance with valid data</title><link>http://localhost:1313/posts/script-to-populate-a-katello-instance-with-valid/</link><pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/script-to-populate-a-katello-instance-with-valid/</guid><description>&lt;p&gt;&lt;img src="https://dl.dropbox.com/u/102224/Screenshot%20from%202012-08-16%2016%3A40%3A15.png" alt="Starbucks organization and its
+that my disk space was still showing the default value:&lt;/p&gt;</description></item><item><title>Script to populate a Katello instance with valid data</title><link>https://omaciel.github.io/posts/script-to-populate-a-katello-instance-with-valid/</link><pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/script-to-populate-a-katello-instance-with-valid/</guid><description>&lt;p&gt;&lt;img src="https://dl.dropbox.com/u/102224/Screenshot%20from%202012-08-16%2016%3A40%3A15.png" alt="Starbucks organization and its
 providers"&gt;&lt;/p&gt;
 &lt;p&gt;Every now and then I need to populate a brand new
 &lt;a href="http://www.katello.org"&gt;Katello&lt;/a&gt; installation with some valid
@@ -36,7 +36,7 @@ organizations, users and products to test certain areas&amp;hellip; and after a
 while I developed a &lt;a href="https://gist.github.com/3166535"&gt;script&lt;/a&gt; which I
 find very handy that does just that and may be of use for someone else.
 If you also find it useful, feel free to fork it and contribute with
-your own tricks. :)&lt;/p&gt;</description></item><item><title>Meet Some Of The Guys Behind The Katello Project</title><link>http://localhost:1313/posts/meet-some-of-the-guys-behind-the-katello-project/</link><pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/meet-some-of-the-guys-behind-the-katello-project/</guid><description>&lt;p&gt;&lt;img src="http://40.media.tumblr.com/tumblr_m8ekkpeWKw1rpc21fo1_1280.jpg" alt="image0"&gt;
+your own tricks. :)&lt;/p&gt;</description></item><item><title>Meet Some Of The Guys Behind The Katello Project</title><link>https://omaciel.github.io/posts/meet-some-of-the-guys-behind-the-katello-project/</link><pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/meet-some-of-the-guys-behind-the-katello-project/</guid><description>&lt;p&gt;&lt;img src="http://40.media.tumblr.com/tumblr_m8ekkpeWKw1rpc21fo1_1280.jpg" alt="image0"&gt;
 &lt;img src="http://36.media.tumblr.com/tumblr_m8ekkpeWKw1rpc21fo2_1280.jpg" alt="image1"&gt;
 &lt;img src="http://41.media.tumblr.com/tumblr_m8ekkpeWKw1rpc21fo3_1280.jpg" alt="image2"&gt;
 &lt;img src="http://40.media.tumblr.com/tumblr_m8ekkpeWKw1rpc21fo4_1280.jpg" alt="image3"&gt;

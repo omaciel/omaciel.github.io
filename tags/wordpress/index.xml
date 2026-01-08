@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wordpress on Og Maciel's Journal</title><link>http://localhost:1313/tags/wordpress/</link><description>Recent content in Wordpress on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 23 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/wordpress/index.xml" rel="self" type="application/rss+xml"/><item><title>How to import WordPress XML files</title><link>http://localhost:1313/posts/how-to-import-wordpress-xml-files/</link><pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/how-to-import-wordpress-xml-files/</guid><description>&lt;p&gt;&amp;hellip; or, how I brought an old python code back from the dead!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wordpress on Og Maciel's Journal</title><link>https://omaciel.github.io/tags/wordpress/</link><description>Recent content in Wordpress on Og Maciel's Journal</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 23 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://omaciel.github.io/tags/wordpress/index.xml" rel="self" type="application/rss+xml"/><item><title>How to import WordPress XML files</title><link>https://omaciel.github.io/posts/how-to-import-wordpress-xml-files/</link><pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/how-to-import-wordpress-xml-files/</guid><description>&lt;p&gt;&amp;hellip; or, how I brought an old python code back from the dead!&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://media.tumblr.com/tumblr_m2y9r6Wdw31r7yex1.png" alt="image0"&gt;&lt;/p&gt;
 &lt;p&gt;Inspired by &lt;strong&gt;Kenneth Reitz&lt;/strong&gt;'s recent
 &lt;a href="http://kennethreitz.com/repository-structure-and-python.html"&gt;post&lt;/a&gt; and
@@ -17,14 +17,14 @@ about. Little did I know that &lt;a href="http://snarfed.org/pyblosxom2wxr"&gt;o
 &lt;a href="http://blog.ivandemarino.me/2010/10/12/From-Wordpress-to-Bloggart"&gt;people&lt;/a&gt;
 have find it useful too, specially for migrating &lt;strong&gt;away&lt;/strong&gt; from
 WordPress! As a matter of fact, I too used it when I moved to
-&lt;strong&gt;Tumblr&lt;/strong&gt;, but that another story.&lt;/p&gt;</description></item><item><title>Desculpe Pela Bagunça...</title><link>http://localhost:1313/posts/desculpe-pela-bagunca/</link><pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/desculpe-pela-bagunca/</guid><description>&lt;p&gt;&lt;img src="http://farm8.staticflickr.com/7035/6434625263_9937f1ae1f_d.jpg" alt="Sorry"&gt;&lt;/p&gt;
+&lt;strong&gt;Tumblr&lt;/strong&gt;, but that another story.&lt;/p&gt;</description></item><item><title>Desculpe Pela Bagunça...</title><link>https://omaciel.github.io/posts/desculpe-pela-bagunca/</link><pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/desculpe-pela-bagunca/</guid><description>&lt;p&gt;&lt;img src="http://farm8.staticflickr.com/7035/6434625263_9937f1ae1f_d.jpg" alt="Sorry"&gt;&lt;/p&gt;
 &lt;p&gt;Recentemente eu comecei o processo de migrar o meu blog para
 o &lt;a href="http://ogmaciel.tumblr.com"&gt;Tumblr&lt;/a&gt;, e ao importar os posts antigos
 do &lt;strong&gt;WordPress&lt;/strong&gt; eu sem querer iniciei uma enxurrada onde certos
 agregadores estão mostrando &lt;strong&gt;posts de 2007&lt;/strong&gt;&amp;hellip; Ontem eu também causei
 um problema similar no &lt;strong&gt;Twitter&lt;/strong&gt; e &lt;strong&gt;Facebook&lt;/strong&gt;&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Por favor aceite os meus mais sinceros pedidos de desculpas pelo
-incoveniente&amp;hellip; depois escrevo mais sobre a migração para o Tumblr!&lt;/p&gt;</description></item><item><title>Sorry for the noise...</title><link>http://localhost:1313/posts/sorry-for-the-noise/</link><pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/sorry-for-the-noise/</guid><description>&lt;p&gt;&lt;img src="http://farm8.staticflickr.com/7035/6434625263_9937f1ae1f_d.jpg" alt="Sorry"&gt;I&amp;rsquo;ve
+incoveniente&amp;hellip; depois escrevo mais sobre a migração para o Tumblr!&lt;/p&gt;</description></item><item><title>Sorry for the noise...</title><link>https://omaciel.github.io/posts/sorry-for-the-noise/</link><pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/sorry-for-the-noise/</guid><description>&lt;p&gt;&lt;img src="http://farm8.staticflickr.com/7035/6434625263_9937f1ae1f_d.jpg" alt="Sorry"&gt;I&amp;rsquo;ve
 just recently started migrating my blog to
 &lt;a href="http://ogmaciel.tumblr.com"&gt;Tumblr&lt;/a&gt;, and in the process of importing my
 archives from &lt;strong&gt;WordPress&lt;/strong&gt; I seem to have caused some issues with
@@ -32,7 +32,7 @@ certain aggregators that are now &lt;strong&gt;picking up posts from 2007&lt;/st
 Yesterday I also triggered a massive torrent on both &lt;strong&gt;Twitter&lt;/strong&gt; and
 &lt;strong&gt;Facebook&lt;/strong&gt;&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Please accept my apologies for the incovenience&amp;hellip; more on the Tumblr
-migration to follow!&lt;/p&gt;</description></item><item><title>Moving WordPress Blog to Amazon's EC2</title><link>http://localhost:1313/posts/moving-wordpress-blog-to-amazons-ec2/</link><pubDate>Wed, 16 Feb 2011 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/moving-wordpress-blog-to-amazons-ec2/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2011/02/704056791_63f1e492d8.jpg" alt="King Cloud"&gt;&lt;/p&gt;
+migration to follow!&lt;/p&gt;</description></item><item><title>Moving WordPress Blog to Amazon's EC2</title><link>https://omaciel.github.io/posts/moving-wordpress-blog-to-amazons-ec2/</link><pubDate>Wed, 16 Feb 2011 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/moving-wordpress-blog-to-amazons-ec2/</guid><description>&lt;p&gt;&lt;img src="http://www.ogmaciel.com/wp-content/uploads/2011/02/704056791_63f1e492d8.jpg" alt="King Cloud"&gt;&lt;/p&gt;
 &lt;p&gt;You probably remember &lt;a href="http://www.ogmaciel.com/?p=1303"&gt;reading&lt;/a&gt; about
 my issues with running my &lt;strong&gt;WordPress&lt;/strong&gt;-based blog on &lt;strong&gt;Dreamhost&lt;/strong&gt;'s
 environment, and how frustrated I was with the experience of using their
@@ -42,7 +42,7 @@ off most of the plugins and cried myself to sleep.&lt;/p&gt;
 &lt;p&gt;The very next day, after reading (and replying to) the comments I
 received, one in particular caught my eye: &lt;strong&gt;Amazon&amp;rsquo;s Free Usage Tier&lt;/strong&gt;
 offering new customers the following &lt;strong&gt;EC2&lt;/strong&gt; services each month for one
-year:&lt;/p&gt;</description></item><item><title>I screwed up!</title><link>http://localhost:1313/posts/hello-world-2/</link><pubDate>Wed, 16 Feb 2005 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/hello-world-2/</guid><description>&lt;p&gt;I officially screwed up my site!!! I completely fucked it up!!! It turns
+year:&lt;/p&gt;</description></item><item><title>I screwed up!</title><link>https://omaciel.github.io/posts/hello-world-2/</link><pubDate>Wed, 16 Feb 2005 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/hello-world-2/</guid><description>&lt;p&gt;I officially screwed up my site!!! I completely fucked it up!!! It turns
 out the instructions on how to upgrade
 &lt;a href="http://www.wordpress.org"&gt;WordPress&lt;/a&gt; to version 1.5 are incorrect and I
 ended up deleting ALL of my posts! Hopefully I can get a copy of the
