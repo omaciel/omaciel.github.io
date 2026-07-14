@@ -8,6 +8,7 @@ no repositorio oficial, voces poderao usufruir do Br-Office tambem.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://static.flickr.com/92/268734323_fc5248714f_b.jpg"&gt;&lt;img src="http://static.flickr.com/92/268734323_fc5248714f.jpg" alt="image0"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Para instala-lo:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;sudo conary update broffice.org&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;sudo conary update broffice.org&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Caso voce ainda tenha a versao oficial do OpenOffice instalado, nao se
 esqueca de remove-lo:&lt;/p&gt;</description></item></channel></rss>

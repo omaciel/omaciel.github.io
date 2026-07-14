@@ -1426,7 +1426,8 @@ Twitter, e entre um comentário e outro, eis que vejo o nosso amigo
 &lt;a href="http://twitter.com/licio"&gt;Lício&lt;/a&gt; falar:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;indo para a cirurgia, agora nem o darth vader me atrapalhará &lt;a href="http://twitter.com/licio/statuses/795968107"&gt;about 22
-hours ago&lt;/a&gt; from web&lt;/p&gt;&lt;/blockquote&gt;
+hours ago&lt;/a&gt; from web&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Achei isso meio estranho e fiquei indagando o que poderia ter acontecido
 no FISL para que o Lício tivesse que fazer uma cirurgia? Mas continuei
 trabalhando e logo depois&amp;hellip;&lt;/p&gt;</description></item><item><title>Janela Indiscreta</title><link>https://omaciel.github.io/posts/janela-indiscreta/</link><pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/janela-indiscreta/</guid><description>&lt;p&gt;Quando iniciei o &lt;a href="http://planeta.gnulinuxbrasil.org/"&gt;Planeta GNU/Linux
@@ -2035,7 +2036,8 @@ lightning talk has been accepted for the Lightning Talk session at
 GUADEC 2006, in Birmingham UK. Â If you have not already registered
 for GUADEC, you should register now at
 &lt;a href="http://guadec.org/registration"&gt;http://guadec.org/registration&lt;/a&gt;. We look forward to seeing you at
-GUADEC! Ross Burton GUADEC Papers Committee&lt;/p&gt;&lt;/blockquote&gt;
+GUADEC! Ross Burton GUADEC Papers Committee&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Alguns amigos tinham me apoiado em enviar minha
 &lt;a href="http://guadec.org/node/601"&gt;palestra&lt;/a&gt; e eu estava realmente motivado
 para finalmente conhecÃª-los pessoalmente. Mas fazer o que?Â  O anÃºncio
@@ -2048,7 +2050,8 @@ Linux pela primeira vez&amp;hellip; e a grande maioria destas pessoas, ainda
 experimentam o potencial do software livre, me falam:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;quot;Og, eu gostaria muito de poder retribuir com esta comunidade, mas
-nÃ£o sei programar!&amp;quot;&lt;/p&gt;&lt;/blockquote&gt;
+nÃ£o sei programar!&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Bem, seus problemas estÃ£o solucionados entÃ£o! A maioria das pessoas
 que me conhecem sabem que apesar de trabalhar como programador, minha
 maior participaÃ§Ã£o/contribuiÃ§Ã£o com a comunidade de software livre
@@ -2366,7 +2369,8 @@ experiÃªncia de seus iniciais fundadores
 (&lt;a href="http://blog.ogmaciel.com"&gt;OgMaciel&lt;/a&gt;e
 &lt;a href="http://kurtkraut.wordpress.com"&gt;KurtKraut&lt;/a&gt;) em outros podcasts sobre
 tecnologia e a necessidade de trazer um novo formato de podcast sobre
-esses assuntos.&lt;/p&gt;&lt;/blockquote&gt;
+esses assuntos.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Qual a diferenÃ§a do Foocast para os demais podcasts da Ã¡rea ?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Brincando com o Gcompris</title><link>https://omaciel.github.io/posts/brincando-com-o-gcompris/</link><pubDate>Wed, 18 Apr 2007 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/brincando-com-o-gcompris/</guid><description>&lt;p&gt;Ontem a noite eu tirei um pouco do meu tempo para empacotar o Gcompris
 8.3 BETA 3-2, e rodÃ¡-lo em casa. Empacotando foi um pouco trabalhoso
 devido a alguns bugs que eu encontrei, mas por sorte encontrei o
@@ -2500,7 +2504,8 @@ seguinte mensagem no console:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;/usr/lib/vmware/bin/vmware: /usr/lib/libstdc++.so.6: version
 `CXXABI_1.3.1&amp;rsquo; not found (required by
-/usr/lib/vmware/lib/libvmwareui.so.0/libvmwareui.so.0)&lt;/p&gt;&lt;/blockquote&gt;
+/usr/lib/vmware/lib/libvmwareui.so.0/libvmwareui.so.0)&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Como eu tambÃ©m tinha visto uma mensagem durante o processo de
 instalaÃ§Ã£o reclamando sobre o Gtk 2.4 (mais velho que Matuzalem), fui
 trocar umas idÃ©ias com o pessoal aqui&amp;hellip; e foi aÃ­ que descobri que
@@ -2814,7 +2819,8 @@ subsituÃ­do pelo vim-common, que nÃ£o possui (atÃ© onde pude comprovar)
 todos os recursos do vim &amp;ldquo;normal&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;EntÃ£o, para reparar este grave erro:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;sudo aptitude install vim&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;sudo aptitude install vim&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Agora, para testar a colorizaÃ§Ã£o de sintaxe automÃ¡tica, por exemplo,
 digite no vim:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -2894,7 +2900,8 @@ Brasil&lt;/a&gt; deveria ser renomeado para
 &lt;strong&gt;â€œPlaneta Ubuntu Portugalâ€?&lt;/strong&gt;. NÃ£o vejo sentido na relaÃ§Ã£o
 tÃ­tulo x conteÃºdo. A maioria dos blogueiros lÃ¡ Ã© portuguÃªs e usa
 Ubuntu, e da pequena parcela que sobra de brasileiros, a maioria
-tambÃ©m usa a dita distro.&amp;quot;&lt;/p&gt;&lt;/blockquote&gt;
+tambÃ©m usa a dita distro.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Hehehe&amp;hellip;Â  Como que pode uma coisa dessas?Â  Reclamar dos artigos e
 material publicados, nao porque o conteudo e&amp;rsquo; ruim ou irrelevante, mas
 porque uma grande parte e&amp;rsquo; proveniente de blogueiros portugueses???Â 
@@ -3026,7 +3033,8 @@ arquivo e cole o seguinte codigo:&lt;/p&gt;
 &lt;p&gt;#!/bin/bash string=&amp;quot;^_:&amp;quot; if [ &amp;ldquo;$1&amp;rdquo; != &amp;quot;&amp;quot; ] ; then string=$1 fi
 for i in /usr/share/locale-langpack/pt_BR/LC_MESSAGES/*.mo do if
 msgunfmt $i 2&amp;gt; /dev/null | msggrep -T -e &amp;ldquo;$string&amp;rdquo; 2&amp;gt;/dev/null |
-grep &amp;ldquo;.&amp;rdquo; ; then echo $i echo fi done&lt;/p&gt;&lt;/blockquote&gt;
+grep &amp;ldquo;.&amp;rdquo; ; then echo $i echo fi done&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;E&amp;rsquo; importante checar se o caminho &lt;strong&gt;/usr/share/locale-langpack/&lt;/strong&gt; existe
 em sua distribuicao. Como no trabalho uso o &lt;a href="http://www.foresightlinux.com/"&gt;Foresight
 Linux&lt;/a&gt;, o caminho e&amp;rsquo; na verdade
@@ -3084,12 +3092,14 @@ sources.list e esperar as atualizacoes semanais.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;deb
 &lt;a href="http://people.ubuntu.com/%7Epitti/langpacks/daily/edgy"&gt;http://people.ubuntu.com/~pitti/langpacks/daily/edgy&lt;/a&gt;
-./&lt;/p&gt;&lt;/blockquote&gt;
+./&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Ubuntu Dapper:&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;deb
 &lt;a href="http://people.ubuntu.com/%7Epitti/langpacks/daily/dapper-updates"&gt;http://people.ubuntu.com/~pitti/langpacks/daily/dapper-updates&lt;/a&gt;
-./&lt;/p&gt;&lt;/blockquote&gt;
+./&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;O legal disso e&amp;rsquo; para as pessoas que ajudam com as traducoes pelo
 Rosetta, que poderao ver suas sugestoes (se aprovadas a tempo) ja'
 efetuadas nos pacotes. :)&lt;/p&gt;</description></item><item><title>Ubuntu Wallpaper</title><link>https://omaciel.github.io/posts/ubuntu-wallpaper/</link><pubDate>Wed, 20 Sep 2006 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/ubuntu-wallpaper/</guid><description>&lt;p&gt;Algumas pessoas me pediram para disponibilizar o wallpaper do meu
@@ -3240,7 +3250,8 @@ bomba de plutÃƒÂ´nio sobre a cidade de Nagasaki, no JapÃƒÂ£o.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;quot;O engenho de 2.34 metros de comprimento, e 1.52 metros de
 diÃƒÂ¢metro, de 4545 kg foi detonado a uma altitude de cerca de 550
-metros sob a cidade&amp;quot; [&lt;a href="http://pt.wikipedia.org/wiki/Fat_Man"&gt;1&lt;/a&gt;]&lt;/p&gt;&lt;/blockquote&gt;
+metros sob a cidade&amp;quot; [&lt;a href="http://pt.wikipedia.org/wiki/Fat_Man"&gt;1&lt;/a&gt;]&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Com uma potÃƒÂªncia de mais de 25 kilotons, esta bomba foi
 responsÃƒÂ¡vel pela morte de mais de 40,000 pessoas, incluindo
 crianÃƒÂ§as, mulheres, e idosos!&lt;/p&gt;</description></item><item><title>Ubuntu Dapper Drake Live CD Personalizado 1,2,3</title><link>https://omaciel.github.io/posts/ubuntu-dapper-drake-live-cd-personalizado-123/</link><pubDate>Wed, 09 Aug 2006 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/ubuntu-dapper-drake-live-cd-personalizado-123/</guid><description>&lt;p&gt;O artigo de hoje foi inspirado no artigo de meu amigo &lt;a href="http://alexrocha.wordpress.com/"&gt;Alex
@@ -3380,7 +3391,8 @@ todos os dias. ;)&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;require &amp;rsquo;net/https&amp;rsquo; host = &amp;ldquo;&lt;a href="https://www.launchpad.net"&gt;www.launchpad.net&lt;/a&gt;&amp;rdquo; port = 443 proxy = nil
 proxyport = nil h = Net::HTTP.new(host, port, proxy, proxyport)
-h.use_ssl = true response, data = h.get(&amp;quot;/&amp;quot;, nill)&lt;/p&gt;&lt;/blockquote&gt;
+h.use_ssl = true response, data = h.get(&amp;quot;/&amp;quot;, nill)&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Quando executo este pequeno script (aqui usando o irb), recebo a
 seguinte mensagem de erro:&lt;/p&gt;</description></item><item><title>Classe de Aula do Ubuntu Online</title><link>https://omaciel.github.io/posts/classe-de-aula-do-ubuntu-online/</link><pubDate>Fri, 14 Jul 2006 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/classe-de-aula-do-ubuntu-online/</guid><description>&lt;p&gt;Foi anunciado pelo pessoal do &lt;a href="https://wiki.ubuntu.com/NewUserNetwork"&gt;New User
 Network&lt;/a&gt; a criaÃƒÂ§ÃƒÂ£o do
@@ -3685,7 +3697,8 @@ final.&lt;/p&gt;</description></item><item><title>VMWare Player</title><link>htt
 &lt;p&gt;Certifique-se que o repositÃƒÂ³rio &lt;em&gt;Multiverse&lt;/em&gt; estÃƒÂ¡ habilitado,
 e&amp;hellip;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;code&gt;sudo apt-get install vmware-player&lt;/code&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;sudo apt-get install vmware-player&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;code&gt;Divirtam-se!&lt;/code&gt;&lt;/p&gt;</description></item><item><title>Futebol de UbuntÃƒÂ£o</title><link>https://omaciel.github.io/posts/futebol-de-ubuntao/</link><pubDate>Wed, 31 May 2006 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/futebol-de-ubuntao/</guid><description>&lt;p&gt;Finalmente! Depois de muitos meses de trabalho duro nas traduÃƒÂ§ÃƒÂµes
@@ -3815,7 +3828,8 @@ Ainda hÃƒÂ¡ tempo para terminarmons o guai do servidor e do
 empacotador!!! ApareÃƒÂ§a no canal #ubuntu-br-tradutores e digitem o
 seguinte comando:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;@diga [seu nick] Iniciando&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;@diga [seu nick] Iniciando&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;e o Brazuca vai te indicar o que fazer&amp;hellip;&lt;/p&gt;</description></item><item><title>De grÃƒÂ£o em grÃƒÂ£o\...</title><link>https://omaciel.github.io/posts/de-grao-em-grao/</link><pubDate>Wed, 03 May 2006 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/de-grao-em-grao/</guid><description>&lt;p&gt;&amp;hellip; o Ubuntu fica cheio de brasileiros! ParabÃƒÂ©ns ao &lt;a href="http://surak.wordpress.com/"&gt;Alexandre Otto
 Strube&lt;/a&gt; ou Surak como ÃƒÂ© conhecido no
 IRC, por ter sido eleito como membro oficial do &lt;strong&gt;Ubuntu Team&lt;/strong&gt;!

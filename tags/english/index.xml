@@ -44,7 +44,8 @@ year"&gt;&lt;/p&gt;
 &lt;p&gt;Congratulations on your one-year anniversary with Red Hat! Thank you
 for your commitment and work over the past year. We hope that it has
 been everything you expected it to be and look forward to celebrating
-your future success with the company.&lt;/p&gt;&lt;/blockquote&gt;
+your future success with the company.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Time sure flies when you&amp;rsquo;re having too much fun! I can&amp;rsquo;t believe it&amp;rsquo;s
 been one whole year since I joined &lt;a href="http://www.redhat.com/"&gt;Red Hat&lt;/a&gt; as
 a &lt;strong&gt;Senior QA Engineer&lt;/strong&gt; to work on their
@@ -62,7 +63,8 @@ out that, once you&amp;rsquo;ve edited the root partition while in the launch
 panel, you can then perform the resize command right away, as soon as
 the instance is up and running and you have ssh&amp;rsquo;ed to it.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;[&lt;a href="mailto:root@ip-aa-bb-cc-dd"&gt;root@ip-aa-bb-cc-dd&lt;/a&gt; ~]# resize2fs /dev/xvde1&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;[&lt;a href="mailto:root@ip-aa-bb-cc-dd"&gt;root@ip-aa-bb-cc-dd&lt;/a&gt; ~]# resize2fs /dev/xvde1&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;This is definitely better than what I thought one had to do to get a
 bigger root partition.&lt;/p&gt;</description></item><item><title>Extending the default EC2 root partition for an instance</title><link>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-for-an/</link><pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/extending-the-default-ec2-root-partition-for-an/</guid><description>&lt;p&gt;&lt;img src="https://lh4.googleusercontent.com/-_FwLIhjJu1s/ULaGxX9ch7I/AAAAAAACppg/KR_KZG-hLfM/s400/Screenshot%2520from%25202012-11-28%252015%253A15%253A38.png" alt="EC2
 wizard"&gt;&lt;/p&gt;
@@ -86,13 +88,15 @@ news with immediate family and close friends and planning to tell
 everyone else after we had our first ultrasound.&lt;/p&gt;</description></item><item><title>Error: uninitialized constant Heroku::API (NameError)</title><link>https://omaciel.github.io/posts/error-uninitialized-constant-heroku-api/</link><pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/error-uninitialized-constant-heroku-api/</guid><description>&lt;p&gt;Got stuck with this error on &lt;strong&gt;Fedora 17&lt;/strong&gt; while trying to get a project
 onto &lt;strong&gt;Heroku&lt;/strong&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Error: uninitialized constant Heroku::API (NameError)&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Error: uninitialized constant Heroku::API (NameError)&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;After some quick back and forth with the Heroku guys I finally got it
 fixed:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;$  rvm uninstall 1.9.3  $  rvm reset $  sudo yum reinstall openssl
 openssl-devel $  rvm install 1.9.3  $  rvm use 1.9.3 &amp;mdash;default $
- heroku login&lt;/p&gt;&lt;/blockquote&gt;
+ heroku login&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Hope this helps someone else :)&lt;/p&gt;</description></item><item><title>Pylyglot: Open Source Translation Search</title><link>https://omaciel.github.io/posts/pylyglot-open-source-translation-search/</link><pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/pylyglot-open-source-translation-search/</guid><description>&lt;p&gt;It&amp;rsquo;s been a while since I wrote about
 &lt;a href="http://www.pylyglot.org"&gt;Pylyglot&lt;/a&gt;, my translation searching tool that
 I use whenever I translate open source applications. Have not heard
@@ -349,7 +353,8 @@ Foundation IRC Meeting&lt;/strong&gt;!&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: Wednesday, June 15th, from 14:00 to 15:00 UTC (&lt;a href="//timeanddate.com/worldclock/fixedtime.html?day=15&amp;amp;month=6&amp;amp;year=2011&amp;amp;hour=14&amp;amp;min=0&amp;amp;sec=0&amp;amp;p1=0"&gt;your local
 time&lt;/a&gt;)
-&lt;strong&gt;Where&lt;/strong&gt;: irc.gnome.org, #foundation&lt;/p&gt;&lt;/blockquote&gt;
+&lt;strong&gt;Where&lt;/strong&gt;: irc.gnome.org, #foundation&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Foundation IRC meetings are just that, meetings held on #foundation in
 irc.gimp.org to discuss current matters related to the GNOME Foundation.
 Any GNOME Foundation member or non member are welcome. As long as
@@ -421,7 +426,8 @@ here are a couple of things you may want to do:&lt;/p&gt;
 schedule, we already have updates for you, including and newer
 &lt;strong&gt;MPlayer&lt;/strong&gt; with support for &lt;strong&gt;Blue-Ray&lt;/strong&gt;! &lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Run &lt;em&gt;sudo conary updateall&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Run &lt;em&gt;sudo conary updateall&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Install Chromium web browser&lt;/strong&gt;: Try this pretty cool web browser
@@ -1020,7 +1026,8 @@ email:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Congratulations, your submission &lt;strong&gt;Making easier for companies to give
 back to GNOME&lt;/strong&gt; has been accepted for presentation at GUADEC which is
-being held from 2010-07-26 to 2010-07-30 at Den Haag.&lt;/p&gt;&lt;/blockquote&gt;
+being held from 2010-07-26 to 2010-07-30 at Den Haag.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;I was ecstatic!!! Having had the opportunity to attend &lt;strong&gt;GUADEC 2009&lt;/strong&gt;
 at &lt;strong&gt;Las Palmas&lt;/strong&gt;, &lt;strong&gt;Gran Canary&lt;/strong&gt; last year,Â  I was thrilled with the
 possibility of attending my second one and presenting my ideas on how to
@@ -2279,7 +2286,8 @@ Seems that most people who wanted to do the same ended up running
 gconftool-2 directly as such:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;GCONF_CONFIG_SOURCE=`gconftool-2 &amp;mdash;get-default-source` gconftool-2
-&amp;mdash;makefile-install-rule /etc/gconf/schemas/*.schemas&lt;/p&gt;&lt;/blockquote&gt;
+&amp;mdash;makefile-install-rule /etc/gconf/schemas/*.schemas&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Has anyone got any advice (patches wouldÂ  be awesome) to go with my
 &lt;a href="http://code.google.com/p/billreminder/source/browse/trunk/setup.py"&gt;code&lt;/a&gt;?&lt;/p&gt;</description></item><item><title>And now\... tabs\... on tabs!!!</title><link>https://omaciel.github.io/posts/and-now-tabs-on-tabs/</link><pubDate>Sat, 12 Jul 2008 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/and-now-tabs-on-tabs/</guid><description>&lt;p&gt;&lt;a href="http://www.flickr.com/photos/ogmaciel/2661157451/"&gt;&lt;img src="http://farm4.static.flickr.com/3271/2661157451_c52eefcb27_o.png" alt="What now? Tabs on
 tabs?"&gt;&lt;/a&gt;&lt;/p&gt;
@@ -3299,7 +3307,8 @@ lightning talk has been accepted for the Lightning Talk session at
 GUADEC 2006, in Birmingham UK. Ã‚Â If you have not already registered
 for GUADEC, you should register now at
 &lt;a href="http://guadec.org/registration"&gt;http://guadec.org/registration&lt;/a&gt;. We look forward to seeing you at
-GUADEC! Ross Burton GUADEC Papers Committee&lt;/p&gt;&lt;/blockquote&gt;
+GUADEC! Ross Burton GUADEC Papers Committee&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;A couple of friends had motivated me to submit my
 &lt;a href="http://guadec.org/node/601"&gt;talk&lt;/a&gt; and I was so looking forward to
 finally meet them face to face.Ã‚Â  But alas, the announcement came a
@@ -4055,7 +4064,8 @@ can hardly think straight&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Download the game from your favorite gaming site orÃ¢â‚¬Â¦&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;wget -c
-&lt;a href="http://ftp.games.skynet.be/pub/wolfenstein/et-linux-2.60.x86.run"&gt;http://ftp.games.skynet.be/pub/wolfenstein/et-linux-2.60.x86.run&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;a href="http://ftp.games.skynet.be/pub/wolfenstein/et-linux-2.60.x86.run"&gt;http://ftp.games.skynet.be/pub/wolfenstein/et-linux-2.60.x86.run&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Apply any patch you can find in the same site orÃ¢â‚¬Â¦&lt;/p&gt;</description></item><item><title>Paterfamilias</title><link>https://omaciel.github.io/posts/paterfamilias/</link><pubDate>Thu, 15 Jun 2006 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/paterfamilias/</guid><description>&lt;p&gt;This is very off topic but I couldn&amp;rsquo;t resit.Ã‚Â  My wife and I have been
@@ -4739,7 +4749,8 @@ happens dynamicaly as you type!  Though a bit too literal, I find it to
 be of great help.&lt;/p&gt;</description></item><item><title>Glade XML Build_interface: assertion failed</title><link>https://omaciel.github.io/posts/glade-xml-build-interface-assertion-wid-null-failed/</link><pubDate>Wed, 04 Jan 2006 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/glade-xml-build-interface-assertion-wid-null-failed/</guid><description>&lt;p&gt;Spent a good 2 nights trying to figure out what the following error
 meant:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;glade_xml_build_interface: assertion `wid != NULL&amp;rsquo; failed&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;glade_xml_build_interface: assertion `wid != NULL&amp;rsquo; failed&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;The error was genetated when I tried to compile a small C#Ã‚Â  program
 I wrote using Glade for the UI.Ã‚Â  As a good netizen, I googled for the
 meaning of this but just couldn&amp;rsquo;t get usefull info&amp;hellip;Ã‚Â  until now!Ã‚Â 
@@ -5186,7 +5197,8 @@ structured rather than linear programming language. KPL lets kids see
 eye-catching and immediate results from their programs, while teaching
 them fundamental concepts like variables, data types, loops, decision
 structures, methods and functions. KPL&amp;rsquo;s data types include integers,
-decimals, strings, booleans, arrays, and user-defined structures.&lt;/p&gt;&lt;/blockquote&gt;
+decimals, strings, booleans, arrays, and user-defined structures.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Visual Studio users will feel right at home with KPL&amp;rsquo;s IDE as it will,
 as the web page smartly states, &amp;ldquo;graduate&amp;rdquo; young coders to the more
 professional interfaces. One thing that it did catch my eye was its C#
@@ -5501,7 +5513,8 @@ from me all these days! Welcome back dude!&lt;/p&gt;</description></item><item><
 install engine that allows for a diverse set of attended and
 un-attended install options. All functionality will exist in the
 backend, exposed through a stable API. Planned front ends include
-text, gtk2, fully automated, and web-based interfaces.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+text, gtk2, fully automated, and web-based interfaces.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;img src="http://photos21.flickr.com/32284343_61e75b3ee6_o.png" alt="Gentoo GUI
 Installer"&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m a somewhat &amp;ldquo;seasoned&amp;rdquo; &lt;a href="http://www.gentoo.org/"&gt;Gentoo&lt;/a&gt; Linux user
@@ -5622,7 +5635,8 @@ comparing the 3 most used web search engines to world countries:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Microsoft is Germany&lt;/strong&gt;. They did some pretty evil things a while
 back but you don&amp;rsquo;t remember the details, you just know that you really
-hate them&amp;hellip;&lt;/p&gt;&lt;/blockquote&gt;
+hate them&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;[snip]&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Yahoo is Japan&lt;/strong&gt;. It had an economic crisis that almost destroyed it
@@ -5803,7 +5817,8 @@ Reminded me of my college years!&lt;/p&gt;</description></item><item><title>It W
 communication skills are still lacking. You start well, but often zone
 out. &lt;a href="http://bbspot.com/News/2003/01/os_quiz.php"&gt;Which OS are You&lt;/a&gt;?&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Someone will pay for this! =)&lt;/p&gt;&lt;/blockquote&gt;</description></item><item><title>Nothing Fanny About Ubuntu</title><link>https://omaciel.github.io/posts/nothing-fanny-about-ubuntu/</link><pubDate>Thu, 09 Jun 2005 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/nothing-fanny-about-ubuntu/</guid><description>&lt;p&gt;&lt;a href="http://www.gnome.org/~jdub/blog/projects/ubuntu/1118337956"&gt;Parody&lt;/a&gt; to
+&lt;p&gt;Someone will pay for this! =)&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Nothing Fanny About Ubuntu</title><link>https://omaciel.github.io/posts/nothing-fanny-about-ubuntu/</link><pubDate>Thu, 09 Jun 2005 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/nothing-fanny-about-ubuntu/</guid><description>&lt;p&gt;&lt;a href="http://www.gnome.org/~jdub/blog/projects/ubuntu/1118337956"&gt;Parody&lt;/a&gt; to
 the &lt;a href="http://www.ubuntulinux.org"&gt;Ubuntu Linux&lt;/a&gt; logo. &lt;strong&gt;Not safe for the
 office viewing&lt;/strong&gt;!&lt;/p&gt;</description></item><item><title>An Older But Sexier Fart!</title><link>https://omaciel.github.io/posts/an-older-but-sexier-fart/</link><pubDate>Wed, 08 Jun 2005 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/an-older-but-sexier-fart/</guid><description>&lt;p&gt;So it is that time of the year again&amp;hellip; The day when you take the time
 to ponder about your life, your past decisions&amp;hellip; where you&amp;rsquo;re headed&amp;hellip;
@@ -5834,7 +5849,8 @@ nugget:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&amp;quot;Cuba will gradually switch to the open-source Linux operating
 system for its state computers, eliminating its exclusive use of
-Microsoft Windows, the government daily Juventud Rebelde reported&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+Microsoft Windows, the government daily Juventud Rebelde reported&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;If they succeed with this migration Cuba will become (I believe) the
 first nation to completely go Open Source! Maybe Brazil will be next???&lt;/p&gt;</description></item><item><title>Good Debian Server Setup HOWTO</title><link>https://omaciel.github.io/posts/good-debian-server-setup-howto/</link><pubDate>Fri, 03 Jun 2005 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/good-debian-server-setup-howto/</guid><description>&lt;p&gt;Earlier this year &lt;a href="http://www.osnews.com"&gt;OSNews&lt;/a&gt; published my
 &lt;a href="http://www.ogmaciel.com/?page_id=101"&gt;article&lt;/a&gt; titled &lt;em&gt;&amp;quot;Installing
@@ -5851,7 +5867,8 @@ site&lt;/a&gt; which has only strengthened my
 &amp;ldquo;thesis.&amp;rdquo;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&amp;quot;is an ongoing community art project where people mail-in their
-secrets anonymously on one side of a homemade postcard.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+secrets anonymously on one side of a homemade postcard.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Some of these so called postcards are the scariest things I&amp;rsquo;ve seen
 online in quite some time&amp;hellip; Rather disturbing&amp;hellip;&lt;/p&gt;</description></item><item><title>Cyber Archeologists Will Google Dig</title><link>https://omaciel.github.io/posts/cyber-archeologists-will-google-dig/</link><pubDate>Thu, 02 Jun 2005 00:00:00 +0000</pubDate><guid>https://omaciel.github.io/posts/cyber-archeologists-will-google-dig/</guid><description>&lt;p&gt;Having read
 &lt;a href="http://usefulinc.com/edd/blog/contents/2005/06/02-search/read"&gt;this&lt;/a&gt;
@@ -6578,7 +6595,8 @@ Thunderbird&lt;/a&gt;&lt;/li&gt;
 &lt;p&gt;&lt;a href="http://www.flickr.com/photos/25563799@N00/6535141/"&gt;musikcube&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Originally uploaded by
-&lt;a href="http://www.flickr.com/people/25563799@N00/"&gt;omaciel&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;a href="http://www.flickr.com/people/25563799@N00/"&gt;omaciel&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;After reading about &lt;a href="http://www.musikcube.com/"&gt;Musik Cube&lt;/a&gt; on two
 different places today I decided to give it a try. I downloaded it at
 work from one of the many mirrors and installed it in less than 1
@@ -6593,7 +6611,8 @@ well deserved rest!&lt;/p&gt;</description></item><item><title>My New Toy</title
 &lt;p&gt;&lt;a href="http://www.flickr.com/photos/25563799@N00/6436457/"&gt;My New Toy&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Originally uploaded by
-&lt;a href="http://www.flickr.com/people/25563799@N00/"&gt;omaciel&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;a href="http://www.flickr.com/people/25563799@N00/"&gt;omaciel&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;After breaking (I&amp;rsquo;m still clueless as for what really happened&amp;hellip; Maybe
 I zapped it by wearing my fleece sweater) my SanDisk 1GB jump drive
 within 20 minutes of use last Wednesday, I finally drove back to CompUSA

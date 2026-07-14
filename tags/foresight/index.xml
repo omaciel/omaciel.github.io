@@ -25,7 +25,8 @@ here are a couple of things you may want to do:&lt;/p&gt;
 schedule, we already have updates for you, including and newer
 &lt;strong&gt;MPlayer&lt;/strong&gt; with support for &lt;strong&gt;Blue-Ray&lt;/strong&gt;! &lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Run &lt;em&gt;sudo conary updateall&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Run &lt;em&gt;sudo conary updateall&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Install Chromium web browser&lt;/strong&gt;: Try this pretty cool web browser
